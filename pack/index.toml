@@ -45,6 +45,10 @@ file = "mods/attributefix.pw.toml"
 metafile = true
 
 [[files]]
+file = "mods/auditory-continued.pw.toml"
+metafile = true
+
+[[files]]
 file = "mods/auth-me.pw.toml"
 metafile = true
 
@@ -101,6 +105,10 @@ file = "mods/bookshelf-lib.pw.toml"
 metafile = true
 
 [[files]]
+file = "mods/bundle-scroll.pw.toml"
+metafile = true
+
+[[files]]
 file = "mods/c2me-neoforge.pw.toml"
 metafile = true
 
@@ -149,7 +157,15 @@ file = "mods/colorful-hearts.pw.toml"
 metafile = true
 
 [[files]]
+file = "mods/colorful-subtitles.pw.toml"
+metafile = true
+
+[[files]]
 file = "mods/configuration.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/connector.pw.toml"
 metafile = true
 
 [[files]]
@@ -229,6 +245,10 @@ file = "mods/dungeon-delight.pw.toml"
 metafile = true
 
 [[files]]
+file = "mods/dyed-bundles.pw.toml"
+metafile = true
+
+[[files]]
 file = "mods/easy-anvils.pw.toml"
 metafile = true
 
@@ -258,6 +278,10 @@ metafile = true
 
 [[files]]
 file = "mods/entitytexturefeatures.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/euphonium.pw.toml"
 metafile = true
 
 [[files]]
@@ -293,6 +317,14 @@ file = "mods/farmers-delight.pw.toml"
 metafile = true
 
 [[files]]
+file = "mods/fast-minecart.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/faster-random.pw.toml"
+metafile = true
+
+[[files]]
 file = "mods/fastquit-forge.pw.toml"
 metafile = true
 
@@ -302,6 +334,10 @@ metafile = true
 
 [[files]]
 file = "mods/fishermens-trap.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/forgified-fabric-api.pw.toml"
 metafile = true
 
 [[files]]
@@ -322,6 +358,10 @@ metafile = true
 
 [[files]]
 file = "mods/iceberg.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/immersivethunder.pw.toml"
 metafile = true
 
 [[files]]
@@ -357,11 +397,19 @@ file = "mods/ksyxis.pw.toml"
 metafile = true
 
 [[files]]
+file = "mods/lambdynamiclights.pw.toml"
+metafile = true
+
+[[files]]
 file = "mods/larger-ore-veins-classic.pw.toml"
 metafile = true
 
 [[files]]
 file = "mods/legendary-tooltips.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/libjf.pw.toml"
 metafile = true
 
 [[files]]
@@ -473,7 +521,15 @@ file = "mods/ping-wheel.pw.toml"
 metafile = true
 
 [[files]]
+file = "mods/pling.pw.toml"
+metafile = true
+
+[[files]]
 file = "mods/plushables.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/presence-footsteps.pw.toml"
 metafile = true
 
 [[files]]
@@ -493,6 +549,10 @@ file = "mods/puzzles-lib.pw.toml"
 metafile = true
 
 [[files]]
+file = "mods/rabbit-pathfinding-fix.pw.toml"
+metafile = true
+
+[[files]]
 file = "mods/raised.pw.toml"
 metafile = true
 
@@ -505,11 +565,19 @@ file = "mods/rebind-narrator.pw.toml"
 metafile = true
 
 [[files]]
+file = "mods/reciperemover.pw.toml"
+metafile = true
+
+[[files]]
 file = "mods/reeses-sodium-options.pw.toml"
 metafile = true
 
 [[files]]
 file = "mods/remove-terralith-intro-message.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/rsls.pw.toml"
 metafile = true
 
 [[files]]
@@ -522,6 +590,10 @@ metafile = true
 
 [[files]]
 file = "mods/seamless.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/slyde.pw.toml"
 metafile = true
 
 [[files]]
@@ -618,6 +690,10 @@ metafile = true
 
 [[files]]
 file = "mods/voidfog.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/windchime-unofficial-continued.pw.toml"
 metafile = true
 
 [[files]]
