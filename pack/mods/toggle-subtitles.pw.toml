@@ -1,0 +1,13 @@
+name = "Toggle Subtitles"
+filename = "togglesubtitles-1.1.jar"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/W5e01tRj/versions/GSBy6Hq1/togglesubtitles-1.1.jar"
+hash-format = "sha512"
+hash = "3754ee35d5a03b299af52e4b2fea81408054268698760c6183851f0e696f033510ab1290d9f722f45702c2e59b54322986f9b152171c23661ae5687a2a47489e"
+
+[update]
+[update.modrinth]
+mod-id = "W5e01tRj"
+version = "GSBy6Hq1"

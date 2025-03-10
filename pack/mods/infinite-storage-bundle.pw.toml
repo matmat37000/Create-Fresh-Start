@@ -1,0 +1,13 @@
+name = "Infinite Storage Bundle"
+filename = "InfiniteStorageBundle-v10.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/RrkwO55O/versions/dqcoX6Eu/InfiniteStorageBundle-v10.jar"
+hash-format = "sha512"
+hash = "fd1a924cad5b4a364f482d5c1eb2c204e9ddab64ae23aec39a92f46f6b3750b598cbf4cc2a5f1c039404ecd78124466c52d202725dfc744b5c1ae5abeb3ff64d"
+
+[update]
+[update.modrinth]
+mod-id = "RrkwO55O"
+version = "dqcoX6Eu"

@@ -1,0 +1,13 @@
+name = "L-man's Apples Plus"
+filename = "lmans_apples_plus-1.0.0-neoforge-1.21.1.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/CibOZRLn/versions/xZtmCnep/lmans_apples_plus-1.0.0-neoforge-1.21.1.jar"
+hash-format = "sha512"
+hash = "4e63259eca0e016f76b32c76821f65ebc8d8ba2f09487b14f1b059ac328ad96d37d9e7bf7968c015a613600e6747c838352176cac16c276264c4731bb351a25b"
+
+[update]
+[update.modrinth]
+mod-id = "CibOZRLn"
+version = "xZtmCnep"

@@ -1,0 +1,13 @@
+name = "Dungeon Delight"
+filename = "dungeondelight-1.0.2.3-1.21.x.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/KgVofhTQ/versions/tzW3IoY7/dungeondelight-1.0.2.3-1.21.x.jar"
+hash-format = "sha512"
+hash = "ee8b96b063ca7b2b0cde7da9eb6a6d7814aa06fe6b03580f9e6dcbf504b29f9b10a079379f344e97f6286e24edf5578f4c5312c327bdf05678f768ed1bb7b46d"
+
+[update]
+[update.modrinth]
+mod-id = "KgVofhTQ"
+version = "tzW3IoY7"

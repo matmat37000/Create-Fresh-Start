@@ -1,0 +1,13 @@
+name = "Plushables"
+filename = "plushables-neoforge-2.0.3+1.21.1.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/bpUgmHBo/versions/Wzdg3yHD/plushables-neoforge-2.0.3%2B1.21.1.jar"
+hash-format = "sha512"
+hash = "225477023f55bb81573e5c51e91ca265470468b97c1151824f7a0f48f8c5c5820b2dfbfeadb906f9a76ef3108fdc203c70d89e280b435d0bbdfe81457551b53f"
+
+[update]
+[update.modrinth]
+mod-id = "bpUgmHBo"
+version = "Wzdg3yHD"

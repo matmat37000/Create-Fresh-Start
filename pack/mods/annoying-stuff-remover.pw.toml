@@ -1,0 +1,13 @@
+name = "Annoying Stuff Remover"
+filename = "AnnoyingStuffRemover-2.1.0.jar"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/6BuhSIkm/versions/cHzX6tnt/AnnoyingStuffRemover-2.1.0.jar"
+hash-format = "sha512"
+hash = "390d36cf120972b4806c1f40a56105d8971da7852ac4748622bb449cd3e7f9548ad7db9945d700bf253db8d9aa38104a44137eb82172c4c0ba7e273b2298e41c"
+
+[update]
+[update.modrinth]
+mod-id = "6BuhSIkm"
+version = "cHzX6tnt"

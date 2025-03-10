@@ -1,0 +1,13 @@
+name = "Mica"
+filename = "mica-1.0.2.jar"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/ku1JKosh/versions/ZdZAjooP/mica-1.0.2.jar"
+hash-format = "sha512"
+hash = "2966ea7aee138231313cc8607567b4ee0a76cefdf180c899c223715b5b0e030c1ab9b4fbf128cf1a5dcde66181623e14886b6e9f61c9a9ed3b70b0062b7e37f6"
+
+[update]
+[update.modrinth]
+mod-id = "ku1JKosh"
+version = "ZdZAjooP"

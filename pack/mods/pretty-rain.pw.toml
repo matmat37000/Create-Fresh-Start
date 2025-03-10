@@ -1,0 +1,13 @@
+name = "Pretty Rain"
+filename = "Pretty Rain-1.21.1-NeoForge-1.1.2.jar"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/IhZuHxkl/versions/sqJTdAZN/Pretty%20Rain-1.21.1-NeoForge-1.1.2.jar"
+hash-format = "sha512"
+hash = "0c3e8cca6bd1aba53a6c7f4ff6cfe3cfd870045761a15eae448f23a4dcfd10ca68e461b9eecfcd293f72781d8573f97351eead67ce3a5c14983b48c3628f0b04"
+
+[update]
+[update.modrinth]
+mod-id = "IhZuHxkl"
+version = "sqJTdAZN"

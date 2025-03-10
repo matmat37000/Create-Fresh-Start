@@ -1,0 +1,13 @@
+name = "CraftingXP"
+filename = "CraftingXP 1.21 .1 NeoForge.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/dzAvfm8y/versions/tFOFdlYx/CraftingXP%201.21%20.1%20NeoForge.jar"
+hash-format = "sha512"
+hash = "dd0d57eb7e5419cff1af3eca55cf660950e67714142b5e39a7b8c56ec9cf4fb939768175b12ec4c58cbef2e71cc88a91c3c96e38cc8e7795f6c356ed841873c9"
+
+[update]
+[update.modrinth]
+mod-id = "dzAvfm8y"
+version = "tFOFdlYx"

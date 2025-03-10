@@ -1,0 +1,9 @@
+{
+  "Repeat": false,
+  "DedicatedMode": false,
+  "1": "scoreboard objectives add deaths deathCount",
+  "2": "scoreboard objectives setdisplay list deaths",
+  "3": "gamerule enderPearlsVanishOnDeath false",
+  "4": "gamerule playersSleepingPercentage 30",
+  "6": "difficulty hard"
+}

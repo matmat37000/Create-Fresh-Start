@@ -1,0 +1,13 @@
+name = "0,5 HP"
+filename = "half-hp-1.4v.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/pr39mIZP/versions/C3szHtDO/half-hp-1.4v.jar"
+hash-format = "sha512"
+hash = "74f27ec4279f497cd29fb7b2db3d35ed097849e7a0cc0da5cab51bf8effa518872e1f7743ece6581b3da1b9be97694a281a6c44c9a1c59d97f8559ccca33c9af"
+
+[update]
+[update.modrinth]
+mod-id = "pr39mIZP"
+version = "C3szHtDO"

@@ -1,0 +1,13 @@
+name = "World Start Commands and Global Gamerules"
+filename = "wscommands-1.0.6-neoforge-1.21.x.jar"
+side = "server"
+
+[download]
+url = "https://cdn.modrinth.com/data/xShuFX3N/versions/LT8vpeLg/wscommands-1.0.6-neoforge-1.21.x.jar"
+hash-format = "sha512"
+hash = "2e05ab546d52cf1b8c4b11ce57673e0a91de0f63f66890d0518320eef1351e73511396902ae3bfdf51221c845a052f11dc63c9d8c766d268101d1af26b5665c3"
+
+[update]
+[update.modrinth]
+mod-id = "xShuFX3N"
+version = "LT8vpeLg"

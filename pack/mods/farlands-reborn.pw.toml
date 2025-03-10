@@ -1,0 +1,13 @@
+name = "Farlands Reborn"
+filename = "farlandsreborn-neoforge-2.0.0.jar"
+side = "server"
+
+[download]
+url = "https://cdn.modrinth.com/data/Y2YGBPDD/versions/vuJKgLMn/farlandsreborn-neoforge-2.0.0.jar"
+hash-format = "sha512"
+hash = "6b7f1ab80f1fbe2d55ba041c172b741e7815f4caec51374e9e82cd77d7b83fcb960070e3df302c03df687acb3d5662b102faaf69e1983efa7ab261b01bd67062"
+
+[update]
+[update.modrinth]
+mod-id = "Y2YGBPDD"
+version = "vuJKgLMn"
