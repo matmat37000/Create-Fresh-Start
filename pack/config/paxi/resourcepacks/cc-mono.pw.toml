@@ -1,0 +1,13 @@
+name = "CC: Mono"
+filename = "CC Mono {1.21.X].zip"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/blnQYsGj/versions/tHsR37Th/CC%20Mono%20%7B1.21.X%5D.zip"
+hash-format = "sha512"
+hash = "b3226dea387bdd759bf2474b59489f1d3f771e8d3477b33858c1890490b07b0b43f7ee810d468166fee9a3f94492b87495512ce4215f5ae495d814a87ff9c026"
+
+[update]
+[update.modrinth]
+mod-id = "blnQYsGj"
+version = "tHsR37Th"

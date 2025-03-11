@@ -1,6 +1,7 @@
 name = "Create: Fresh Start"
 author = "Sammy L. Koch"
 version = "1.0.0"
+description = "It is time for a fresh start! Create v6 released with revolutionary changes!"
 pack-format = "packwiz:1.1.0"
 
 [index]

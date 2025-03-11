@@ -18,21 +18,11 @@ Content-wise, a few highlights are…
 
 On top of this, the best mods and resource packs have been picked out and carefully handcrafted into the most calming and beautiful Vanilla+ experience one can immerse into.
 
-***
-
-### For Contributors
-
-When exporting, make sure to…
-- bump the version in <pack/pack.toml> and <pack/config/bbc-common.toml>
-- run `packwiz refresh --build` before exporting
-
-> **Note**: All commits making changes to the index shall not use the `--build` flag as the <pack/index.toml> file should not contain any hashes for an easier workflow.
-
 ### Copyright & License Notice
 
 Copyright © 2025 Sammy L. Koch
 
 This modpack is licensed under **MIT**, all textures and models made specifically for this pack, however, are available under **CC BY-SA 4.0**.
-Exceptions due to e.g. conflicting licenses have been marked in the corresponding folders within an `README.md` file.
+Exceptions due to e.g. conflicting licenses have been marked in the corresponding folders via an `README.md` file.
 
 A copy of all applied licenses can be found in the corresponding <license> folder.

@@ -88,6 +88,368 @@ file = "config/ok_zoomer/config.toml"
 file = "config/overflowingbars-client.toml"
 
 [[files]]
+file = "config/paxi/datapacks/modpack/README.md"
+
+[[files]]
+file = "config/paxi/datapacks/modpack/data/modpack/recipe/copper_bars.json"
+
+[[files]]
+file = "config/paxi/datapacks/modpack/data/modpack/recipe/gold_bars.json"
+
+[[files]]
+file = "config/paxi/datapacks/modpack/data/modpack/recipe/leather_from_smelting_rotten_flesh.json"
+
+[[files]]
+file = "config/paxi/datapacks/modpack/data/modpack/recipe/lether_from_smoking_rotten_flesh.json"
+
+[[files]]
+file = "config/paxi/datapacks/modpack/pack.mcmeta"
+
+[[files]]
+file = "config/paxi/datapacks/modpack/pack.png"
+
+[[files]]
+file = "config/paxi/resourcepacks/cc-mono.pw.toml"
+metafile = true
+
+[[files]]
+file = "config/paxi/resourcepacks/ccc.pw.toml"
+metafile = true
+
+[[files]]
+file = "config/paxi/resourcepacks/create-copper-restored.pw.toml"
+metafile = true
+
+[[files]]
+file = "config/paxi/resourcepacks/create-legacy-copper-continued.pw.toml"
+metafile = true
+
+[[files]]
+file = "config/paxi/resourcepacks/fancy-crops.pw.toml"
+metafile = true
+
+[[files]]
+file = "config/paxi/resourcepacks/fogulous.pw.toml"
+metafile = true
+
+[[files]]
+file = "config/paxi/resourcepacks/fork-uccrp.zip"
+
+[[files]]
+file = "config/paxi/resourcepacks/modpack/README.md"
+
+[[files]]
+file = "config/paxi/resourcepacks/modpack/assets/expandeddelight/textures/block/salt_ore.png"
+
+[[files]]
+file = "config/paxi/resourcepacks/modpack/assets/legendarytooltips/frame_definitions.json"
+
+[[files]]
+file = "config/paxi/resourcepacks/modpack/assets/legendarytooltips/textures/gui/tooltip_borders.png"
+
+[[files]]
+file = "config/paxi/resourcepacks/modpack/assets/minecraft/blockstates/stone.json"
+
+[[files]]
+file = "config/paxi/resourcepacks/modpack/assets/minecraft/blockstates/stone_slab.json"
+
+[[files]]
+file = "config/paxi/resourcepacks/modpack/assets/minecraft/blockstates/stone_stairs.json"
+
+[[files]]
+file = "config/paxi/resourcepacks/modpack/assets/minecraft/models/block/stone/block/0.json"
+
+[[files]]
+file = "config/paxi/resourcepacks/modpack/assets/minecraft/models/block/stone/block/1.json"
+
+[[files]]
+file = "config/paxi/resourcepacks/modpack/assets/minecraft/models/block/stone/block/10.json"
+
+[[files]]
+file = "config/paxi/resourcepacks/modpack/assets/minecraft/models/block/stone/block/11.json"
+
+[[files]]
+file = "config/paxi/resourcepacks/modpack/assets/minecraft/models/block/stone/block/2.json"
+
+[[files]]
+file = "config/paxi/resourcepacks/modpack/assets/minecraft/models/block/stone/block/3.json"
+
+[[files]]
+file = "config/paxi/resourcepacks/modpack/assets/minecraft/models/block/stone/block/4.json"
+
+[[files]]
+file = "config/paxi/resourcepacks/modpack/assets/minecraft/models/block/stone/block/5.json"
+
+[[files]]
+file = "config/paxi/resourcepacks/modpack/assets/minecraft/models/block/stone/block/6.json"
+
+[[files]]
+file = "config/paxi/resourcepacks/modpack/assets/minecraft/models/block/stone/block/7.json"
+
+[[files]]
+file = "config/paxi/resourcepacks/modpack/assets/minecraft/models/block/stone/block/8.json"
+
+[[files]]
+file = "config/paxi/resourcepacks/modpack/assets/minecraft/models/block/stone/block/9.json"
+
+[[files]]
+file = "config/paxi/resourcepacks/modpack/assets/minecraft/models/block/stone/slab/0.json"
+
+[[files]]
+file = "config/paxi/resourcepacks/modpack/assets/minecraft/models/block/stone/slab/1.json"
+
+[[files]]
+file = "config/paxi/resourcepacks/modpack/assets/minecraft/models/block/stone/slab/10.json"
+
+[[files]]
+file = "config/paxi/resourcepacks/modpack/assets/minecraft/models/block/stone/slab/11.json"
+
+[[files]]
+file = "config/paxi/resourcepacks/modpack/assets/minecraft/models/block/stone/slab/2.json"
+
+[[files]]
+file = "config/paxi/resourcepacks/modpack/assets/minecraft/models/block/stone/slab/3.json"
+
+[[files]]
+file = "config/paxi/resourcepacks/modpack/assets/minecraft/models/block/stone/slab/4.json"
+
+[[files]]
+file = "config/paxi/resourcepacks/modpack/assets/minecraft/models/block/stone/slab/5.json"
+
+[[files]]
+file = "config/paxi/resourcepacks/modpack/assets/minecraft/models/block/stone/slab/6.json"
+
+[[files]]
+file = "config/paxi/resourcepacks/modpack/assets/minecraft/models/block/stone/slab/7.json"
+
+[[files]]
+file = "config/paxi/resourcepacks/modpack/assets/minecraft/models/block/stone/slab/8.json"
+
+[[files]]
+file = "config/paxi/resourcepacks/modpack/assets/minecraft/models/block/stone/slab/9.json"
+
+[[files]]
+file = "config/paxi/resourcepacks/modpack/assets/minecraft/models/block/stone/slab_top/0.json"
+
+[[files]]
+file = "config/paxi/resourcepacks/modpack/assets/minecraft/models/block/stone/slab_top/1.json"
+
+[[files]]
+file = "config/paxi/resourcepacks/modpack/assets/minecraft/models/block/stone/slab_top/10.json"
+
+[[files]]
+file = "config/paxi/resourcepacks/modpack/assets/minecraft/models/block/stone/slab_top/11.json"
+
+[[files]]
+file = "config/paxi/resourcepacks/modpack/assets/minecraft/models/block/stone/slab_top/2.json"
+
+[[files]]
+file = "config/paxi/resourcepacks/modpack/assets/minecraft/models/block/stone/slab_top/3.json"
+
+[[files]]
+file = "config/paxi/resourcepacks/modpack/assets/minecraft/models/block/stone/slab_top/4.json"
+
+[[files]]
+file = "config/paxi/resourcepacks/modpack/assets/minecraft/models/block/stone/slab_top/5.json"
+
+[[files]]
+file = "config/paxi/resourcepacks/modpack/assets/minecraft/models/block/stone/slab_top/6.json"
+
+[[files]]
+file = "config/paxi/resourcepacks/modpack/assets/minecraft/models/block/stone/slab_top/7.json"
+
+[[files]]
+file = "config/paxi/resourcepacks/modpack/assets/minecraft/models/block/stone/slab_top/8.json"
+
+[[files]]
+file = "config/paxi/resourcepacks/modpack/assets/minecraft/models/block/stone/slab_top/9.json"
+
+[[files]]
+file = "config/paxi/resourcepacks/modpack/assets/minecraft/models/block/stone/stairs/0.json"
+
+[[files]]
+file = "config/paxi/resourcepacks/modpack/assets/minecraft/models/block/stone/stairs/1.json"
+
+[[files]]
+file = "config/paxi/resourcepacks/modpack/assets/minecraft/models/block/stone/stairs/10.json"
+
+[[files]]
+file = "config/paxi/resourcepacks/modpack/assets/minecraft/models/block/stone/stairs/11.json"
+
+[[files]]
+file = "config/paxi/resourcepacks/modpack/assets/minecraft/models/block/stone/stairs/2.json"
+
+[[files]]
+file = "config/paxi/resourcepacks/modpack/assets/minecraft/models/block/stone/stairs/3.json"
+
+[[files]]
+file = "config/paxi/resourcepacks/modpack/assets/minecraft/models/block/stone/stairs/4.json"
+
+[[files]]
+file = "config/paxi/resourcepacks/modpack/assets/minecraft/models/block/stone/stairs/5.json"
+
+[[files]]
+file = "config/paxi/resourcepacks/modpack/assets/minecraft/models/block/stone/stairs/6.json"
+
+[[files]]
+file = "config/paxi/resourcepacks/modpack/assets/minecraft/models/block/stone/stairs/7.json"
+
+[[files]]
+file = "config/paxi/resourcepacks/modpack/assets/minecraft/models/block/stone/stairs/8.json"
+
+[[files]]
+file = "config/paxi/resourcepacks/modpack/assets/minecraft/models/block/stone/stairs/9.json"
+
+[[files]]
+file = "config/paxi/resourcepacks/modpack/assets/minecraft/models/block/stone/stairs_inner/0.json"
+
+[[files]]
+file = "config/paxi/resourcepacks/modpack/assets/minecraft/models/block/stone/stairs_inner/1.json"
+
+[[files]]
+file = "config/paxi/resourcepacks/modpack/assets/minecraft/models/block/stone/stairs_inner/10.json"
+
+[[files]]
+file = "config/paxi/resourcepacks/modpack/assets/minecraft/models/block/stone/stairs_inner/11.json"
+
+[[files]]
+file = "config/paxi/resourcepacks/modpack/assets/minecraft/models/block/stone/stairs_inner/2.json"
+
+[[files]]
+file = "config/paxi/resourcepacks/modpack/assets/minecraft/models/block/stone/stairs_inner/3.json"
+
+[[files]]
+file = "config/paxi/resourcepacks/modpack/assets/minecraft/models/block/stone/stairs_inner/4.json"
+
+[[files]]
+file = "config/paxi/resourcepacks/modpack/assets/minecraft/models/block/stone/stairs_inner/5.json"
+
+[[files]]
+file = "config/paxi/resourcepacks/modpack/assets/minecraft/models/block/stone/stairs_inner/6.json"
+
+[[files]]
+file = "config/paxi/resourcepacks/modpack/assets/minecraft/models/block/stone/stairs_inner/7.json"
+
+[[files]]
+file = "config/paxi/resourcepacks/modpack/assets/minecraft/models/block/stone/stairs_inner/8.json"
+
+[[files]]
+file = "config/paxi/resourcepacks/modpack/assets/minecraft/models/block/stone/stairs_inner/9.json"
+
+[[files]]
+file = "config/paxi/resourcepacks/modpack/assets/minecraft/models/block/stone/stairs_outer/0.json"
+
+[[files]]
+file = "config/paxi/resourcepacks/modpack/assets/minecraft/models/block/stone/stairs_outer/1.json"
+
+[[files]]
+file = "config/paxi/resourcepacks/modpack/assets/minecraft/models/block/stone/stairs_outer/10.json"
+
+[[files]]
+file = "config/paxi/resourcepacks/modpack/assets/minecraft/models/block/stone/stairs_outer/11.json"
+
+[[files]]
+file = "config/paxi/resourcepacks/modpack/assets/minecraft/models/block/stone/stairs_outer/2.json"
+
+[[files]]
+file = "config/paxi/resourcepacks/modpack/assets/minecraft/models/block/stone/stairs_outer/3.json"
+
+[[files]]
+file = "config/paxi/resourcepacks/modpack/assets/minecraft/models/block/stone/stairs_outer/4.json"
+
+[[files]]
+file = "config/paxi/resourcepacks/modpack/assets/minecraft/models/block/stone/stairs_outer/5.json"
+
+[[files]]
+file = "config/paxi/resourcepacks/modpack/assets/minecraft/models/block/stone/stairs_outer/6.json"
+
+[[files]]
+file = "config/paxi/resourcepacks/modpack/assets/minecraft/models/block/stone/stairs_outer/7.json"
+
+[[files]]
+file = "config/paxi/resourcepacks/modpack/assets/minecraft/models/block/stone/stairs_outer/8.json"
+
+[[files]]
+file = "config/paxi/resourcepacks/modpack/assets/minecraft/models/block/stone/stairs_outer/9.json"
+
+[[files]]
+file = "config/paxi/resourcepacks/modpack/assets/minecraft/textures/block/coal_ore.png"
+
+[[files]]
+file = "config/paxi/resourcepacks/modpack/assets/minecraft/textures/block/copper_ore.png"
+
+[[files]]
+file = "config/paxi/resourcepacks/modpack/assets/minecraft/textures/block/diamond_ore.png"
+
+[[files]]
+file = "config/paxi/resourcepacks/modpack/assets/minecraft/textures/block/emerald_ore.png"
+
+[[files]]
+file = "config/paxi/resourcepacks/modpack/assets/minecraft/textures/block/gold_ore.png"
+
+[[files]]
+file = "config/paxi/resourcepacks/modpack/assets/minecraft/textures/block/iron_ore.png"
+
+[[files]]
+file = "config/paxi/resourcepacks/modpack/assets/minecraft/textures/block/lapis_ore.png"
+
+[[files]]
+file = "config/paxi/resourcepacks/modpack/assets/minecraft/textures/block/redstone_ore.png"
+
+[[files]]
+file = "config/paxi/resourcepacks/modpack/assets/minecraft/textures/block/stone.png"
+
+[[files]]
+file = "config/paxi/resourcepacks/modpack/assets/minecraft/textures/block/variated/stone/0.png"
+
+[[files]]
+file = "config/paxi/resourcepacks/modpack/assets/minecraft/textures/block/variated/stone/1.png"
+
+[[files]]
+file = "config/paxi/resourcepacks/modpack/assets/minecraft/textures/block/variated/stone/10.png"
+
+[[files]]
+file = "config/paxi/resourcepacks/modpack/assets/minecraft/textures/block/variated/stone/11.png"
+
+[[files]]
+file = "config/paxi/resourcepacks/modpack/assets/minecraft/textures/block/variated/stone/2.png"
+
+[[files]]
+file = "config/paxi/resourcepacks/modpack/assets/minecraft/textures/block/variated/stone/3.png"
+
+[[files]]
+file = "config/paxi/resourcepacks/modpack/assets/minecraft/textures/block/variated/stone/4.png"
+
+[[files]]
+file = "config/paxi/resourcepacks/modpack/assets/minecraft/textures/block/variated/stone/5.png"
+
+[[files]]
+file = "config/paxi/resourcepacks/modpack/assets/minecraft/textures/block/variated/stone/6.png"
+
+[[files]]
+file = "config/paxi/resourcepacks/modpack/assets/minecraft/textures/block/variated/stone/7.png"
+
+[[files]]
+file = "config/paxi/resourcepacks/modpack/assets/minecraft/textures/block/variated/stone/8.png"
+
+[[files]]
+file = "config/paxi/resourcepacks/modpack/assets/minecraft/textures/block/variated/stone/9.png"
+
+[[files]]
+file = "config/paxi/resourcepacks/modpack/pack.mcmeta"
+
+[[files]]
+file = "config/paxi/resourcepacks/modpack/pack.png"
+
+[[files]]
+file = "config/paxi/resourcepacks/simple-grass-flowers.pw.toml"
+metafile = true
+
+[[files]]
+file = "config/paxi/resourcepacks/slim-glowing-outline-effect.pw.toml"
+metafile = true
+
+[[files]]
 file = "config/ping-wheel.json"
 
 [[files]]
@@ -661,6 +1023,10 @@ file = "mods/plushables.pw.toml"
 metafile = true
 
 [[files]]
+file = "mods/polytone.pw.toml"
+metafile = true
+
+[[files]]
 file = "mods/presence-footsteps.pw.toml"
 metafile = true
 
@@ -874,3 +1240,23 @@ metafile = true
 
 [[files]]
 file = "options.txt"
+
+[[files]]
+file = "resourcepacks/create-lootr.pw.toml"
+metafile = true
+
+[[files]]
+file = "resourcepacks/fresh-animations-extensions.pw.toml"
+metafile = true
+
+[[files]]
+file = "resourcepacks/fresh-animations.pw.toml"
+metafile = true
+
+[[files]]
+file = "resourcepacks/outline-shader.pw.toml"
+metafile = true
+
+[[files]]
+file = "resourcepacks/redstone-torch-backport.pw.toml"
+metafile = true
