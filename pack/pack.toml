@@ -13,4 +13,5 @@ minecraft = "1.21.1"
 neoforge = "21.1.133"
 
 [options]
+meta-folder = []
 no-internal-hashes = true

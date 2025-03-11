@@ -1,6 +1,138 @@
 hash-format = "sha256"
 
 [[files]]
+file = "config/DistantHorizons.toml"
+
+[[files]]
+file = "config/NoChatReports/NCR-Client.json"
+
+[[files]]
+file = "config/NoChatReports/NCR-Common.json"
+
+[[files]]
+file = "config/NoChatReports/NCR-Encryption.json"
+
+[[files]]
+file = "config/NoChatReports/NCR-ServerPreferences.json"
+
+[[files]]
+file = "config/NoChatReports/README.md"
+
+[[files]]
+file = "config/WSCommands.json"
+
+[[files]]
+file = "config/ambiance.json"
+
+[[files]]
+file = "config/bcc-common.toml"
+
+[[files]]
+file = "config/bettermodsbutton-client.toml"
+
+[[files]]
+file = "config/carryon-client.toml"
+
+[[files]]
+file = "config/carryon-common.toml"
+
+[[files]]
+file = "config/celestria.json"
+
+[[files]]
+file = "config/clienttweaks-common.toml"
+
+[[files]]
+file = "config/computercraft-client.toml"
+
+[[files]]
+file = "config/computercraft-server.toml"
+
+[[files]]
+file = "config/create-client.toml"
+
+[[files]]
+file = "config/create-common.toml"
+
+[[files]]
+file = "config/create-server.toml"
+
+[[files]]
+file = "config/customwindowtitle-client.toml"
+
+[[files]]
+file = "config/easyanvils-client.toml"
+
+[[files]]
+file = "config/easyanvils-common.toml"
+
+[[files]]
+file = "config/easyanvils-server.toml"
+
+[[files]]
+file = "config/experimentalist.json"
+
+[[files]]
+file = "config/fishermens_trap-common.toml"
+
+[[files]]
+file = "config/kawaiidishes-server.toml"
+
+[[files]]
+file = "config/lambdynlights.toml"
+
+[[files]]
+file = "config/ok_zoomer/config.toml"
+
+[[files]]
+file = "config/overflowingbars-client.toml"
+
+[[files]]
+file = "config/ping-wheel.json"
+
+[[files]]
+file = "config/ping-wheel.server.json"
+
+[[files]]
+file = "config/presencefootsteps/updater.json"
+
+[[files]]
+file = "config/presencefootsteps/userconfig.json"
+
+[[files]]
+file = "config/prettyrain-client.toml"
+
+[[files]]
+file = "config/reciperemover.json"
+
+[[files]]
+file = "config/sodium-extra-options.json"
+
+[[files]]
+file = "config/sodium-options.json"
+
+[[files]]
+file = "config/sparsestructures.json5"
+
+[[files]]
+file = "config/tide.toml"
+
+[[files]]
+file = "config/toastbegone.toml"
+
+[[files]]
+file = "config/voidfog-client.toml"
+
+[[files]]
+file = "config/waves-common.toml"
+
+[[files]]
+file = "config/waves/waves.json"
+
+[[files]]
+file = "icon.png"
+
+[[files]]
 file = "mods/0,5-hp.pw.toml"
 metafile = true
 
@@ -739,3 +871,6 @@ metafile = true
 [[files]]
 file = "mods/yungs-better-witch-huts.pw.toml"
 metafile = true
+
+[[files]]
+file = "options.txt"
