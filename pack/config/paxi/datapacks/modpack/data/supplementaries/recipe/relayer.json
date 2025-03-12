@@ -1,0 +1,27 @@
+{
+  "neoforge:conditions": [
+    {
+      "type": "neoforge:false"
+    },
+    {
+      "type": "supplementaries:flag",
+      "flag": "relayer"
+    }
+  ],
+  "type": "minecraft:crafting_shaped",
+  "pattern": ["111", "##2", "111"],
+  "key": {
+    "#": {
+      "item": "minecraft:redstone"
+    },
+    "1": {
+      "item": "minecraft:cobblestone"
+    },
+    "2": {
+      "tag": "c:ingots/iron"
+    }
+  },
+  "result": {
+    "id": "supplementaries:relayer"
+  }
+}

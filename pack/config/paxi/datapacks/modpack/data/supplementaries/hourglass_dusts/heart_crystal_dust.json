@@ -1,0 +1,6 @@
+{
+  "items": ["heart_crystals:heart_crystal_dust"],
+  "duration": 80,
+  "light_level": 10,
+  "texture": "modpack:block/hourglass_heart"
+}

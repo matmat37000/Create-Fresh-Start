@@ -1,0 +1,14 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "key": {
+    "#": {
+      "item": "supplementaries:flax"
+    }
+  },
+  "pattern": ["###", "###"],
+  "result": {
+    "count": 1,
+    "id": "farmersdelight:canvas"
+  }
+}

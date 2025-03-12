@@ -31,6 +31,9 @@ file = "config/bcc-common.toml"
 file = "config/bettermodsbutton-client.toml"
 
 [[files]]
+file = "config/c2me.toml"
+
+[[files]]
 file = "config/carryon-client.toml"
 
 [[files]]
@@ -74,6 +77,9 @@ file = "config/experimentalist.json"
 
 [[files]]
 file = "config/fishermens_trap-common.toml"
+
+[[files]]
+file = "config/jade.json"
 
 [[files]]
 file = "config/kawaiidishes-server.toml"
@@ -523,6 +529,10 @@ file = "mods/annoying-stuff-remover.pw.toml"
 metafile = true
 
 [[files]]
+file = "mods/antique-atlas-4.pw.toml"
+metafile = true
+
+[[files]]
 file = "mods/apples-plus.pw.toml"
 metafile = true
 
@@ -632,6 +642,10 @@ metafile = true
 
 [[files]]
 file = "mods/clientsort.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/clifftree.pw.toml"
 metafile = true
 
 [[files]]
@@ -903,10 +917,6 @@ file = "mods/legendary-tooltips.pw.toml"
 metafile = true
 
 [[files]]
-file = "mods/libjf.pw.toml"
-metafile = true
-
-[[files]]
 file = "mods/lighty.pw.toml"
 metafile = true
 
@@ -1003,6 +1013,10 @@ file = "mods/overflowing-bars.pw.toml"
 metafile = true
 
 [[files]]
+file = "mods/patchouli.pw.toml"
+metafile = true
+
+[[files]]
 file = "mods/paxi.pw.toml"
 metafile = true
 
@@ -1063,10 +1077,6 @@ file = "mods/rebind-narrator.pw.toml"
 metafile = true
 
 [[files]]
-file = "mods/reciperemover.pw.toml"
-metafile = true
-
-[[files]]
 file = "mods/reeses-sodium-options.pw.toml"
 metafile = true
 
@@ -1083,15 +1093,15 @@ file = "mods/rustic-pancakes.pw.toml"
 metafile = true
 
 [[files]]
+file = "mods/scalablelux.pw.toml"
+metafile = true
+
+[[files]]
 file = "mods/screenshot-to-clipboard.pw.toml"
 metafile = true
 
 [[files]]
 file = "mods/seamless.pw.toml"
-metafile = true
-
-[[files]]
-file = "mods/slyde.pw.toml"
 metafile = true
 
 [[files]]
@@ -1136,6 +1146,10 @@ metafile = true
 
 [[files]]
 file = "mods/supplementaries.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/surveyor.pw.toml"
 metafile = true
 
 [[files]]
@@ -1212,10 +1226,6 @@ metafile = true
 
 [[files]]
 file = "mods/yungs-better-desert-temples.pw.toml"
-metafile = true
-
-[[files]]
-file = "mods/yungs-better-dungeons.pw.toml"
 metafile = true
 
 [[files]]

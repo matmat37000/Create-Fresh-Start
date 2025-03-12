@@ -1,0 +1,25 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "category": "equipment",
+  "ingredients": [
+    {
+      "item": "minecraft:writable_book"
+    },
+    {
+      "item": "minecraft:compass"
+    }
+  ],
+  "result": {
+    "id": "minecraft:book",
+    "components": {
+      "minecraft:lore": [
+        "{\"color\":\"gray\",\"italic\":false,\"translate\":\"item.antique_atlas.atlas.lore\"}",
+        "{\"color\":\"gray\",\"italic\":false,\"translate\":\"item.antique_atlas.atlas.hint\",\"with\":[{\"translate\":\"item.antique_atlas.atlas\"}]}"
+      ],
+      "minecraft:item_name": "{\"translate\":\"item.antique_atlas.atlas\"}",
+      "minecraft:max_stack_size": 1,
+      "minecraft:rarity": "uncommon"
+    },
+    "count": 1
+  }
+}

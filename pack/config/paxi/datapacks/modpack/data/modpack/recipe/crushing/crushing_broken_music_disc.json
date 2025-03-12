@@ -1,0 +1,17 @@
+{
+  "type": "create:crushing",
+  "ingredients": [
+    {
+      "item": "minecraft:music_disc_11"
+    }
+  ],
+  "processing_time": 400,
+  "results": [
+    {
+      "count": 4,
+      "item": {
+        "id": "minecraft:gunpowder"
+      }
+    }
+  ]
+}

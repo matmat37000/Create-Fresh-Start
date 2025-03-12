@@ -1,0 +1,16 @@
+{
+  "type": "create:compacting",
+  "ingredients": [
+    {
+      "item": "expandeddelight:salt_rock"
+    }
+  ],
+  "results": [
+    {
+      "count": 3,
+      "item": {
+        "id": "expandeddelight:salt"
+      }
+    }
+  ]
+}
