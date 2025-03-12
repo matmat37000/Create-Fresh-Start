@@ -94,10 +94,82 @@ file = "config/ok_zoomer/config.toml"
 file = "config/overflowingbars-client.toml"
 
 [[files]]
+file = "config/paxi/datapack_load_order.json"
+
+[[files]]
 file = "config/paxi/datapacks/modpack/README.md"
 
 [[files]]
+file = "config/paxi/datapacks/modpack/data/create/recipe/campfire_cooking/bread.json"
+
+[[files]]
+file = "config/paxi/datapacks/modpack/data/create/recipe/crafting/appliances/dough.json"
+
+[[files]]
+file = "config/paxi/datapacks/modpack/data/create/recipe/crafting/appliances/slime_ball.json"
+
+[[files]]
+file = "config/paxi/datapacks/modpack/data/create/recipe/crafting/curiosities/cake.json"
+
+[[files]]
+file = "config/paxi/datapacks/modpack/data/create/recipe/mixing/dough_by_mixing.json"
+
+[[files]]
+file = "config/paxi/datapacks/modpack/data/create/recipe/smelting/bread.json"
+
+[[files]]
+file = "config/paxi/datapacks/modpack/data/create/recipe/smoking/bread.json"
+
+[[files]]
+file = "config/paxi/datapacks/modpack/data/create/recipe/splashing/wheat_flour.json"
+
+[[files]]
+file = "config/paxi/datapacks/modpack/data/farmersdelight/recipe/rope.json"
+
+[[files]]
+file = "config/paxi/datapacks/modpack/data/farmersdelight/recipe/rope_from_safety_net.json"
+
+[[files]]
+file = "config/paxi/datapacks/modpack/data/farmersdelight/recipe/safety_net.json"
+
+[[files]]
+file = "config/paxi/datapacks/modpack/data/farmersdelight/recipe/wheat_dough_from_eggs.json"
+
+[[files]]
+file = "config/paxi/datapacks/modpack/data/farmersdelight/recipe/wheat_dough_from_water.json"
+
+[[files]]
+file = "config/paxi/datapacks/modpack/data/minecraft/recipe/lodestone.json"
+
+[[files]]
+file = "config/paxi/datapacks/modpack/data/modpack/recipe/atlas.json"
+
+[[files]]
+file = "config/paxi/datapacks/modpack/data/modpack/recipe/canvas_from_flux.json"
+
+[[files]]
+file = "config/paxi/datapacks/modpack/data/modpack/recipe/compacting/organic_compost_from_crops.json"
+
+[[files]]
+file = "config/paxi/datapacks/modpack/data/modpack/recipe/compacting/organic_compost_from_monsters.json"
+
+[[files]]
+file = "config/paxi/datapacks/modpack/data/modpack/recipe/compacting/paper_cartridge.json"
+
+[[files]]
+file = "config/paxi/datapacks/modpack/data/modpack/recipe/compacting/salt_from_compacting.json"
+
+[[files]]
 file = "config/paxi/datapacks/modpack/data/modpack/recipe/copper_bars.json"
+
+[[files]]
+file = "config/paxi/datapacks/modpack/data/modpack/recipe/crushing/crushing_broken_music_disc.json"
+
+[[files]]
+file = "config/paxi/datapacks/modpack/data/modpack/recipe/crushing/crushing_music_disc.json"
+
+[[files]]
+file = "config/paxi/datapacks/modpack/data/modpack/recipe/crushing/crushing_salt_rock.json"
 
 [[files]]
 file = "config/paxi/datapacks/modpack/data/modpack/recipe/gold_bars.json"
@@ -109,40 +181,223 @@ file = "config/paxi/datapacks/modpack/data/modpack/recipe/leather_from_smelting_
 file = "config/paxi/datapacks/modpack/data/modpack/recipe/lether_from_smoking_rotten_flesh.json"
 
 [[files]]
+file = "config/paxi/datapacks/modpack/data/modpack/recipe/milling/bone.json"
+
+[[files]]
+file = "config/paxi/datapacks/modpack/data/modpack/recipe/mixing/gunpowder.json"
+
+[[files]]
+file = "config/paxi/datapacks/modpack/data/modpack/recipe/rope_from_straws.json"
+
+[[files]]
+file = "config/paxi/datapacks/modpack/data/modpack/recipe/smoking/ash.json"
+
+[[files]]
+file = "config/paxi/datapacks/modpack/data/modpack/recipe/writable_book.json"
+
+[[files]]
+file = "config/paxi/datapacks/modpack/data/modpack/tags/item/functioning_music_discs.json"
+
+[[files]]
+file = "config/paxi/datapacks/modpack/data/supplementaries/hourglass_dusts/cocoa_powder.json"
+
+[[files]]
+file = "config/paxi/datapacks/modpack/data/supplementaries/hourglass_dusts/ground_coffee.json"
+
+[[files]]
+file = "config/paxi/datapacks/modpack/data/supplementaries/hourglass_dusts/heart_crystal_dust.json"
+
+[[files]]
+file = "config/paxi/datapacks/modpack/data/supplementaries/recipe/awnings/awning.json"
+
+[[files]]
+file = "config/paxi/datapacks/modpack/data/supplementaries/recipe/awnings/awning_black.json"
+
+[[files]]
+file = "config/paxi/datapacks/modpack/data/supplementaries/recipe/awnings/awning_black_2.json"
+
+[[files]]
+file = "config/paxi/datapacks/modpack/data/supplementaries/recipe/awnings/awning_blue.json"
+
+[[files]]
+file = "config/paxi/datapacks/modpack/data/supplementaries/recipe/awnings/awning_blue_2.json"
+
+[[files]]
+file = "config/paxi/datapacks/modpack/data/supplementaries/recipe/awnings/awning_brown.json"
+
+[[files]]
+file = "config/paxi/datapacks/modpack/data/supplementaries/recipe/awnings/awning_brown_2.json"
+
+[[files]]
+file = "config/paxi/datapacks/modpack/data/supplementaries/recipe/awnings/awning_cyan.json"
+
+[[files]]
+file = "config/paxi/datapacks/modpack/data/supplementaries/recipe/awnings/awning_cyan_2.json"
+
+[[files]]
+file = "config/paxi/datapacks/modpack/data/supplementaries/recipe/awnings/awning_dark_gray.json"
+
+[[files]]
+file = "config/paxi/datapacks/modpack/data/supplementaries/recipe/awnings/awning_dark_gray_2.json"
+
+[[files]]
+file = "config/paxi/datapacks/modpack/data/supplementaries/recipe/awnings/awning_gray.json"
+
+[[files]]
+file = "config/paxi/datapacks/modpack/data/supplementaries/recipe/awnings/awning_gray_2.json"
+
+[[files]]
+file = "config/paxi/datapacks/modpack/data/supplementaries/recipe/awnings/awning_green.json"
+
+[[files]]
+file = "config/paxi/datapacks/modpack/data/supplementaries/recipe/awnings/awning_green_2.json"
+
+[[files]]
+file = "config/paxi/datapacks/modpack/data/supplementaries/recipe/awnings/awning_light_blue.json"
+
+[[files]]
+file = "config/paxi/datapacks/modpack/data/supplementaries/recipe/awnings/awning_light_blue_2.json"
+
+[[files]]
+file = "config/paxi/datapacks/modpack/data/supplementaries/recipe/awnings/awning_light_gray.json"
+
+[[files]]
+file = "config/paxi/datapacks/modpack/data/supplementaries/recipe/awnings/awning_light_gray_2.json"
+
+[[files]]
+file = "config/paxi/datapacks/modpack/data/supplementaries/recipe/awnings/awning_lime.json"
+
+[[files]]
+file = "config/paxi/datapacks/modpack/data/supplementaries/recipe/awnings/awning_lime_2.json"
+
+[[files]]
+file = "config/paxi/datapacks/modpack/data/supplementaries/recipe/awnings/awning_magenta.json"
+
+[[files]]
+file = "config/paxi/datapacks/modpack/data/supplementaries/recipe/awnings/awning_magenta_2.json"
+
+[[files]]
+file = "config/paxi/datapacks/modpack/data/supplementaries/recipe/awnings/awning_orange.json"
+
+[[files]]
+file = "config/paxi/datapacks/modpack/data/supplementaries/recipe/awnings/awning_orange_2.json"
+
+[[files]]
+file = "config/paxi/datapacks/modpack/data/supplementaries/recipe/awnings/awning_pink.json"
+
+[[files]]
+file = "config/paxi/datapacks/modpack/data/supplementaries/recipe/awnings/awning_pink_2.json"
+
+[[files]]
+file = "config/paxi/datapacks/modpack/data/supplementaries/recipe/awnings/awning_purple.json"
+
+[[files]]
+file = "config/paxi/datapacks/modpack/data/supplementaries/recipe/awnings/awning_purple_2.json"
+
+[[files]]
+file = "config/paxi/datapacks/modpack/data/supplementaries/recipe/awnings/awning_red.json"
+
+[[files]]
+file = "config/paxi/datapacks/modpack/data/supplementaries/recipe/awnings/awning_red_2.json"
+
+[[files]]
+file = "config/paxi/datapacks/modpack/data/supplementaries/recipe/awnings/awning_white.json"
+
+[[files]]
+file = "config/paxi/datapacks/modpack/data/supplementaries/recipe/awnings/awning_white_2.json"
+
+[[files]]
+file = "config/paxi/datapacks/modpack/data/supplementaries/recipe/awnings/awning_yellow.json"
+
+[[files]]
+file = "config/paxi/datapacks/modpack/data/supplementaries/recipe/awnings/awning_yellow_2.json"
+
+[[files]]
+file = "config/paxi/datapacks/modpack/data/supplementaries/recipe/bellows.json"
+
+[[files]]
+file = "config/paxi/datapacks/modpack/data/supplementaries/recipe/cog_block.json"
+
+[[files]]
+file = "config/paxi/datapacks/modpack/data/supplementaries/recipe/crank.json"
+
+[[files]]
+file = "config/paxi/datapacks/modpack/data/supplementaries/recipe/relayer.json"
+
+[[files]]
+file = "config/paxi/datapacks/modpack/data/supplementaries/recipe/sack.json"
+
+[[files]]
+file = "config/paxi/datapacks/modpack/data/supplementaries/recipe/sack_2.json"
+
+[[files]]
+file = "config/paxi/datapacks/modpack/data/supplementaries/recipe/sack_3.json"
+
+[[files]]
+file = "config/paxi/datapacks/modpack/data/supplementaries/recipe/timber_brace.json"
+
+[[files]]
+file = "config/paxi/datapacks/modpack/data/supplementaries/recipe/timber_cross_brace.json"
+
+[[files]]
+file = "config/paxi/datapacks/modpack/data/supplementaries/recipe/timber_frame.json"
+
+[[files]]
+file = "config/paxi/datapacks/modpack/data/supplementaries/recipe/turn_table.json"
+
+[[files]]
+file = "config/paxi/datapacks/modpack/data/supplementaries/tags/item/hourglass_dusts.json"
+
+[[files]]
+file = "config/paxi/datapacks/modpack/data/suppsquared/recipe/metal_brace.json"
+
+[[files]]
+file = "config/paxi/datapacks/modpack/data/suppsquared/recipe/metal_cross_brace.json"
+
+[[files]]
+file = "config/paxi/datapacks/modpack/data/suppsquared/recipe/metal_frame.json"
+
+[[files]]
+file = "config/paxi/datapacks/modpack/data/suppsquared/recipe/sack_dye.json"
+
+[[files]]
 file = "config/paxi/datapacks/modpack/pack.mcmeta"
 
 [[files]]
 file = "config/paxi/datapacks/modpack/pack.png"
 
 [[files]]
-file = "config/paxi/resourcepacks/cc-mono.pw.toml"
-metafile = true
+file = "config/paxi/resourcepack_load_order.json"
 
 [[files]]
-file = "config/paxi/resourcepacks/ccc.pw.toml"
-metafile = true
+file = "config/paxi/resourcepacks/CC Mono {1.21.X].zip"
 
 [[files]]
-file = "config/paxi/resourcepacks/create-copper-restored.pw.toml"
-metafile = true
+file = "config/paxi/resourcepacks/Create Copper Restored 1.1.zip"
 
 [[files]]
-file = "config/paxi/resourcepacks/create-legacy-copper-continued.pw.toml"
-metafile = true
+file = "config/paxi/resourcepacks/Fancy Crops v1.1.zip"
 
 [[files]]
-file = "config/paxi/resourcepacks/fancy-crops.pw.toml"
-metafile = true
+file = "config/paxi/resourcepacks/Fogulous_v1.1.1.zip"
 
 [[files]]
-file = "config/paxi/resourcepacks/fogulous.pw.toml"
-metafile = true
+file = "config/paxi/resourcepacks/Simple Grass Flowers v1.9.3.zip"
+
+[[files]]
+file = "config/paxi/resourcepacks/Stay_True_1.21_Legacy_Copper_1.0.zip"
+
+[[files]]
+file = "config/paxi/resourcepacks/ccc.zip"
 
 [[files]]
 file = "config/paxi/resourcepacks/fork-uccrp.zip"
 
 [[files]]
 file = "config/paxi/resourcepacks/modpack/README.md"
+
+[[files]]
+file = "config/paxi/resourcepacks/modpack/assets/antique_atlas/lang/en_us.json"
 
 [[files]]
 file = "config/paxi/resourcepacks/modpack/assets/expandeddelight/textures/block/salt_ore.png"
@@ -442,18 +697,22 @@ file = "config/paxi/resourcepacks/modpack/assets/minecraft/textures/block/variat
 file = "config/paxi/resourcepacks/modpack/assets/minecraft/textures/block/variated/stone/9.png"
 
 [[files]]
+file = "config/paxi/resourcepacks/modpack/assets/modpack/textures/block/hourglass_cocoa.png"
+
+[[files]]
+file = "config/paxi/resourcepacks/modpack/assets/modpack/textures/block/hourglass_coffee.png"
+
+[[files]]
+file = "config/paxi/resourcepacks/modpack/assets/modpack/textures/block/hourglass_heart.png"
+
+[[files]]
 file = "config/paxi/resourcepacks/modpack/pack.mcmeta"
 
 [[files]]
 file = "config/paxi/resourcepacks/modpack/pack.png"
 
 [[files]]
-file = "config/paxi/resourcepacks/simple-grass-flowers.pw.toml"
-metafile = true
-
-[[files]]
-file = "config/paxi/resourcepacks/slim-glowing-outline-effect.pw.toml"
-metafile = true
+file = "config/paxi/resourcepacks/§f§l● Slim outline.zip"
 
 [[files]]
 file = "config/ping-wheel.json"

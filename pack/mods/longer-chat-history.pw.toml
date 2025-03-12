@@ -1,13 +1,13 @@
 name = "Longer Chat History"
-filename = "LongerChatHistory-neoforge-1.6.jar"
+filename = "LongerChatHistory-fabric-1.6.jar"
 side = "client"
 
 [download]
-url = "https://cdn.modrinth.com/data/f4P7fNKN/versions/QRXxaLyH/LongerChatHistory-neoforge-1.6.jar"
+url = "https://cdn.modrinth.com/data/f4P7fNKN/versions/LOLyPaBQ/LongerChatHistory-fabric-1.6.jar"
 hash-format = "sha512"
-hash = "6687e00166869fee5b917f7e24e41805bf86d505d937bd6ecbe6a57e197e4bcc2361fc5a8a12771fb624f96438a726bf91865cd8f4e41c3ce751aca2451d7813"
+hash = "49e5ee2e042e9e9997bb5a10eae8ee0130e10cb94ad6a01a7fa61fb70efdc8d9c3d5d2a59b5c64e0e7642d95921f25c7197de66c011da9994cd1c6fb631a7850"
 
 [update]
 [update.modrinth]
 mod-id = "f4P7fNKN"
-version = "QRXxaLyH"
+version = "LOLyPaBQ"

@@ -1,13 +1,13 @@
 name = "Random Mob Sizes"
-filename = "randommobsizes-neoforge-1.21.1-2.2.2.jar"
+filename = "randommobsizes-fabric-1.21.1-2.2.2.jar"
 side = "both"
 
 [download]
-url = "https://cdn.modrinth.com/data/ccz0Dj7d/versions/pMMKaGfk/randommobsizes-neoforge-1.21.1-2.2.2.jar"
+url = "https://cdn.modrinth.com/data/ccz0Dj7d/versions/ToOBKL2y/randommobsizes-fabric-1.21.1-2.2.2.jar"
 hash-format = "sha512"
-hash = "ca21cdff26c28d39dce1293a1d3aaed622b5e276452d66f6f0d3e9cf4359e702f9294419c095c4fe06af545eb61fb16ec261a46652d59f1467d3c0d3705c9984"
+hash = "ac43a360ad9c27f09478d485197d96192375fcb5c212be00840e755be6c40417150400fdddd8c850c6ae5b90544427301b26ceeac5e7cfea0240186f546df395"
 
 [update]
 [update.modrinth]
 mod-id = "ccz0Dj7d"
-version = "pMMKaGfk"
+version = "ToOBKL2y"

@@ -1,13 +1,13 @@
 name = "Supplementaries"
-filename = "supplementaries-1.21-3.0.41-beta-neoforge.jar"
+filename = "supplementaries-1.21-3.0.41-beta-fabric.jar"
 side = "both"
 
 [download]
-url = "https://cdn.modrinth.com/data/fFEIiSDQ/versions/r7OfyZR6/supplementaries-1.21-3.0.41-beta-neoforge.jar"
+url = "https://cdn.modrinth.com/data/fFEIiSDQ/versions/9Bb4lbc0/supplementaries-1.21-3.0.41-beta-fabric.jar"
 hash-format = "sha512"
-hash = "5ab1843f558780e1ade3601cb8bd41bd0455597e008be16d3ffe0ffc8b2fae28d03166a5f3c9cc282e6fcc12c20fce608215263c51b4fd99cc91ccde020b3f77"
+hash = "62c3846692ca0758266e2dfc3ac8069565634317daef7a3ef6fb5ab27f5a663534fbdf34bf1e2012edc1438fd422650c0e724d2508e72905e63be06153f229f2"
 
 [update]
 [update.modrinth]
 mod-id = "fFEIiSDQ"
-version = "r7OfyZR6"
+version = "9Bb4lbc0"

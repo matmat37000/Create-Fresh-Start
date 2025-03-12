@@ -1,13 +1,13 @@
 name = "Screenshot to Clipboard"
-filename = "screenshot-to-clipboard-neoforge-1.0.10.jar"
+filename = "screenshot-to-clipboard-fabric-1.0.10.jar"
 side = "client"
 
 [download]
-url = "https://cdn.modrinth.com/data/1KiJRrTg/versions/tnP4eg1K/screenshot-to-clipboard-neoforge-1.0.10.jar"
+url = "https://cdn.modrinth.com/data/1KiJRrTg/versions/DHUI24N7/screenshot-to-clipboard-fabric-1.0.10.jar"
 hash-format = "sha512"
-hash = "70621a29e84be664eabac05f5fc08f3960726e1311dd29de9bb88c104dea3f49f481f02cef24cae0d44608b4b3b6c4102fea8b2093b4f0cf97611316866ae547"
+hash = "54f3c0fe55145f396a824c780bdaaf59026f855037ffa67c3c4228781685350d308feec5ed5527a7e4eaa1d4f71f6d106d5ac9d1bf7aa79cb74cad0953c60e8f"
 
 [update]
 [update.modrinth]
 mod-id = "1KiJRrTg"
-version = "tnP4eg1K"
+version = "DHUI24N7"
