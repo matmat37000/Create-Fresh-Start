@@ -1,6 +1,6 @@
 name = "Rabbit Pathfinding Fixed"
 filename = "rabbit-pathfinding-fix-1.0.0.jar"
-side = "server"
+side = "both"
 
 [download]
 url = "https://cdn.modrinth.com/data/MCMPNRD8/versions/suq0p1pB/rabbit-pathfinding-fix-1.0.0.jar"

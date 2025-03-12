@@ -1,6 +1,6 @@
 name = "Death Coordinates"
 filename = "deathcoordinates-1.0.0.jar"
-side = "server"
+side = "both"
 
 [download]
 url = "https://cdn.modrinth.com/data/j3LeOGRB/versions/RDBvnsPW/deathcoordinates-1.0.0.jar"

@@ -1,6 +1,6 @@
 name = "Farlands Reborn"
 filename = "farlandsreborn-neoforge-2.0.0.jar"
-side = "server"
+side = "both"
 
 [download]
 url = "https://cdn.modrinth.com/data/Y2YGBPDD/versions/vuJKgLMn/farlandsreborn-neoforge-2.0.0.jar"

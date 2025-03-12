@@ -1,6 +1,6 @@
 name = "World Start Commands and Global Gamerules"
 filename = "wscommands-1.0.6-neoforge-1.21.x.jar"
-side = "server"
+side = "both"
 
 [download]
 url = "https://cdn.modrinth.com/data/xShuFX3N/versions/LT8vpeLg/wscommands-1.0.6-neoforge-1.21.x.jar"
