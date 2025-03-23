@@ -1,0 +1,22 @@
+{
+  "type": "create:cutting",
+  "ingredients": [
+    {
+      "item": "minecraft:chicken"
+    }
+  ],
+  "results": [
+    {
+      "count": 2,
+      "item": {
+        "id": "farmersdelight:chicken_cuts"
+      }
+    },
+    {
+      "count": 1,
+      "item": {
+        "id": "minecraft:bone_meal"
+      }
+    }
+  ]
+}

@@ -1,0 +1,16 @@
+{
+  "type": "create:cutting",
+  "ingredients": [
+    {
+      "item": "minecraft:torchflower"
+    }
+  ],
+  "results": [
+    {
+      "count": 2,
+      "item": {
+        "id": "minecraft:orange_dye"
+      }
+    }
+  ]
+}

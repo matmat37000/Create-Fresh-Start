@@ -1,0 +1,24 @@
+{
+  "type": "create:cutting",
+  "ingredients": [
+    {
+      "item": "farmersdelight:wild_rice"
+    }
+  ],
+  "processing_time": 100,
+  "results": [
+    {
+      "count": 1,
+      "item": {
+        "id": "farmersdelight:rice"
+      }
+    },
+    {
+      "chance": 0.5,
+      "count": 1,
+      "item": {
+        "id": "farmersdelight:straw"
+      }
+    }
+  ]
+}

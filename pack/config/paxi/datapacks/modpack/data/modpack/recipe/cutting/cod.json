@@ -1,0 +1,22 @@
+{
+  "type": "create:cutting",
+  "ingredients": [
+    {
+      "item": "minecraft:cod"
+    }
+  ],
+  "results": [
+    {
+      "count": 2,
+      "item": {
+        "id": "farmersdelight:cod_slice"
+      }
+    },
+    {
+      "count": 1,
+      "item": {
+        "id": "minecraft:bone_meal"
+      }
+    }
+  ]
+}

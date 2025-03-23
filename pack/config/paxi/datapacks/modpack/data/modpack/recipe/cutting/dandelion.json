@@ -1,0 +1,16 @@
+{
+  "type": "create:cutting",
+  "ingredients": [
+    {
+      "item": "minecraft:dandelion"
+    }
+  ],
+  "results": [
+    {
+      "count": 2,
+      "item": {
+        "id": "minecraft:yellow_dye"
+      }
+    }
+  ]
+}

@@ -1,13 +1,13 @@
 name = "Better Clouds"
-filename = "better-clouds-1.7.7+1.21-fabric.jar"
+filename = "better-clouds-1.7.9+1.21-neoforge.jar"
 side = "client"
 
 [download]
-url = "https://cdn.modrinth.com/data/5srFLIaK/versions/5TuBWFEX/better-clouds-1.7.7%2B1.21-fabric.jar"
+url = "https://cdn.modrinth.com/data/5srFLIaK/versions/XC56zLmp/better-clouds-1.7.9%2B1.21-neoforge.jar"
 hash-format = "sha512"
-hash = "0603d0bf9e5b51e1a8570a96914c4c06a9859dffcbefdb359b03c86d58ff201b260407a304878e6342fab005cbe3c0c65c360a9efe5ea950d7ac0a808e93cf64"
+hash = "b1508feab55569376a0da0e854ad7996e1ad9d69585180c4d8d70eedab3fcf374437086b8e193a6d7cf1000203cf6f657cde13be6f104195c79da71b1ae84da6"
 
 [update]
 [update.modrinth]
 mod-id = "5srFLIaK"
-version = "5TuBWFEX"
+version = "XC56zLmp"

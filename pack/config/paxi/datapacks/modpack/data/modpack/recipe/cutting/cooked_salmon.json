@@ -1,0 +1,22 @@
+{
+  "type": "create:cutting",
+  "ingredients": [
+    {
+      "item": "minecraft:cooked_salmon"
+    }
+  ],
+  "results": [
+    {
+      "count": 2,
+      "item": {
+        "id": "farmersdelight:cooked_salmon_slice"
+      }
+    },
+    {
+      "count": 1,
+      "item": {
+        "id": "minecraft:bone_meal"
+      }
+    }
+  ]
+}

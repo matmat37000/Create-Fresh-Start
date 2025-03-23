@@ -1,13 +1,13 @@
 name = "World Start Commands and Global Gamerules"
-filename = "wscommands-1.0.6-neoforge-1.21.x.jar"
+filename = "wscommands-1.0.7-neoforge-1.21.x.jar"
 side = "both"
 
 [download]
-url = "https://cdn.modrinth.com/data/xShuFX3N/versions/LT8vpeLg/wscommands-1.0.6-neoforge-1.21.x.jar"
+url = "https://cdn.modrinth.com/data/xShuFX3N/versions/uBe4WUro/wscommands-1.0.7-neoforge-1.21.x.jar"
 hash-format = "sha512"
-hash = "2e05ab546d52cf1b8c4b11ce57673e0a91de0f63f66890d0518320eef1351e73511396902ae3bfdf51221c845a052f11dc63c9d8c766d268101d1af26b5665c3"
+hash = "188ca75b0246b9fea1bf69acd35e4fd06b1858bf2b98cd26b7a28bbb430a70fb0e22c5337941aa1defce7444a3464e5d3d951c64d0f0cf2efc9db367b8e96054"
 
 [update]
 [update.modrinth]
 mod-id = "xShuFX3N"
-version = "LT8vpeLg"
+version = "uBe4WUro"

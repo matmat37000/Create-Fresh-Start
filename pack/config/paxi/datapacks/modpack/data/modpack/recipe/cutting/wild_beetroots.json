@@ -1,0 +1,22 @@
+{
+  "type": "create:cutting",
+  "ingredients": [
+    {
+      "item": "farmersdelight:wild_beetroots"
+    }
+  ],
+  "results": [
+    {
+      "count": 1,
+      "item": {
+        "id": "minecraft:beetroot_seeds"
+      }
+    },
+    {
+      "count": 1,
+      "item": {
+        "id": "minecraft:red_dye"
+      }
+    }
+  ]
+}

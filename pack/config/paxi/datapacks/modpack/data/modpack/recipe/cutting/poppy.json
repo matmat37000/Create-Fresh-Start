@@ -1,0 +1,16 @@
+{
+  "type": "create:cutting",
+  "ingredients": [
+    {
+      "item": "minecraft:poppy"
+    }
+  ],
+  "results": [
+    {
+      "count": 2,
+      "item": {
+        "id": "minecraft:red_dye"
+      }
+    }
+  ]
+}

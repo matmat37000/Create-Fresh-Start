@@ -1,0 +1,17 @@
+<component name="libraryTable">
+  <library name="resourcepacks">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/pack/config/paxi/resourcepacks/Create Copper Restored 1.1.zip!/" />
+      <root url="jar://$PROJECT_DIR$/pack/config/paxi/resourcepacks/§f§l● Slim outline.zip!/" />
+      <root url="jar://$PROJECT_DIR$/pack/config/paxi/resourcepacks/Stay_True_1.21_Legacy_Copper_1.0.zip!/" />
+      <root url="jar://$PROJECT_DIR$/pack/config/paxi/resourcepacks/Fogulous_v1.1.1.zip!/" />
+      <root url="jar://$PROJECT_DIR$/pack/config/paxi/resourcepacks/fork-uccrp.zip!/" />
+      <root url="jar://$PROJECT_DIR$/pack/config/paxi/resourcepacks/Fancy Crops v1.1.zip!/" />
+      <root url="jar://$PROJECT_DIR$/pack/config/paxi/resourcepacks/Simple Grass Flowers v1.9.3.zip!/" />
+      <root url="jar://$PROJECT_DIR$/pack/config/paxi/resourcepacks/CC Mono {1.21.X].zip!/" />
+      <root url="jar://$PROJECT_DIR$/pack/config/paxi/resourcepacks/ccc.zip!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

@@ -1,13 +1,13 @@
 name = "Rustic Pancakes"
-filename = "rusticpancakes-fabric-1.21.1-1.0.0.jar"
+filename = "rusticpancakes-neoforge-1.21-1.1.0.jar"
 side = "both"
 
 [download]
-url = "https://cdn.modrinth.com/data/coJ1i4xo/versions/pi7qdmSJ/rusticpancakes-fabric-1.21.1-1.0.0.jar"
+url = "https://cdn.modrinth.com/data/coJ1i4xo/versions/79ULcpbJ/rusticpancakes-neoforge-1.21-1.1.0.jar"
 hash-format = "sha512"
-hash = "a3c59f494f583bef188aaea5efeda611b91ed0e9977db6707b6b531343b8bab163508c6dca1c4be9f0133e2b7d06d1908823f7ec2e94a4ae4f91f70228cc39b2"
+hash = "2f12fadb1f1817e6c90e593c6bb2d1019646e770eb8275cf365f085e5edfed68c06ba0cf423cd110993d48814381f58568bbd8dc65033033b2d99f575341e60c"
 
 [update]
 [update.modrinth]
 mod-id = "coJ1i4xo"
-version = "pi7qdmSJ"
+version = "79ULcpbJ"

@@ -1,0 +1,44 @@
+Create Advancements:
+- Drive to the farlands with a train
+- Visit all nether biomes with a train
+- Canteen (for automating much food)
+- Candy factory (Willy Wonka approved)
+- Gain All Plushables (see todo)
+- Create Frosch der Jeff Bezos heißt -> Uno Reverse Card Achievement
+
+Legendary Tooltips:
+1. Create
+2. Redstone, CC:T
+
+Warnings in modpack:
+- Biased look and feel. The most affecting changes (like outlines, fresh animations, the new redstone look or legacy copper textures) can be all disabled under Options -> Resource Packs.
+- Arachnophobia warning: The Fresh Extras Resource Pack contains spiders that might trigger arachnophobia in some players. For these, disabling that resource pack is recommended.
+- Still in Beta. Only report issues to modders if their mods have been tested isolated. Otherwise send bug reports towards me (ideally with the filter disabled)
+
+TODO:
+- Ensure all keybinds and default settings are correcy
+- Make all chocholate compatible with create chockolate
+- Check consistent block palette
+- Fish loot for fishermans trap
+- Building blocks (Spelunkers Palette)
+- Disable Musket upgrade
+- ComputerCraft custom frame
+- Custom credits screen
+- All plushables automatable via create (and hard)
+- heart crystal recipe
+- netherite recipe
+- Improve Maid textures
+- Create cobblestone mixer recipe
+- Automate most of farmers delight recipes
+- Make broken music disc custom name and custom broken sound effect on play
+- List all mod creators in credits screen
+- Custom font
+- Some animated resourcepacks maybe?
+- Make confee machine from kawaii dishes hard to craft and give an advancement
+- Custom model for farmersdelight crops, like the vanilla ones
+
+"neoforge:conditions": [
+    {
+      "type": "neoforge:false"
+    }
+  ],

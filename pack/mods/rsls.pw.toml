@@ -1,13 +1,13 @@
 name = "Raise Sound Limit Simplified"
-filename = "rsls-1.1.6.jar"
+filename = "rsls-neoforge-1.1.8.jar"
 side = "client"
 
 [download]
-url = "https://cdn.modrinth.com/data/SKW62Pht/versions/QJfFqWxp/rsls-1.1.6.jar"
+url = "https://cdn.modrinth.com/data/SKW62Pht/versions/P5tLMwTc/rsls-neoforge-1.1.8.jar"
 hash-format = "sha512"
-hash = "55c0d0e402999115d433f37eb09a40d4cf17466789a86aef83989270151cc83df572f529c5d5e9ec792afaf03a1685fa326f26ce6f1a03d7811cf02ad6cfc4e9"
+hash = "ee4db20807683a7d19915d404d5f39dac29b6b5dbc76ed7ce6d2334ecb5c070535e6400fc9a5dbbbca341ca1e5e1345721290334d1667cfe99efb52896475fb0"
 
 [update]
 [update.modrinth]
 mod-id = "SKW62Pht"
-version = "QJfFqWxp"
+version = "P5tLMwTc"

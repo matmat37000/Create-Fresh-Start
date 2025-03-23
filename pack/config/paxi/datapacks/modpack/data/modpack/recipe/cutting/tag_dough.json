@@ -1,0 +1,16 @@
+{
+  "type": "create:cutting",
+  "ingredients": [
+    {
+      "tag": "c:foods/dough"
+    }
+  ],
+  "results": [
+    {
+      "count": 1,
+      "item": {
+        "id": "farmersdelight:raw_pasta"
+      }
+    }
+  ]
+}

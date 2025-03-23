@@ -1,0 +1,16 @@
+{
+  "type": "create:cutting",
+  "ingredients": [
+    {
+      "item": "farmersdelight:red_mushroom_colony"
+    }
+  ],
+  "results": [
+    {
+      "count": 5,
+      "item": {
+        "id": "minecraft:red_mushroom"
+      }
+    }
+  ]
+}

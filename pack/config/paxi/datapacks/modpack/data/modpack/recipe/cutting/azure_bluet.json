@@ -1,0 +1,16 @@
+{
+  "type": "create:cutting",
+  "ingredients": [
+    {
+      "item": "minecraft:azure_bluet"
+    }
+  ],
+  "results": [
+    {
+      "count": 2,
+      "item": {
+        "id": "minecraft:light_gray_dye"
+      }
+    }
+  ]
+}

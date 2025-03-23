@@ -7,11 +7,11 @@ pack-format = "packwiz:1.1.0"
 [index]
 file = "index.toml"
 hash-format = "sha256"
+hash = "507136fce0cd30865208442761493a8f3bd07994c8fb0268c1f16bd89845a0c0"
 
 [versions]
-fabric = "0.16.10"
 minecraft = "1.21.1"
-neoforge = "21.1.133"
+neoforge = "21.1.138"
 
 [options]
 meta-folder = []

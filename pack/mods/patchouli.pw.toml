@@ -1,13 +1,13 @@
 name = "Patchouli"
-filename = "Patchouli-1.21-87-FABRIC.jar"
+filename = "Patchouli-1.21-87-NEOFORGE.jar"
 side = "both"
 
 [download]
-url = "https://cdn.modrinth.com/data/nU0bVIaL/versions/YGxHft1h/Patchouli-1.21-87-FABRIC.jar"
+url = "https://cdn.modrinth.com/data/nU0bVIaL/versions/MY12jUBD/Patchouli-1.21-87-NEOFORGE.jar"
 hash-format = "sha512"
-hash = "22feea5db11b58e73e5706811ad3e6109a314f0312c1cb979d1d839b139fa97b06d09723557e627b20ad1004a6ff9a27ad7bb391d2fe0be04221ff619fce3833"
+hash = "719845b6fa2502e8bef05f762a83eb827d7694f71b6853f5a2496accb9ac3140e502ed4817f4d3f1ec700c43b63ebde98a22f2fd9a17699ac008ad91888e383a"
 
 [update]
 [update.modrinth]
 mod-id = "nU0bVIaL"
-version = "YGxHft1h"
+version = "MY12jUBD"

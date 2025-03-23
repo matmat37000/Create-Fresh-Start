@@ -1,13 +1,13 @@
 name = "Paxi"
-filename = "Paxi-1.21.1-Fabric-5.1.2.jar"
+filename = "Paxi-1.21.1-NeoForge-5.1.2.jar"
 side = "both"
 
 [download]
-url = "https://cdn.modrinth.com/data/CU0PAyzb/versions/8NOIMjA6/Paxi-1.21.1-Fabric-5.1.2.jar"
+url = "https://cdn.modrinth.com/data/CU0PAyzb/versions/1nkCPaBG/Paxi-1.21.1-NeoForge-5.1.2.jar"
 hash-format = "sha512"
-hash = "f044016cf867814adaa398a465e72d40c73ac03e837ced0a97d978591bb6d1fdb6b02a6d0469535beb161a3a7cbe1765a4c96b807c7f8d0a4179ce00b418a4f4"
+hash = "db86a3b54da75577e9c6a62590ecac4a9575e9a9d9939f89a21f62f2a5cfa66a17fa7c0b5defc966e7fead9dd9a720da3fef920642a787394dc5e171f76e8254"
 
 [update]
 [update.modrinth]
 mod-id = "CU0PAyzb"
-version = "8NOIMjA6"
+version = "1nkCPaBG"

@@ -1,13 +1,13 @@
 name = "Cook your food"
-filename = "cookyourfood--mc1.21--fabric--1.12.jar"
+filename = "cookyourfood--mc1.21--neoforge--1.12.jar"
 side = "both"
 
 [download]
-url = "https://cdn.modrinth.com/data/5L9FxTN2/versions/COBNtUcz/cookyourfood--mc1.21--fabric--1.12.jar"
+url = "https://cdn.modrinth.com/data/5L9FxTN2/versions/Xt9g2dmz/cookyourfood--mc1.21--neoforge--1.12.jar"
 hash-format = "sha512"
-hash = "33b2f9e6f37db489d2aa6185e633f0e37e08891caf06229478bcb31e03b618f31f2d37da10f0f4ff073bd54499de81815c3f722a452fa20d8cac05568ca9804f"
+hash = "c649acfb1c65660e35134e3153551418b58c438b2573bed431c614d9fe59552895ee2d94298eb85318a68e56fc17f2006cbd78da120387ccd61d2ed0bf63451c"
 
 [update]
 [update.modrinth]
 mod-id = "5L9FxTN2"
-version = "COBNtUcz"
+version = "Xt9g2dmz"

@@ -1,0 +1,23 @@
+{
+  "type": "create:cutting",
+  "ingredients": [
+    {
+      "item": "farmersdelight:wild_cabbages"
+    }
+  ],
+  "results": [
+    {
+      "count": 1,
+      "item": {
+        "id": "farmersdelight:cabbage_seeds"
+      }
+    },
+    {
+      "chance": 0.5,
+      "count": 2,
+      "item": {
+        "id": "minecraft:yellow_dye"
+      }
+    }
+  ]
+}

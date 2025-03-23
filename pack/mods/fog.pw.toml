@@ -1,0 +1,13 @@
+name = "Fog"
+filename = "Fog-neoforge-1.6.4-1.21.1.jar"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/WuGVWUF2/versions/a0Zsxsp9/Fog-neoforge-1.6.4-1.21.1.jar"
+hash-format = "sha512"
+hash = "3ad229ca279c897eacb69b73c09043203687543846515eda72f1ee41bac3dc900adbbb41d96e463beb152f766d0b5a01c2284ba0032cfea22ac594350c97ac68"
+
+[update]
+[update.modrinth]
+mod-id = "WuGVWUF2"
+version = "a0Zsxsp9"

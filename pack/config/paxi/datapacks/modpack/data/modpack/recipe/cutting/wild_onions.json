@@ -1,0 +1,30 @@
+{
+  "type": "create:cutting",
+  "ingredients": [
+    {
+      "item": "farmersdelight:wild_onions"
+    }
+  ],
+  "processing_time": 100,
+  "results": [
+    {
+      "count": 1,
+      "item": {
+        "id": "farmersdelight:onion"
+      }
+    },
+    {
+      "count": 2,
+      "item": {
+        "id": "minecraft:magenta_dye"
+      }
+    },
+    {
+      "chance": 0.1,
+      "count": 1,
+      "item": {
+        "id": "minecraft:lime_dye"
+      }
+    }
+  ]
+}

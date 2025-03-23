@@ -1,0 +1,16 @@
+{
+  "type": "create:cutting",
+  "ingredients": [
+    {
+      "item": "minecraft:ink_sac"
+    }
+  ],
+  "results": [
+    {
+      "count": 2,
+      "item": {
+        "id": "minecraft:black_dye"
+      }
+    }
+  ]
+}

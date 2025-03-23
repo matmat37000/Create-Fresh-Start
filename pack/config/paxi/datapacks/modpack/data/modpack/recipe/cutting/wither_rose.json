@@ -1,0 +1,17 @@
+{
+  "type": "create:cutting",
+  "ingredients": [
+    {
+      "item": "minecraft:wither_rose"
+    }
+  ],
+  "processing_time": 100,
+  "results": [
+    {
+      "count": 2,
+      "item": {
+        "id": "minecraft:black_dye"
+      }
+    }
+  ]
+}

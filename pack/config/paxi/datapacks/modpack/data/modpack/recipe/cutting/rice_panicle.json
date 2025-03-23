@@ -1,0 +1,22 @@
+{
+  "type": "create:cutting",
+  "ingredients": [
+    {
+      "item": "farmersdelight:rice_panicle"
+    }
+  ],
+  "results": [
+    {
+      "count": 1,
+      "item": {
+        "id": "farmersdelight:rice"
+      }
+    },
+    {
+      "count": 1,
+      "item": {
+        "id": "farmersdelight:straw"
+      }
+    }
+  ]
+}

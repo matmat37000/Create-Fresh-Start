@@ -1,0 +1,31 @@
+{
+  "type": "create:cutting",
+  "ingredients": [
+    {
+      "item": "farmersdelight:wild_tomatoes"
+    }
+  ],
+  "processing_time": 100,
+  "results": [
+    {
+      "count": 1,
+      "item": {
+        "id": "farmersdelight:tomato_seeds"
+      }
+    },
+    {
+      "chance": 0.2,
+      "count": 1,
+      "item": {
+        "id": "farmersdelight:tomato"
+      }
+    },
+    {
+      "chance": 0.1,
+      "count": 1,
+      "item": {
+        "id": "minecraft:green_dye"
+      }
+    }
+  ]
+}

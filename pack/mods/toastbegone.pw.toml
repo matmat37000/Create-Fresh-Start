@@ -1,13 +1,13 @@
 name = "ToastBegone"
-filename = "toastbegone-fabric-1.21-1.2.0.jar"
+filename = "toastbegone-neoforge-1.21-1.2.0.jar"
 side = "client"
 
 [download]
-url = "https://cdn.modrinth.com/data/g8reZf3x/versions/fS7Rq9Yr/toastbegone-fabric-1.21-1.2.0.jar"
+url = "https://cdn.modrinth.com/data/g8reZf3x/versions/5hLqblBx/toastbegone-neoforge-1.21-1.2.0.jar"
 hash-format = "sha512"
-hash = "7f1acb753bed412204c822468ff9cdfbf3e9bfd8e4dfd1fc11d36fc89a1fe234f1640a723ae3e15c5707c4e56a300b3393466c47bcf75f73e77c2b198ff4024b"
+hash = "003011cb3365a18477614c2abef249298de974c55010c73a66efa3d008106cd21d11a6c61aa83578c0b484b68813727cf39245ef7bbf7e37ef32b6bc5eb1144f"
 
 [update]
 [update.modrinth]
 mod-id = "g8reZf3x"
-version = "fS7Rq9Yr"
+version = "5hLqblBx"

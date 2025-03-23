@@ -1,0 +1,22 @@
+{
+  "type": "create:cutting",
+  "ingredients": [
+    {
+      "item": "farmersdelight:smoked_ham"
+    }
+  ],
+  "results": [
+    {
+      "count": 2,
+      "item": {
+        "id": "minecraft:cooked_porkchop"
+      }
+    },
+    {
+      "count": 1,
+      "item": {
+        "id": "minecraft:bone"
+      }
+    }
+  ]
+}

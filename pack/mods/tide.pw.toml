@@ -1,13 +1,13 @@
 name = "Tide"
-filename = "tide-fabric-1.21-1.5.0.jar"
+filename = "tide-neoforge-1.21-1.5.0.jar"
 side = "both"
 
 [download]
-url = "https://cdn.modrinth.com/data/die1AF7i/versions/PXCfe4Wr/tide-fabric-1.21-1.5.0.jar"
+url = "https://cdn.modrinth.com/data/die1AF7i/versions/KJpv8fkd/tide-neoforge-1.21-1.5.0.jar"
 hash-format = "sha512"
-hash = "be3e6350c169994e5dfed2a2627bcb1578a314add5ab7ace5fe55908e7c251d5016b9d3a6eda3ea236f7c64bfabfa59a2b16499027e2e5108357d46d66cdc4ce"
+hash = "fd247708ac137043035faeecd9ebdac31c59390e2fe6105be56d1b9ec85ee4155f1d96b7a263b1de9c542168a9abbf2687c8db96e92640b18076b28c96469b7e"
 
 [update]
 [update.modrinth]
 mod-id = "die1AF7i"
-version = "PXCfe4Wr"
+version = "KJpv8fkd"

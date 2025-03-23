@@ -1,0 +1,16 @@
+{
+  "type": "create:cutting",
+  "ingredients": [
+    {
+      "item": "farmersdelight:kelp_roll"
+    }
+  ],
+  "results": [
+    {
+      "count": 3,
+      "item": {
+        "id": "farmersdelight:kelp_roll_slice"
+      }
+    }
+  ]
+}

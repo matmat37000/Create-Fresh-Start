@@ -1,13 +1,13 @@
 name = "Spelunker's Palette"
-filename = "spelunkers_palette-1.0.2-neoforge-1.21.1.jar"
+filename = "spelunkers_palette-1.0.1-neoforge-1.21.1.jar"
 side = "both"
 
 [download]
-url = "https://cdn.modrinth.com/data/OWNJpWZE/versions/Zu7ocPO1/spelunkers_palette-1.0.2-neoforge-1.21.1.jar"
+url = "https://cdn.modrinth.com/data/OWNJpWZE/versions/6rvyVhS7/spelunkers_palette-1.0.1-neoforge-1.21.1.jar"
 hash-format = "sha512"
-hash = "a721e6a0feaadd6d59ef017a0500eda9250d7d1336d5280ae4313d5fd6542cec9e5a1654f31ce3ab1cedb0909b7904b7d5c698c2e6154b0b04166554ad1b4d70"
+hash = "c76241bdfedf3d07c6589b5d0d62b462dc3b9452fd11cc470c52a1a9e4800d2f3fe479d4cc88d71a749b5ab1d63078ffd085b6d6e1b4a792ee8997826aa83d45"
 
 [update]
 [update.modrinth]
 mod-id = "OWNJpWZE"
-version = "Zu7ocPO1"
+version = "6rvyVhS7"
