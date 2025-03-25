@@ -11,9 +11,10 @@ Legendary Tooltips:
 2. Redstone, CC:T
 
 Warnings in modpack:
+- Still in Beta. Only report issues to modders if their mods have been tested isolated. Otherwise send bug reports towards me (ideally with the filter disabled)
+
 - Biased look and feel. The most affecting changes (like outlines, fresh animations, the new redstone look or legacy copper textures) can be all disabled under Options -> Resource Packs.
 - Arachnophobia warning: The Fresh Extras Resource Pack contains spiders that might trigger arachnophobia in some players. For these, disabling that resource pack is recommended.
-- Still in Beta. Only report issues to modders if their mods have been tested isolated. Otherwise send bug reports towards me (ideally with the filter disabled)
 
 TODO:
 - Ensure all keybinds and default settings are correcy

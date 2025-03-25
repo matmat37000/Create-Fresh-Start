@@ -178,15 +178,19 @@ hash = "e45fd4d0ad67a8343962d2c43a63eab1091b73bca0458e2223adea2294e23446"
 
 [[files]]
 file = "config/paxi/datapacks/modpack/data/expandeddelight/recipe/cooking/glow_berry_jelly.json"
-hash = "6499c645e07eac9f02815c48855d88fa0b64838094301336d2af0fc92372db75"
+hash = "ff338a47e05d6435ab11cf26d17454c9484dd3188607e6c41ead432d7a2d01e7"
 
 [[files]]
 file = "config/paxi/datapacks/modpack/data/expandeddelight/recipe/cooking/sweet_berry_jelly.json"
-hash = "87316234bcbfb860f3278b8705def29460aa0e83bb7994104f8c443082e2bb6c"
+hash = "fd7908eafd642449b0f230d7bd1a81d6cdeecf6fc9211e146ff8c00477fb0a08"
+
+[[files]]
+file = "config/paxi/datapacks/modpack/data/expandeddelight/recipe/juicing/apple_juice.json"
+hash = "a525040f5d370845b1a1f3b7157a7416528945dd63f7522665b58417ef6b85d8"
 
 [[files]]
 file = "config/paxi/datapacks/modpack/data/expandeddelight/recipe/peanut_butter.json"
-hash = "f1bf36ba70f6e7ab6a6d482f090cb6a8700701e833077cf4f9a5241732a5754f"
+hash = "f8d36885f049bd66f53ffb395d727c164b59141189853af5950effe588cad7c0"
 
 [[files]]
 file = "config/paxi/datapacks/modpack/data/farmersdelight/apple_pie.json"
@@ -518,7 +522,7 @@ hash = "87dc57a9d4f6fcf199de4ffb19e95752da7ddc1e023c5e00f1eeb7b28fb06976"
 
 [[files]]
 file = "config/paxi/datapacks/modpack/data/modpack/recipe/mixing/syrup.json"
-hash = "568bf861d4e63202dfc3c50abfecf54702a3c0debd27df07186f6404d26f8385"
+hash = "1bd7ee90ccd659f138314dd36ba3302a66ce13f9a99f02fd5eabe9940cb9cfc2"
 
 [[files]]
 file = "config/paxi/datapacks/modpack/data/modpack/recipe/rope_from_straws.json"
@@ -535,6 +539,10 @@ hash = "4d6f01caaa9d852e7c8c6c73653c1b836829ed7ac69630f40f35e69ac7cb23ad"
 [[files]]
 file = "config/paxi/datapacks/modpack/data/modpack/tags/item/functioning_music_discs.json"
 hash = "8be82fd8ac978a198bfa6250091ef759290ba2c38652652584ef4cb0375b40b4"
+
+[[files]]
+file = "config/paxi/datapacks/modpack/data/rusticpancakes/recipe/syrup.json"
+hash = "aa3e857835d51546e4cad843701c120d191597bfefa1a44ef413f04e5d289b28"
 
 [[files]]
 file = "config/paxi/datapacks/modpack/data/supplementaries/hourglass_dusts/cocoa_powder.json"
@@ -761,7 +769,7 @@ file = "config/paxi/datapacks/modpack/data/suppsquared/recipe/sack_dye.json"
 hash = "366d87ad8ffa16e065740ace61be2d3887082a8e1f450277d66110bc81926a83"
 
 [[files]]
-file = "config/paxi/datapacks/modpack/data/tide/recipe/boppers/apple.json"
+file = "config/paxi/datapacks/modpack/data/tide/recipe/bobbers/apple.json"
 hash = "18947029b0b8069bc8e4f84c78c6ea0f65c318895242acebffbeb387904eed6b"
 
 [[files]]
@@ -1299,6 +1307,11 @@ hash = "59fddeba59cd02e57131a3d4a505b6ff323d6fd528b632289e50e18aac880645"
 metafile = true
 
 [[files]]
+file = "mods/accurate-block-placement-reborn.pw.toml"
+hash = "e736938a499302b15d36f6c513200b01499cc507bca9186e7234b7e14c77c365"
+metafile = true
+
+[[files]]
 file = "mods/advancement-plaques.pw.toml"
 hash = "2b02594380f31aa857c89d296afb53bec67621b491956be09a54ab6845552e2a"
 metafile = true
@@ -1396,6 +1409,11 @@ metafile = true
 [[files]]
 file = "mods/better-boat-movement.pw.toml"
 hash = "5d2de64e1107e3a8a8632574e603d3dad4a467f142b5e1ad06356a79f260a49a"
+metafile = true
+
+[[files]]
+file = "mods/better-climbing.pw.toml"
+hash = "edb72fd9bebbb8348d9a8e42a2ea5b505919b6a9a95db5e7d2e3493276083496"
 metafile = true
 
 [[files]]
@@ -1554,6 +1572,11 @@ hash = "f81b7ce2c99e3880ae412b10787f39f3562a760026eb23d89b9c260285a23e76"
 metafile = true
 
 [[files]]
+file = "mods/create-compressed.pw.toml"
+hash = "a946542ae4970e35a3f721b16872d2c66e62235778eb640c4102c1faaa008b3e"
+metafile = true
+
+[[files]]
 file = "mods/create-copper-zinc.pw.toml"
 hash = "d1c2adb5b70e3252d1038a9ec80b6a23447053ad7507fd053f04d28703698e8e"
 metafile = true
@@ -1571,6 +1594,11 @@ metafile = true
 [[files]]
 file = "mods/create-framed.pw.toml"
 hash = "32b2a01389391c0154b5c6e2e6c4509cca4b28562822b060d3119c137056e10d"
+metafile = true
+
+[[files]]
+file = "mods/create-peaceful.pw.toml"
+hash = "9f8389b00597a4eb13d5ccd09e9eeae6bd1db4cf535dca2987ea841e446640d4"
 metafile = true
 
 [[files]]
@@ -1866,6 +1894,11 @@ metafile = true
 [[files]]
 file = "mods/lukis-crazy-chambers.pw.toml"
 hash = "ac4bb93adbc42cc41866d321c7b475369bb9bb8b73d100ce2043b4656b3b800b"
+metafile = true
+
+[[files]]
+file = "mods/mc-258859.pw.toml"
+hash = "828206ac97ad103ec4e2069555de4a2589dea4f4b02556580486631c7ade1cbe"
 metafile = true
 
 [[files]]
