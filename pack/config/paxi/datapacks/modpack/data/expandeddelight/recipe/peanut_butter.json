@@ -11,7 +11,7 @@
       "tag": "c:crops/peanut"
     },
     {
-      "tag": "minecraft:sugar"
+      "item": "minecraft:sugar"
     },
     {
       "tag": "c:foods/milk"
