@@ -1,17 +1,13 @@
 {
-  "neoforge:conditions": [
-    {
-      "type": "neoforge:false"
-    }
-  ],
   "type": "farmersdelight:cooking",
   "experience": 1.0,
+  "container": {
+    "count": 1,
+    "id": "minecraft:glass_bottle"
+  },
   "ingredients": [
     {
-      "item": "minecraft:apple"
-    },
-    {
-      "item": "minecraft:apple"
+      "tag": "lmans_apples_plus:apple"
     },
     {
       "item": "minecraft:sugar"
@@ -20,6 +16,6 @@
   "recipe_book_tab": "drinks",
   "result": {
     "count": 1,
-    "id": "farmersdelight:apple_cider"
+    "id": "rusticpancakes:syrup"
   }
 }

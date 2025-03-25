@@ -1,0 +1,16 @@
+{
+  "type": "create:cutting",
+  "ingredients": [
+    {
+      "tag": "lmans_apples_plus:apple"
+    }
+  ],
+  "results": [
+    {
+      "count": 8,
+      "item": {
+        "id": "lmans_apples_plus:apple_slice"
+      }
+    }
+  ]
+}

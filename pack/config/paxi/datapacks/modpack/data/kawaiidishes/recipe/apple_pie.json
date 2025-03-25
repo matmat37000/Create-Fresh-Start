@@ -4,22 +4,24 @@
       "type": "neoforge:false"
     }
   ],
-  "type": "farmersdelight:cooking",
-  "experience": 1.0,
+  "type": "minecraft:crafting_shapeless",
+  "category": "misc",
   "ingredients": [
     {
-      "item": "minecraft:apple"
-    },
-    {
-      "item": "minecraft:apple"
+      "item": "minecraft:egg"
     },
     {
       "item": "minecraft:sugar"
+    },
+    {
+      "item": "minecraft:apple"
+    },
+    {
+      "item": "minecraft:wheat"
     }
   ],
-  "recipe_book_tab": "drinks",
   "result": {
     "count": 1,
-    "id": "farmersdelight:apple_cider"
+    "id": "kawaiidishes:apple_pie"
   }
 }

@@ -173,12 +173,28 @@ file = "config/paxi/datapacks/modpack/data/create/recipe/splashing/wheat_flour.j
 hash = "857c600dee32d6a1adcac45473c6985860879ef0c6ecab1e34fa33d95f3e8a0c"
 
 [[files]]
+file = "config/paxi/datapacks/modpack/data/expandeddelight/recipe/cooking/cranberry_jelly.json"
+hash = "e45fd4d0ad67a8343962d2c43a63eab1091b73bca0458e2223adea2294e23446"
+
+[[files]]
+file = "config/paxi/datapacks/modpack/data/expandeddelight/recipe/cooking/glow_berry_jelly.json"
+hash = "6499c645e07eac9f02815c48855d88fa0b64838094301336d2af0fc92372db75"
+
+[[files]]
+file = "config/paxi/datapacks/modpack/data/expandeddelight/recipe/cooking/sweet_berry_jelly.json"
+hash = "87316234bcbfb860f3278b8705def29460aa0e83bb7994104f8c443082e2bb6c"
+
+[[files]]
 file = "config/paxi/datapacks/modpack/data/expandeddelight/recipe/peanut_butter.json"
 hash = "f1bf36ba70f6e7ab6a6d482f090cb6a8700701e833077cf4f9a5241732a5754f"
 
 [[files]]
+file = "config/paxi/datapacks/modpack/data/farmersdelight/apple_pie.json"
+hash = "056cf5b847952b1c555923ae64c7432913baa908fdd4a4a7c0323020d4e46c49"
+
+[[files]]
 file = "config/paxi/datapacks/modpack/data/farmersdelight/recipe/cooking/apple_cider.json"
-hash = "83df4ada24ac61b759adfce79b39699936127b69393b87699d544262e7603690"
+hash = "6560038c72e2b284c8a34558a2fd39bc1d6b93d9ef54f1502784454dd624ac18"
 
 [[files]]
 file = "config/paxi/datapacks/modpack/data/farmersdelight/recipe/cooking/hot_cocoa.json"
@@ -187,6 +203,14 @@ hash = "c7d811819d6b32815d086d2ab92e16d8c2923206b6f896ae03b90d7537e072d2"
 [[files]]
 file = "config/paxi/datapacks/modpack/data/farmersdelight/recipe/cooking/tomato_sauce.json"
 hash = "9dfb7b763820e95e0b878df1ae5d0b84521b961ddfda01f3b5d7ae5eea5fc8ec"
+
+[[files]]
+file = "config/paxi/datapacks/modpack/data/farmersdelight/recipe/fruit_salad.json"
+hash = "887ff739a983217f9a6ad87f9ec8ca1ee276df7698b10f108379a7dcb1dd282f"
+
+[[files]]
+file = "config/paxi/datapacks/modpack/data/farmersdelight/recipe/horse_feed.json"
+hash = "9d793d61c30e9dc1c6996e43717eda49fa6adbacb868c77ace270f9f69b67225"
 
 [[files]]
 file = "config/paxi/datapacks/modpack/data/farmersdelight/recipe/rope.json"
@@ -209,6 +233,22 @@ file = "config/paxi/datapacks/modpack/data/farmersdelight/recipe/wheat_dough_fro
 hash = "ebfb8fe596a8616af1b9300b1c5ae88165ccbfc59573da1e447211046a95cf70"
 
 [[files]]
+file = "config/paxi/datapacks/modpack/data/kawaiidishes/recipe/apple_pie.json"
+hash = "62900a0d1e771a458781b0150eaa43c3d20b81d08f7787b0def9ee72f7b02f89"
+
+[[files]]
+file = "config/paxi/datapacks/modpack/data/lmans_apples_plus/recipe/apple_juices.json"
+hash = "d945cc1be323c6b8509ca3e39c49ff5053494e3d53260a1cee2edbf853dbab52"
+
+[[files]]
+file = "config/paxi/datapacks/modpack/data/lmans_apples_plus/recipe/apple_pies.json"
+hash = "d945cc1be323c6b8509ca3e39c49ff5053494e3d53260a1cee2edbf853dbab52"
+
+[[files]]
+file = "config/paxi/datapacks/modpack/data/lmans_apples_plus/recipe/apple_sauces.json"
+hash = "d5489ebb23fcc5e04b75e1903fd3b17b42a4c4f4431e0305fdcf29e29c0ad76e"
+
+[[files]]
 file = "config/paxi/datapacks/modpack/data/minecraft/recipe/beetroot_soup.json"
 hash = "7b793d219195460cbfc04d0f1fe7bed3a7f3895da683f86e62a5c3531a1685f9"
 
@@ -219,6 +259,10 @@ hash = "f30ed41b7038af1cbd4cb7e29ff8715baeb4f00cf35c8e897529fdb4fb285222"
 [[files]]
 file = "config/paxi/datapacks/modpack/data/modpack/recipe/atlas.json"
 hash = "1d155528064f4033b81b11a80517a7006fcae9da775abbf81bafeac25784f1cb"
+
+[[files]]
+file = "config/paxi/datapacks/modpack/data/modpack/recipe/builders_tea.json"
+hash = "2708ee1d9e07c6c7ec3e75839c6702e510f341274527852f0faec040ec8311f3"
 
 [[files]]
 file = "config/paxi/datapacks/modpack/data/modpack/recipe/canvas_from_flux.json"
@@ -239,6 +283,10 @@ hash = "cdf3a57ecef6ec831af4bc16f812cb4d6ad756f13336cd2bce6a52b5a1124ffe"
 [[files]]
 file = "config/paxi/datapacks/modpack/data/modpack/recipe/compacting/salt_from_compacting.json"
 hash = "d988ac45512e797e88e586a5d40ca8ed4c5fff4eda0ca48d2e85f6ea25705442"
+
+[[files]]
+file = "config/paxi/datapacks/modpack/data/modpack/recipe/cooking_apple_syrup.json"
+hash = "afba743e95be8c554f3588441dbc3db7ebcfb4389372a2099875097e28029265"
 
 [[files]]
 file = "config/paxi/datapacks/modpack/data/modpack/recipe/copper_bars.json"
@@ -263,6 +311,10 @@ hash = "ea0c5646aa24b5f523da17dc3bcffaa61c9fc3a7b20781a4f661edd4bda82bce"
 [[files]]
 file = "config/paxi/datapacks/modpack/data/modpack/recipe/cutting/apple_pie.json"
 hash = "05be3ebd049d6563cb024ebc726b0fda24d5e8c99d52851750b9318e1afff9d0"
+
+[[files]]
+file = "config/paxi/datapacks/modpack/data/modpack/recipe/cutting/apple_slice.json"
+hash = "1d36877b30f0f7e9e4282e91b1244c72aca7fcf9ec4a7c1fff09f8eb817e1367"
 
 [[files]]
 file = "config/paxi/datapacks/modpack/data/modpack/recipe/cutting/azure_bluet.json"
@@ -335,6 +387,10 @@ hash = "e847159552aba30357cbe1c5c09b02ab5d0d7bf6275da61406a7ee6533baf51d"
 [[files]]
 file = "config/paxi/datapacks/modpack/data/modpack/recipe/cutting/kelp_roll.json"
 hash = "271a33c6046d7b632f4fe10ec50a90af0e313a532d1fc425446d86147f881fc1"
+
+[[files]]
+file = "config/paxi/datapacks/modpack/data/modpack/recipe/cutting/knive_apple_slice.json"
+hash = "cd6ce30e8f92a56e1447944235a5099a9603dae046e7f94cdbc56b70769025e2"
 
 [[files]]
 file = "config/paxi/datapacks/modpack/data/modpack/recipe/cutting/lily_of_the_valley.json"
@@ -459,6 +515,10 @@ hash = "8e044dcfcd80c3239ed71709d4a2ceece8b840280e5c71760486275e83711031"
 [[files]]
 file = "config/paxi/datapacks/modpack/data/modpack/recipe/mixing/gunpowder.json"
 hash = "87dc57a9d4f6fcf199de4ffb19e95752da7ddc1e023c5e00f1eeb7b28fb06976"
+
+[[files]]
+file = "config/paxi/datapacks/modpack/data/modpack/recipe/mixing/syrup.json"
+hash = "568bf861d4e63202dfc3c50abfecf54702a3c0debd27df07186f6404d26f8385"
 
 [[files]]
 file = "config/paxi/datapacks/modpack/data/modpack/recipe/rope_from_straws.json"
@@ -699,6 +759,10 @@ hash = "025a9792f8d745af9cad9ff3e9b2f491abd849ed5a1f452c4e6e6041b00a8bcc"
 [[files]]
 file = "config/paxi/datapacks/modpack/data/suppsquared/recipe/sack_dye.json"
 hash = "366d87ad8ffa16e065740ace61be2d3887082a8e1f450277d66110bc81926a83"
+
+[[files]]
+file = "config/paxi/datapacks/modpack/data/tide/recipe/boppers/apple.json"
+hash = "18947029b0b8069bc8e4f84c78c6ea0f65c318895242acebffbeb387904eed6b"
 
 [[files]]
 file = "config/paxi/datapacks/modpack/pack.mcmeta"

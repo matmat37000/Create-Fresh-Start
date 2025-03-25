@@ -1,0 +1,19 @@
+{
+  "type": "farmersdelight:cutting",
+  "ingredients": [
+    {
+      "tag": "lmans_apples_plus:apple"
+    }
+  ],
+  "result": [
+    {
+      "item": {
+        "count": 8,
+        "id": "lmans_apples_plus:apple_slice"
+      }
+    }
+  ],
+  "tool": {
+    "tag": "c:tools/knife"
+  }
+}
