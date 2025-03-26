@@ -89,6 +89,14 @@ file = "config/customwindowtitle-client.toml"
 hash = "cee3a900417fcf3a43ef3812c764523b0c90572c62151590364de868dae0ad27"
 
 [[files]]
+file = "config/defaultoptions/keybindings.txt"
+hash = "2e915d9f639b955435af3dbcd81326c0163f105c76d769bc2938a7682cb32b5f"
+
+[[files]]
+file = "config/defaultoptions/options.txt"
+hash = "d296a4e0274585a9ae5d017c0dc98d47f149167bfb985c5be996373dd2503691"
+
+[[files]]
 file = "config/easyanvils-client.toml"
 hash = "60e86e56dd00882a281e8ee88800b75abd4119361edd91fc9948e7da13e2e473"
 
@@ -785,24 +793,13 @@ file = "config/paxi/resourcepack_load_order.json"
 hash = "d0aaf3172f34275479f0669aa5b0a94b85788ae638f3062b948ec49d31c38293"
 
 [[files]]
-file = "config/paxi/resourcepacks/CC Mono {1.21.X].zip"
-hash = "d4c50ee30bb5571411610f5ea8dde2efc9d825048d4505a1565cb6cfddcdf714"
+file = "config/paxi/resourcepacks/animated-items.pw.toml"
+hash = "ba5dcd71dd9e075a20e0229edf807bcf14e54b62b7624fd47397dae6b7369787"
+metafile = true
 
 [[files]]
-file = "config/paxi/resourcepacks/Create Copper Restored 1.1.zip"
-hash = "a0e69c1180ed3df319c43b1520fbe6722aa5fa4d27a19fb74514066054bea59b"
-
-[[files]]
-file = "config/paxi/resourcepacks/Fancy Crops v1.1.zip"
-hash = "00bcc644350e2d5c5fdc0482fd7e66489c718c5e3d6ac823fd00e0563c134450"
-
-[[files]]
-file = "config/paxi/resourcepacks/Simple Grass Flowers v1.9.3.zip"
-hash = "47b2b01dd5c888b8bec8b699d33105c4fad4dab0d4e3847fa15626c29162eeec"
-
-[[files]]
-file = "config/paxi/resourcepacks/Stay_True_1.21_Legacy_Copper_1.0.zip"
-hash = "e5c43e14571ae15377521d41269a89ced1948185d5f933e2749dcd5c2384f01b"
+file = "config/paxi/resourcepacks/cc-remix.zip"
+hash = "c20aca3896069a500dbaf3123a9e8d5a57c8a57338392c097570e3ad3aee98f3"
 
 [[files]]
 file = "config/paxi/resourcepacks/create-computercraft.pw.toml"
@@ -810,8 +807,24 @@ hash = "5acf665b02f3a79024123c7824fd13bcb29b955c8d03c13806e13253352fb012"
 metafile = true
 
 [[files]]
-file = "config/paxi/resourcepacks/fork-uccrp.zip"
-hash = "22372e874729e5bcf6620f494e0b7b4b8751aabe91dc3855836f12a7cbc7982f"
+file = "config/paxi/resourcepacks/create-copper-restored.pw.toml"
+hash = "92331380f890679b7395a8001e6c7a03b802ced56bb345b308cd43fa7b4f8dcf"
+metafile = true
+
+[[files]]
+file = "config/paxi/resourcepacks/create-legacy-copper-continued.pw.toml"
+hash = "ce246db51d07698ec24e43e3551489bcf01a5a44bd3fdd0dd27d93beaee823ca"
+metafile = true
+
+[[files]]
+file = "config/paxi/resourcepacks/cursive-font.pw.toml"
+hash = "34d49e8a2057ef74e135f70451520f0a134aba46c09985738bb78e9481207917"
+metafile = true
+
+[[files]]
+file = "config/paxi/resourcepacks/fancy-crops.pw.toml"
+hash = "f954ad393353fdce97158688024daafc9c718083932a49faf982501412816293"
+metafile = true
 
 [[files]]
 file = "config/paxi/resourcepacks/modpack/README.md"
@@ -1238,8 +1251,14 @@ file = "config/paxi/resourcepacks/modpack/pack.png"
 hash = "a4b96b98430a075d274a782bc989cf6d46908323f5bf0d186ed857a0da1512bd"
 
 [[files]]
-file = "config/paxi/resourcepacks/§f§l● Slim outline.zip"
-hash = "2e08ee1af3714336bebbeaf2ce2379cf4f240092a2b3cd301ee81af8a16f5200"
+file = "config/paxi/resourcepacks/simple-grass-flowers.pw.toml"
+hash = "2c4f4c1252a2ad62ac168bc529b9e04a8de3c74a2dd3038254224281557599ad"
+metafile = true
+
+[[files]]
+file = "config/paxi/resourcepacks/slim-glowing-outline-effect.pw.toml"
+hash = "f9f191d42318b68fe5810b19a1af4141f95d132b6e7d545e4147910761fe33d0"
+metafile = true
 
 [[files]]
 file = "config/ping-wheel.json"
@@ -1639,6 +1658,11 @@ metafile = true
 [[files]]
 file = "mods/death-coordinates.pw.toml"
 hash = "aac788c8cf76ea325e63a7c95ae387691083da25719f205dd44d4be504895a1a"
+metafile = true
+
+[[files]]
+file = "mods/default-options.pw.toml"
+hash = "1d99ac75f92996ec9673e39c012a51dc4b05c48ef7bf672ccaf5e7464a1a3d13"
 metafile = true
 
 [[files]]
@@ -2227,6 +2251,11 @@ hash = "fcc69442d092874b5ab0aa76c31c8926eeccca901e213b169acde92c54f89954"
 metafile = true
 
 [[files]]
+file = "mods/tool-trims.pw.toml"
+hash = "79d04d954184defd602ce8e5258a1179b45664729d727d5d53e2c1693f05dd00"
+metafile = true
+
+[[files]]
 file = "mods/trade-cycling.pw.toml"
 hash = "d8feca2b5817cbbf11126562ab22f7b2804262b7f827f58a594b25067f23c362"
 metafile = true
@@ -2303,7 +2332,7 @@ metafile = true
 
 [[files]]
 file = "options.txt"
-hash = "4dc86d2934c5fb3761c857b999f9b9649bd6107bc1d33741bb3b52348635b428"
+hash = "fe9e540c0cafdea1dec43a75674a139afcaf3de24d761fb9ec6882d2d9685294"
 
 [[files]]
 file = "resourcepacks/create-lootr.pw.toml"

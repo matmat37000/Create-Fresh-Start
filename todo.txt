@@ -17,29 +17,11 @@ Warnings in modpack:
 - Arachnophobia warning: The Fresh Extras Resource Pack contains spiders that might trigger arachnophobia in some players. For these, disabling that resource pack is recommended.
 
 TODO:
-- Ensure all keybinds and default settings are correcy
 - Make all chocholate compatible with create chockolate
-- Check consistent block palette
-- Fish loot for fishermans trap
-- Building blocks (Spelunkers Palette)
-- Disable Musket upgrade
-- ComputerCraft custom frame
 - Custom credits screen
 - All plushables automatable via create (and hard)
 - heart crystal recipe
 - netherite recipe
-- Improve Maid textures
-- Create cobblestone mixer recipe
 - Automate most of farmers delight recipes
-- Make broken music disc custom name and custom broken sound effect on play
-- List all mod creators in credits screen
-- Custom font
-- Some animated resourcepacks maybe?
 - Make confee machine from kawaii dishes hard to craft and give an advancement
-- Custom model for farmersdelight crops, like the vanilla ones
-
-"neoforge:conditions": [
-    {
-      "type": "neoforge:false"
-    }
-  ],
+- Custom CC:T recipes
