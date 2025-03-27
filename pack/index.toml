@@ -94,7 +94,7 @@ hash = "48f8922e5392146685a42042e8833956d905b194c5421a577c4f4b18a3e48019"
 
 [[files]]
 file = "config/defaultoptions/options.txt"
-hash = "46e17a46ef4293f87ad71b227d5fafc61ebac06f565827100a7455c31af335e0"
+hash = "91757078ada8a1550ee0161c767a19648a4243266598a04e315a42bc6e59182d"
 
 [[files]]
 file = "config/easyanvils-client.toml"
@@ -1159,8 +1159,104 @@ file = "config/paxi/resourcepacks/modpack/assets/minecraft/models/block/stone/st
 hash = "f7c1d7106064a28566bb378e5ec5aa1ed84aca75d769265637bf2e030ae21e51"
 
 [[files]]
-file = "config/paxi/resourcepacks/modpack/assets/minecraft/sounds.json"
-hash = "3f94bedfe48701428e7e897f2942cdfb466bbc82d302e2fe32d369c8ac5d9ee0"
+file = "config/paxi/resourcepacks/modpack/assets/minecraft/sounds/music/game/clark.ogg"
+hash = "0d0e188410c919ff0855e26f2dab5b669101fb6e248ef5beee90e91380cf9440"
+
+[[files]]
+file = "config/paxi/resourcepacks/modpack/assets/minecraft/sounds/music/game/creative/aria_math.ogg"
+hash = "0d0e188410c919ff0855e26f2dab5b669101fb6e248ef5beee90e91380cf9440"
+
+[[files]]
+file = "config/paxi/resourcepacks/modpack/assets/minecraft/sounds/music/game/creative/biome_fest.ogg"
+hash = "0d0e188410c919ff0855e26f2dab5b669101fb6e248ef5beee90e91380cf9440"
+
+[[files]]
+file = "config/paxi/resourcepacks/modpack/assets/minecraft/sounds/music/game/creative/blind_spots.ogg"
+hash = "0d0e188410c919ff0855e26f2dab5b669101fb6e248ef5beee90e91380cf9440"
+
+[[files]]
+file = "config/paxi/resourcepacks/modpack/assets/minecraft/sounds/music/game/creative/dreiton.ogg"
+hash = "0d0e188410c919ff0855e26f2dab5b669101fb6e248ef5beee90e91380cf9440"
+
+[[files]]
+file = "config/paxi/resourcepacks/modpack/assets/minecraft/sounds/music/game/creative/haunt_muskie.ogg"
+hash = "0d0e188410c919ff0855e26f2dab5b669101fb6e248ef5beee90e91380cf9440"
+
+[[files]]
+file = "config/paxi/resourcepacks/modpack/assets/minecraft/sounds/music/game/creative/taswell.ogg"
+hash = "0d0e188410c919ff0855e26f2dab5b669101fb6e248ef5beee90e91380cf9440"
+
+[[files]]
+file = "config/paxi/resourcepacks/modpack/assets/minecraft/sounds/music/game/danny.ogg"
+hash = "0d0e188410c919ff0855e26f2dab5b669101fb6e248ef5beee90e91380cf9440"
+
+[[files]]
+file = "config/paxi/resourcepacks/modpack/assets/minecraft/sounds/music/game/deeper.ogg"
+hash = "0d0e188410c919ff0855e26f2dab5b669101fb6e248ef5beee90e91380cf9440"
+
+[[files]]
+file = "config/paxi/resourcepacks/modpack/assets/minecraft/sounds/music/game/dry_hands.ogg"
+hash = "0d0e188410c919ff0855e26f2dab5b669101fb6e248ef5beee90e91380cf9440"
+
+[[files]]
+file = "config/paxi/resourcepacks/modpack/assets/minecraft/sounds/music/game/endless.ogg"
+hash = "0d0e188410c919ff0855e26f2dab5b669101fb6e248ef5beee90e91380cf9440"
+
+[[files]]
+file = "config/paxi/resourcepacks/modpack/assets/minecraft/sounds/music/game/floating_trees.ogg"
+hash = "0d0e188410c919ff0855e26f2dab5b669101fb6e248ef5beee90e91380cf9440"
+
+[[files]]
+file = "config/paxi/resourcepacks/modpack/assets/minecraft/sounds/music/game/haggstrom.ogg"
+hash = "0d0e188410c919ff0855e26f2dab5b669101fb6e248ef5beee90e91380cf9440"
+
+[[files]]
+file = "config/paxi/resourcepacks/modpack/assets/minecraft/sounds/music/game/key.ogg"
+hash = "0d0e188410c919ff0855e26f2dab5b669101fb6e248ef5beee90e91380cf9440"
+
+[[files]]
+file = "config/paxi/resourcepacks/modpack/assets/minecraft/sounds/music/game/komorebi.ogg"
+hash = "0d0e188410c919ff0855e26f2dab5b669101fb6e248ef5beee90e91380cf9440"
+
+[[files]]
+file = "config/paxi/resourcepacks/modpack/assets/minecraft/sounds/music/game/living_mice.ogg"
+hash = "0d0e188410c919ff0855e26f2dab5b669101fb6e248ef5beee90e91380cf9440"
+
+[[files]]
+file = "config/paxi/resourcepacks/modpack/assets/minecraft/sounds/music/game/mice_on_venus.ogg"
+hash = "0d0e188410c919ff0855e26f2dab5b669101fb6e248ef5beee90e91380cf9440"
+
+[[files]]
+file = "config/paxi/resourcepacks/modpack/assets/minecraft/sounds/music/game/moog_city_2.ogg"
+hash = "0d0e188410c919ff0855e26f2dab5b669101fb6e248ef5beee90e91380cf9440"
+
+[[files]]
+file = "config/paxi/resourcepacks/modpack/assets/minecraft/sounds/music/game/pokopoko.ogg"
+hash = "0d0e188410c919ff0855e26f2dab5b669101fb6e248ef5beee90e91380cf9440"
+
+[[files]]
+file = "config/paxi/resourcepacks/modpack/assets/minecraft/sounds/music/game/puzzlebox.ogg"
+hash = "0d0e188410c919ff0855e26f2dab5b669101fb6e248ef5beee90e91380cf9440"
+
+[[files]]
+file = "config/paxi/resourcepacks/modpack/assets/minecraft/sounds/music/game/subwoofer_lullaby.ogg"
+hash = "0d0e188410c919ff0855e26f2dab5b669101fb6e248ef5beee90e91380cf9440"
+
+[[files]]
+file = "config/paxi/resourcepacks/modpack/assets/minecraft/sounds/music/game/sweden.ogg"
+hash = "0d0e188410c919ff0855e26f2dab5b669101fb6e248ef5beee90e91380cf9440"
+
+[[files]]
+file = "config/paxi/resourcepacks/modpack/assets/minecraft/sounds/music/game/watcher.ogg"
+hash = "0d0e188410c919ff0855e26f2dab5b669101fb6e248ef5beee90e91380cf9440"
+
+[[files]]
+file = "config/paxi/resourcepacks/modpack/assets/minecraft/sounds/music/game/wet_hands.ogg"
+hash = "0d0e188410c919ff0855e26f2dab5b669101fb6e248ef5beee90e91380cf9440"
+
+[[files]]
+file = "config/paxi/resourcepacks/modpack/assets/minecraft/sounds/music/game/yakusoku.ogg"
+hash = "0d0e188410c919ff0855e26f2dab5b669101fb6e248ef5beee90e91380cf9440"
 
 [[files]]
 file = "config/paxi/resourcepacks/modpack/assets/minecraft/textures/block/coal_ore.png"
