@@ -1,0 +1,8 @@
+{
+  "panorama": "vistas:default",
+  "forcePanorama": false,
+  "randomPerScreen": true,
+  "lockScreenshotPitch": true,
+  "lockScreenshotYaw": false,
+  "screenshotIndividually": true
+}

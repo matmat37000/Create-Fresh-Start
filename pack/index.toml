@@ -2,1823 +2,2611 @@ hash-format = "sha256"
 
 [[files]]
 file = "config/NoChatReports/NCR-Client.json"
+hash = "987f6b9f4e28ce259b8fa42e2ef4db43fd6f91a24408f74ca584c48eae1f8757"
 
 [[files]]
 file = "config/NoChatReports/NCR-Common.json"
+hash = "0eaad2630bd70ade719f7810e805810ada25379269ea194e43d3eea30c51dec0"
 
 [[files]]
 file = "config/NoChatReports/NCR-Encryption.json"
+hash = "0f61ac30bfc78653a30d715f793e30a6a43d6715106706487efd0aea5d43a84c"
 
 [[files]]
 file = "config/NoChatReports/NCR-ServerPreferences.json"
+hash = "df32843b853e0a493ef3a9b1e39276818294353fbb0d833f7f61e77da0f5bca1"
 
 [[files]]
 file = "config/NoChatReports/README.md"
+hash = "c52b76ccad2bd1063a22c7f6bb9e7c5db6b00fb53a6fd605585972ee0e5fc01f"
 
 [[files]]
 file = "config/WSCommands.json"
+hash = "7397a3008c3ce27235ece6a1bd988d16f164d0eb4eae9ee3720e3f3c750051b6"
 
 [[files]]
 file = "config/ambiance.json"
+hash = "42915f9f07c667dad055efc9961260fb7e0ae1daa05fa746e53be898ac653704"
 
 [[files]]
 file = "config/bcc-common.toml"
+hash = "e07800cac5f38fbfa1632f9a95515e9acf6924c6970549fa4347c4f0c3464650"
 
 [[files]]
 file = "config/betterclouds-v1.json"
+hash = "08c7c15888120dce678ef68019a3ab9f1bcc779e337b93b75936289037a1eae3"
 
 [[files]]
 file = "config/bettermodsbutton-client.toml"
+hash = "5938a856cef5507c12049654e46422c3720fd49bd5410ab55f01f4a5e960c7a5"
 
 [[files]]
 file = "config/bobby.conf"
+hash = "351a52b3924de2d0e4e9f0d81f90b30ab68c834fa3cc23f976f862de35e2af44"
 
 [[files]]
 file = "config/c2me.toml"
+hash = "814547785253947358cb2fd258cb7b62ce4f7c114f978804450ec058c02004bd"
 
 [[files]]
 file = "config/carryon-client.toml"
+hash = "99bd57db30d48f3785016ba38abb2449021c1e119df3a7d237d9eff9e07da8fa"
 
 [[files]]
 file = "config/carryon-common.toml"
+hash = "2f2af4ae6390ca896c7a67516ea2cebaddd0d877d9a368ef3cf3077018dac37c"
 
 [[files]]
 file = "config/celestria.json"
+hash = "4477e5f030b6e21411423d7cd583c2aa972ce4a927a7722dcee1dfd494f4f80c"
 
 [[files]]
 file = "config/clienttweaks-common.toml"
+hash = "a1b42cbe7c37588636c7b1a85621ecac065ffd829510fd80d987c2aec3306d9a"
 
 [[files]]
 file = "config/computercraft-client.toml"
+hash = "1806adcee6448bf5a4db0f9dc012a04f48631d1c569982dad11e7b5dfc056684"
 
 [[files]]
 file = "config/computercraft-server.toml"
+hash = "c3b52301af68583067faf66fddfcdf7f107c021c826c7c94d353747f4dd8d243"
 
 [[files]]
 file = "config/create-client.toml"
+hash = "98b602bc3a457ca9bc828b36e9e4c5376587abb4fe099905bbd20a7869ed65bb"
 
 [[files]]
 file = "config/create-common.toml"
+hash = "1c632f62c30f4e1223669267196d2ff1a2c03e400bf565ff4fe81e20c7cd2bdf"
 
 [[files]]
 file = "config/create-server.toml"
+hash = "c9f885920c5cfd3ebf505a2c599b68578082778dd65069a235d178d314a05ff2"
 
 [[files]]
 file = "config/customwindowtitle-client.toml"
+hash = "1d49f0055d9c0599ab68348cca05d80dd7e55d472d78ad38e4aee7f5a81b9874"
 
 [[files]]
 file = "config/defaultoptions/keybindings.txt"
+hash = "2e915d9f639b955435af3dbcd81326c0163f105c76d769bc2938a7682cb32b5f"
 
 [[files]]
 file = "config/defaultoptions/options.txt"
+hash = "46e17a46ef4293f87ad71b227d5fafc61ebac06f565827100a7455c31af335e0"
 
 [[files]]
 file = "config/easyanvils-client.toml"
+hash = "60e86e56dd00882a281e8ee88800b75abd4119361edd91fc9948e7da13e2e473"
 
 [[files]]
 file = "config/easyanvils-common.toml"
+hash = "851547a21def4c7664bd2ad259cca8ac7948f56d7e78894dd3238683aef91649"
 
 [[files]]
 file = "config/easyanvils-server.toml"
+hash = "61228450bef35c2871f9438b12f4dfba2f52aa740038a8a27ffbf2fc659592a2"
 
 [[files]]
 file = "config/experimentalist.json"
+hash = "ee94bf009e94bf1a251998042c4f8faeca8162a4bcc47f71fb621c8c8ff3c7f8"
 
 [[files]]
 file = "config/fishermens_trap-common.toml"
+hash = "f00ed9aabad508a798bc20ef9ea1e38f8cbfc2cf529d5895312dfd83fe1c5069"
 
 [[files]]
 file = "config/fog/config.json"
+hash = "cd5f0fb25de31c94cf880cf5812ecc4e7b345fd3d3b7bb890e910f0e618cd492"
+
+[[files]]
+file = "config/icon.png"
+hash = "a4b96b98430a075d274a782bc989cf6d46908323f5bf0d186ed857a0da1512bd"
 
 [[files]]
 file = "config/jade.json"
+hash = "77ea13d4a42af518c96506f89052a630394361a77939da00fbd473a2312c5f3e"
 
 [[files]]
 file = "config/kawaiidishes-server.toml"
+hash = "4c3a6e38d6818ab8b1c8f783a8b10bf1d0eeba47ae5280d66ac8b601ede4797d"
 
 [[files]]
 file = "config/lambdynlights.toml"
+hash = "e1b8b70427cc5bb7518f3c5694035cf346248080a866db66fa981b53043c6dc2"
 
 [[files]]
 file = "config/ok_zoomer/config.toml"
+hash = "7deb026c0c67c736adb79c6f295f1787803a7de01ac9e6a7c700e054c0107d8e"
 
 [[files]]
 file = "config/overflowingbars-client.toml"
+hash = "550b76675329a61ab75e5a4a292d5eeb829ba6a59053d1c108be4cb10006b2af"
 
 [[files]]
 file = "config/paxi/datapack_load_order.json"
+hash = "d0aaf3172f34275479f0669aa5b0a94b85788ae638f3062b948ec49d31c38293"
 
 [[files]]
 file = "config/paxi/datapacks/modpack/README.md"
+hash = "cfda6a805cfcd0cf6962f3ee58636cab04b91347b710fac2e0bc23f1176ea0d6"
 
 [[files]]
 file = "config/paxi/datapacks/modpack/data/create/recipe/campfire_cooking/bread.json"
+hash = "e5f9721ac48f377574aa07c0a42bade4debf00d443eddb56d8993840ea192a4e"
 
 [[files]]
 file = "config/paxi/datapacks/modpack/data/create/recipe/crafting/appliances/dough.json"
+hash = "244bbc70fd512e62d8b62d6096d8ad7e7117ff5a55bbffca694bf7a5f1655b6b"
 
 [[files]]
 file = "config/paxi/datapacks/modpack/data/create/recipe/crafting/appliances/slime_ball.json"
+hash = "4359db7bd9ea30cbf414120a0b33f6734e6ee8b869e77f92ad3085776870aa08"
 
 [[files]]
 file = "config/paxi/datapacks/modpack/data/create/recipe/crafting/curiosities/cake.json"
+hash = "ca000bb0f233cb9a03ad900d8b7e3d7b93a0a0e9edf2119da758f1b3bdb18de3"
 
 [[files]]
 file = "config/paxi/datapacks/modpack/data/create/recipe/mixing/dough_by_mixing.json"
+hash = "dcb92cb53bb7d4f2d5befaa14c302a3d39ceed635fc6d52548d3c1408d465408"
 
 [[files]]
 file = "config/paxi/datapacks/modpack/data/create/recipe/smelting/bread.json"
+hash = "3cf3a659957284e180bd783db66e590d13cb931d35f10859e578bd1c7b40ea3c"
 
 [[files]]
 file = "config/paxi/datapacks/modpack/data/create/recipe/smoking/bread.json"
+hash = "ed5cd9ab54548536e2376da9c2892c5897940d5585b49dcfd1e5d7f7f7ec55d3"
 
 [[files]]
 file = "config/paxi/datapacks/modpack/data/create/recipe/splashing/wheat_flour.json"
+hash = "857c600dee32d6a1adcac45473c6985860879ef0c6ecab1e34fa33d95f3e8a0c"
+
+[[files]]
+file = "config/paxi/datapacks/modpack/data/createcasing/recipe/sequenced_assembly/chorium_ingot.json"
+hash = "d6e8d031843c6115b4e13b2fdae8049c88a07c1342bfde20be743ab395b24027"
 
 [[files]]
 file = "config/paxi/datapacks/modpack/data/expandeddelight/recipe/cooking/cranberry_jelly.json"
+hash = "e45fd4d0ad67a8343962d2c43a63eab1091b73bca0458e2223adea2294e23446"
 
 [[files]]
 file = "config/paxi/datapacks/modpack/data/expandeddelight/recipe/cooking/glow_berry_jelly.json"
+hash = "ff338a47e05d6435ab11cf26d17454c9484dd3188607e6c41ead432d7a2d01e7"
 
 [[files]]
 file = "config/paxi/datapacks/modpack/data/expandeddelight/recipe/cooking/sweet_berry_jelly.json"
+hash = "fd7908eafd642449b0f230d7bd1a81d6cdeecf6fc9211e146ff8c00477fb0a08"
 
 [[files]]
 file = "config/paxi/datapacks/modpack/data/expandeddelight/recipe/juicing/apple_juice.json"
+hash = "a525040f5d370845b1a1f3b7157a7416528945dd63f7522665b58417ef6b85d8"
 
 [[files]]
 file = "config/paxi/datapacks/modpack/data/expandeddelight/recipe/peanut_butter.json"
+hash = "f8d36885f049bd66f53ffb395d727c164b59141189853af5950effe588cad7c0"
 
 [[files]]
 file = "config/paxi/datapacks/modpack/data/farmersdelight/apple_pie.json"
+hash = "056cf5b847952b1c555923ae64c7432913baa908fdd4a4a7c0323020d4e46c49"
 
 [[files]]
 file = "config/paxi/datapacks/modpack/data/farmersdelight/recipe/cooking/apple_cider.json"
+hash = "6560038c72e2b284c8a34558a2fd39bc1d6b93d9ef54f1502784454dd624ac18"
 
 [[files]]
 file = "config/paxi/datapacks/modpack/data/farmersdelight/recipe/cooking/hot_cocoa.json"
+hash = "c7d811819d6b32815d086d2ab92e16d8c2923206b6f896ae03b90d7537e072d2"
 
 [[files]]
 file = "config/paxi/datapacks/modpack/data/farmersdelight/recipe/cooking/tomato_sauce.json"
+hash = "9dfb7b763820e95e0b878df1ae5d0b84521b961ddfda01f3b5d7ae5eea5fc8ec"
 
 [[files]]
 file = "config/paxi/datapacks/modpack/data/farmersdelight/recipe/fruit_salad.json"
+hash = "887ff739a983217f9a6ad87f9ec8ca1ee276df7698b10f108379a7dcb1dd282f"
 
 [[files]]
 file = "config/paxi/datapacks/modpack/data/farmersdelight/recipe/horse_feed.json"
+hash = "9d793d61c30e9dc1c6996e43717eda49fa6adbacb868c77ace270f9f69b67225"
 
 [[files]]
 file = "config/paxi/datapacks/modpack/data/farmersdelight/recipe/rope.json"
+hash = "2a58018105680d042403933cf39f0022e8f933c02b8e1f1aea871d51f9190cce"
 
 [[files]]
 file = "config/paxi/datapacks/modpack/data/farmersdelight/recipe/rope_from_safety_net.json"
+hash = "d3ef9e78c6d1e7d18bccc63fd9bdf9833ca61a06cf6f5c09652598cd28bd8a34"
 
 [[files]]
 file = "config/paxi/datapacks/modpack/data/farmersdelight/recipe/safety_net.json"
+hash = "ef0a197d1aacffe2651ff7a106abaf429ee1ae867a66180e2c9b3c8ec168a18e"
 
 [[files]]
 file = "config/paxi/datapacks/modpack/data/farmersdelight/recipe/wheat_dough_from_eggs.json"
+hash = "c20e34c55b73b8edf37ea1e1bf5c2e29b0bf52123422b2ccd2eb67b5f9a0a9f0"
 
 [[files]]
 file = "config/paxi/datapacks/modpack/data/farmersdelight/recipe/wheat_dough_from_water.json"
+hash = "ebfb8fe596a8616af1b9300b1c5ae88165ccbfc59573da1e447211046a95cf70"
 
 [[files]]
 file = "config/paxi/datapacks/modpack/data/kawaiidishes/recipe/apple_pie.json"
+hash = "62900a0d1e771a458781b0150eaa43c3d20b81d08f7787b0def9ee72f7b02f89"
 
 [[files]]
 file = "config/paxi/datapacks/modpack/data/lmans_apples_plus/recipe/apple_juices.json"
+hash = "d945cc1be323c6b8509ca3e39c49ff5053494e3d53260a1cee2edbf853dbab52"
 
 [[files]]
 file = "config/paxi/datapacks/modpack/data/lmans_apples_plus/recipe/apple_pies.json"
+hash = "d945cc1be323c6b8509ca3e39c49ff5053494e3d53260a1cee2edbf853dbab52"
 
 [[files]]
 file = "config/paxi/datapacks/modpack/data/lmans_apples_plus/recipe/apple_sauces.json"
+hash = "d5489ebb23fcc5e04b75e1903fd3b17b42a4c4f4431e0305fdcf29e29c0ad76e"
 
 [[files]]
 file = "config/paxi/datapacks/modpack/data/minecraft/recipe/beetroot_soup.json"
+hash = "7b793d219195460cbfc04d0f1fe7bed3a7f3895da683f86e62a5c3531a1685f9"
 
 [[files]]
 file = "config/paxi/datapacks/modpack/data/minecraft/recipe/lodestone.json"
+hash = "f30ed41b7038af1cbd4cb7e29ff8715baeb4f00cf35c8e897529fdb4fb285222"
 
 [[files]]
 file = "config/paxi/datapacks/modpack/data/modpack/recipe/atlas.json"
+hash = "1d155528064f4033b81b11a80517a7006fcae9da775abbf81bafeac25784f1cb"
 
 [[files]]
 file = "config/paxi/datapacks/modpack/data/modpack/recipe/builders_tea.json"
+hash = "2708ee1d9e07c6c7ec3e75839c6702e510f341274527852f0faec040ec8311f3"
 
 [[files]]
 file = "config/paxi/datapacks/modpack/data/modpack/recipe/canvas_from_flux.json"
+hash = "687ae2924c29698e3124808066ad2ea62bb19266696a4f6e61053b86280550ac"
 
 [[files]]
 file = "config/paxi/datapacks/modpack/data/modpack/recipe/compacting/organic_compost_from_crops.json"
+hash = "f7cad665c92624a32a3da7695a5ac2519d6ede6c7975ca2c7f49513e75cca9e3"
 
 [[files]]
 file = "config/paxi/datapacks/modpack/data/modpack/recipe/compacting/organic_compost_from_monsters.json"
+hash = "4a8c2f5779f063870f70d5da15a1a6d1eea35d77b9a53a57b13e78d29516a0c5"
 
 [[files]]
 file = "config/paxi/datapacks/modpack/data/modpack/recipe/compacting/paper_cartridge.json"
+hash = "cdf3a57ecef6ec831af4bc16f812cb4d6ad756f13336cd2bce6a52b5a1124ffe"
 
 [[files]]
 file = "config/paxi/datapacks/modpack/data/modpack/recipe/compacting/salt_from_compacting.json"
+hash = "d988ac45512e797e88e586a5d40ca8ed4c5fff4eda0ca48d2e85f6ea25705442"
 
 [[files]]
 file = "config/paxi/datapacks/modpack/data/modpack/recipe/cooking_apple_syrup.json"
+hash = "afba743e95be8c554f3588441dbc3db7ebcfb4389372a2099875097e28029265"
 
 [[files]]
 file = "config/paxi/datapacks/modpack/data/modpack/recipe/copper_bars.json"
+hash = "f08f80e486d1985dc74621c22e13530af09696675e6bf4ec12374109618e70ba"
 
 [[files]]
 file = "config/paxi/datapacks/modpack/data/modpack/recipe/crushing/crushing_broken_music_disc.json"
+hash = "43adc691615bc34f95702fc4aa7434155957f23bc98858504cadf4389ad6009e"
 
 [[files]]
 file = "config/paxi/datapacks/modpack/data/modpack/recipe/crushing/crushing_music_disc.json"
+hash = "c4602b849a25541938ae5930a55b0a2c8c2e74a75bd4e562b252f561deb75c78"
 
 [[files]]
 file = "config/paxi/datapacks/modpack/data/modpack/recipe/crushing/crushing_salt_rock.json"
+hash = "2ef44e9bb670469ac571ad5e5f9d78d9fbc4d2afd2d5fbd86d0fb8108640a30a"
 
 [[files]]
 file = "config/paxi/datapacks/modpack/data/modpack/recipe/cutting/allium.json"
+hash = "ea0c5646aa24b5f523da17dc3bcffaa61c9fc3a7b20781a4f661edd4bda82bce"
 
 [[files]]
 file = "config/paxi/datapacks/modpack/data/modpack/recipe/cutting/apple_pie.json"
+hash = "05be3ebd049d6563cb024ebc726b0fda24d5e8c99d52851750b9318e1afff9d0"
 
 [[files]]
 file = "config/paxi/datapacks/modpack/data/modpack/recipe/cutting/apple_slice.json"
+hash = "1d36877b30f0f7e9e4282e91b1244c72aca7fcf9ec4a7c1fff09f8eb817e1367"
 
 [[files]]
 file = "config/paxi/datapacks/modpack/data/modpack/recipe/cutting/azure_bluet.json"
+hash = "b42fb2dd6f240d3a4586d243716431e72aaa5a057c49306db6f5968f7ac0cb05"
 
 [[files]]
 file = "config/paxi/datapacks/modpack/data/modpack/recipe/cutting/beef.json"
+hash = "430fc6bb5d1c1a383ebee0b8e17e9d39f0d58b09f1ff4587a9adf901db244999"
 
 [[files]]
 file = "config/paxi/datapacks/modpack/data/modpack/recipe/cutting/blue_orchid.json"
+hash = "3333a68c69c1f7276cf23502c8c9a1918f1b43df3dc6d4fe13fb7aefa4bb857f"
 
 [[files]]
 file = "config/paxi/datapacks/modpack/data/modpack/recipe/cutting/brown_mushroom_colony.json"
+hash = "2957724c107f1b13a4616a4ee0d7722eeebc34e1e0dba107d9e70b347c40353c"
 
 [[files]]
 file = "config/paxi/datapacks/modpack/data/modpack/recipe/cutting/cabbage.json"
+hash = "476f6804c7a608af95f14aa6c6751be8347261a994b61c6fc85217c209f43986"
 
 [[files]]
 file = "config/paxi/datapacks/modpack/data/modpack/recipe/cutting/cake.json"
+hash = "bad7ab51a9e280fd6d981f30929c40444239e20e82d373d607de14b4f2b1449c"
 
 [[files]]
 file = "config/paxi/datapacks/modpack/data/modpack/recipe/cutting/chicken.json"
+hash = "7b319f84e4d3c011e249f0c4bc598cc2c2e4fd3ffdd9ef4b52344d45d15080f1"
 
 [[files]]
 file = "config/paxi/datapacks/modpack/data/modpack/recipe/cutting/chocolate_pie.json"
+hash = "090a13f6723bb997eb66f29bfe3d5bfced836aa46e7f8c363c0a4f49eccc55f5"
 
 [[files]]
 file = "config/paxi/datapacks/modpack/data/modpack/recipe/cutting/cod.json"
+hash = "960575de2c983b39da63e6881d72b76c06119474c088408bc45fe1e1ce70d7a7"
 
 [[files]]
 file = "config/paxi/datapacks/modpack/data/modpack/recipe/cutting/cooked_chicken.json"
+hash = "9103120c68944156e87f9014a887ad1b6ab6a925e1caa03a4aa310a2c57a16d1"
 
 [[files]]
 file = "config/paxi/datapacks/modpack/data/modpack/recipe/cutting/cooked_cod.json"
+hash = "16fbf7fcbf7e327c936a147e97b746cbf52e84b78fb82f681df26e3bf27f0813"
 
 [[files]]
 file = "config/paxi/datapacks/modpack/data/modpack/recipe/cutting/cooked_mutton.json"
+hash = "fd0a39cfbede9b09408c30ee73fe618e786bb3be8d9ea2b629dcbd0334925d87"
 
 [[files]]
 file = "config/paxi/datapacks/modpack/data/modpack/recipe/cutting/cooked_salmon.json"
+hash = "00172ba55f3344cb8502bc917e360a1f03bf78eee861574610b059cf2ac455a5"
 
 [[files]]
 file = "config/paxi/datapacks/modpack/data/modpack/recipe/cutting/cornflower.json"
+hash = "c8ef5a9fe882534c09a6f7b76c9f2c793c786465f87bdbf6c0446dfd40b2e436"
 
 [[files]]
 file = "config/paxi/datapacks/modpack/data/modpack/recipe/cutting/dandelion.json"
+hash = "8d0f4d90edf21e52f3e54377347733183af4a7a8f0f18bf6b36ffe451415aab5"
 
 [[files]]
 file = "config/paxi/datapacks/modpack/data/modpack/recipe/cutting/ham.json"
+hash = "92a538c4d2d06479fa979da7b43e6cb77d4c0d7e6630bbe7effca98d4cbffbf7"
 
 [[files]]
 file = "config/paxi/datapacks/modpack/data/modpack/recipe/cutting/ink_sac.json"
+hash = "e847159552aba30357cbe1c5c09b02ab5d0d7bf6275da61406a7ee6533baf51d"
 
 [[files]]
 file = "config/paxi/datapacks/modpack/data/modpack/recipe/cutting/kelp_roll.json"
+hash = "271a33c6046d7b632f4fe10ec50a90af0e313a532d1fc425446d86147f881fc1"
 
 [[files]]
 file = "config/paxi/datapacks/modpack/data/modpack/recipe/cutting/knive_apple_slice.json"
+hash = "cd6ce30e8f92a56e1447944235a5099a9603dae046e7f94cdbc56b70769025e2"
 
 [[files]]
 file = "config/paxi/datapacks/modpack/data/modpack/recipe/cutting/lily_of_the_valley.json"
+hash = "bc726b8e19f2c77af0de5c6951cdb411081dc35ee03a941cb0b555331a7b0158"
 
 [[files]]
 file = "config/paxi/datapacks/modpack/data/modpack/recipe/cutting/melon.json"
+hash = "3dce224183d883c983a9310554b9dcbd4fdfd85e48c5fd32dcc43d6b0a72d53b"
 
 [[files]]
 file = "config/paxi/datapacks/modpack/data/modpack/recipe/cutting/mutton.json"
+hash = "9c462b48d1d2f05f789f1cddedc58e3d01fda20c3334416b942303fe2958fe19"
 
 [[files]]
 file = "config/paxi/datapacks/modpack/data/modpack/recipe/cutting/orange_tulip.json"
+hash = "6512584489689150e884a983a3a7ded29f421ecee226d3ed5ae1aa4b53992cac"
 
 [[files]]
 file = "config/paxi/datapacks/modpack/data/modpack/recipe/cutting/oxeye_daisy.json"
+hash = "55d60ac44c7ed7e7f1e7f4d3140573dbfc21e15e8cc348e8714dbf126cb4c1b5"
 
 [[files]]
 file = "config/paxi/datapacks/modpack/data/modpack/recipe/cutting/pink_tulip.json"
+hash = "fda957347cd7e389360ce2fd8f57c610678db41169c7e03403cb5cb5d70e881c"
 
 [[files]]
 file = "config/paxi/datapacks/modpack/data/modpack/recipe/cutting/poppy.json"
+hash = "4f19d57affc1709a3a9f37ca88723822bf309f2da639d6596543ec32f39f7022"
 
 [[files]]
 file = "config/paxi/datapacks/modpack/data/modpack/recipe/cutting/porkchop.json"
+hash = "d6e1f83cb8916415cf3551152a9b875d0005d400f789176bd6eed8c1f3a47967"
 
 [[files]]
 file = "config/paxi/datapacks/modpack/data/modpack/recipe/cutting/pumpkin.json"
+hash = "6d35752ed23bfad2ad0c4bab22c1189313316a2152d7a33a0f701cd4d3c088ec"
 
 [[files]]
 file = "config/paxi/datapacks/modpack/data/modpack/recipe/cutting/red_mushroom_colony.json"
+hash = "7f69128043d12c325d152892e6d9e82ca03799e2184babcdc375e7badacf15fc"
 
 [[files]]
 file = "config/paxi/datapacks/modpack/data/modpack/recipe/cutting/red_tulip.json"
+hash = "7c01cf123db40416c28e249aa4dcdbf10c986bbd4cd64c84694b3620ff56d1f1"
 
 [[files]]
 file = "config/paxi/datapacks/modpack/data/modpack/recipe/cutting/rice_panicle.json"
+hash = "e2c0d77035fe278269b64fbf799ac69df90c377453a6f973ffcb269493dbb732"
 
 [[files]]
 file = "config/paxi/datapacks/modpack/data/modpack/recipe/cutting/salmon.json"
+hash = "3551eb5c4c2c77bdb56a69688e908f25613a9075784e0372bc5e36b94e570c1e"
 
 [[files]]
 file = "config/paxi/datapacks/modpack/data/modpack/recipe/cutting/smoked_ham.json"
+hash = "a0938c6e70dcfcef12d0ae8349243207fbff326edf062d78045f140e8d6d3155"
 
 [[files]]
 file = "config/paxi/datapacks/modpack/data/modpack/recipe/cutting/sweet_berry_cheesecake.json"
+hash = "8fe4063faf02a12efaa414cb479650553307fe773c7c97c536a47178035666ae"
 
 [[files]]
 file = "config/paxi/datapacks/modpack/data/modpack/recipe/cutting/tag_dough.json"
+hash = "e597f70c4498465497ce35375356ec8e0f56e440d42ff55cf7f5451497006968"
 
 [[files]]
 file = "config/paxi/datapacks/modpack/data/modpack/recipe/cutting/torchflower.json"
+hash = "af94d9715d4d4313c6f0a405c91c9ba84ff870aee739c5b394ef344fa62f8c6d"
 
 [[files]]
 file = "config/paxi/datapacks/modpack/data/modpack/recipe/cutting/white_tulip.json"
+hash = "50387b82928febe3a63f11bd4f4c4d693fd72680bcda370f183dd268d9a8e8bd"
 
 [[files]]
 file = "config/paxi/datapacks/modpack/data/modpack/recipe/cutting/wild_beetroots.json"
+hash = "fcd450a44a24d8dab8860894c7a8b0a58e4f2d3cc46a635b27ea375b70ed31dc"
 
 [[files]]
 file = "config/paxi/datapacks/modpack/data/modpack/recipe/cutting/wild_cabbages.json"
+hash = "9e7fe2783bf458a783e9d032e854435d6dfc48c07ad6d98cbc1b89b2ab2a7bb7"
 
 [[files]]
 file = "config/paxi/datapacks/modpack/data/modpack/recipe/cutting/wild_carrots.json"
+hash = "f1895f33a932799c7138ac8cae86bacb01a2f02824f9642f8d3908cc0c3e7abc"
 
 [[files]]
 file = "config/paxi/datapacks/modpack/data/modpack/recipe/cutting/wild_onions.json"
+hash = "07cd09e8bb9771c6d2cd9c75f2b4ab465490f186f2292830155b1fb8f86627b6"
 
 [[files]]
 file = "config/paxi/datapacks/modpack/data/modpack/recipe/cutting/wild_potatoes.json"
+hash = "c7906292ae6c6b2f7b0faa888c27c14e0cf81960b8d7b64651b051e4b623bb1f"
 
 [[files]]
 file = "config/paxi/datapacks/modpack/data/modpack/recipe/cutting/wild_rice.json"
+hash = "d7a30a8a5f1e3e2a1539fe7f1cf7c34be417e7828448627dcc95ffa959a4e5ae"
 
 [[files]]
 file = "config/paxi/datapacks/modpack/data/modpack/recipe/cutting/wild_tomatoes.json"
+hash = "4cfbaaf7cef10d4e69db4f88a643e0790154a72d0cbac58a8e038fbe59d2616e"
 
 [[files]]
 file = "config/paxi/datapacks/modpack/data/modpack/recipe/cutting/wither_rose.json"
+hash = "e9b11e616546e236d6f16ec5935ff2d9c1fec056de920d459bd48e766b200086"
 
 [[files]]
 file = "config/paxi/datapacks/modpack/data/modpack/recipe/gold_bars.json"
+hash = "df733ecd208f8a28de1df347e7f28ce58c9b21bb27dc2ba4f60382f5bc9be739"
 
 [[files]]
 file = "config/paxi/datapacks/modpack/data/modpack/recipe/leather_from_smelting_rotten_flesh.json"
+hash = "70c0a4d76ab0dfeb31d735c4784091c129202e17c886e7f4a2e5e0bdaa92bea3"
 
 [[files]]
 file = "config/paxi/datapacks/modpack/data/modpack/recipe/lether_from_smoking_rotten_flesh.json"
+hash = "507cb055d0cc312ff014faed5002698c460a1a04d15f2acc680b03a5e4305ebd"
 
 [[files]]
 file = "config/paxi/datapacks/modpack/data/modpack/recipe/milling/bone.json"
+hash = "8e044dcfcd80c3239ed71709d4a2ceece8b840280e5c71760486275e83711031"
 
 [[files]]
 file = "config/paxi/datapacks/modpack/data/modpack/recipe/mixing/gunpowder.json"
+hash = "87dc57a9d4f6fcf199de4ffb19e95752da7ddc1e023c5e00f1eeb7b28fb06976"
 
 [[files]]
 file = "config/paxi/datapacks/modpack/data/modpack/recipe/mixing/syrup.json"
+hash = "1bd7ee90ccd659f138314dd36ba3302a66ce13f9a99f02fd5eabe9940cb9cfc2"
 
 [[files]]
 file = "config/paxi/datapacks/modpack/data/modpack/recipe/rope_from_straws.json"
+hash = "6bdef983ccff363e62849a8cf9b714595f25cf0887e12ee20589c77174b427bb"
 
 [[files]]
 file = "config/paxi/datapacks/modpack/data/modpack/recipe/smoking/ash.json"
+hash = "ccc43a259e08ba648d360e55b479f4ec1435cb0d8d1d11d1e440b0e7406201f9"
 
 [[files]]
 file = "config/paxi/datapacks/modpack/data/modpack/recipe/writable_book.json"
+hash = "4d6f01caaa9d852e7c8c6c73653c1b836829ed7ac69630f40f35e69ac7cb23ad"
 
 [[files]]
 file = "config/paxi/datapacks/modpack/data/modpack/tags/item/functioning_music_discs.json"
+hash = "8be82fd8ac978a198bfa6250091ef759290ba2c38652652584ef4cb0375b40b4"
 
 [[files]]
 file = "config/paxi/datapacks/modpack/data/rusticpancakes/recipe/syrup.json"
+hash = "aa3e857835d51546e4cad843701c120d191597bfefa1a44ef413f04e5d289b28"
 
 [[files]]
 file = "config/paxi/datapacks/modpack/data/supplementaries/hourglass_dusts/cocoa_powder.json"
+hash = "2fb987c00ce226874f1f55b3232378faff9e4222e34f0b633d4953578e22453b"
 
 [[files]]
 file = "config/paxi/datapacks/modpack/data/supplementaries/hourglass_dusts/ground_coffee.json"
+hash = "c7c2b8db2bfe3708399d413fcc25ef79c0c7a69cc2bcd05911eaee9b9a53d673"
 
 [[files]]
 file = "config/paxi/datapacks/modpack/data/supplementaries/hourglass_dusts/heart_crystal_dust.json"
+hash = "3600c05fe25fda6e302ea0e4bf89f27b2b950df78e238ec50188cf9bdfae14bf"
 
 [[files]]
 file = "config/paxi/datapacks/modpack/data/supplementaries/loot_table/blocks/sack.json"
+hash = "5419599d868f80c5ba534517352e3a6450cef47be60277ab902b0822f15506c2"
 
 [[files]]
 file = "config/paxi/datapacks/modpack/data/supplementaries/recipe/awnings/awning.json"
+hash = "a6d66fc5115e26e2e816776bd5fd431ab7f2a4a3bc11d8fc099e5bccdb9e1b43"
 
 [[files]]
 file = "config/paxi/datapacks/modpack/data/supplementaries/recipe/awnings/awning_black.json"
+hash = "94a5e1e7dc4cdd0d9a59945154e56b34fd191934544ac2b4c9d3fe7ddd80c81e"
 
 [[files]]
 file = "config/paxi/datapacks/modpack/data/supplementaries/recipe/awnings/awning_black_2.json"
+hash = "8fcdaf943abe09d868a9ee94506df878871f16df3b0a53d423a8f10a29e0f04f"
 
 [[files]]
 file = "config/paxi/datapacks/modpack/data/supplementaries/recipe/awnings/awning_blue.json"
+hash = "ca50634ea6c91f0e7eed8da1a7d4662197f4444692b6417a2d7fb5140cfbf236"
 
 [[files]]
 file = "config/paxi/datapacks/modpack/data/supplementaries/recipe/awnings/awning_blue_2.json"
+hash = "f2facff85ac931fb3435261363391b209ea8afd883a4ebce799fadbedaf8b3c4"
 
 [[files]]
 file = "config/paxi/datapacks/modpack/data/supplementaries/recipe/awnings/awning_brown.json"
+hash = "24149379469c8a7bb7efc260697dbbfd94f674be9c8808369aaaaf3931adecba"
 
 [[files]]
 file = "config/paxi/datapacks/modpack/data/supplementaries/recipe/awnings/awning_brown_2.json"
+hash = "9978c4e04f9b6be613db8f5ac1cd657e081d4b854d241a9c3a6d163880ee842b"
 
 [[files]]
 file = "config/paxi/datapacks/modpack/data/supplementaries/recipe/awnings/awning_cyan.json"
+hash = "2969603b7e2a1cc24a44f70948705d49bd41185be015a4501b5419605c838819"
 
 [[files]]
 file = "config/paxi/datapacks/modpack/data/supplementaries/recipe/awnings/awning_cyan_2.json"
+hash = "e8d1b62e45a3bb1cccf0a4dfecf8d0b6dab1b8bda8bab58661b1352a08464952"
 
 [[files]]
 file = "config/paxi/datapacks/modpack/data/supplementaries/recipe/awnings/awning_dark_gray.json"
+hash = "5a5c1c75be3f14603b2c122b67536497f0427bcd0fc322ed1c42adb5fd8e1d82"
 
 [[files]]
 file = "config/paxi/datapacks/modpack/data/supplementaries/recipe/awnings/awning_dark_gray_2.json"
+hash = "1e66cb62980cd65fd428c5f180caef40396d22deee84540b3ecc45249b2a0388"
 
 [[files]]
 file = "config/paxi/datapacks/modpack/data/supplementaries/recipe/awnings/awning_gray.json"
+hash = "5a5c1c75be3f14603b2c122b67536497f0427bcd0fc322ed1c42adb5fd8e1d82"
 
 [[files]]
 file = "config/paxi/datapacks/modpack/data/supplementaries/recipe/awnings/awning_gray_2.json"
+hash = "cb6a9ab03443bb93a663a029811f727ab6d93e3ff70f4fed16720c37e2fe9633"
 
 [[files]]
 file = "config/paxi/datapacks/modpack/data/supplementaries/recipe/awnings/awning_green.json"
+hash = "fe4e504ddb3ec6782099841c048f076c5a7a11878a1580c46648ddb20eab240d"
 
 [[files]]
 file = "config/paxi/datapacks/modpack/data/supplementaries/recipe/awnings/awning_green_2.json"
+hash = "1aa5f03065fee2a684501645b8453bb1f8fd893b1ad4edab45f54467a02d6ba5"
 
 [[files]]
 file = "config/paxi/datapacks/modpack/data/supplementaries/recipe/awnings/awning_light_blue.json"
+hash = "e711137fcf2d662c2f6873b7f1d5018615e5f5cad84f690218c6aeebb672cad2"
 
 [[files]]
 file = "config/paxi/datapacks/modpack/data/supplementaries/recipe/awnings/awning_light_blue_2.json"
+hash = "148e98120d2e5d3d616b6b3f3624474eb36b3d8bbcfb883462e1cc54bcc15113"
 
 [[files]]
 file = "config/paxi/datapacks/modpack/data/supplementaries/recipe/awnings/awning_light_gray.json"
+hash = "cc98018c17e48df235affcaea1748245b2564d228821a910529a1e0cf4be8a0e"
 
 [[files]]
 file = "config/paxi/datapacks/modpack/data/supplementaries/recipe/awnings/awning_light_gray_2.json"
+hash = "babe5db2697765eb6b2fd7a567afb947731ec57f6e3d6cd89826b2fddd40e137"
 
 [[files]]
 file = "config/paxi/datapacks/modpack/data/supplementaries/recipe/awnings/awning_lime.json"
+hash = "b3e80b6492bdafa47786131da8ee7f27d5ad988e4395046ae18e1d6b05e64528"
 
 [[files]]
 file = "config/paxi/datapacks/modpack/data/supplementaries/recipe/awnings/awning_lime_2.json"
+hash = "da150224af5ab9434aeb1b590ef2c80addd97581707a529279897d12b701c10a"
 
 [[files]]
 file = "config/paxi/datapacks/modpack/data/supplementaries/recipe/awnings/awning_magenta.json"
+hash = "f43cb4b0eeae64997e65ed7116fd77615c1940b442677b4bcd2a35db7c4d88fe"
 
 [[files]]
 file = "config/paxi/datapacks/modpack/data/supplementaries/recipe/awnings/awning_magenta_2.json"
+hash = "fae5647cb0db53eefcc9edcbff4e9e5389ba8bfaa66b8b7e57c5a812090edabf"
 
 [[files]]
 file = "config/paxi/datapacks/modpack/data/supplementaries/recipe/awnings/awning_orange.json"
+hash = "2a3d6e5cb372152a24f2c7d9a528ff961914c365622b5bc76800382c3a437aa0"
 
 [[files]]
 file = "config/paxi/datapacks/modpack/data/supplementaries/recipe/awnings/awning_orange_2.json"
+hash = "d1a35cddbc33dc880d75dd5baa7e7d2b3639d22bd4596673f074172685b95de4"
 
 [[files]]
 file = "config/paxi/datapacks/modpack/data/supplementaries/recipe/awnings/awning_pink.json"
+hash = "5cd773da46a62eab5eba0df4060c6e052bb5ee1e42636427b4a2ac59e0c15565"
 
 [[files]]
 file = "config/paxi/datapacks/modpack/data/supplementaries/recipe/awnings/awning_pink_2.json"
+hash = "443e24606931f510ad612af031ef3720fcfbcd0280170e758a566c4274fd521a"
 
 [[files]]
 file = "config/paxi/datapacks/modpack/data/supplementaries/recipe/awnings/awning_purple.json"
+hash = "2fedb3cb7720d689c142b13ff9f62503da0a5ba566e658dd22162e4973da485d"
 
 [[files]]
 file = "config/paxi/datapacks/modpack/data/supplementaries/recipe/awnings/awning_purple_2.json"
+hash = "f4b8dbcb94696d2647b79ba8e6d345dc1337ec8501bc9f7bf2962ee7b1e4d330"
 
 [[files]]
 file = "config/paxi/datapacks/modpack/data/supplementaries/recipe/awnings/awning_red.json"
+hash = "512210846c3b0f89534b3186ef42c214288ee9c915ffc96c6f58b043911d308d"
 
 [[files]]
 file = "config/paxi/datapacks/modpack/data/supplementaries/recipe/awnings/awning_red_2.json"
+hash = "71213aa2527fbf125eefdf61997ed122b23c292c0081b07cbf0c7f0d77de7610"
 
 [[files]]
 file = "config/paxi/datapacks/modpack/data/supplementaries/recipe/awnings/awning_white.json"
+hash = "00b9e33b52e9a9196eb5072df03ca844a094ed5b6bfae5fbb8a6a8fd4318a23e"
 
 [[files]]
 file = "config/paxi/datapacks/modpack/data/supplementaries/recipe/awnings/awning_white_2.json"
+hash = "cffdc6835d82334185248602ff6b33c9859e0b7082f3e3d1199404ec1679c042"
 
 [[files]]
 file = "config/paxi/datapacks/modpack/data/supplementaries/recipe/awnings/awning_yellow.json"
+hash = "cc3346dd26f636aa299a440513a944a70759c0087ca8955653d757aaad57ce69"
 
 [[files]]
 file = "config/paxi/datapacks/modpack/data/supplementaries/recipe/awnings/awning_yellow_2.json"
+hash = "f53c0efa93a9f77a8efdf5c7e86c145645c594c1dbf046cc190e179ac48b7b3b"
 
 [[files]]
 file = "config/paxi/datapacks/modpack/data/supplementaries/recipe/bellows.json"
+hash = "820ca4b5038eddcbd447649be75f470d84077aed6705ba41a685961e6f70252a"
 
 [[files]]
 file = "config/paxi/datapacks/modpack/data/supplementaries/recipe/candy.json"
+hash = "aeb4844d48a64a867ac66ca6efcf52a552615ae8706199b06318b064d666f565"
 
 [[files]]
 file = "config/paxi/datapacks/modpack/data/supplementaries/recipe/cog_block.json"
+hash = "5d4f84349ad56119d500e7f0bf0d86a47c19831e424bc2d354e3e855dd6aab58"
 
 [[files]]
 file = "config/paxi/datapacks/modpack/data/supplementaries/recipe/crank.json"
+hash = "9a2ab57786becc6224759c3775083db4cb36a620c7421eb1abff56a7b1236e36"
 
 [[files]]
 file = "config/paxi/datapacks/modpack/data/supplementaries/recipe/relayer.json"
+hash = "fced12ae91f3a803e39e42c82c92a506e12d8c46d83327d0724cd8f693098324"
 
 [[files]]
 file = "config/paxi/datapacks/modpack/data/supplementaries/recipe/sack.json"
+hash = "394b9bf793e7be0c353b7a32aca815571bd2fb9d6949f86a3547286ff87aa99e"
 
 [[files]]
 file = "config/paxi/datapacks/modpack/data/supplementaries/recipe/sack_2.json"
+hash = "f16e7754f3ebc382483fc8a95cbd3174b9f8f4b3468bd523c5876c34e38677ba"
 
 [[files]]
 file = "config/paxi/datapacks/modpack/data/supplementaries/recipe/sack_3.json"
+hash = "b366a586596555074f6fd2aaa8b0fee5305acf6617bb4aa45014fe68d7539b81"
 
 [[files]]
 file = "config/paxi/datapacks/modpack/data/supplementaries/recipe/timber_brace.json"
+hash = "0b0b2d3c33c12f093d1a996a7e71d1642814c4eb875a1a04e6d6aca83f30fec7"
 
 [[files]]
 file = "config/paxi/datapacks/modpack/data/supplementaries/recipe/timber_cross_brace.json"
+hash = "8a55ef2ce995dd329b2737399d42c3c6f18992512fb4471f6ad558089b533bd2"
 
 [[files]]
 file = "config/paxi/datapacks/modpack/data/supplementaries/recipe/timber_frame.json"
+hash = "87931ec58ef847a5b688a5e57aa1339a3791b9e3964cf996b45fc9af68e902dc"
 
 [[files]]
 file = "config/paxi/datapacks/modpack/data/supplementaries/recipe/turn_table.json"
+hash = "424ee7f7f70c8bdbef46d35c12827ad3c13c84f748081e2d205ae357483da72d"
 
 [[files]]
 file = "config/paxi/datapacks/modpack/data/supplementaries/tags/item/hourglass_dusts.json"
+hash = "25f597662548852dbd29ec0fd2d28709c49409c7a679c3ff43e18f9090bd1f25"
 
 [[files]]
 file = "config/paxi/datapacks/modpack/data/suppsquared/recipe/metal_brace.json"
+hash = "1ba7044baa0aa94aef1a223c1de887193dcac52741d8b799e21d2d474ce9b1ba"
 
 [[files]]
 file = "config/paxi/datapacks/modpack/data/suppsquared/recipe/metal_cross_brace.json"
+hash = "d5e7cbef998e2faaee18f58cd971c005f647125b8994b016ef0f3f41de66e679"
 
 [[files]]
 file = "config/paxi/datapacks/modpack/data/suppsquared/recipe/metal_frame.json"
+hash = "025a9792f8d745af9cad9ff3e9b2f491abd849ed5a1f452c4e6e6041b00a8bcc"
 
 [[files]]
 file = "config/paxi/datapacks/modpack/data/suppsquared/recipe/sack_dye.json"
+hash = "366d87ad8ffa16e065740ace61be2d3887082a8e1f450277d66110bc81926a83"
 
 [[files]]
 file = "config/paxi/datapacks/modpack/data/tide/recipe/bobbers/apple.json"
+hash = "18947029b0b8069bc8e4f84c78c6ea0f65c318895242acebffbeb387904eed6b"
+
+[[files]]
+file = "config/paxi/datapacks/modpack/data/tide/recipe/chorus_flower_from_cod.json"
+hash = "08b1a428fb27acfe11ef673bef8287017e6f4e899166bf2de316364e6450cd11"
 
 [[files]]
 file = "config/paxi/datapacks/modpack/pack.mcmeta"
+hash = "cd051a8e8b7fffcc7a3e99421ad3d979acd704b7bab50b1590b858b58e5b2dfd"
 
 [[files]]
 file = "config/paxi/datapacks/modpack/pack.png"
+hash = "a4b96b98430a075d274a782bc989cf6d46908323f5bf0d186ed857a0da1512bd"
 
 [[files]]
 file = "config/paxi/resourcepack_load_order.json"
+hash = "d0aaf3172f34275479f0669aa5b0a94b85788ae638f3062b948ec49d31c38293"
 
 [[files]]
 file = "config/paxi/resourcepacks/animated-items.pw.toml"
+hash = "ba5dcd71dd9e075a20e0229edf807bcf14e54b62b7624fd47397dae6b7369787"
 metafile = true
 
 [[files]]
 file = "config/paxi/resourcepacks/cc-remix.zip"
+hash = "de77c8d6a568524fa2711de5a59b00e6c305d75d12bbb94b031b8de1e6390a4f"
 
 [[files]]
 file = "config/paxi/resourcepacks/create-computercraft.pw.toml"
+hash = "5acf665b02f3a79024123c7824fd13bcb29b955c8d03c13806e13253352fb012"
 metafile = true
 
 [[files]]
 file = "config/paxi/resourcepacks/create-copper-restored.pw.toml"
+hash = "92331380f890679b7395a8001e6c7a03b802ced56bb345b308cd43fa7b4f8dcf"
 metafile = true
 
 [[files]]
 file = "config/paxi/resourcepacks/create-legacy-copper-continued.pw.toml"
+hash = "ce246db51d07698ec24e43e3551489bcf01a5a44bd3fdd0dd27d93beaee823ca"
 metafile = true
 
 [[files]]
 file = "config/paxi/resourcepacks/cursive-font.pw.toml"
+hash = "34d49e8a2057ef74e135f70451520f0a134aba46c09985738bb78e9481207917"
 metafile = true
 
 [[files]]
 file = "config/paxi/resourcepacks/fancy-crops.pw.toml"
+hash = "f954ad393353fdce97158688024daafc9c718083932a49faf982501412816293"
 metafile = true
 
 [[files]]
 file = "config/paxi/resourcepacks/modpack/README.md"
+hash = "ddd99b10a05f24e0c87349794470d66acc6b80c70eb206046983919ca28a32a3"
 
 [[files]]
 file = "config/paxi/resourcepacks/modpack/assets/antique_atlas/lang/en_us.json"
+hash = "af00c4bd82bb15ca2efba593b2fc34a60c169770f5a97b0602d155cb86937210"
 
 [[files]]
 file = "config/paxi/resourcepacks/modpack/assets/expandeddelight/textures/block/salt_ore.png"
+hash = "e5c7409d540dec0167610feedb97a36f0d52a26801d0fe09d5969aeb41387c9b"
 
 [[files]]
 file = "config/paxi/resourcepacks/modpack/assets/legendarytooltips/frame_definitions.json"
+hash = "19e231c6a98dfac730790afc1b7867694b91abef0cd5b03cc4673f2228053faa"
 
 [[files]]
 file = "config/paxi/resourcepacks/modpack/assets/legendarytooltips/textures/gui/tooltip_borders.png"
+hash = "eddafc0ea80746796e5092b66acdecb233bc84975d1f03080d211838a8c5931c"
 
 [[files]]
 file = "config/paxi/resourcepacks/modpack/assets/minecraft/blockstates/stone.json"
+hash = "2df970ee713dcc51cd716ce0364552e6cc64d94c768cd6bc6525b49ceac875e1"
 
 [[files]]
 file = "config/paxi/resourcepacks/modpack/assets/minecraft/blockstates/stone_slab.json"
+hash = "a73617b82ca1a38366305d97b1b27f5ce5291750f3e05ead36d07b75b7a1b34b"
 
 [[files]]
 file = "config/paxi/resourcepacks/modpack/assets/minecraft/blockstates/stone_stairs.json"
+hash = "0372995fffc97d6f5f94b6cb06b6a370277b1172ad06766fecf4da57629f40f7"
 
 [[files]]
 file = "config/paxi/resourcepacks/modpack/assets/minecraft/models/block/stone/block/0.json"
+hash = "08a49d586de8a8f87df2c852869d4648b17c17e00802096d13adf6cd2401f8b1"
 
 [[files]]
 file = "config/paxi/resourcepacks/modpack/assets/minecraft/models/block/stone/block/1.json"
+hash = "b20a0a8b943193002dd12bee26a5d7cf461cd96c1f0bda36bb8a7da193f54cfc"
 
 [[files]]
 file = "config/paxi/resourcepacks/modpack/assets/minecraft/models/block/stone/block/10.json"
+hash = "ae3746d328c9ab2ebd8f5f5a5f83811a806f114b1a7898796a81deafe56da1a5"
 
 [[files]]
 file = "config/paxi/resourcepacks/modpack/assets/minecraft/models/block/stone/block/11.json"
+hash = "931d890d81bed3ef689566c0cc0df0acc985cbc9ddbf843ecd5c6bc434fde6b8"
 
 [[files]]
 file = "config/paxi/resourcepacks/modpack/assets/minecraft/models/block/stone/block/2.json"
+hash = "ff638b0c03d89a289c7f21c074fba8e3f934027044507769bc079e8933aaf27a"
 
 [[files]]
 file = "config/paxi/resourcepacks/modpack/assets/minecraft/models/block/stone/block/3.json"
+hash = "bb6b68802f7048166074b0d6ac7680f0e42eb08b847f362ffdadfbb956a8b1a4"
 
 [[files]]
 file = "config/paxi/resourcepacks/modpack/assets/minecraft/models/block/stone/block/4.json"
+hash = "3f37671ebd6ae50157a795de51915f8e7a4e7622740c8cd5d7d051648a1c0b69"
 
 [[files]]
 file = "config/paxi/resourcepacks/modpack/assets/minecraft/models/block/stone/block/5.json"
+hash = "3b0a340c03870db4266f397e6c4bb21989169aa1a9e2fcef3ea924234e863d65"
 
 [[files]]
 file = "config/paxi/resourcepacks/modpack/assets/minecraft/models/block/stone/block/6.json"
+hash = "1bfbf3b832173b894a2bb1dd0a61d4979d5f8117f238596c831598d5d26b6023"
 
 [[files]]
 file = "config/paxi/resourcepacks/modpack/assets/minecraft/models/block/stone/block/7.json"
+hash = "913af9676cebd373b84b7d5e9d023e0944e72ad679391d87700ea582abf09192"
 
 [[files]]
 file = "config/paxi/resourcepacks/modpack/assets/minecraft/models/block/stone/block/8.json"
+hash = "73d1911086716699ce57904912847549b19110d73bd8b81dbceaa82f20460732"
 
 [[files]]
 file = "config/paxi/resourcepacks/modpack/assets/minecraft/models/block/stone/block/9.json"
+hash = "1e2ca04e7c74508dba805b3480a69e948090963f32d06400c097bc5bfacb27db"
 
 [[files]]
 file = "config/paxi/resourcepacks/modpack/assets/minecraft/models/block/stone/slab/0.json"
+hash = "ab60b103f81af0a550e4567b8b2fb69db9f4e70499e41621a410d17bf3ea98b3"
 
 [[files]]
 file = "config/paxi/resourcepacks/modpack/assets/minecraft/models/block/stone/slab/1.json"
+hash = "058d6356e56041ccb695fd17cf8c1215657e1490bca11121718b708f0c05ed37"
 
 [[files]]
 file = "config/paxi/resourcepacks/modpack/assets/minecraft/models/block/stone/slab/10.json"
+hash = "46042355aca8e62082a8d8042bea0aeb4e2cd6e31659fbbff384b02ec925cc6d"
 
 [[files]]
 file = "config/paxi/resourcepacks/modpack/assets/minecraft/models/block/stone/slab/11.json"
+hash = "a08e0281ab3744d39cbf5fb5dfa642d3507297c2af1275d58ffda56e9cda6a0c"
 
 [[files]]
 file = "config/paxi/resourcepacks/modpack/assets/minecraft/models/block/stone/slab/2.json"
+hash = "9efdd9da0d0fce6689cff71660ea5bc1380142e0f870762d38892d69d0c626b2"
 
 [[files]]
 file = "config/paxi/resourcepacks/modpack/assets/minecraft/models/block/stone/slab/3.json"
+hash = "21398e2c6d769d57aaf728dc1bbb466cdbda95fd1edaa243b6e7c59d95c2b3c7"
 
 [[files]]
 file = "config/paxi/resourcepacks/modpack/assets/minecraft/models/block/stone/slab/4.json"
+hash = "acc347f1e553eb919db4c38221bbebf07b1bda6340f97d6bb9130a56e5fa6ce9"
 
 [[files]]
 file = "config/paxi/resourcepacks/modpack/assets/minecraft/models/block/stone/slab/5.json"
+hash = "7308aadacdbf0ced69b4df22a807e9455ce8bf705ed3a82f90ffcf84c6e45663"
 
 [[files]]
 file = "config/paxi/resourcepacks/modpack/assets/minecraft/models/block/stone/slab/6.json"
+hash = "7307706ef2ebbe341296974fcb66edd5e0ca698c7452dad687c90656585d73dc"
 
 [[files]]
 file = "config/paxi/resourcepacks/modpack/assets/minecraft/models/block/stone/slab/7.json"
+hash = "ce9145bb1ff4cb5d620ae6fc49f12362c7fc204880662d0074146b290790e70f"
 
 [[files]]
 file = "config/paxi/resourcepacks/modpack/assets/minecraft/models/block/stone/slab/8.json"
+hash = "01621900d0f962bd9ee8c5b2c7ac87960702c9056503e8054eb313c84c65c50f"
 
 [[files]]
 file = "config/paxi/resourcepacks/modpack/assets/minecraft/models/block/stone/slab/9.json"
+hash = "b463564ae816cfec677118cd4594b55728eebce859e0ba02ac06da75c3442b8c"
 
 [[files]]
 file = "config/paxi/resourcepacks/modpack/assets/minecraft/models/block/stone/slab_top/0.json"
+hash = "1d84712cdb967bdd21764f0c273713870038398d5490493bc2d566a472f5041a"
 
 [[files]]
 file = "config/paxi/resourcepacks/modpack/assets/minecraft/models/block/stone/slab_top/1.json"
+hash = "cde349134764c13ba76afc35f9473edac89f1a74f872ae356e8b18ef26c515ba"
 
 [[files]]
 file = "config/paxi/resourcepacks/modpack/assets/minecraft/models/block/stone/slab_top/10.json"
+hash = "048efb6e17971fe215455d67d51cbfe0d244f5e7df5aacdf854305ec193d6def"
 
 [[files]]
 file = "config/paxi/resourcepacks/modpack/assets/minecraft/models/block/stone/slab_top/11.json"
+hash = "6d8d392065cce403cca0ebd89ce1e365983b346f30b7dfc646307fe1898f1b08"
 
 [[files]]
 file = "config/paxi/resourcepacks/modpack/assets/minecraft/models/block/stone/slab_top/2.json"
+hash = "6a9fc93ea7186e408794cd45ec957aa1977ba29b8575147fb6a105c9076b3029"
 
 [[files]]
 file = "config/paxi/resourcepacks/modpack/assets/minecraft/models/block/stone/slab_top/3.json"
+hash = "35de87ae7b4105ee6eb59473a9a5268b5209205375e13812ed839ff627252d10"
 
 [[files]]
 file = "config/paxi/resourcepacks/modpack/assets/minecraft/models/block/stone/slab_top/4.json"
+hash = "dfae2b3741c9bd5e2141f6d894cb4ba5f2f5929bbc65546356bee655ebf1bb7f"
 
 [[files]]
 file = "config/paxi/resourcepacks/modpack/assets/minecraft/models/block/stone/slab_top/5.json"
+hash = "e01c6fa693ed81f7db7d6a64571cb562d0be55dc2c0c32c7a18763224cd3522e"
 
 [[files]]
 file = "config/paxi/resourcepacks/modpack/assets/minecraft/models/block/stone/slab_top/6.json"
+hash = "41e9ac140faa574bf1ddfa4b218c4ae5cc15c264d05439ad65aeb73fedae4a29"
 
 [[files]]
 file = "config/paxi/resourcepacks/modpack/assets/minecraft/models/block/stone/slab_top/7.json"
+hash = "8410e039b19e27eecc7b09fce26c57679de069136f01402978acb3a7e9516eb6"
 
 [[files]]
 file = "config/paxi/resourcepacks/modpack/assets/minecraft/models/block/stone/slab_top/8.json"
+hash = "cd7bb2e6e91e2f41eae0226991d0f9857615906e07d4a5f242db7a083ea42e76"
 
 [[files]]
 file = "config/paxi/resourcepacks/modpack/assets/minecraft/models/block/stone/slab_top/9.json"
+hash = "0ae0d26778b9bf9098fcf29d73d53828b978bc3ba136c8fd64cb6ec3f6fa4aa3"
 
 [[files]]
 file = "config/paxi/resourcepacks/modpack/assets/minecraft/models/block/stone/stairs/0.json"
+hash = "80fd6b1d3146b95e4217fd6720dfb513faf1913a26cf76488accab9f0498c3d2"
 
 [[files]]
 file = "config/paxi/resourcepacks/modpack/assets/minecraft/models/block/stone/stairs/1.json"
+hash = "604cf55e3e1b6c90ad9b20bfc4fc235c7f74fb8b4c4b8282c4f601b3dc9647a4"
 
 [[files]]
 file = "config/paxi/resourcepacks/modpack/assets/minecraft/models/block/stone/stairs/10.json"
+hash = "bdde9524e57205fdcf978906b60ddcb5dec57bcb32eb24093a266e68aaf21383"
 
 [[files]]
 file = "config/paxi/resourcepacks/modpack/assets/minecraft/models/block/stone/stairs/11.json"
+hash = "0e4b7c7d55686318437fff368b9d5beeefb3ba8a03683bf08987d5649dbc5e70"
 
 [[files]]
 file = "config/paxi/resourcepacks/modpack/assets/minecraft/models/block/stone/stairs/2.json"
+hash = "faac0fa30d94ca7d0457da67739bddae28ed587f007f91b4edc95ad94936964b"
 
 [[files]]
 file = "config/paxi/resourcepacks/modpack/assets/minecraft/models/block/stone/stairs/3.json"
+hash = "5ba14fbf0e9345e53366b0cc6aa58d2663dbe30f8e05a5d2d2c4be06094b3830"
 
 [[files]]
 file = "config/paxi/resourcepacks/modpack/assets/minecraft/models/block/stone/stairs/4.json"
+hash = "6a209382b673bb425fa743685ade21d3ac8282cd375b9e0cede9c125d8f6ab10"
 
 [[files]]
 file = "config/paxi/resourcepacks/modpack/assets/minecraft/models/block/stone/stairs/5.json"
+hash = "4ddab66036d2839dfc9cda357e21ecf308de03f67bbd8ffd6f1adb1d543291d8"
 
 [[files]]
 file = "config/paxi/resourcepacks/modpack/assets/minecraft/models/block/stone/stairs/6.json"
+hash = "614d313fe99c1a2fc06fec8632f569278b17769ed944f7f85b3f45e2790fd944"
 
 [[files]]
 file = "config/paxi/resourcepacks/modpack/assets/minecraft/models/block/stone/stairs/7.json"
+hash = "8370bdfc7299d6de4f2539108d71d8016fadfaf78b466070f52ed2f9d38f2a03"
 
 [[files]]
 file = "config/paxi/resourcepacks/modpack/assets/minecraft/models/block/stone/stairs/8.json"
+hash = "8c5e89ef9fddabcb380dcc87760e8ff4508d1c578984be32a8c60186e207bd97"
 
 [[files]]
 file = "config/paxi/resourcepacks/modpack/assets/minecraft/models/block/stone/stairs/9.json"
+hash = "24005e1abfd64040a8f6dfb79527016f450d445187933cff90542208673147bd"
 
 [[files]]
 file = "config/paxi/resourcepacks/modpack/assets/minecraft/models/block/stone/stairs_inner/0.json"
+hash = "ee2416b23bc5f873b2e250ae05baaaaa4de28cef0fe88e5a2db956ea2b8f01ab"
 
 [[files]]
 file = "config/paxi/resourcepacks/modpack/assets/minecraft/models/block/stone/stairs_inner/1.json"
+hash = "d27b2741c8f62aadd7fef4cee3d4888fb69cac17e372367bf7da50b58c353fac"
 
 [[files]]
 file = "config/paxi/resourcepacks/modpack/assets/minecraft/models/block/stone/stairs_inner/10.json"
+hash = "b758977c0b3c5f0145ba610b0c3299661278684aa26510e6523c864ebe623fe1"
 
 [[files]]
 file = "config/paxi/resourcepacks/modpack/assets/minecraft/models/block/stone/stairs_inner/11.json"
+hash = "0e05efa092b354a16067b0b69ddfa487c0673386fce2b22b44c91f6ba45c5216"
 
 [[files]]
 file = "config/paxi/resourcepacks/modpack/assets/minecraft/models/block/stone/stairs_inner/2.json"
+hash = "1e7134aa4a1748e5e73a05065d2d04d6ab1b2ac3cf28f6bb2977929b4d47ea18"
 
 [[files]]
 file = "config/paxi/resourcepacks/modpack/assets/minecraft/models/block/stone/stairs_inner/3.json"
+hash = "8a89d37c3c559e8bf41540b2ae69e2c12266220a96825d4093cbb424e7cb893b"
 
 [[files]]
 file = "config/paxi/resourcepacks/modpack/assets/minecraft/models/block/stone/stairs_inner/4.json"
+hash = "1b0f836f267e128b5e78b4d71238ad113be263d3a15ad379b2e072295ce21e86"
 
 [[files]]
 file = "config/paxi/resourcepacks/modpack/assets/minecraft/models/block/stone/stairs_inner/5.json"
+hash = "b48bfc7235397b378a390f2cd474c07de3e4e550194c857ebd769cde8e066bd3"
 
 [[files]]
 file = "config/paxi/resourcepacks/modpack/assets/minecraft/models/block/stone/stairs_inner/6.json"
+hash = "95935f0069a08a40edb28770f2e9edaa1c6bcc93ada1d06640a76a795d77f9c9"
 
 [[files]]
 file = "config/paxi/resourcepacks/modpack/assets/minecraft/models/block/stone/stairs_inner/7.json"
+hash = "1e50aa84dcc714dcd4ef27f9d22fa2c3df6b23099e364b449d4e197e74af1bd3"
 
 [[files]]
 file = "config/paxi/resourcepacks/modpack/assets/minecraft/models/block/stone/stairs_inner/8.json"
+hash = "560cf928d89b206ddc6298006bde8b6ccc414c3224741226c12da56e3f5e5f39"
 
 [[files]]
 file = "config/paxi/resourcepacks/modpack/assets/minecraft/models/block/stone/stairs_inner/9.json"
+hash = "4d7419f172a15082648623e8acafe54633d5b51eddb79b9a2b9a9db503a2b395"
 
 [[files]]
 file = "config/paxi/resourcepacks/modpack/assets/minecraft/models/block/stone/stairs_outer/0.json"
+hash = "75c404e650b0f752953f5b4a0e9482cacf62a9ffe1595fde62470d72f1b8286e"
 
 [[files]]
 file = "config/paxi/resourcepacks/modpack/assets/minecraft/models/block/stone/stairs_outer/1.json"
+hash = "e8f65cd3f207abab8af2d9ae5e99c3d465d0a3e78c737f29ada2bf4b2b192c92"
 
 [[files]]
 file = "config/paxi/resourcepacks/modpack/assets/minecraft/models/block/stone/stairs_outer/10.json"
+hash = "d8c2bad9cbbd647140c106a2e5a7ebb7f3e74818fdfc4b44bee9c23bf244ac39"
 
 [[files]]
 file = "config/paxi/resourcepacks/modpack/assets/minecraft/models/block/stone/stairs_outer/11.json"
+hash = "e2c47d36f3231196bb1813957a2c89d2cec5d2ef1001d1a58e704896130a481c"
 
 [[files]]
 file = "config/paxi/resourcepacks/modpack/assets/minecraft/models/block/stone/stairs_outer/2.json"
+hash = "d93cf97119546d67e04e02133b60f420350a146fd922d766fcd317f401bdbccf"
 
 [[files]]
 file = "config/paxi/resourcepacks/modpack/assets/minecraft/models/block/stone/stairs_outer/3.json"
+hash = "465c3e13d85a6f86739f8374b2b1a853baf604443b1c3af6a05ca4c59e4c6fd8"
 
 [[files]]
 file = "config/paxi/resourcepacks/modpack/assets/minecraft/models/block/stone/stairs_outer/4.json"
+hash = "51a8a13d24e339caec83048c9c3c687acba1fe20dfe0344538506fdf32bd2212"
 
 [[files]]
 file = "config/paxi/resourcepacks/modpack/assets/minecraft/models/block/stone/stairs_outer/5.json"
+hash = "b724cb5f5e385c363346085360e7c757eb17053999db1a76737e3311d10a8297"
 
 [[files]]
 file = "config/paxi/resourcepacks/modpack/assets/minecraft/models/block/stone/stairs_outer/6.json"
+hash = "f68d416ca4fffc2236e99d5175968b075c9f8546f85825331ea1451921dd967c"
 
 [[files]]
 file = "config/paxi/resourcepacks/modpack/assets/minecraft/models/block/stone/stairs_outer/7.json"
+hash = "dacf4f196964fa431260aa7cac81a0eaec17a1b4afa235722e111b33e15fbb24"
 
 [[files]]
 file = "config/paxi/resourcepacks/modpack/assets/minecraft/models/block/stone/stairs_outer/8.json"
+hash = "2a9cfbb954700abb4bf028cbe85c77e9501c49211a8cccadb49a393f3888d756"
 
 [[files]]
 file = "config/paxi/resourcepacks/modpack/assets/minecraft/models/block/stone/stairs_outer/9.json"
+hash = "f7c1d7106064a28566bb378e5ec5aa1ed84aca75d769265637bf2e030ae21e51"
 
 [[files]]
 file = "config/paxi/resourcepacks/modpack/assets/minecraft/textures/block/coal_ore.png"
+hash = "6354ba5a0734029e61849926cc3d3dc27f961e068055c4b29dbe959aedc60f83"
 
 [[files]]
 file = "config/paxi/resourcepacks/modpack/assets/minecraft/textures/block/copper_ore.png"
+hash = "ad02823d3b7583faa1d866f582068fd3bcc5125d32657895bb3ca8fc8c908386"
 
 [[files]]
 file = "config/paxi/resourcepacks/modpack/assets/minecraft/textures/block/diamond_ore.png"
+hash = "d5fa106d25035b113a66e3e62742433a7747f497c09ad7e0a3d7710ea91c1356"
 
 [[files]]
 file = "config/paxi/resourcepacks/modpack/assets/minecraft/textures/block/emerald_ore.png"
+hash = "3cbbcc1dde3c348fefc3e952d9acafb45449fe99a50b7fb31a7aeecbc04ceb4a"
 
 [[files]]
 file = "config/paxi/resourcepacks/modpack/assets/minecraft/textures/block/gold_ore.png"
+hash = "3eaeb71a0428698fe94d9dd2ddc4a155b68ff69a14d5411681c088f961119370"
 
 [[files]]
 file = "config/paxi/resourcepacks/modpack/assets/minecraft/textures/block/iron_ore.png"
+hash = "9db9b61601cb25411c9487a5b12d8668d5f21aa2c1cad867ff27554a175c72de"
 
 [[files]]
 file = "config/paxi/resourcepacks/modpack/assets/minecraft/textures/block/lapis_ore.png"
+hash = "dccfbcbbb5dbb0db80c126dbfd84a411ba894e8f7ec8241c3be9730c19dd40ee"
 
 [[files]]
 file = "config/paxi/resourcepacks/modpack/assets/minecraft/textures/block/redstone_ore.png"
+hash = "7c5213a857e1064d62c3de73a17f70370a37c8753e977eb76f2d5cba70d5e9ab"
 
 [[files]]
 file = "config/paxi/resourcepacks/modpack/assets/minecraft/textures/block/stone.png"
+hash = "9d0fafa8cf9c09dd5116fd82da2dcbf3d9eaf44ca09a117e240e3d89572c077b"
 
 [[files]]
 file = "config/paxi/resourcepacks/modpack/assets/minecraft/textures/block/variated/stone/0.png"
+hash = "9d0fafa8cf9c09dd5116fd82da2dcbf3d9eaf44ca09a117e240e3d89572c077b"
 
 [[files]]
 file = "config/paxi/resourcepacks/modpack/assets/minecraft/textures/block/variated/stone/1.png"
+hash = "219e19b2b13e490372b4bbb74cf33718a4e82f4ca0f68063d499ef3b9a2e1706"
 
 [[files]]
 file = "config/paxi/resourcepacks/modpack/assets/minecraft/textures/block/variated/stone/10.png"
+hash = "9d0fafa8cf9c09dd5116fd82da2dcbf3d9eaf44ca09a117e240e3d89572c077b"
 
 [[files]]
 file = "config/paxi/resourcepacks/modpack/assets/minecraft/textures/block/variated/stone/11.png"
+hash = "9d0fafa8cf9c09dd5116fd82da2dcbf3d9eaf44ca09a117e240e3d89572c077b"
 
 [[files]]
 file = "config/paxi/resourcepacks/modpack/assets/minecraft/textures/block/variated/stone/2.png"
+hash = "219e19b2b13e490372b4bbb74cf33718a4e82f4ca0f68063d499ef3b9a2e1706"
 
 [[files]]
 file = "config/paxi/resourcepacks/modpack/assets/minecraft/textures/block/variated/stone/3.png"
+hash = "f23d8da16f1f2c5a4b82cf57c87575873238259b9809d7c6cbbe6c11a5131096"
 
 [[files]]
 file = "config/paxi/resourcepacks/modpack/assets/minecraft/textures/block/variated/stone/4.png"
+hash = "219e19b2b13e490372b4bbb74cf33718a4e82f4ca0f68063d499ef3b9a2e1706"
 
 [[files]]
 file = "config/paxi/resourcepacks/modpack/assets/minecraft/textures/block/variated/stone/5.png"
+hash = "7e65350494f11341e23ca6e994376592b31e7e01a40bd5732a3cfc49056eda18"
 
 [[files]]
 file = "config/paxi/resourcepacks/modpack/assets/minecraft/textures/block/variated/stone/6.png"
+hash = "9d0fafa8cf9c09dd5116fd82da2dcbf3d9eaf44ca09a117e240e3d89572c077b"
 
 [[files]]
 file = "config/paxi/resourcepacks/modpack/assets/minecraft/textures/block/variated/stone/7.png"
+hash = "219e19b2b13e490372b4bbb74cf33718a4e82f4ca0f68063d499ef3b9a2e1706"
 
 [[files]]
 file = "config/paxi/resourcepacks/modpack/assets/minecraft/textures/block/variated/stone/8.png"
+hash = "9d0fafa8cf9c09dd5116fd82da2dcbf3d9eaf44ca09a117e240e3d89572c077b"
 
 [[files]]
 file = "config/paxi/resourcepacks/modpack/assets/minecraft/textures/block/variated/stone/9.png"
+hash = "219e19b2b13e490372b4bbb74cf33718a4e82f4ca0f68063d499ef3b9a2e1706"
+
+[[files]]
+file = "config/paxi/resourcepacks/modpack/assets/minecraft/textures/gui/title/edition.png"
+hash = "60c75d623b43b95ca23c49e1b7c2f7811e130a4ac746aad61eb38f0ad7c13c08"
+
+[[files]]
+file = "config/paxi/resourcepacks/modpack/assets/minecraft/textures/gui/title/edition.png.mcmeta"
+hash = "c1ce77c528cda05dc13d6335eafdd326b445763c9ce94525d69797a1433eea2c"
+
+[[files]]
+file = "config/paxi/resourcepacks/modpack/assets/minecraft/textures/gui/title/minceraft.png"
+hash = "352da0a8b07573beb8516002124b5f4f2299ebff368be380b8b1491a3a37c01d"
+
+[[files]]
+file = "config/paxi/resourcepacks/modpack/assets/minecraft/textures/gui/title/minceraft.png.mcmeta"
+hash = "c1ce77c528cda05dc13d6335eafdd326b445763c9ce94525d69797a1433eea2c"
+
+[[files]]
+file = "config/paxi/resourcepacks/modpack/assets/minecraft/textures/gui/title/minecraft.png"
+hash = "ef5aae82aeb9c97377950d219bca726e36b611584ca96664276cade298f0b5b6"
+
+[[files]]
+file = "config/paxi/resourcepacks/modpack/assets/minecraft/textures/gui/title/minecraft.png.mcmeta"
+hash = "c1ce77c528cda05dc13d6335eafdd326b445763c9ce94525d69797a1433eea2c"
+
+[[files]]
+file = "config/paxi/resourcepacks/modpack/assets/modpack/panoramas.json"
+hash = "a81603baf69005059be3a8df9f25bfa9d4429f51f4a29715832765adc8224d21"
+
+[[files]]
+file = "config/paxi/resourcepacks/modpack/assets/modpack/panoramas/0/panorama_0.png"
+hash = "f407e6234db05c8b1d42bfa177022b161bb3c559ecd711b31cf1190a751a79a6"
+
+[[files]]
+file = "config/paxi/resourcepacks/modpack/assets/modpack/panoramas/0/panorama_1.png"
+hash = "c3d16a1f327c09502eaa82dec101c97b2a0d21e9fbdcb685428ef7d0196fc426"
+
+[[files]]
+file = "config/paxi/resourcepacks/modpack/assets/modpack/panoramas/0/panorama_2.png"
+hash = "2a3db585d9e26d83ba570c30c6676e06d4aff90b5b7f15ceff90edcc954e32b6"
+
+[[files]]
+file = "config/paxi/resourcepacks/modpack/assets/modpack/panoramas/0/panorama_3.png"
+hash = "a1c5fd32cb420daa763a216111fbf81b9a54befe181d2900178d3796f58582e3"
+
+[[files]]
+file = "config/paxi/resourcepacks/modpack/assets/modpack/panoramas/0/panorama_4.png"
+hash = "81cef533f4f3ca76ac7454137393422a601a307cb1ed9ecbee992a70dce677ce"
+
+[[files]]
+file = "config/paxi/resourcepacks/modpack/assets/modpack/panoramas/0/panorama_5.png"
+hash = "2cbeeaed085fc2b259e86888bf13c8231a5ca193114a987c29907eae4edb3f07"
+
+[[files]]
+file = "config/paxi/resourcepacks/modpack/assets/modpack/panoramas/1/panorama_0.png"
+hash = "9b7b3b6b2506c1c719420bd0a94b4a517ce00be24744714708ac5b60714cf166"
+
+[[files]]
+file = "config/paxi/resourcepacks/modpack/assets/modpack/panoramas/1/panorama_1.png"
+hash = "41f536fd8575c47f08375223b8495d4d3ec3467eb7722db6131a6305732263af"
+
+[[files]]
+file = "config/paxi/resourcepacks/modpack/assets/modpack/panoramas/1/panorama_2.png"
+hash = "3376c99ac20379f2cdfcd43b23de7ef5750155dcb86733ce55556b7f5f7d054e"
+
+[[files]]
+file = "config/paxi/resourcepacks/modpack/assets/modpack/panoramas/1/panorama_3.png"
+hash = "43549c11f3a3f0b101ff76fc5a5ed9fd5b29042a4225a8b1230a02c23aee0ea7"
+
+[[files]]
+file = "config/paxi/resourcepacks/modpack/assets/modpack/panoramas/1/panorama_4.png"
+hash = "3d4a172e0cb839470b427a5dbda3c3f1290dd2bba018a3282f6d1ec7f9ac567d"
+
+[[files]]
+file = "config/paxi/resourcepacks/modpack/assets/modpack/panoramas/1/panorama_5.png"
+hash = "8ac3cc9542f10bba552c74767d15e44b386088ed86fb017e122ae32801ca9893"
+
+[[files]]
+file = "config/paxi/resourcepacks/modpack/assets/modpack/panoramas/2/panorama_0.png"
+hash = "a4f089020015c9f00aff0040c786cb326fd397e39bc065d3867dad78b03fb63c"
+
+[[files]]
+file = "config/paxi/resourcepacks/modpack/assets/modpack/panoramas/2/panorama_1.png"
+hash = "007521bf7acc2fab100cd4ff90e2e089bf0b6429c759ef7c6fe012bba2111e2d"
+
+[[files]]
+file = "config/paxi/resourcepacks/modpack/assets/modpack/panoramas/2/panorama_2.png"
+hash = "d07ecd0a595ad29f74bb633ac2a2e8f6e09a3db0e511b747a91e8088c134e498"
+
+[[files]]
+file = "config/paxi/resourcepacks/modpack/assets/modpack/panoramas/2/panorama_3.png"
+hash = "0225f421817367b7805a40fcd2a1f80dc92057b4e3dff2dc68757fc7c424656f"
+
+[[files]]
+file = "config/paxi/resourcepacks/modpack/assets/modpack/panoramas/2/panorama_4.png"
+hash = "23349db4c52455bb77a19447a0a7a9b366649aaa0788955a6c423ef6556a8f95"
+
+[[files]]
+file = "config/paxi/resourcepacks/modpack/assets/modpack/panoramas/2/panorama_5.png"
+hash = "e37dbe82eaf1428fab6906a4187478d96bdc98190fe1bcd3aba8ba7cf48f4c45"
+
+[[files]]
+file = "config/paxi/resourcepacks/modpack/assets/modpack/panoramas/3/panorama_0.png"
+hash = "7673386a06cddfbd2e774e40c5d352244c27e5a5e1d113d1fe60b820454077b7"
+
+[[files]]
+file = "config/paxi/resourcepacks/modpack/assets/modpack/panoramas/3/panorama_1.png"
+hash = "ad44ffc3dbddd2472938443e4d422660e5125b4b3a9de9bbac052df9bbaef24b"
+
+[[files]]
+file = "config/paxi/resourcepacks/modpack/assets/modpack/panoramas/3/panorama_2.png"
+hash = "711c7c9c9e9c5e06c132ac1e534e92a16a44f821c6462be1bfd93dfeb97935ca"
+
+[[files]]
+file = "config/paxi/resourcepacks/modpack/assets/modpack/panoramas/3/panorama_3.png"
+hash = "bb21c5a15dc5b063709de803020a9a426ca72eea8288e07f62b45094aaa53650"
+
+[[files]]
+file = "config/paxi/resourcepacks/modpack/assets/modpack/panoramas/3/panorama_4.png"
+hash = "4feb112a7a0a7f5f486d52ff01b4c341dec11e3fb7d808a0959d03937ed27ac8"
+
+[[files]]
+file = "config/paxi/resourcepacks/modpack/assets/modpack/panoramas/3/panorama_5.png"
+hash = "33e96d02f21ffa0d95d24d542641f62c4a3bc7808d90c57653bbec134e186bff"
+
+[[files]]
+file = "config/paxi/resourcepacks/modpack/assets/modpack/panoramas/4/panorama_0.png"
+hash = "b9001d4693b4e611bfe6789fd1662e3cf5c684173e76b68329217949ef740a7c"
+
+[[files]]
+file = "config/paxi/resourcepacks/modpack/assets/modpack/panoramas/4/panorama_1.png"
+hash = "3edd51d1b41155171dc282399b050ec846287fb6cf966d86d21d5e8593283545"
+
+[[files]]
+file = "config/paxi/resourcepacks/modpack/assets/modpack/panoramas/4/panorama_2.png"
+hash = "19b7ac41e536db0d47f62f113372f19d1585b22d0cbeea8b35b78a5ddf8169c9"
+
+[[files]]
+file = "config/paxi/resourcepacks/modpack/assets/modpack/panoramas/4/panorama_3.png"
+hash = "0ab6c15cf7cc07c0e7eb1ab9b7c94b5dc6c8fac9059a9ba0296df67332fc0d24"
+
+[[files]]
+file = "config/paxi/resourcepacks/modpack/assets/modpack/panoramas/4/panorama_4.png"
+hash = "ec18fa4edc3b1c64d61e514dafa319c3fa099b317120c9e6eae7a5aa0b3a6678"
+
+[[files]]
+file = "config/paxi/resourcepacks/modpack/assets/modpack/panoramas/4/panorama_5.png"
+hash = "e7b1286f141f933ebab12a0968ddd1ba712b483b2c4ea3c9c68a4576a3bdeb07"
+
+[[files]]
+file = "config/paxi/resourcepacks/modpack/assets/modpack/panoramas/5/panorama_0.png"
+hash = "1931bab4837a975abd5e270803525df681723c4863ac56b547914dfac5ad79e3"
+
+[[files]]
+file = "config/paxi/resourcepacks/modpack/assets/modpack/panoramas/5/panorama_1.png"
+hash = "bf331a3d86db041293be64155e0431a671f758656b0a56ed8e06f4d197799e0c"
+
+[[files]]
+file = "config/paxi/resourcepacks/modpack/assets/modpack/panoramas/5/panorama_2.png"
+hash = "5488a664c977b704bf04548f672b267201f8c0db9c12c8e86c4fc3828d130cd0"
+
+[[files]]
+file = "config/paxi/resourcepacks/modpack/assets/modpack/panoramas/5/panorama_3.png"
+hash = "a1cc93620101df379e1a4847c38cbda6568d67ff343f75747e2c60f412e329a8"
+
+[[files]]
+file = "config/paxi/resourcepacks/modpack/assets/modpack/panoramas/5/panorama_4.png"
+hash = "a433b96d84413db0efe52afe4d4710fa558949654fa4db1cdc7e2586ceed9d4a"
+
+[[files]]
+file = "config/paxi/resourcepacks/modpack/assets/modpack/panoramas/5/panorama_5.png"
+hash = "14d73fb1bb8cdc29fa0083faffdd51d9cdb240e5b8a9f9368ad9b775ea49240b"
+
+[[files]]
+file = "config/paxi/resourcepacks/modpack/assets/modpack/panoramas/6/panorama_0.png"
+hash = "0a1bb749ba6f188ee06a5a081a3bcbebd41d4da4a23adbcb2dbfb6921ffd3002"
+
+[[files]]
+file = "config/paxi/resourcepacks/modpack/assets/modpack/panoramas/6/panorama_1.png"
+hash = "218f3eed54c16980afca54d8942651b74081d35279c2c5690a3cda7ebf489355"
+
+[[files]]
+file = "config/paxi/resourcepacks/modpack/assets/modpack/panoramas/6/panorama_2.png"
+hash = "04a68658d7accc8b99a8377b83e6d8d6fa52b425a6e7a372bac52267e72ba500"
+
+[[files]]
+file = "config/paxi/resourcepacks/modpack/assets/modpack/panoramas/6/panorama_3.png"
+hash = "c38866f19d983f09148fe0c481670a4e6902df336aa6479e12e9cc75cf6b50db"
+
+[[files]]
+file = "config/paxi/resourcepacks/modpack/assets/modpack/panoramas/6/panorama_4.png"
+hash = "55a66f04f526683d97334266d830884d0d11ecd4fe9e6eed2393dfdbd7a6a975"
+
+[[files]]
+file = "config/paxi/resourcepacks/modpack/assets/modpack/panoramas/6/panorama_5.png"
+hash = "455790fb4cd18659cb0795b09c4760621f597b096e8f9e9a814986eda3091510"
+
+[[files]]
+file = "config/paxi/resourcepacks/modpack/assets/modpack/panoramas/7/panorama_0.png"
+hash = "c8ea850cda602fa321068ba1bd0b09e4a9a93be8b75394aa97a123ccc9746e47"
+
+[[files]]
+file = "config/paxi/resourcepacks/modpack/assets/modpack/panoramas/7/panorama_1.png"
+hash = "4c7ea6d397212bd892a2d83acaa904b6eff391c87341630024d7d2671ee37953"
+
+[[files]]
+file = "config/paxi/resourcepacks/modpack/assets/modpack/panoramas/7/panorama_2.png"
+hash = "fcce1ba954228f4c8c98cfbbdfe482646a5b9d005884b0b7f85d7f047398ca2c"
+
+[[files]]
+file = "config/paxi/resourcepacks/modpack/assets/modpack/panoramas/7/panorama_3.png"
+hash = "c6edcbabc4a5aacc8bfb74351eb5af00862e54a56579a1a0c4e0e1aeef72aa1f"
+
+[[files]]
+file = "config/paxi/resourcepacks/modpack/assets/modpack/panoramas/7/panorama_4.png"
+hash = "648a3b8296b870cdce9449928ed1e11f654e3c3c1fff38ea1cc69cdc8ede0286"
+
+[[files]]
+file = "config/paxi/resourcepacks/modpack/assets/modpack/panoramas/7/panorama_5.png"
+hash = "f9f9cd4e232cccfe024e29cea049bdb6a3b13e79e5a36e28d8f6b97ec1fc3ce2"
 
 [[files]]
 file = "config/paxi/resourcepacks/modpack/assets/modpack/textures/block/hourglass_cocoa.png"
+hash = "21eaa037fca9a36c08982fd20f1f28913dfc68b1f67177d5ba364d119ade7544"
 
 [[files]]
 file = "config/paxi/resourcepacks/modpack/assets/modpack/textures/block/hourglass_coffee.png"
+hash = "172626e143993e4a14fe3c20d85b0ae42c20460aa81887a31f0512c32257555b"
 
 [[files]]
 file = "config/paxi/resourcepacks/modpack/assets/modpack/textures/block/hourglass_heart.png"
+hash = "9d70eb4a5f1e858b3f7bfbe4fd827474ca979a0814f4e7a4acbdab2d0d9c1d6e"
 
 [[files]]
 file = "config/paxi/resourcepacks/modpack/pack.mcmeta"
+hash = "da69e222e5ee028155034bf6b3dd8de9b51ff00cfc9945e5a8c4e8c272d30469"
 
 [[files]]
 file = "config/paxi/resourcepacks/modpack/pack.png"
+hash = "a4b96b98430a075d274a782bc989cf6d46908323f5bf0d186ed857a0da1512bd"
 
 [[files]]
 file = "config/paxi/resourcepacks/simple-grass-flowers.pw.toml"
+hash = "2c4f4c1252a2ad62ac168bc529b9e04a8de3c74a2dd3038254224281557599ad"
 metafile = true
 
 [[files]]
 file = "config/paxi/resourcepacks/slim-glowing-outline-effect.pw.toml"
+hash = "f9f191d42318b68fe5810b19a1af4141f95d132b6e7d545e4147910761fe33d0"
 metafile = true
 
 [[files]]
 file = "config/ping-wheel.json"
+hash = "52cbedb7974cf51792b1b85a6e63764660f1a4e5833d2581bc8ef7d36863bd97"
 
 [[files]]
 file = "config/ping-wheel.server.json"
+hash = "821d5d12d0c096996c82d1a65349ac803adffcc25b89420a146c727fb92b381a"
 
 [[files]]
 file = "config/presencefootsteps/updater.json"
+hash = "1e7c61df09c105e1eeca8cf3dcbdfeb976700e9904bcb3983fc7791adb7fad2e"
 
 [[files]]
 file = "config/presencefootsteps/userconfig.json"
+hash = "30e7b21e71bbb7d5ce752f483e05b8f171fd1b010fa42585a2e258b2b154d15c"
 
 [[files]]
 file = "config/prettyrain-client.toml"
+hash = "7bb11f2f6418fbcaf6e0060b2498fcb717ec2787f33b46a663401411c84533f2"
 
 [[files]]
 file = "config/reciperemover.json"
+hash = "dcdb320e9fba8f8391c1b8e7765fb088038a74a8d2d8768912ad3945a253ba26"
 
 [[files]]
 file = "config/sodium-extra-options.json"
+hash = "7edc328c85d95b7e647838e6ce225c950a7e9e9fe04c422792682136b5217485"
 
 [[files]]
 file = "config/sodium-options.json"
+hash = "364c7da2064c2c01a5e874b3d442bc643c2e24862eed87c5b3c4470faaa4f148"
 
 [[files]]
 file = "config/sparsestructures.json5"
+hash = "a9b0e20b5a8bf2fe8812d1880d6abc47d730da1a3928ea562928f4bbe7182817"
 
 [[files]]
 file = "config/tide.toml"
+hash = "c6007d794959e3159842aec6b6bcc7b07d869c295f6c69f119f30eba1ac777e8"
 
 [[files]]
 file = "config/toastbegone.toml"
+hash = "403801551466cb3a14fe019339259216f6ef29b3d9bb0f3098d2f96ea9c8b80f"
+
+[[files]]
+file = "config/vistas.json"
+hash = "f72d68724b6f700c0ed2b5d41659bbe9475c2c0b7f67d59f035da177917a350e"
 
 [[files]]
 file = "config/voidfog-client.toml"
+hash = "b06d6faa3b1ab159f70899173b6c7a763a9b9928dad247970e1415362178c3b1"
 
 [[files]]
 file = "config/waves-common.toml"
+hash = "991e0e5e8eb00c6e8c7dae43103ba5d45e8a28b8d0915863b72594638bffce35"
 
 [[files]]
 file = "config/waves/waves.json"
-
-[[files]]
-file = "icon.png"
+hash = "2e5c453a2676a5eaed2e852382495e762a29b7f4e6da6456bbaa0c4508a79036"
 
 [[files]]
 file = "mods/0,5-hp.pw.toml"
+hash = "59fddeba59cd02e57131a3d4a505b6ff323d6fd528b632289e50e18aac880645"
 metafile = true
 
 [[files]]
 file = "mods/accurate-block-placement-reborn.pw.toml"
+hash = "e736938a499302b15d36f6c513200b01499cc507bca9186e7234b7e14c77c365"
 metafile = true
 
 [[files]]
 file = "mods/advancement-plaques.pw.toml"
+hash = "2b02594380f31aa857c89d296afb53bec67621b491956be09a54ab6845552e2a"
 metafile = true
 
 [[files]]
 file = "mods/ai-improvements.pw.toml"
+hash = "62611a2b798035390a280b158563cfa590ab6f3465b77be46949839809dbe77f"
 metafile = true
 
 [[files]]
 file = "mods/ambiance.pw.toml"
+hash = "e2e60dc87a9dc6011df8c7d32019718e0b599ef99b9a4fbf3759a231fa7ffd36"
 metafile = true
 
 [[files]]
 file = "mods/ambient-environment.pw.toml"
+hash = "92a2077fb3d27df20550d579d14c43b1feaa605796b217efb7a9d4bdd727f3bf"
 metafile = true
 
 [[files]]
 file = "mods/amendments.pw.toml"
+hash = "a45b28afea3725cde8f7ad1267d84aee8d278e2c5fea3772c74cebcca9a3c6a7"
 metafile = true
 
 [[files]]
 file = "mods/animatica-foxified.pw.toml"
+hash = "08cf83f7f8899c06c362cad2b452bd66bde645c1f46351d139db9a74092cf5cc"
 metafile = true
 
 [[files]]
 file = "mods/annoying-stuff-remover.pw.toml"
+hash = "7d615e5c544a1f24c14127e35bc393e835bac2b6769c7b847f22cc77950ab250"
 metafile = true
 
 [[files]]
 file = "mods/antique-atlas-4.pw.toml"
+hash = "03ff831cb8084db62a0c1ce791091f4b119956b9f3bacfa140ba4689cfd978a8"
 metafile = true
 
 [[files]]
 file = "mods/apples-plus.pw.toml"
+hash = "ad3a64910e797f1467a4d6d2a7f0a8f56b0decef9fab5125edba82e42ca91ca2"
 metafile = true
 
 [[files]]
 file = "mods/appleskin.pw.toml"
+hash = "5724ca10bd6d37de46834ab762a46f9ce09175f0a4fa0e2ab633846067940c03"
 metafile = true
 
 [[files]]
 file = "mods/architectury-api.pw.toml"
+hash = "ea336d25c3e21ef168aec20e1ea470c96949ad29632646ee8e8ab0d74b4bbfc9"
 metafile = true
 
 [[files]]
 file = "mods/attributefix.pw.toml"
+hash = "586341de7078015cea16ffaf8e2e198a16c43b306d70bc439a15ea0298f9d3cb"
+metafile = true
+
+[[files]]
+file = "mods/audioplayer.pw.toml"
+hash = "a77830f11c321ef40ace0c3f9c3974e206dc3b788dfc9c767248152ccda7f53b"
 metafile = true
 
 [[files]]
 file = "mods/auditory-continued.pw.toml"
+hash = "6bba42736ec89cf47af352b8759fbed389a2e9bd72a88320d85b5e48b62492ca"
 metafile = true
 
 [[files]]
 file = "mods/auroras.pw.toml"
+hash = "ed60e047a5a85492c3d761238524888dca729e923b6753e060fd3dc986a8e54c"
 metafile = true
 
 [[files]]
 file = "mods/auth-me.pw.toml"
+hash = "f3ab8f1de5571de21ab2247fcfedef8a2bf40dcf0b2ac9e90d39689a20b9e7b4"
 metafile = true
 
 [[files]]
 file = "mods/badoptimizations.pw.toml"
+hash = "b21ef031c6ad139361352529cb63f4799ffa91008895e1c7a9a5102ea007ae2d"
 metafile = true
 
 [[files]]
 file = "mods/balm.pw.toml"
+hash = "99d1d50b9b78d59d02aaae4bbc345d2e2982ca967d18755b6d086b5f8fedd77a"
 metafile = true
 
 [[files]]
 file = "mods/bellsandwhistles.pw.toml"
+hash = "e1f4a53e3e52b534add5dd018597fefd345d9bd6350b9c46ef0ec281fc62af8e"
 metafile = true
 
 [[files]]
 file = "mods/better-advancements.pw.toml"
+hash = "93c4acd165a291c6d1e69c27b05b2747afc926b38a414712263fbc95f42da323"
 metafile = true
 
 [[files]]
 file = "mods/better-boat-movement.pw.toml"
+hash = "5d2de64e1107e3a8a8632574e603d3dad4a467f142b5e1ad06356a79f260a49a"
 metafile = true
 
 [[files]]
 file = "mods/better-climbing.pw.toml"
+hash = "edb72fd9bebbb8348d9a8e42a2ea5b505919b6a9a95db5e7d2e3493276083496"
 metafile = true
 
 [[files]]
 file = "mods/better-clouds.pw.toml"
+hash = "a80fc504965da9446ce3bc9318507fc5c90653508aea89cbfa344cd12c7b2de7"
 metafile = true
 
 [[files]]
 file = "mods/better-compatibility-checker.pw.toml"
+hash = "0e3824ac59c4607f2035560dbc9abbf9bb3801c93e4c87379b4f34eb9317cfe8"
 metafile = true
 
 [[files]]
 file = "mods/better-mods-button.pw.toml"
+hash = "58f5fe07285002a0039caa955dba666b19394067761ca13b905c5b2c4570e90c"
 metafile = true
 
 [[files]]
 file = "mods/better-ping-display.pw.toml"
+hash = "cc2e6dda94a7a6f5487843cafe569d8044bf9482cbf03f062cf4595f1fb05281"
 metafile = true
 
 [[files]]
 file = "mods/better-safe-bed.pw.toml"
+hash = "92ce8c9889afb7ba45b76ebf61845888578773523f55f2f64befc37debb93051"
 metafile = true
 
 [[files]]
 file = "mods/better-third-person.pw.toml"
+hash = "e1f1588b18947699ddc9b4f7c5b5406c5559155b8cb52dcd0f203c07c31cd0b8"
 metafile = true
 
 [[files]]
 file = "mods/betteraddserver.pw.toml"
+hash = "282c682648708774e83a6e9d549f3d234239f39c0c8228b405282e542083d164"
 metafile = true
 
 [[files]]
 file = "mods/boat-item-view.pw.toml"
+hash = "ba58df8c82fc920a316a3ad2f8d52e985e34cd09713487ccbb5ea778b6168c2d"
 metafile = true
 
 [[files]]
 file = "mods/bobby.pw.toml"
+hash = "8bc168948c5f92a10252f12ad4f41caeefbe508f0326fc4185217d60c4cb2292"
 metafile = true
 
 [[files]]
 file = "mods/bookshelf-lib.pw.toml"
+hash = "483b991a04edc55f0844906857b30fcbd2fe7d3210ac0b31628dec49ddc0c0db"
 metafile = true
 
 [[files]]
 file = "mods/bundle-scroll.pw.toml"
+hash = "1b014c7b27bb339004d40e7050665e1762882ae01ee754557f47d7bcdcc12a7e"
 metafile = true
 
 [[files]]
 file = "mods/c2me-neoforge.pw.toml"
+hash = "6789ad2958a2dc2ea1b45c3eae624f4535eac9475b03c3f496fde07debbcb178"
 metafile = true
 
 [[files]]
 file = "mods/carry-on.pw.toml"
+hash = "8fde54624913d86f1176cd1086fa485f1a872573dac144347c57cab76596b715"
 metafile = true
 
 [[files]]
 file = "mods/cc-tweaked.pw.toml"
+hash = "b8446771b0d1d228cbc3034ef75e81e4e07627c74368624664acdf4daa9fbfba"
 metafile = true
 
 [[files]]
 file = "mods/chat-heads.pw.toml"
+hash = "00a6a59105f7bc307cf04c1dfb129b300c29a4cb550a5825cacdb54dbc598c68"
 metafile = true
 
 [[files]]
 file = "mods/chatnotify.pw.toml"
+hash = "25e492ece2e802ff2341628ded336c21200c290de4efb259f497210266ace37d"
 metafile = true
 
 [[files]]
 file = "mods/clean-tooltips.pw.toml"
+hash = "bfae48d707113dd178b25b16620c8f4bf5a27ea82c9b1975edeb89a7f196048d"
 metafile = true
 
 [[files]]
 file = "mods/client-tweaks.pw.toml"
+hash = "e1e0ea9ea478deb8f2bf21e335df342961a833f08cb56a016bc051ee59b589f2"
 metafile = true
 
 [[files]]
 file = "mods/clientsort.pw.toml"
+hash = "1e35659b538887b310477e8581c8fbcec93b407c1b9ba04a7c8c05d060a33eb7"
 metafile = true
 
 [[files]]
 file = "mods/clifftree.pw.toml"
+hash = "c7ceaae4e41a455b1adc72a1d1c327a02ce4d608b9c974fae2b80198ec8b19c6"
 metafile = true
 
 [[files]]
 file = "mods/cloth-config.pw.toml"
+hash = "75181b55e0407d1fca1e2f346c6501f919f5109545990ddfb66db9cd1b771f8a"
 metafile = true
 
 [[files]]
 file = "mods/coastal-waves.pw.toml"
+hash = "3ed84997b0e383a14793daef0809f3631ef9daa01a0837b80107e7f30d69d00c"
 metafile = true
 
 [[files]]
 file = "mods/collective.pw.toml"
+hash = "e94bd41a54a72723e283df0c6a870c7baef0fa38ee9099842470f9fd10fc7e70"
 metafile = true
 
 [[files]]
 file = "mods/colorful-hearts.pw.toml"
+hash = "9eb3c6ce773fe9dd1b98ba630397544ca4c556577857e464d6df87360a8a99a9"
 metafile = true
 
 [[files]]
 file = "mods/colorful-subtitles.pw.toml"
+hash = "3e3dacea3535d267fca537ae1f09aba360ce2df7d9653f91e21f051b2420ec16"
 metafile = true
 
 [[files]]
 file = "mods/configuration.pw.toml"
+hash = "71fe5a1ce9b1c60a48fdca5f200b0d13d485a43a50efff7426cf3f6464c48398"
 metafile = true
 
 [[files]]
 file = "mods/connector.pw.toml"
+hash = "0a4d0034c5a1379d5aa57c0a104aaa2adbb98f1e2b89d4ec0b7ef68df2e16a1a"
 metafile = true
 
 [[files]]
 file = "mods/cook-your-food.pw.toml"
+hash = "a6b69909ab3e4805a259e32a6395b67c7aee11a195d688825a2be5d6948f628e"
 metafile = true
 
 [[files]]
 file = "mods/coolrain.pw.toml"
+hash = "6af579972dbebc9e302f0df2dc80ac7dc3150951550f4dfad6698878ffa305c8"
 metafile = true
 
 [[files]]
 file = "mods/coordinated-compass.pw.toml"
+hash = "41687cb0509f3601bfc6f40fc16196511a3b853cd6dadb520024ef9a07196a80"
 metafile = true
 
 [[files]]
 file = "mods/craftingxp.pw.toml"
+hash = "f81b7ce2c99e3880ae412b10787f39f3562a760026eb23d89b9c260285a23e76"
 metafile = true
 
 [[files]]
 file = "mods/create-compressed.pw.toml"
+hash = "a946542ae4970e35a3f721b16872d2c66e62235778eb640c4102c1faaa008b3e"
 metafile = true
 
 [[files]]
 file = "mods/create-copper-zinc.pw.toml"
+hash = "d1c2adb5b70e3252d1038a9ec80b6a23447053ad7507fd053f04d28703698e8e"
 metafile = true
 
 [[files]]
 file = "mods/create-deep-dark.pw.toml"
+hash = "a1eb601a7bc938dffebb6716e393ceee39c0373886da96d324e4940e595f985d"
 metafile = true
 
 [[files]]
 file = "mods/create-encased.pw.toml"
+hash = "8d65f66e5409268caa28eb47eba2c0e2741c0b180998e4c9b3ce947d51b7ea86"
 metafile = true
 
 [[files]]
 file = "mods/create-framed.pw.toml"
+hash = "32b2a01389391c0154b5c6e2e6c4509cca4b28562822b060d3119c137056e10d"
 metafile = true
 
 [[files]]
 file = "mods/create-peaceful.pw.toml"
+hash = "d547838994e5b62b39d167b7a1e10e026a4783cac9f1a48128888324078e0b4a"
 metafile = true
 
 [[files]]
 file = "mods/create-simple-ore-doubling.pw.toml"
+hash = "740362d3f16e26d9d83802e493848e095c92a49ca339e6bbffd356bb0dd12534"
 metafile = true
 
 [[files]]
 file = "mods/create-trimmed.pw.toml"
+hash = "2e0e167422dc70f6d92da6669020e1cfd4417e47118ea66bd8f566a3295c8040"
 metafile = true
 
 [[files]]
 file = "mods/create-ultimate-factory.pw.toml"
+hash = "6639c9674f84535d129f619984a3291e8e6294cb017b62a515adce97ffe4c9cd"
 metafile = true
 
 [[files]]
 file = "mods/create.pw.toml"
+hash = "a4c8371232d9f542b180c7bd7e30d84b9e958b97b24af5dde0759ab8e511fb8e"
 metafile = true
 
 [[files]]
 file = "mods/create_oxidized.pw.toml"
+hash = "7e9e3d04c85d0a94a449245bae9239658e0fdeaf53043145c70d54070a38b9b0"
 metafile = true
 
 [[files]]
 file = "mods/cristel-lib.pw.toml"
+hash = "1f5047efcbdbcfe334a9841a69b7a51b188cdfe1fc00b9e4ed277c4cfec161a8"
 metafile = true
 
 [[files]]
 file = "mods/custom-window-title.pw.toml"
+hash = "09d3121e0f62df0f7543ec669a7d2465ccc257f8ece46eaa37c0d8597ec36c15"
 metafile = true
 
 [[files]]
 file = "mods/death-coordinates.pw.toml"
+hash = "aac788c8cf76ea325e63a7c95ae387691083da25719f205dd44d4be504895a1a"
 metafile = true
 
 [[files]]
 file = "mods/default-options.pw.toml"
+hash = "1d99ac75f92996ec9673e39c012a51dc4b05c48ef7bf672ccaf5e7464a1a3d13"
 metafile = true
 
 [[files]]
 file = "mods/draggable-lists.pw.toml"
+hash = "50de1919e6cc3104a4a2557b0644c15f5a56722cf76a19b194ec6ecf61bcae13"
 metafile = true
 
 [[files]]
 file = "mods/dripsounds.pw.toml"
+hash = "f1e718665206f70e65da7439d3cfd181d44a78df33abef8fa7748e9c297fd43f"
 metafile = true
 
 [[files]]
 file = "mods/dungeon-delight.pw.toml"
+hash = "2d619c645614b12a05dc94d4c618c1cabfcbe69002919abaa8bcf21ab192dde1"
 metafile = true
 
 [[files]]
 file = "mods/dyed-bundles.pw.toml"
+hash = "6c23ab056a68af420b7262d2fd27a57f81f33b373fb85fa0da08f371aa240611"
 metafile = true
 
 [[files]]
 file = "mods/easy-anvils.pw.toml"
+hash = "9f511e824978b45d8d90244e921dafcbb9bc01d1e4aced66afac71740ffa5ff6"
 metafile = true
 
 [[files]]
 file = "mods/emi-ores.pw.toml"
+hash = "0b921f73d5b1ad6615740956567d6cb06950f5520f094dbb7a045bb4bd5ba309"
 metafile = true
 
 [[files]]
 file = "mods/emi.pw.toml"
+hash = "f98bb58144f3b207bc5ebc99d898e1c2557924e27f403e670f491f5ec7d72863"
 metafile = true
 
 [[files]]
 file = "mods/end-villager-trader.pw.toml"
+hash = "712741c29da5627204d618afc5d53e5d03e5df4330c09052430a01c990cd0580"
 metafile = true
 
 [[files]]
 file = "mods/endrem.pw.toml"
+hash = "db22718a1efaf2c691cf3bdddc61b0b06bedff7cb0722aa8b1bdf4f095d116cc"
 metafile = true
 
 [[files]]
 file = "mods/entity-model-features.pw.toml"
+hash = "3a4e194e945214cc457178f48e65b9ab6a8201b6d15b9736cd673324b70b6edd"
 metafile = true
 
 [[files]]
 file = "mods/entityculling.pw.toml"
+hash = "78e6623084bd14f68ef1335ae8a419238c4119188b90fd9e71faf45c4f049942"
 metafile = true
 
 [[files]]
 file = "mods/entitytexturefeatures.pw.toml"
+hash = "65cd00e90de065e99d13352fd5d8aa3bc28d062b9dc935cf1da914a2047b2208"
 metafile = true
 
 [[files]]
 file = "mods/euphonium.pw.toml"
+hash = "54d39131b07120334ad896779402eb5a372a1bcba5e089a50a17329fe3f29aee"
 metafile = true
 
 [[files]]
 file = "mods/expanded-delight.pw.toml"
+hash = "08383f7378f7bed0d61c328b1501dae5045356d328014a074e35aed601edba3b"
 metafile = true
 
 [[files]]
 file = "mods/experimentalist.pw.toml"
+hash = "d441f46faae9f05522512772d77e471cea03ccafb05eb61a35c1f62196b8bb67"
 metafile = true
 
 [[files]]
 file = "mods/explorations.pw.toml"
+hash = "d47a76a86c7198708a1e5b9ddda30c9c2454a246e619002ff4492d5a2f48b061"
 metafile = true
 
 [[files]]
 file = "mods/extra-dungeons.pw.toml"
+hash = "e3b9fcf2eaff2d25bbe3bdb516d2cedb5b649331f183a1a0c4b3641936ebc83d"
 metafile = true
 
 [[files]]
 file = "mods/extrasoundsforge.pw.toml"
+hash = "4798dbfcd4ee7bdd90de00bad546371627ef3d59eab77c11b0e5ea9056acc62f"
 metafile = true
 
 [[files]]
 file = "mods/fallingleavesforge.pw.toml"
+hash = "e5125f8f2709fd20f8182fade3d7f9e7129872c63f042c5489c6eba4733b6b49"
 metafile = true
 
 [[files]]
 file = "mods/farmers-delight.pw.toml"
+hash = "867a029a8bed75bea2fb02e5186730db46ec01f970d0bdb266c6897074c16177"
 metafile = true
 
 [[files]]
 file = "mods/fast-minecart.pw.toml"
+hash = "09225d54a81b2a9bcaacd5d26a92af25f611d4c8660d9803c6f9353564b8b787"
 metafile = true
 
 [[files]]
 file = "mods/faster-random.pw.toml"
+hash = "605fe60f2ada4333e88ec2fa66cb57d0635292d83eee8d1ad40f2485d72ef013"
 metafile = true
 
 [[files]]
 file = "mods/fastquit-forge.pw.toml"
+hash = "574e4be5a4194cf6a44a5d064e3734dfbaac911c3caebfdf722ed7c35ff5215e"
 metafile = true
 
 [[files]]
 file = "mods/ferrite-core.pw.toml"
+hash = "05d96d5b17399f048469ff4b44451eb8d99cc7a2a075ff55718c397cb508b0c2"
 metafile = true
 
 [[files]]
 file = "mods/fishermens-trap.pw.toml"
+hash = "1956e4a0cabb264e2106cd16f7664e29d448b542f2e5f93e1312f5a471d23959"
 metafile = true
 
 [[files]]
 file = "mods/fog.pw.toml"
+hash = "73faa459ffeae68da1b5df95212e79ac9a32b1028983636396552b6127743db7"
 metafile = true
 
 [[files]]
 file = "mods/forgified-fabric-api.pw.toml"
+hash = "d6f2fdcf0f4bc67dccd8e036f7c8117ffd76a008bd50e2a060cd23671ef9abb9"
 metafile = true
 
 [[files]]
 file = "mods/fzzy-config.pw.toml"
+hash = "14f2789a95bc3f1a37271ed91cd6ab931c6ba22b62d0fa5f429777aabe411053"
 metafile = true
 
 [[files]]
 file = "mods/geckolib.pw.toml"
+hash = "548cf9b25748105c70af57d4f169f4f8ea9c47c1ec6ec9cae9cbe264bdf31754"
 metafile = true
 
 [[files]]
 file = "mods/glassbreaker.pw.toml"
+hash = "934e030bbe3fd43663094e75e43e8b49cecd149fb22d71316782e1bed22d1d29"
 metafile = true
 
 [[files]]
 file = "mods/heart-crystals.pw.toml"
+hash = "4480ede1f6ed684cf8bdf4f5b410bf767559f92a0948c30d7074237cfa7af9b9"
 metafile = true
 
 [[files]]
 file = "mods/iceberg.pw.toml"
+hash = "cf8b70a9aee53147acfa4f6dd545baf2a65a597dd456f04c65e8ce378afea11c"
 metafile = true
 
 [[files]]
 file = "mods/immersivethunder.pw.toml"
+hash = "086d8b88627ca2b5eb4457a26a8894d1b0861e7b8e909e461a02b054814914da"
 metafile = true
 
 [[files]]
 file = "mods/infinite-storage-bundle.pw.toml"
+hash = "c7f26ee62cb0bc21ce23720763f765c6633ac0467f9352c01a5a55765ea53ae3"
 metafile = true
 
 [[files]]
 file = "mods/jade-addons-forge.pw.toml"
+hash = "8cd8400cb4e2c5ba60c8a359a7b6ff501078d2056eab0aba7f6b0ac77b7a0694"
 metafile = true
 
 [[files]]
 file = "mods/jade.pw.toml"
+hash = "652900870d343dda5683456934ca76bf176ea54da73d9883d8a13c9b3cae2fac"
 metafile = true
 
 [[files]]
 file = "mods/jei.pw.toml"
+hash = "77b86ca843207273549875640b1c16254c2486e67127c37344c186b503da96ed"
 metafile = true
 
 [[files]]
 file = "mods/kawaii-dishes.pw.toml"
+hash = "37b396f46138061fe62f310fce2081594f057d50df9545e6bab6ee1840232011"
 metafile = true
 
 [[files]]
 file = "mods/kotlin-for-forge.pw.toml"
+hash = "0033c5a00c46d5d7b6cf77b19fa76ce5c78a613f3128dcadb3588fa5841ae489"
 metafile = true
 
 [[files]]
 file = "mods/kotlin-lang-forge.pw.toml"
+hash = "b691a244704e1ed5c8d4916628eb8df447c7fbb5f15c4e51bbd536a0ac1f391e"
 metafile = true
 
 [[files]]
 file = "mods/krypton-foxified.pw.toml"
+hash = "b843ce75c788f0720b6e23d9021ce55d37415d72802ee60d95bd2fc5809ba96c"
 metafile = true
 
 [[files]]
 file = "mods/ksyxis.pw.toml"
+hash = "7c6239fe970cd45a1f680493b9fceef6870afcfd2de72086bfef3f765bd3c4c6"
 metafile = true
 
 [[files]]
 file = "mods/lambdynamiclights.pw.toml"
+hash = "b51341c6f2ff3732617d7ffa3b3ed3d09c05d2d24fbc243734aefbe47f149f83"
 metafile = true
 
 [[files]]
 file = "mods/larger-ore-veins-classic.pw.toml"
+hash = "852b737702daf9f4e99ba10fef8ae4e651abd9ad2ec5e14ca7667f867eac2e84"
 metafile = true
 
 [[files]]
 file = "mods/legendary-tooltips.pw.toml"
+hash = "7e2fd62bc37c92bd5a9fd7789f6b948d831945041d69ee6664c88fb9f9209897"
 metafile = true
 
 [[files]]
 file = "mods/lighty.pw.toml"
+hash = "5ce96ac040fca257f41959be41ad80ba790102dc91cccd8c09e81eed19fa6478"
 metafile = true
 
 [[files]]
 file = "mods/lithium.pw.toml"
+hash = "b8ce87d9a7164676e68e69e9e6706cd6e9123b1fe740612b1ba39b43ce8675ef"
 metafile = true
 
 [[files]]
 file = "mods/lithostitched.pw.toml"
+hash = "a859b2f6265d5160e052d00659e4bf2ec3e307856c707110caaf9f83439c9f2c"
 metafile = true
 
 [[files]]
 file = "mods/longer-chat-history.pw.toml"
+hash = "bedb744feedeb8fb5af830d4c22b934c11f455588dfef47a5cf3c951804d5f9f"
 metafile = true
 
 [[files]]
 file = "mods/lootr.pw.toml"
+hash = "54027603401c42860c29864e4e5e8639516743d2f3d17e51153fd841ffd58f5c"
 metafile = true
 
 [[files]]
 file = "mods/lukis-crazy-chambers.pw.toml"
+hash = "ac4bb93adbc42cc41866d321c7b475369bb9bb8b73d100ce2043b4656b3b800b"
 metafile = true
 
 [[files]]
 file = "mods/mc-258859.pw.toml"
+hash = "4aa6faf86d8046cb94bcbcec4f5a89f8a3c1a61c9b90ec6b5145fc4133aae806"
 metafile = true
 
 [[files]]
 file = "mods/mcmouser.pw.toml"
+hash = "e010718dbfc38cb8171ad270024fc1f79dd7a158462de26adb0746796522b4f1"
 metafile = true
 
 [[files]]
 file = "mods/mica.pw.toml"
+hash = "06eaaffb41af3f1ca4e299589adc16bd950184c2e9ef0b168599dd714da8af21"
 metafile = true
 
 [[files]]
 file = "mods/mixintrace-reforged.pw.toml"
+hash = "238b4a0a76d7c739e757554d234c0df2388f30df31fcdf45a53c6006272b55be"
 metafile = true
 
 [[files]]
 file = "mods/moonlight.pw.toml"
+hash = "d79c6acf7b4646175124345daae6f3fd000e362bb89724e5b8ed1b5b1e18b6f1"
 metafile = true
 
 [[files]]
 file = "mods/more-paths.pw.toml"
+hash = "427c526a1fcd744a5c3aad56fa266928a040754510b4083fcb09cc142cec190f"
 metafile = true
 
 [[files]]
 file = "mods/mouse-tweaks.pw.toml"
+hash = "6bc414cc0f2d4c078fe83f384d786343f701f371d657c5279b5b0df1595804bd"
 metafile = true
 
 [[files]]
 file = "mods/moyai.pw.toml"
+hash = "01b28f86410b670582e8494d33950916df0e50b32134ae9e8572bb32b6adba97"
 metafile = true
 
 [[files]]
 file = "mods/mru.pw.toml"
+hash = "2d82970956a15ded6c9edda34ec047ac9bb7655736da5d1beaa2e829d4c88d70"
 metafile = true
 
 [[files]]
 file = "mods/musket-mod.pw.toml"
+hash = "359f98f5d3028b8f9383258479cd2852054ad3475e18621b63b50864ff5852eb"
 metafile = true
 
 [[files]]
 file = "mods/no-chat-reports.pw.toml"
+hash = "5da18814472be5dc93a21886983646da3a7236413800075ac75229be82d114fa"
 metafile = true
 
 [[files]]
 file = "mods/no-resource-pack-warnings-forge.pw.toml"
+hash = "3fb3a7b2f288770f8df411109733184353d2e3fc6c28c28e0824feb3e26ee140"
 metafile = true
 
 [[files]]
 file = "mods/no-telemetry.pw.toml"
+hash = "ebd48452773a4b6b4b7dcedbfb71c8986ec97780fcce040542c8e8fd67f22c56"
 metafile = true
 
 [[files]]
 file = "mods/no-villager-death-messages.pw.toml"
+hash = "0f3ae87b3983787763e80b37a34608a6671e762f9b6e0fc0fb496ce26acad848"
 metafile = true
 
 [[files]]
 file = "mods/noisium.pw.toml"
+hash = "b3e831b3e4d6ddbf23806b0fec6087eca264af1ebc04e747c89024972aaa8607"
 metafile = true
 
 [[files]]
 file = "mods/northerncompass.pw.toml"
+hash = "fd2db1d40d4a12bb157a9ad4da34a7f926b860f32ebfb759dc1d0b25d734e08a"
 metafile = true
 
 [[files]]
 file = "mods/not-enough-animations.pw.toml"
+hash = "758a6e0ca20802b83c96762c6399f7cd107c65260b2330373d46d7fddb69056e"
 metafile = true
 
 [[files]]
 file = "mods/ok-zoomer.pw.toml"
+hash = "8d28bb5758c1c373f380d150ba3a75dd157dde3280a9a2554f41ecbfee02428e"
 metafile = true
 
 [[files]]
 file = "mods/open-parties-and-claims.pw.toml"
+hash = "5c576ee00b07cafe6a2eb04b84d89a5cc61ee21a6e66cb81522ab5970f8a7229"
 metafile = true
 
 [[files]]
 file = "mods/overflowing-bars.pw.toml"
+hash = "cb40fc0e1e0a3338d57b34a5ba2612ae9a9f0e32619695c4da637a98b4e52cf3"
 metafile = true
 
 [[files]]
 file = "mods/particle-interactions.pw.toml"
+hash = "12fa04dfc69d95c522b43e3d5a3e0d2439c332f51d87aea9c214631dd607a7ce"
 metafile = true
 
 [[files]]
 file = "mods/patchouli.pw.toml"
+hash = "87fb28047d648087f2fe4891ddf9d3c394b9c5c29eaf4f3970fb7c32520e6fcf"
 metafile = true
 
 [[files]]
 file = "mods/paxi.pw.toml"
+hash = "74d96b4361faf4457a439bcc2a1656625a22dfc656164091e89a3ba676880867"
 metafile = true
 
 [[files]]
 file = "mods/piglin-proliferation.pw.toml"
+hash = "3d3f70b92462838fc92af5074d5ccc9ae0a13661f8b6adacc14f5d67d3fd0bde"
 metafile = true
 
 [[files]]
 file = "mods/ping-wheel.pw.toml"
+hash = "a2d4031a1a3c3ea5fb5a35b0164a93a0c73955d87ad1223ac73e0a00a70c8bd1"
 metafile = true
 
 [[files]]
 file = "mods/pling.pw.toml"
+hash = "d9f85e04a194a23ec73e8c63a1fc1d990a94cc20b9fde7bac84a48fd18d8c804"
 metafile = true
 
 [[files]]
 file = "mods/plushables.pw.toml"
+hash = "d69cce2eb6f7a7302dd16c718ce8e44a16b8800f731c7a0ef999f64ab3ac34b2"
 metafile = true
 
 [[files]]
 file = "mods/polytone.pw.toml"
+hash = "85db6150ffdb3e1ab830616a72d3f94fb95696cd5db340b44913dcba3fb894a1"
 metafile = true
 
 [[files]]
 file = "mods/presence-footsteps.pw.toml"
+hash = "eedefcefb935f2f4526f0f63d3a702a1594e747c34ded51df71bd64e76340e96"
 metafile = true
 
 [[files]]
 file = "mods/pretty-rain.pw.toml"
+hash = "59a575831eaaaf600d5f04891d2e8c34d268eb47c16526dc2c6ba951370becff"
 metafile = true
 
 [[files]]
 file = "mods/prickle.pw.toml"
+hash = "7750bf1c0a66c843a06f07bd0ed7157d14ff0958e19426aadaed6ecf3034af65"
 metafile = true
 
 [[files]]
 file = "mods/prism-lib.pw.toml"
+hash = "4a1505d9edf2836f0efd65329fc12be2bb5be8d3e14ad86a8486cff562574d53"
 metafile = true
 
 [[files]]
 file = "mods/puzzles-lib.pw.toml"
+hash = "35ecf5a8ecf2d7b1a2b79f5d24a093e21d23f12486dcd71689894758d2fbe832"
 metafile = true
 
 [[files]]
 file = "mods/rabbit-pathfinding-fix.pw.toml"
+hash = "12dbd202d2280fd3c56965172ed6039f7fa612a34bdb5a995c52e9110e50a9d0"
 metafile = true
 
 [[files]]
 file = "mods/raised.pw.toml"
+hash = "e1a8901cb576171c4795431ef8cd8488d4d14f2329a94b09f48a05a0d249297d"
 metafile = true
 
 [[files]]
 file = "mods/random-mob-sizes.pw.toml"
+hash = "c807ea002028531b058454b0a0f71d8f42afe0fcefa5e1651d425939c662c999"
 metafile = true
 
 [[files]]
 file = "mods/rebind-narrator.pw.toml"
+hash = "cb352779c4b9c669a926c8be84a78604910e89d2bb982782741fb1f5c635c17a"
 metafile = true
 
 [[files]]
 file = "mods/reeses-sodium-options.pw.toml"
+hash = "09306b955060349986ccf6a6d2a67f1e019fa172a7dc690dd6007f81c966309a"
 metafile = true
 
 [[files]]
 file = "mods/remove-terralith-intro-message.pw.toml"
+hash = "fe85eb7e13d32999eb376d154be220d82134c534a3f066fa263fb4af11535232"
 metafile = true
 
 [[files]]
 file = "mods/rsls.pw.toml"
+hash = "0bc0eb4a6fdd0bccfc2a13d7e84e64d6a969c0edae178926df940df4e4ce4cc5"
 metafile = true
 
 [[files]]
 file = "mods/rustic-pancakes.pw.toml"
+hash = "e979182199e2fbb9f8a69b6ef988a4ba6dd7f30149f7f8ef8c56677f06043125"
 metafile = true
 
 [[files]]
 file = "mods/scalablelux.pw.toml"
+hash = "8d634f8aec598bda3a07d3cb3071d31e6fa6e56915f0214a421956872feddc33"
 metafile = true
 
 [[files]]
 file = "mods/screenshot-to-clipboard.pw.toml"
+hash = "2507dd9242e994ec7a0b21255b0b51a91bf9e0e51b060defe7bf7f8fa1f04b53"
 metafile = true
 
 [[files]]
 file = "mods/seamless.pw.toml"
+hash = "68f035ae4bc3406765939fcb13fbcc087fc5094b96a565403e10fd402d239dfd"
 metafile = true
 
 [[files]]
 file = "mods/separatedleaves.pw.toml"
+hash = "5a636f4c10ca7159a8c86515c46232b079acad919aba544623c25a4d644b850b"
+metafile = true
+
+[[files]]
+file = "mods/simple-voice-chat.pw.toml"
+hash = "ef6992d15308d88e45074e082dc0552c61d494dc583a9b8520edba4bf1af94b6"
 metafile = true
 
 [[files]]
 file = "mods/sodium-extra.pw.toml"
+hash = "a1fb713df668ed21dda0602e99cb23b991c8faff841e130d7aae46258c3d6a45"
 metafile = true
 
 [[files]]
 file = "mods/sodium.pw.toml"
+hash = "347cac2ed12c9bc0561b6a59eeb4c121b10e5f3f71d54e9bf8d1343af57ef5b8"
 metafile = true
 
 [[files]]
 file = "mods/sound-physics-remastered.pw.toml"
+hash = "1bfb26729d5a6e7a25a04c31df23529193e983fbaf730eb9011175d66b823325"
 metafile = true
 
 [[files]]
 file = "mods/spark.pw.toml"
+hash = "593fa7b30ab016aa45be07bd6bef3a9f160ed0f24689850d60bf84995d69b843"
 metafile = true
 
 [[files]]
 file = "mods/sparsestructures.pw.toml"
+hash = "28a389c8e2216d16b61b6e757c309d2e7d1430d6765cf440a648e6830eb94e67"
 metafile = true
 
 [[files]]
 file = "mods/spelunkers-palette.pw.toml"
+hash = "899e8e2d84abcd1c6122578326879494f5d2f5a7596297c4851b88c6574b7f52"
 metafile = true
 
 [[files]]
 file = "mods/stony-cliffs-are-cool.pw.toml"
+hash = "43a6c7daa5bc03db44b9c514c3f92ae6e398802d2fb8a9e9bd5b63168b4e4807"
 metafile = true
 
 [[files]]
 file = "mods/structory.pw.toml"
+hash = "0c1ed682dc86868fb25c5ea6ec2d2c60e4b590e1b00ec4d92d45d88c3b005a48"
 metafile = true
 
 [[files]]
 file = "mods/superflat-world-no-slimes.pw.toml"
+hash = "3d756e2aa497f9411cd1ff15fabe9084e4b51be586ac3d51d2ab1ef22b822203"
 metafile = true
 
 [[files]]
 file = "mods/supplementaries-squared.pw.toml"
+hash = "c7a2c6afb9624f0385777d83280298b2f9dd098032f4a13c316173c59f7270b9"
 metafile = true
 
 [[files]]
 file = "mods/supplementaries.pw.toml"
+hash = "17ffede678924aa27782eb98ea984220e3973f2b78d581b417b8471f1a3168b0"
 metafile = true
 
 [[files]]
 file = "mods/surveyor.pw.toml"
+hash = "a9c96b9fef877ea4501b772c104da6e52e01a09590ea434ff43824dbd23d9691"
 metafile = true
 
 [[files]]
 file = "mods/terralith.pw.toml"
+hash = "da7ee99189ad35aac094919fe33cac647d98533b23c228f10d4811f08989e2b8"
 metafile = true
 
 [[files]]
 file = "mods/text-formatting-everywhere.pw.toml"
+hash = "eb1009159e25cf85e6fe612bcde76e689593277444c4b55ce9426a6b5dadeef9"
 metafile = true
 
 [[files]]
 file = "mods/tide.pw.toml"
+hash = "7f8ff3c91f7306a62e65f8d9d431b5c40706cdb63697a39aa1aa54d909000d17"
 metafile = true
 
 [[files]]
 file = "mods/tiny-item-animations.pw.toml"
+hash = "922febf9d28f1db3be54a689b99180eaa62f10e92e1df6938e8d5743b801f294"
 metafile = true
 
 [[files]]
 file = "mods/tnt-breaks-bedrock.pw.toml"
+hash = "cc9a68db07580364c2c47bd760153f654e493ecdd980b65cc4102d0cf5358f0b"
 metafile = true
 
 [[files]]
 file = "mods/toastbegone.pw.toml"
+hash = "a4baef234f249a012dfb922578f2f9122a75c74ddc3dca9caebdb92cbd49cfb4"
 metafile = true
 
 [[files]]
 file = "mods/toggle-subtitles.pw.toml"
+hash = "0a38a2bbddb5d3710b0a588e3ed18046692e0f98533e4cf5dfb940598010128f"
 metafile = true
 
 [[files]]
 file = "mods/too-fast.pw.toml"
+hash = "49fb27f04c4ec26614fd121a7a8f7764d59949d0b6a3c32a63fb57fd2b3c8ea9"
 metafile = true
 
 [[files]]
 file = "mods/too-many-paintings.pw.toml"
+hash = "fcc69442d092874b5ab0aa76c31c8926eeccca901e213b169acde92c54f89954"
 metafile = true
 
 [[files]]
 file = "mods/tool-trims.pw.toml"
+hash = "79d04d954184defd602ce8e5258a1179b45664729d727d5d53e2c1693f05dd00"
 metafile = true
 
 [[files]]
 file = "mods/trade-cycling.pw.toml"
+hash = "d8feca2b5817cbbf11126562ab22f7b2804262b7f827f58a594b25067f23c362"
 metafile = true
 
 [[files]]
 file = "mods/vanilla-fireflies.pw.toml"
+hash = "95c1463e32bb43f828cfbacc5175021cca51e573bef39b33e2c9fc55351c417f"
+metafile = true
+
+[[files]]
+file = "mods/vistas.pw.toml"
+hash = "20da2b78b2f86710f0f72a1e7863787d6a6060d7014efb13e45f7c99ef7b0d33"
 metafile = true
 
 [[files]]
 file = "mods/visual-workbench.pw.toml"
+hash = "fcc4e00f37493f6292af7fbef7be6ea27e1a0cb4185d010e17db67e4ac61da15"
+metafile = true
+
+[[files]]
+file = "mods/voice-chat-interaction.pw.toml"
+hash = "49e0d115696502d893eaf3d83e88fb70829ee644cbd4abf0bcc0a1dd3f61d82f"
 metafile = true
 
 [[files]]
 file = "mods/voidfog.pw.toml"
+hash = "1d05550c9de425389906173c195e8acd6b97c45abea51ecc88bcd20fce7e6178"
 metafile = true
 
 [[files]]
 file = "mods/windchime-unofficial-continued.pw.toml"
+hash = "329f701f795a3207940559d1201890a584e6d43eceab95f69cd0cb75cf7f5674"
 metafile = true
 
 [[files]]
 file = "mods/world-start-commands-and-global-gamerules.pw.toml"
+hash = "66790fe45f9a194d1c765937f1ecbcdeba3715a9ec5ce71efd89054367750bb5"
 metafile = true
 
 [[files]]
 file = "mods/yacl.pw.toml"
+hash = "0bb29a73e5f83b72e1fa56677bde2745e30a984a4559e3fa7164ed7b845e11c6"
 metafile = true
 
 [[files]]
 file = "mods/yeetus-experimentus.pw.toml"
+hash = "5e25dccab496945a5f19bb82383e0ebf98452ffc14cd25c7e0259cc44312281a"
 metafile = true
 
 [[files]]
 file = "mods/yungs-api.pw.toml"
+hash = "d987d3a1b3c54d02c10d69b80903ceb9082a8e120817fa3d36a29422edfa7e02"
 metafile = true
 
 [[files]]
 file = "mods/yungs-better-desert-temples.pw.toml"
+hash = "c2cb28859e7bcc0eb4ce59c5792f90fa5f8ab8865f5867ba26a5a345ec60b498"
 metafile = true
 
 [[files]]
 file = "mods/yungs-better-jungle-temples.pw.toml"
+hash = "c2dc09f214e7c1cecca6cf434776c2616f6d36bd27c06a6b39f985da0453a4f5"
 metafile = true
 
 [[files]]
 file = "mods/yungs-better-mineshafts.pw.toml"
+hash = "e839608ebc974e9e7819adc7bf29132ea86fc41b46af540fe0fa39b2007b2439"
 metafile = true
 
 [[files]]
 file = "mods/yungs-better-ocean-monuments.pw.toml"
+hash = "a2d7176026abf4a68a663b375811a603c508f36062cc7fb5b45416e1462682a8"
 metafile = true
 
 [[files]]
 file = "mods/yungs-better-strongholds.pw.toml"
+hash = "03084966c05070b5c4b17cd89234f3c0d813940a2d76b405a6699deac10a0ab8"
 metafile = true
 
 [[files]]
 file = "mods/yungs-better-witch-huts.pw.toml"
+hash = "9854b699d5a067c46ac99b1dedeeb529bff3fc18dd079e29b438c4cbf9725f68"
 metafile = true
 
 [[files]]
-file = "options.txt"
-
-[[files]]
 file = "resourcepacks/create-lootr.pw.toml"
+hash = "c71ace624089251e32aadec70c34e921de8e2bece0c2f6edeeabe1bb795f3a03"
 metafile = true
 
 [[files]]
 file = "resourcepacks/fresh-animations-extensions.pw.toml"
+hash = "e1958f3d85e8e248f316b08ea3211d0e90e860d3ed72d11776e5fd0662f84f24"
 metafile = true
 
 [[files]]
 file = "resourcepacks/fresh-animations.pw.toml"
+hash = "c4acd801de1d2fc6d87a460863b6c0bce61c64c60a22ddfa66e3410bd4ac06b0"
+metafile = true
+
+[[files]]
+file = "resourcepacks/just-expressions.pw.toml"
 metafile = true
 
 [[files]]
 file = "resourcepacks/outline-shader.pw.toml"
+hash = "5b82cdbab64e90ab5a8a3337fc1685e596d0cc27705ef6a5acf76c1d48bf29c7"
 metafile = true
 
 [[files]]
 file = "resourcepacks/redstone-torch-backport.pw.toml"
+hash = "04772ae7827575d2295cff9fb90af5e4aaf66bf7fa585858f51400dc6574e93b"
 metafile = true

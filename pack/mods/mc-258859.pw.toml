@@ -1,6 +1,6 @@
 name = "MC-258859"
 filename = "mc-258859-1.0+1.21.jar"
-side = "server"
+side = "both"
 
 [download]
 url = "https://cdn.modrinth.com/data/gzfqBTYf/versions/x688NRQ5/mc-258859-1.0%2B1.21.jar"

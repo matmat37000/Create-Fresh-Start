@@ -1,0 +1,130 @@
+{
+  "0": {
+    "weight": 1,
+    "logoControl": {
+      "outlined": false,
+      "splashX": -50.0,
+      "splashY": 0.0
+    },
+    "visualControl": {
+      "fov": 70.0
+    },
+    "cubemaps": [
+      {
+        "cubemapId": "modpack:panoramas/0/panorama"
+      }
+    ]
+  },
+  "1": {
+    "weight": 1,
+    "logoControl": {
+      "outlined": false,
+      "splashX": -50.0,
+      "splashY": 0.0
+    },
+    "visualControl": {
+      "fov": 70.0
+    },
+    "cubemaps": [
+      {
+        "cubemapId": "modpack:panoramas/1/panorama"
+      }
+    ]
+  },
+  "2": {
+    "weight": 1,
+    "logoControl": {
+      "outlined": false,
+      "splashX": -50.0,
+      "splashY": 0.0
+    },
+    "visualControl": {
+      "fov": 70.0
+    },
+    "cubemaps": [
+      {
+        "cubemapId": "modpack:panoramas/2/panorama"
+      }
+    ]
+  },
+  "3": {
+    "weight": 1,
+    "logoControl": {
+      "outlined": false,
+      "splashX": -50.0,
+      "splashY": 0.0
+    },
+    "visualControl": {
+      "fov": 70.0
+    },
+    "cubemaps": [
+      {
+        "cubemapId": "modpack:panoramas/3/panorama"
+      }
+    ]
+  },
+  "4": {
+    "weight": 1,
+    "logoControl": {
+      "outlined": false,
+      "splashX": -50.0,
+      "splashY": 0.0
+    },
+    "visualControl": {
+      "fov": 70.0
+    },
+    "cubemaps": [
+      {
+        "cubemapId": "modpack:panoramas/4/panorama"
+      }
+    ]
+  },
+  "5": {
+    "weight": 1,
+    "logoControl": {
+      "outlined": false,
+      "splashX": -50.0,
+      "splashY": 0.0
+    },
+    "visualControl": {
+      "fov": 70.0
+    },
+    "cubemaps": [
+      {
+        "cubemapId": "modpack:panoramas/5/panorama"
+      }
+    ]
+  },
+  "6": {
+    "weight": 1,
+    "logoControl": {
+      "outlined": false,
+      "splashX": -50.0,
+      "splashY": 0.0
+    },
+    "visualControl": {
+      "fov": 70.0
+    },
+    "cubemaps": [
+      {
+        "cubemapId": "modpack:panoramas/6/panorama"
+      }
+    ]
+  },
+  "7": {
+    "weight": 1,
+    "logoControl": {
+      "outlined": false,
+      "splashX": -50.0,
+      "splashY": 0.0
+    },
+    "visualControl": {
+      "fov": 70.0
+    },
+    "cubemaps": [
+      {
+        "cubemapId": "modpack:panoramas/7/panorama"
+      }
+    ]
+  }
+}

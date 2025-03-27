@@ -1,6 +1,6 @@
 name = "Create: Peaceful [Forge/Fabric/NeoForge]"
 filename = "create_peaceful-2.0.0-neoforge-1.21.1.jar"
-side = "server"
+side = "both"
 
 [download]
 url = "https://cdn.modrinth.com/data/9mmhz018/versions/LQtObKpL/create_peaceful-2.0.0-neoforge-1.21.1.jar"
