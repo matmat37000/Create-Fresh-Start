@@ -34,7 +34,7 @@ hash = "e07800cac5f38fbfa1632f9a95515e9acf6924c6970549fa4347c4f0c3464650"
 
 [[files]]
 file = "config/betterclouds-v1.json"
-hash = "08c7c15888120dce678ef68019a3ab9f1bcc779e337b93b75936289037a1eae3"
+hash = "2f9353bffb49ab05fcabb0c46b6888aed26a1fcb8d7db082d0096635c6988ab4"
 
 [[files]]
 file = "config/bettermodsbutton-client.toml"
@@ -42,7 +42,7 @@ hash = "5938a856cef5507c12049654e46422c3720fd49bd5410ab55f01f4a5e960c7a5"
 
 [[files]]
 file = "config/bobby.conf"
-hash = "351a52b3924de2d0e4e9f0d81f90b30ab68c834fa3cc23f976f862de35e2af44"
+hash = "8b4b4d4aaae54b8237e913aa70aeaa91669f253d1176dc7db4c54edc547beb84"
 
 [[files]]
 file = "config/c2me.toml"
@@ -90,7 +90,7 @@ hash = "1d49f0055d9c0599ab68348cca05d80dd7e55d472d78ad38e4aee7f5a81b9874"
 
 [[files]]
 file = "config/defaultoptions/keybindings.txt"
-hash = "2e915d9f639b955435af3dbcd81326c0163f105c76d769bc2938a7682cb32b5f"
+hash = "48f8922e5392146685a42042e8833956d905b194c5421a577c4f4b18a3e48019"
 
 [[files]]
 file = "config/defaultoptions/options.txt"
@@ -118,7 +118,7 @@ hash = "f00ed9aabad508a798bc20ef9ea1e38f8cbfc2cf529d5895312dfd83fe1c5069"
 
 [[files]]
 file = "config/fog/config.json"
-hash = "cd5f0fb25de31c94cf880cf5812ecc4e7b345fd3d3b7bb890e910f0e618cd492"
+hash = "5b7d0a62c6cb36b9918b141b13ec27ef0cc1f75707aaf2cbc0ec5acac8f1f5ab"
 
 [[files]]
 file = "config/icon.png"
@@ -1159,6 +1159,10 @@ file = "config/paxi/resourcepacks/modpack/assets/minecraft/models/block/stone/st
 hash = "f7c1d7106064a28566bb378e5ec5aa1ed84aca75d769265637bf2e030ae21e51"
 
 [[files]]
+file = "config/paxi/resourcepacks/modpack/assets/minecraft/sounds.json"
+hash = "3f94bedfe48701428e7e897f2942cdfb466bbc82d302e2fe32d369c8ac5d9ee0"
+
+[[files]]
 file = "config/paxi/resourcepacks/modpack/assets/minecraft/textures/block/coal_ore.png"
 hash = "6354ba5a0734029e61849926cc3d3dc27f961e068055c4b29dbe959aedc60f83"
 
@@ -1440,27 +1444,27 @@ hash = "455790fb4cd18659cb0795b09c4760621f597b096e8f9e9a814986eda3091510"
 
 [[files]]
 file = "config/paxi/resourcepacks/modpack/assets/modpack/panoramas/7/panorama_0.png"
-hash = "c8ea850cda602fa321068ba1bd0b09e4a9a93be8b75394aa97a123ccc9746e47"
+hash = "09bd45d5ac2e7de42eef65e0defdf42762c5b829f4febcfd4410cf67a3461980"
 
 [[files]]
 file = "config/paxi/resourcepacks/modpack/assets/modpack/panoramas/7/panorama_1.png"
-hash = "4c7ea6d397212bd892a2d83acaa904b6eff391c87341630024d7d2671ee37953"
+hash = "f4f5b2200624fce17b2d7336e30e02952e9b9b4ba9f67a478f35f878c7c78ecc"
 
 [[files]]
 file = "config/paxi/resourcepacks/modpack/assets/modpack/panoramas/7/panorama_2.png"
-hash = "fcce1ba954228f4c8c98cfbbdfe482646a5b9d005884b0b7f85d7f047398ca2c"
+hash = "0a8ac1c6851d27add6ddfe35d6e4968e3586529b054a376f56e88ad4836de820"
 
 [[files]]
 file = "config/paxi/resourcepacks/modpack/assets/modpack/panoramas/7/panorama_3.png"
-hash = "c6edcbabc4a5aacc8bfb74351eb5af00862e54a56579a1a0c4e0e1aeef72aa1f"
+hash = "3a5c1561d6b1bbc1112ec7eef12d17857f233d1a14019ae770301f7a6c36a164"
 
 [[files]]
 file = "config/paxi/resourcepacks/modpack/assets/modpack/panoramas/7/panorama_4.png"
-hash = "648a3b8296b870cdce9449928ed1e11f654e3c3c1fff38ea1cc69cdc8ede0286"
+hash = "370773d680fe8412233ca010c507926057230baac15b3679c52af3728817746c"
 
 [[files]]
 file = "config/paxi/resourcepacks/modpack/assets/modpack/panoramas/7/panorama_5.png"
-hash = "f9f9cd4e232cccfe024e29cea049bdb6a3b13e79e5a36e28d8f6b97ec1fc3ce2"
+hash = "64379818cfa162acd26d1cb7a9fa719af3b787015483a5c2a930619469cd840f"
 
 [[files]]
 file = "config/paxi/resourcepacks/modpack/assets/modpack/textures/block/hourglass_cocoa.png"
@@ -2353,11 +2357,6 @@ hash = "fe85eb7e13d32999eb376d154be220d82134c534a3f066fa263fb4af11535232"
 metafile = true
 
 [[files]]
-file = "mods/rsls.pw.toml"
-hash = "0bc0eb4a6fdd0bccfc2a13d7e84e64d6a969c0edae178926df940df4e4ce4cc5"
-metafile = true
-
-[[files]]
 file = "mods/rustic-pancakes.pw.toml"
 hash = "e979182199e2fbb9f8a69b6ef988a4ba6dd7f30149f7f8ef8c56677f06043125"
 metafile = true
@@ -2599,6 +2598,7 @@ metafile = true
 
 [[files]]
 file = "resourcepacks/just-expressions.pw.toml"
+hash = "520a3c71b39964051bda71d6d8bcb419114c392786dded9143b29ea9b47dd32f"
 metafile = true
 
 [[files]]

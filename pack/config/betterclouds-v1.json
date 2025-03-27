@@ -18,7 +18,7 @@
 	"chunkSize": 32,
 	"samplingScale": 1.0,
 	"scaleFalloffMin": 0.25,
-	"fogRangeFactor": 0.4,
+	"fogRangeFactor": 1.0,
 	"usePersistentBuffers": true,
 	"useFrustumCulling": true,
 	"irisSupport": true,
