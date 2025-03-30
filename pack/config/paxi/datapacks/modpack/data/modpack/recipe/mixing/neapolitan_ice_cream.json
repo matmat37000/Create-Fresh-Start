@@ -1,0 +1,28 @@
+{
+  "type": "create:mixing",
+  "ingredients": [
+    {
+      "item": "kawaiidishes:chocolate_ice_cream"
+    },
+    {
+      "item": "kawaiidishes:sweet_berry_ice_cream"
+    },
+    {
+      "item": "kawaiidishes:cream_ice_cream"
+    }
+  ],
+  "results": [
+    {
+      "count": 2,
+      "item": {
+        "id": "minecraft:bowl"
+      }
+    },
+    {
+      "count": 1,
+      "item": {
+        "id": "kawaiidishes:neapolitan_ice_cream"
+      }
+    }
+  ]
+}

@@ -1,0 +1,7 @@
+{
+  "credit": "By Sammy.K",
+  "parent": "computercraft:block/redrouter_block",
+  "textures": {
+    "front": "computercraft:block/redrouter/face/12"
+  }
+}

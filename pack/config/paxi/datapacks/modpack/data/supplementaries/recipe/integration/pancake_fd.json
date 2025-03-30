@@ -1,0 +1,34 @@
+{
+  "neoforge:conditions": [
+    {
+      "type": "neoforge:false"
+    },
+    {
+      "type": "supplementaries:flag",
+      "flag": "pancake"
+    },
+    {
+      "type": "neoforge:mod_loaded",
+      "modid": "farmersdelight"
+    }
+  ],
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "minecraft:sugar"
+    },
+    {
+      "tag": "c:milk"
+    },
+    {
+      "tag": "c:foods/dough"
+    },
+    {
+      "tag": "c:eggs"
+    }
+  ],
+  "result": {
+    "id": "supplementaries:pancake",
+    "count": 3
+  }
+}

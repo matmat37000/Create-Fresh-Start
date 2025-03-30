@@ -1,0 +1,12 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "redstone",
+  "key": {
+    "f": { "item": "create:andesite_casing" },
+    "n": { "item": "minecraft:note_block" },
+    "r": { "tag": "c:dusts/redstone" },
+    "i": { "item": "create:iron_sheet" }
+  },
+  "pattern": ["fff", "rni", "fff"],
+  "result": { "count": 1, "id": "computercraft:speaker" }
+}

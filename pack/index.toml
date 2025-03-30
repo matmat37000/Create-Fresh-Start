@@ -38,7 +38,7 @@ hash = "2f9353bffb49ab05fcabb0c46b6888aed26a1fcb8d7db082d0096635c6988ab4"
 
 [[files]]
 file = "config/bettermodsbutton-client.toml"
-hash = "5938a856cef5507c12049654e46422c3720fd49bd5410ab55f01f4a5e960c7a5"
+hash = "938d414be18df35e86986aaa8529f085fe8eea7b8462a3907c4b77d8270b3c8f"
 
 [[files]]
 file = "config/bobby.conf"
@@ -117,12 +117,116 @@ file = "config/fishermens_trap-common.toml"
 hash = "f00ed9aabad508a798bc20ef9ea1e38f8cbfc2cf529d5895312dfd83fe1c5069"
 
 [[files]]
+file = "config/flyd/asparagus_soup.toml"
+hash = "e73f8ca54426028f973b884cd21c313cc3a9962c2a59e7460c99517881023b59"
+
+[[files]]
+file = "config/flyd/asparagus_soup_creamy.toml"
+hash = "ec5f07d237b349ede82773efbc25d07743057938b0af017aca87cdb9504c948b"
+
+[[files]]
+file = "config/flyd/baked_cod_stew.toml"
+hash = "e587c759051e67c5d584902eaf33e4ec17ae9137ab9805c1cd529b319877e8a5"
+
+[[files]]
+file = "config/flyd/beef_stew.toml"
+hash = "6896fa80ee232410595c4b65cca2f2f843d8076d4f519d255758029b6929a7d8"
+
+[[files]]
+file = "config/flyd/beetroot_soup.toml"
+hash = "199a13a15d048bba8e8a9e0978be492aab66e038dec20d472a50434d0efd1340"
+
+[[files]]
+file = "config/flyd/bone_broth.toml"
+hash = "e455de75633b5b3b41eb223470988faa8a8090fa1d664809a8544d30a3c4778e"
+
+[[files]]
+file = "config/flyd/capuccino_coffee.toml"
+hash = "4fc3ea435817d54acc0931c7dac0ae54934debb7c332aefb0ea34edf50b59335"
+
+[[files]]
+file = "config/flyd/chicken_soup.toml"
+hash = "5626bdab82ec44a7bcbdf5c3c672646e812bb011440cc9eeab8d688ef02ac90f"
+
+[[files]]
+file = "config/flyd/dark_coffee.toml"
+hash = "f382f6e6349393023775875363c661874664a6bcead452fdf4023a6b36970c4e"
+
+[[files]]
+file = "config/flyd/doppio_coffee.toml"
+hash = "a00831ecba3db47c91cb65917f6c91fc1fdf8e676786bb0cf7b839f1084410c6"
+
+[[files]]
+file = "config/flyd/espresso_coffee.toml"
+hash = "0ff1309f4cc6abe2c9b5ba3d27b3ad879d1f478d3b30f59b79037335ecb9e806"
+
+[[files]]
+file = "config/flyd/fish_stew.toml"
+hash = "f18fadb9fcde4ba8caf49ae0e41b2b3bcfa779657a86790320d7ade015dfe3e1"
+
+[[files]]
+file = "config/flyd/hot_cocoa.toml"
+hash = "cd5acba231012d42744bd9fb2fa09d82cdac3b516ef73212fe32eb5bab8f9164"
+
+[[files]]
+file = "config/flyd/latte_coffee.toml"
+hash = "8d545df37ad24bf80152e7a375e6757c86d3ad35d2d954efecd0a221026d663d"
+
+[[files]]
+file = "config/flyd/macchiato_coffee.toml"
+hash = "48c2646dffa84d472673cb03229de2e703db9f010d633d1813dd8ab5bd50945d"
+
+[[files]]
+file = "config/flyd/milk_foam.toml"
+hash = "9afd878ead0819d1a79b30697d8c6aeb2f9dbfb35dd3b5c9ecfb703e6bcc503e"
+
+[[files]]
+file = "config/flyd/mocha_coffee.toml"
+hash = "ab69dd7fba93b9ba5a99c35f6608a0a04fda2f1275bc6a20c09e99c9b9cadcc7"
+
+[[files]]
+file = "config/flyd/mushroom_stew.toml"
+hash = "760adb7aea6998b79c4f0a837142e03e5470c2f8d6abc621955eb4fb4a5cde3b"
+
+[[files]]
+file = "config/flyd/noodle_soup.toml"
+hash = "a54cc914cf5705e5c6af846d15db7f83d133a7bf505db143fbf05b6d6e7c88f6"
+
+[[files]]
+file = "config/flyd/peanut_honey_soup.toml"
+hash = "229daab93096ae076ff9b64226a786df65ec3b5f9fc321775e879ea9d514a3ce"
+
+[[files]]
+file = "config/flyd/pumpkin_soup.toml"
+hash = "12dc80246f590a19ebd537e18a9bfde198f61eff0a08cc1ca810c828f994012d"
+
+[[files]]
+file = "config/flyd/rabbit_stew.toml"
+hash = "81bf3ff80a312249657ab7aed576a7e4f8eec8871fc1b8e2579f078889bff5e6"
+
+[[files]]
+file = "config/flyd/steamed_milk.toml"
+hash = "96f8b28db3f9a6582d37b60efe5d4eb56ef9f6660e8ebd99adb563afb5d593cf"
+
+[[files]]
+file = "config/flyd/tomato_sauce.toml"
+hash = "2541815bc5dd66393f86364952eb5ba31592e5b557bf7af272915e2fa23eef5b"
+
+[[files]]
+file = "config/flyd/vegetable_soup.toml"
+hash = "d46c97953ed1545ffc2026f8fb015c77eb0016a05b00529fd0ab607202aa5406"
+
+[[files]]
 file = "config/fog/config.json"
-hash = "5b7d0a62c6cb36b9918b141b13ec27ef0cc1f75707aaf2cbc0ec5acac8f1f5ab"
+hash = "eca78d5e8e7cacad1228f29bdd1d2e56152032a0a0cf97ba9b67323598e37b1b"
 
 [[files]]
 file = "config/icon.png"
 hash = "a4b96b98430a075d274a782bc989cf6d46908323f5bf0d186ed857a0da1512bd"
+
+[[files]]
+file = "config/infinite-music-options.json"
+hash = "e614d22a16d9142d80e377c12674b97edb0d491ea4e493a3826b4e8e0c1b62d4"
 
 [[files]]
 file = "config/jade.json"
@@ -153,6 +257,58 @@ file = "config/paxi/datapacks/modpack/README.md"
 hash = "cfda6a805cfcd0cf6962f3ee58636cab04b91347b710fac2e0bc23f1176ea0d6"
 
 [[files]]
+file = "config/paxi/datapacks/modpack/data/bellsandwhistles/recipe/metro/metro_window.json"
+hash = "1b5ea1498b7c12fbf7b09615d28e2a31546a51cd8a37d8ba49dd18b7fbb6f8e7"
+
+[[files]]
+file = "config/paxi/datapacks/modpack/data/computercraft/recipe/computer_advanced.json"
+hash = "5adb1ae20fdd4a56ca11d127f41b142e1f6e508caacaff739d3a1b7f60fb32f0"
+
+[[files]]
+file = "config/paxi/datapacks/modpack/data/computercraft/recipe/computer_normal.json"
+hash = "e855ae34fd78ce927cc598a917568f53e45261890b45d0e7925aa66944506f25"
+
+[[files]]
+file = "config/paxi/datapacks/modpack/data/computercraft/recipe/disk_drive.json"
+hash = "e64deeaa8b2ceb3f959033732d53fd7868ec39992cff42e13aecfc05740d9d50"
+
+[[files]]
+file = "config/paxi/datapacks/modpack/data/computercraft/recipe/monitor_advanced.json"
+hash = "76f6befed3a5852642dff98a39e01597cc5cc5c4b312abb3fd9fe4424e5f2448"
+
+[[files]]
+file = "config/paxi/datapacks/modpack/data/computercraft/recipe/monitor_normal.json"
+hash = "3c20ea4bdea073ff6095fd69e15b699a1963feadf06e51c62b3735f32ee2cbd3"
+
+[[files]]
+file = "config/paxi/datapacks/modpack/data/computercraft/recipe/pocket_computer_advanced.json"
+hash = "b02c216b81cf53db642378e8bd8ab31ac146ae9d8e739d387a5212601aa9e666"
+
+[[files]]
+file = "config/paxi/datapacks/modpack/data/computercraft/recipe/pocket_computer_normal.json"
+hash = "0993c3bc7c7e2db444c04e3a011bb868526cd8ffaa2740cb4cef14ba6266cdd8"
+
+[[files]]
+file = "config/paxi/datapacks/modpack/data/computercraft/recipe/printer.json"
+hash = "61cf3978ba091df0793d03f56fffdd62e90be515ea2fcc9f519ad122f6c897c1"
+
+[[files]]
+file = "config/paxi/datapacks/modpack/data/computercraft/recipe/redstone_relay.json"
+hash = "25ef2a3c6d143831cafaca33ce3d80b75872a88b4842e5dd5422b9bc00f45233"
+
+[[files]]
+file = "config/paxi/datapacks/modpack/data/computercraft/recipe/speaker.json"
+hash = "88b47e7ba4bc58ed1e501529849fde9b441479402e97561532b4337dba5b7ba1"
+
+[[files]]
+file = "config/paxi/datapacks/modpack/data/computercraft/recipe/turtle_advanced.json"
+hash = "ae3c05b4cb945b3a518f14b00eaea1a8d7d843a2d463e521e80cdf620d7bfdb1"
+
+[[files]]
+file = "config/paxi/datapacks/modpack/data/computercraft/recipe/turtle_normal.json"
+hash = "f7280a382da6908f455012017c2c9b76e27d59f315ea189d5ebb7ca9d0234d51"
+
+[[files]]
 file = "config/paxi/datapacks/modpack/data/create/recipe/campfire_cooking/bread.json"
 hash = "e5f9721ac48f377574aa07c0a42bade4debf00d443eddb56d8993840ea192a4e"
 
@@ -167,6 +323,10 @@ hash = "4359db7bd9ea30cbf414120a0b33f6734e6ee8b869e77f92ad3085776870aa08"
 [[files]]
 file = "config/paxi/datapacks/modpack/data/create/recipe/crafting/curiosities/cake.json"
 hash = "ca000bb0f233cb9a03ad900d8b7e3d7b93a0a0e9edf2119da758f1b3bdb18de3"
+
+[[files]]
+file = "config/paxi/datapacks/modpack/data/create/recipe/crafting/tree_fertilizer.json"
+hash = "b2c1eab02d86391e86189c10558710412d90cf7d7aaacef50ef59cb503a1fd4d"
 
 [[files]]
 file = "config/paxi/datapacks/modpack/data/create/recipe/mixing/dough_by_mixing.json"
@@ -185,8 +345,20 @@ file = "config/paxi/datapacks/modpack/data/create/recipe/splashing/wheat_flour.j
 hash = "857c600dee32d6a1adcac45473c6985860879ef0c6ecab1e34fa33d95f3e8a0c"
 
 [[files]]
+file = "config/paxi/datapacks/modpack/data/create/tags/item/deployable_drink.json"
+hash = "bd38ef47e5350627c47854e0515cf88891c40ec9d50e90865739894446b0c073"
+
+[[files]]
+file = "config/paxi/datapacks/modpack/data/create_compressed/recipe/dough_block.json"
+hash = "d1bfdb8de41e3a885ed8e663dfddc8331324d76862d1b7b923e590f929c16f8c"
+
+[[files]]
 file = "config/paxi/datapacks/modpack/data/createcasing/recipe/sequenced_assembly/chorium_ingot.json"
 hash = "d6e8d031843c6115b4e13b2fdae8049c88a07c1342bfde20be743ab395b24027"
+
+[[files]]
+file = "config/paxi/datapacks/modpack/data/expandeddelight/recipe/berry_sweet_roll.json"
+hash = "207469913825f3c75ddc534e12641520106954644100c61ad29a53f92ed51ead"
 
 [[files]]
 file = "config/paxi/datapacks/modpack/data/expandeddelight/recipe/cooking/cranberry_jelly.json"
@@ -201,12 +373,20 @@ file = "config/paxi/datapacks/modpack/data/expandeddelight/recipe/cooking/sweet_
 hash = "fd7908eafd642449b0f230d7bd1a81d6cdeecf6fc9211e146ff8c00477fb0a08"
 
 [[files]]
+file = "config/paxi/datapacks/modpack/data/expandeddelight/recipe/glow_berry_sweet_roll.json"
+hash = "133eb946415cad6e9619d792bb2fffd701b7ccb1bdec4b28bb58ab781ddd3754"
+
+[[files]]
 file = "config/paxi/datapacks/modpack/data/expandeddelight/recipe/juicing/apple_juice.json"
 hash = "a525040f5d370845b1a1f3b7157a7416528945dd63f7522665b58417ef6b85d8"
 
 [[files]]
 file = "config/paxi/datapacks/modpack/data/expandeddelight/recipe/peanut_butter.json"
 hash = "f8d36885f049bd66f53ffb395d727c164b59141189853af5950effe588cad7c0"
+
+[[files]]
+file = "config/paxi/datapacks/modpack/data/expandeddelight/recipe/sweet_roll.json"
+hash = "1519d68db061bebf177ab8d080fdbfcd4a36df3dd98409e9c57fb1da398a0b48"
 
 [[files]]
 file = "config/paxi/datapacks/modpack/data/farmersdelight/apple_pie.json"
@@ -253,8 +433,56 @@ file = "config/paxi/datapacks/modpack/data/farmersdelight/recipe/wheat_dough_fro
 hash = "ebfb8fe596a8616af1b9300b1c5ae88165ccbfc59573da1e447211046a95cf70"
 
 [[files]]
+file = "config/paxi/datapacks/modpack/data/farmersdelight/tags/item/wheat_dough.json"
+hash = "958d4e069642a635e2ea8257bab8127cd94a68adf091508a73834a10f58ec388"
+
+[[files]]
 file = "config/paxi/datapacks/modpack/data/kawaiidishes/recipe/apple_pie.json"
-hash = "62900a0d1e771a458781b0150eaa43c3d20b81d08f7787b0def9ee72f7b02f89"
+hash = "1a6c3efc11d61bbc283ffdc5648444b56621edd1c8bfff3a33112edf21eca97c"
+
+[[files]]
+file = "config/paxi/datapacks/modpack/data/kawaiidishes/recipe/capuccino.json"
+hash = "83b08fe15ad5fc512d1917ec8e20183fe6f31365818f4896a72142f47f49ab84"
+
+[[files]]
+file = "config/paxi/datapacks/modpack/data/kawaiidishes/recipe/chocolate_cookie.json"
+hash = "b177d6fe5379b823539ab84fcfe905117ba804fe7c1e5a5e793288e9de2598bb"
+
+[[files]]
+file = "config/paxi/datapacks/modpack/data/kawaiidishes/recipe/chocolate_ice_cream.json"
+hash = "21562fee4390bea9de6e43c41682996b5b57f0653e38180a0a15d19e707ab1b3"
+
+[[files]]
+file = "config/paxi/datapacks/modpack/data/kawaiidishes/recipe/coffee_ice_cream.json"
+hash = "afd55d4ab9ab805d63b54aaede09cb4aa463b12a061ffb46e3e4dd80fa38d33f"
+
+[[files]]
+file = "config/paxi/datapacks/modpack/data/kawaiidishes/recipe/cream_ice_cream.json"
+hash = "0b35235e9a0c909d930078badb4aa0c1b1ccf4eabd51b851acf78f57c7cdc449"
+
+[[files]]
+file = "config/paxi/datapacks/modpack/data/kawaiidishes/recipe/hot_cocoa.json"
+hash = "febfe27024d0b19e32773e9516743fbf6e4837819bc4288c6a83d617e7741f72"
+
+[[files]]
+file = "config/paxi/datapacks/modpack/data/kawaiidishes/recipe/latte.json"
+hash = "d26b2c895d6d83e3914eabd6cb9e6cd852e1391da5f6871463e480e5712e4139"
+
+[[files]]
+file = "config/paxi/datapacks/modpack/data/kawaiidishes/recipe/macchiato.json"
+hash = "9c5f73f3ee11164b96a031c7269f01b11fc398b541512481abb0390e89b28d5e"
+
+[[files]]
+file = "config/paxi/datapacks/modpack/data/kawaiidishes/recipe/milk_foam.json"
+hash = "191b0188724b8bd1505db2bebcfcee64060ea5cf7db9a108d8c263760cec7e53"
+
+[[files]]
+file = "config/paxi/datapacks/modpack/data/kawaiidishes/recipe/mocha.json"
+hash = "b8d00826540a6ef99ab6318dfd064f6a0f1a0883599fc47d1f0a3985b0f621e9"
+
+[[files]]
+file = "config/paxi/datapacks/modpack/data/kawaiidishes/recipe/steamed_milk.json"
+hash = "1d29a6e511887e4f4a6997755142894ca5e819a27fc0e4b96f49dc89080a01be"
 
 [[files]]
 file = "config/paxi/datapacks/modpack/data/lmans_apples_plus/recipe/apple_juices.json"
@@ -269,12 +497,28 @@ file = "config/paxi/datapacks/modpack/data/lmans_apples_plus/recipe/apple_sauces
 hash = "d5489ebb23fcc5e04b75e1903fd3b17b42a4c4f4431e0305fdcf29e29c0ad76e"
 
 [[files]]
+file = "config/paxi/datapacks/modpack/data/minecraft/loot_table/blocks/budding_amethyst.json"
+hash = "ee86a6adadad09b0f021fe403f525f1c4e1d5dcc67ad3333d286824295002103"
+
+[[files]]
 file = "config/paxi/datapacks/modpack/data/minecraft/recipe/beetroot_soup.json"
 hash = "7b793d219195460cbfc04d0f1fe7bed3a7f3895da683f86e62a5c3531a1685f9"
 
 [[files]]
+file = "config/paxi/datapacks/modpack/data/minecraft/recipe/bread.json"
+hash = "4bb039357de3fcc08ecf4df462d99da1dcad4630a9449900378f5d7bda39931d"
+
+[[files]]
+file = "config/paxi/datapacks/modpack/data/minecraft/recipe/cake.json"
+hash = "26d80f1d9aa478ae9a9d5a5df682c257e68478d354b4f791064f8f2ed30ab5cc"
+
+[[files]]
 file = "config/paxi/datapacks/modpack/data/minecraft/recipe/lodestone.json"
 hash = "f30ed41b7038af1cbd4cb7e29ff8715baeb4f00cf35c8e897529fdb4fb285222"
+
+[[files]]
+file = "config/paxi/datapacks/modpack/data/minecraft/recipe/tinted_glass.json"
+hash = "aa0f73810c8583a8f2561e9b0f700a57b0d21ec6fb7dfde27ec53e2f5dab96be"
 
 [[files]]
 file = "config/paxi/datapacks/modpack/data/modpack/recipe/atlas.json"
@@ -517,6 +761,214 @@ file = "config/paxi/datapacks/modpack/data/modpack/recipe/cutting/wither_rose.js
 hash = "e9b11e616546e236d6f16ec5935ff2d9c1fec056de920d459bd48e766b200086"
 
 [[files]]
+file = "config/paxi/datapacks/modpack/data/modpack/recipe/emptying/asparagus_soup.json"
+hash = "782240036364e2cb6104591d879dedbe87c39cdbc0212df68e43f274443ea1a2"
+
+[[files]]
+file = "config/paxi/datapacks/modpack/data/modpack/recipe/emptying/asparagus_soup_creamy.json"
+hash = "556160785df5513fcc3b80e52bc837e2b59758bded2ccc389e5d13114a429bfa"
+
+[[files]]
+file = "config/paxi/datapacks/modpack/data/modpack/recipe/emptying/baked_cod_stew.json"
+hash = "5a1db8560bc49033863edcd54abf0758be9845542734b8a48faff7de0cdf5c66"
+
+[[files]]
+file = "config/paxi/datapacks/modpack/data/modpack/recipe/emptying/beef_stew.json"
+hash = "e356b65f6286d4c50859a791a57dd0450b84ea02cdf88ec8830f41cf73a1e0c5"
+
+[[files]]
+file = "config/paxi/datapacks/modpack/data/modpack/recipe/emptying/beetroot_soup.json"
+hash = "efab22928f64cb378e7b5c1ffef65f4646d1a400d7af660ee3e90b3b7edece49"
+
+[[files]]
+file = "config/paxi/datapacks/modpack/data/modpack/recipe/emptying/bone_broth.json"
+hash = "3807aec537eee7cd9a60bd95706bb02799d1cacd6a20c98f30ed91cbd036d378"
+
+[[files]]
+file = "config/paxi/datapacks/modpack/data/modpack/recipe/emptying/capuccino_coffee.json"
+hash = "3837cfc5cedea78464525b407aa92bc1adef1784f65f2d0b9edec6402556c94c"
+
+[[files]]
+file = "config/paxi/datapacks/modpack/data/modpack/recipe/emptying/chicken_soup.json"
+hash = "e0be561bf84fe49c625e78a91dcac93f629906cbefdabe23704e4fc837715ce7"
+
+[[files]]
+file = "config/paxi/datapacks/modpack/data/modpack/recipe/emptying/dark_coffee.json"
+hash = "69a8754712e774104499e7ea4f010b6a955ec713a9a08b0deb869c499a38f9ad"
+
+[[files]]
+file = "config/paxi/datapacks/modpack/data/modpack/recipe/emptying/doppio_coffee.json"
+hash = "26c607f1442e0bf2720a047b8698b054357de7310dd74a36343378f5297aff7d"
+
+[[files]]
+file = "config/paxi/datapacks/modpack/data/modpack/recipe/emptying/espresso_coffee.json"
+hash = "ee76ec4426e6bbc1580b86cd6a1eb11ab69425d2e4ec66e2b63bb6162f6525bc"
+
+[[files]]
+file = "config/paxi/datapacks/modpack/data/modpack/recipe/emptying/fish_stew.json"
+hash = "c59544811dd8c2a4edec81d5a4982891b0b1c1f90d6f119246e80d45c10918ce"
+
+[[files]]
+file = "config/paxi/datapacks/modpack/data/modpack/recipe/emptying/hot_cocoa.json"
+hash = "d004453929b38996a66b0f2fbf650c2cf4d43f3c51316d935c8dfe95d39c892d"
+
+[[files]]
+file = "config/paxi/datapacks/modpack/data/modpack/recipe/emptying/hot_cocoa_mug.json"
+hash = "f1219b0f64de8137e76ce45e31d828b1c7b9061675fb4bf3547c8b4c4e1a7e3f"
+
+[[files]]
+file = "config/paxi/datapacks/modpack/data/modpack/recipe/emptying/latte_coffee.json"
+hash = "628b87f992539facd7b4735b6183dad6fbaf1416dcc40de83e2c9dae957ce548"
+
+[[files]]
+file = "config/paxi/datapacks/modpack/data/modpack/recipe/emptying/lumisene.json"
+hash = "14c19a14cd9a56014ba42f84a15a2f62bbf946cfd5edd08d48d064f6da1ba641"
+
+[[files]]
+file = "config/paxi/datapacks/modpack/data/modpack/recipe/emptying/lumisene_bottle.json"
+hash = "473ec2271e34b35418fa717ae94571c095df31dee00963f28fc92bb032e52d68"
+
+[[files]]
+file = "config/paxi/datapacks/modpack/data/modpack/recipe/emptying/macchiato_coffee.json"
+hash = "287dcba452a691892cbcf2878e4f91346b7d19250e92d98a3a8bca6b73c5ec36"
+
+[[files]]
+file = "config/paxi/datapacks/modpack/data/modpack/recipe/emptying/milk_foam.json"
+hash = "3efbc93e15c3a38b2d4b1aa3196ae31edebb1237377c4cc04269d2f8467a00e3"
+
+[[files]]
+file = "config/paxi/datapacks/modpack/data/modpack/recipe/emptying/mocha_coffee.json"
+hash = "2a48987b8a7175dcbfb7ef34e002a347c93f7f0427a7b441fa8cc1dfc2a24bed"
+
+[[files]]
+file = "config/paxi/datapacks/modpack/data/modpack/recipe/emptying/mushroom_stew.json"
+hash = "c234ac41a5c103ceb46ec0e6b5e4553ea066db658d74ddb8d9b4d4469782d50a"
+
+[[files]]
+file = "config/paxi/datapacks/modpack/data/modpack/recipe/emptying/noodle_soup.json"
+hash = "5bd43b89f3a12eaac5245e73da94716659c7bec41648e2f8e5f5a64caaf2dc6b"
+
+[[files]]
+file = "config/paxi/datapacks/modpack/data/modpack/recipe/emptying/peanut_honey_soup.json"
+hash = "46bbb8a2d54b13719e0033714d81a80a00af38c1795f8c67ed51307f16d63474"
+
+[[files]]
+file = "config/paxi/datapacks/modpack/data/modpack/recipe/emptying/pumpkin_soup.json"
+hash = "686ea17e6d9c927a37388ab554a4476e8c9caa869d86fa9c1223c5b29cfa97af"
+
+[[files]]
+file = "config/paxi/datapacks/modpack/data/modpack/recipe/emptying/rabbit_stew.json"
+hash = "6d26248281d676ec3291fbdf3b0685a96afb4222c3546894a7cbb06f9a4ec686"
+
+[[files]]
+file = "config/paxi/datapacks/modpack/data/modpack/recipe/emptying/steamed_milk.json"
+hash = "4d84a3631e3f84e4f79539764ea2d368908f1f1b662132b0b39def865db74d9f"
+
+[[files]]
+file = "config/paxi/datapacks/modpack/data/modpack/recipe/emptying/tomato_sauce.json"
+hash = "6b68ae54b5a0a8c66002d1029060f20bd12eb7a467416e12ac5b0f125ef5392e"
+
+[[files]]
+file = "config/paxi/datapacks/modpack/data/modpack/recipe/emptying/vegetable_soup.json"
+hash = "35e225549d219d686af88292e951aee168eed3ed2b9764dea9706d70fffe6ddc"
+
+[[files]]
+file = "config/paxi/datapacks/modpack/data/modpack/recipe/filling/asparagus_soup.json"
+hash = "2e9112e58e03747a210fc84dabcdf3f5d182ab23c96be4c8c75fa5d6c8c912f7"
+
+[[files]]
+file = "config/paxi/datapacks/modpack/data/modpack/recipe/filling/asparagus_soup_creamy.json"
+hash = "a29bfd8b573c4d7f4b615b1c2767d015b4fc53b57b4109cbbf458291830baac2"
+
+[[files]]
+file = "config/paxi/datapacks/modpack/data/modpack/recipe/filling/baked_cod_stew.json"
+hash = "5353606715ac26e7d198d735180fbf10b797eae219c6d5d63cf6a4e4ca9e377e"
+
+[[files]]
+file = "config/paxi/datapacks/modpack/data/modpack/recipe/filling/beef_stew.json"
+hash = "1bac8ac2b8b63d4c311b6b0317cfad440962da5ca635ca1baed35fc1267f55a9"
+
+[[files]]
+file = "config/paxi/datapacks/modpack/data/modpack/recipe/filling/beetroot_soup.json"
+hash = "89679b485cd7c13624d1f53428dd195c689d3eece17a3307c3781f7c4a4bcff8"
+
+[[files]]
+file = "config/paxi/datapacks/modpack/data/modpack/recipe/filling/bone_broth.json"
+hash = "aa50a838d59ac0a0b43cfce90fe5d5e6fb41d87397e38f3eb51699514acc3b62"
+
+[[files]]
+file = "config/paxi/datapacks/modpack/data/modpack/recipe/filling/capuccino_coffee.json"
+hash = "5784d664371e1570b1e508ba7ba005451daadc81eb345d7095528a51f4ec962f"
+
+[[files]]
+file = "config/paxi/datapacks/modpack/data/modpack/recipe/filling/chicken_soup.json"
+hash = "59b77d4839c3b09f77f7010adef145ff15ec3fa2b93478627621e68f58e3e3f6"
+
+[[files]]
+file = "config/paxi/datapacks/modpack/data/modpack/recipe/filling/dark_coffee.json"
+hash = "5684b7b2ad1bedc3850ec98b65b1d4a7cdeb8026c1de792a890ebe57d46e7e12"
+
+[[files]]
+file = "config/paxi/datapacks/modpack/data/modpack/recipe/filling/doppio_coffee.json"
+hash = "a31c7fbbcd6707238d1f69b48be6bd778cc307715605df2829e1b6f2d65c45d6"
+
+[[files]]
+file = "config/paxi/datapacks/modpack/data/modpack/recipe/filling/espresso_coffee.json"
+hash = "d70076a6041b6676905c6ce6fa22f07350c232b3e239135391ca911a5bad4053"
+
+[[files]]
+file = "config/paxi/datapacks/modpack/data/modpack/recipe/filling/fish_stew.json"
+hash = "664c26ef820138cd1d831764bed401790f6d44ac7a257e7ad63403aad9eb0e23"
+
+[[files]]
+file = "config/paxi/datapacks/modpack/data/modpack/recipe/filling/hot_cocoa.json"
+hash = "f8c77a112c897f48ccc96042a53c62056e1ef48362780a17fea6374a8623757b"
+
+[[files]]
+file = "config/paxi/datapacks/modpack/data/modpack/recipe/filling/hot_cocoa_mug.json"
+hash = "63c0be1345d2e64674a7472de756271b2f93017bab876b1302743cd7a9b9731f"
+
+[[files]]
+file = "config/paxi/datapacks/modpack/data/modpack/recipe/filling/latte_coffee.json"
+hash = "bdee22d6f61c8476969e57d951fe4e305d9486123b893707508081bf00cfcdc2"
+
+[[files]]
+file = "config/paxi/datapacks/modpack/data/modpack/recipe/filling/macchiato_coffee.json"
+hash = "fcb72d9bd13d50b1bbf78e6bd5f7fb87ba488d3fe9b8d2aa06385f3912aa6e52"
+
+[[files]]
+file = "config/paxi/datapacks/modpack/data/modpack/recipe/filling/mocha_coffee.json"
+hash = "b7b35c4f2a43bb5f29b679dea3153b578ad9e62168f4d8fee22ecd75232fd08b"
+
+[[files]]
+file = "config/paxi/datapacks/modpack/data/modpack/recipe/filling/mushroom_stew.json"
+hash = "83701b5b8ae0e739d5a0d3ae168b45c5e80e866c057a8382e8da119f7167a9e5"
+
+[[files]]
+file = "config/paxi/datapacks/modpack/data/modpack/recipe/filling/noodle_soup.json"
+hash = "13cbf4820b52a5a9937b9bf7825c16694519d96b0e213a4ee669f7b20ea548d6"
+
+[[files]]
+file = "config/paxi/datapacks/modpack/data/modpack/recipe/filling/peanut_honey_soup.json"
+hash = "4c130f45b9d0d408c6c10a1283a3d07ea3b47ff535512133feb1994d879f4f3a"
+
+[[files]]
+file = "config/paxi/datapacks/modpack/data/modpack/recipe/filling/pumpkin_soup.json"
+hash = "0c2589f6cd33faa2aea50724247b33a489abc6c6db8eacb0f4002d0fc3afacf7"
+
+[[files]]
+file = "config/paxi/datapacks/modpack/data/modpack/recipe/filling/rabbit_stew.json"
+hash = "372548b2d6837e63eca329df60baa0859b66db33ae226112d47c458ffdba7716"
+
+[[files]]
+file = "config/paxi/datapacks/modpack/data/modpack/recipe/filling/tomato_sauce.json"
+hash = "453a5c3728a4b5681d6effb097f4a2092ff03878270e246f58485a427b082e23"
+
+[[files]]
+file = "config/paxi/datapacks/modpack/data/modpack/recipe/filling/vegetable_soup.json"
+hash = "f88a184adeb67212b6e7bde6ccf6e8fddbefec66425e070050c4b0e9fcf6b873"
+
+[[files]]
 file = "config/paxi/datapacks/modpack/data/modpack/recipe/gold_bars.json"
 hash = "df733ecd208f8a28de1df347e7f28ce58c9b21bb27dc2ba4f60382f5bc9be739"
 
@@ -533,12 +985,156 @@ file = "config/paxi/datapacks/modpack/data/modpack/recipe/milling/bone.json"
 hash = "8e044dcfcd80c3239ed71709d4a2ceece8b840280e5c71760486275e83711031"
 
 [[files]]
+file = "config/paxi/datapacks/modpack/data/modpack/recipe/milling/cocoa_powder.json"
+hash = "d29517aa0f2247152902521c30e5c646a5af6eccef6ab153f473ebe2bdd99a20"
+
+[[files]]
+file = "config/paxi/datapacks/modpack/data/modpack/recipe/mixing/asparagus_soup.json"
+hash = "90ac1996acb08a34580f2f327d0244fdbae7b3d01d5d5f78d89d1ba1b121ea19"
+
+[[files]]
+file = "config/paxi/datapacks/modpack/data/modpack/recipe/mixing/asparagus_soup_creamy.json"
+hash = "dce7ff628dc5db9005518bfd57c96b959f8e1c93aeeb8a3690cd03ac7c3d1350"
+
+[[files]]
+file = "config/paxi/datapacks/modpack/data/modpack/recipe/mixing/baked_cod_stew.json"
+hash = "8febcfe6108a4870f7f9f368a64efc627b3a39286f2acdab65e68ae05dbea65f"
+
+[[files]]
+file = "config/paxi/datapacks/modpack/data/modpack/recipe/mixing/beef_stew.json"
+hash = "79edf0b0b1316628f3998adcf644566bcba9a697f27c3f02e435c0bbebd7f2f5"
+
+[[files]]
+file = "config/paxi/datapacks/modpack/data/modpack/recipe/mixing/beetroot_soup.json"
+hash = "87642987f04ac3073747ff37df20301ac8bb9d08a74e0158a6529ca1c20459c2"
+
+[[files]]
+file = "config/paxi/datapacks/modpack/data/modpack/recipe/mixing/bone_broth.json"
+hash = "c86981606b1d0428f6c7b9151d4db324afd6a837055aff0e84e05d7f5d43cff2"
+
+[[files]]
+file = "config/paxi/datapacks/modpack/data/modpack/recipe/mixing/capuccino_coffee.json"
+hash = "c2662d08c161b233625a4cac9ec3d6e169a4f216b1eedeb7aa182a6de5776e0a"
+
+[[files]]
+file = "config/paxi/datapacks/modpack/data/modpack/recipe/mixing/cherry_ice_cream.json"
+hash = "45661d61254166e8abdaa1506fda1e9a45b023a88a676ec4d0ecec85983f6c38"
+
+[[files]]
+file = "config/paxi/datapacks/modpack/data/modpack/recipe/mixing/chicken_soup.json"
+hash = "792bb62a3affd4f268a474f0abe7ebe2beff38740cfb56e7157eb00194367945"
+
+[[files]]
+file = "config/paxi/datapacks/modpack/data/modpack/recipe/mixing/chocolate_ice_cream.json"
+hash = "0113228a229bd1f6487f4113876b041de6e3fd6f25b25da5d742c2c165843a74"
+
+[[files]]
+file = "config/paxi/datapacks/modpack/data/modpack/recipe/mixing/coffee_ice_cream.json"
+hash = "1fcbcdedfd503f1241ddd6258df5fe774a2fe40668df22ba99229c75b999118d"
+
+[[files]]
+file = "config/paxi/datapacks/modpack/data/modpack/recipe/mixing/cream_cheese_ball.json"
+hash = "aadd89626e77ef473031497beaa65f64bea6e6147c12b7d13488c7860fc0f56d"
+
+[[files]]
+file = "config/paxi/datapacks/modpack/data/modpack/recipe/mixing/cream_ice_cream.json"
+hash = "346ffd3b4da07b1f65b13456b49548e67477421290612839ed2b574d6b5f2e6e"
+
+[[files]]
+file = "config/paxi/datapacks/modpack/data/modpack/recipe/mixing/dark_coffee.json"
+hash = "4cb6d26691fea23a041aee71b9de8bdb57580871ee19dc5c4a4756bb77b5d55c"
+
+[[files]]
+file = "config/paxi/datapacks/modpack/data/modpack/recipe/mixing/doppio_coffee.json"
+hash = "589f553163e7982e4c73a82820b981f2c98cc73f956364cc801a7da8a208b7df"
+
+[[files]]
+file = "config/paxi/datapacks/modpack/data/modpack/recipe/mixing/espresso_coffee.json"
+hash = "413c30eb919f92b1203e48e6edc452b26c054722cc09a52e92836f2dfb298cac"
+
+[[files]]
+file = "config/paxi/datapacks/modpack/data/modpack/recipe/mixing/fish_stew.json"
+hash = "e02a4b4c3f718dfb3210d77261f4cc6fae5a5595390718cee5a7958e115698cc"
+
+[[files]]
+file = "config/paxi/datapacks/modpack/data/modpack/recipe/mixing/glow_berry_ice_cream.json"
+hash = "812f90a3ea9c2b5bb6db07e20fb2da0528701dd90ce35ba6d1ee728fe2ba24f1"
+
+[[files]]
 file = "config/paxi/datapacks/modpack/data/modpack/recipe/mixing/gunpowder.json"
 hash = "87dc57a9d4f6fcf199de4ffb19e95752da7ddc1e023c5e00f1eeb7b28fb06976"
 
 [[files]]
+file = "config/paxi/datapacks/modpack/data/modpack/recipe/mixing/hot_cocoa.json"
+hash = "1c4bf52bfe8272ef850546553252bb9aadc028d65ae7d541baec93b3a44a0dab"
+
+[[files]]
+file = "config/paxi/datapacks/modpack/data/modpack/recipe/mixing/latte_coffee.json"
+hash = "6b80a1cce94397ea5b9ead4852fa0ef06d8472553ba37263421529774626a266"
+
+[[files]]
+file = "config/paxi/datapacks/modpack/data/modpack/recipe/mixing/lumisene.json"
+hash = "22914470f340c786d8f4365e091eb1864eb672753196afa3229083e056b8900c"
+
+[[files]]
+file = "config/paxi/datapacks/modpack/data/modpack/recipe/mixing/macchiato_coffee.json"
+hash = "f7a73e447dacbae427782920703b2b9a6e3f9ead53af248aacad088e85fe7e9b"
+
+[[files]]
+file = "config/paxi/datapacks/modpack/data/modpack/recipe/mixing/milk_foam.json"
+hash = "571c03206ae5182cf282562fdf0f597dfbf919a125e9d9fd57c756e967cf6b11"
+
+[[files]]
+file = "config/paxi/datapacks/modpack/data/modpack/recipe/mixing/mocha_coffee.json"
+hash = "0912534f337fed2929238f3e0e2dcfaf8d7431750572f6516047c44d12e83678"
+
+[[files]]
+file = "config/paxi/datapacks/modpack/data/modpack/recipe/mixing/mushroom_stew.json"
+hash = "a740715f72f878fe86dd239e3c9e71093302cac964d5874d229ccc65e5bc7c4b"
+
+[[files]]
+file = "config/paxi/datapacks/modpack/data/modpack/recipe/mixing/neapolitan_ice_cream.json"
+hash = "e45cf8b2c04d79b8d17d4bb718cafa2755e9b39703f72acae8e0681d01ce03bf"
+
+[[files]]
+file = "config/paxi/datapacks/modpack/data/modpack/recipe/mixing/noodle_soup.json"
+hash = "51ec6bd5813c04e0a47554df976736c4fc64023444328c71ade0fc9da0b8ef4f"
+
+[[files]]
+file = "config/paxi/datapacks/modpack/data/modpack/recipe/mixing/peanut_honey_soup.json"
+hash = "29b572ee0dacbc387ec01691aa454f27eb38e5ba4ba22142a9064f890f320c6e"
+
+[[files]]
+file = "config/paxi/datapacks/modpack/data/modpack/recipe/mixing/pumpkin_soup.json"
+hash = "cb50d4da4b48652b3ae17fd7de719968dbe338b85f58d1eb777b528880495ff7"
+
+[[files]]
+file = "config/paxi/datapacks/modpack/data/modpack/recipe/mixing/rabbit_stew.json"
+hash = "13ad656cf2d989da0440f053bb7f9601552ba80b3c13682dba5534b5a2d024ae"
+
+[[files]]
+file = "config/paxi/datapacks/modpack/data/modpack/recipe/mixing/steamed_milk.json"
+hash = "0c32e69f87d1d0a42a17cf273981c5eac2bfe441d4a4ba96790d67c484976506"
+
+[[files]]
+file = "config/paxi/datapacks/modpack/data/modpack/recipe/mixing/sweet_berry_ice_cream.json"
+hash = "287e99dcaaea0045ba42b05e29a5d621ea9a8b87f9ad68f6065fc1a132a883ec"
+
+[[files]]
 file = "config/paxi/datapacks/modpack/data/modpack/recipe/mixing/syrup.json"
 hash = "1bd7ee90ccd659f138314dd36ba3302a66ce13f9a99f02fd5eabe9940cb9cfc2"
+
+[[files]]
+file = "config/paxi/datapacks/modpack/data/modpack/recipe/mixing/tomato_sauce.json"
+hash = "d26dd6f8541326f41836b96be8bce32d364621ecb2099a1be5f74582ac6bbb94"
+
+[[files]]
+file = "config/paxi/datapacks/modpack/data/modpack/recipe/mixing/vegetable_soup.json"
+hash = "399881a204f11ad26a9781dbe9143c17f41eeac8bc5f31eb2f1545fb194fb4c5"
+
+[[files]]
+file = "config/paxi/datapacks/modpack/data/modpack/recipe/mocha_ice_cream.json"
+hash = "41b1c4cf7cf421aa9e1fc3d3d8f571631b0581e3246d615c1539ee56fd3b22e5"
 
 [[files]]
 file = "config/paxi/datapacks/modpack/data/modpack/recipe/rope_from_straws.json"
@@ -549,12 +1145,20 @@ file = "config/paxi/datapacks/modpack/data/modpack/recipe/smoking/ash.json"
 hash = "ccc43a259e08ba648d360e55b479f4ec1435cb0d8d1d11d1e440b0e7406201f9"
 
 [[files]]
+file = "config/paxi/datapacks/modpack/data/modpack/recipe/sweet_roll.json"
+hash = "cb154a7c55f01c9d5de6f634af0be6403975786fbdb7d2e0c01163159559eaf0"
+
+[[files]]
 file = "config/paxi/datapacks/modpack/data/modpack/recipe/writable_book.json"
 hash = "4d6f01caaa9d852e7c8c6c73653c1b836829ed7ac69630f40f35e69ac7cb23ad"
 
 [[files]]
 file = "config/paxi/datapacks/modpack/data/modpack/tags/item/functioning_music_discs.json"
 hash = "8be82fd8ac978a198bfa6250091ef759290ba2c38652652584ef4cb0375b40b4"
+
+[[files]]
+file = "config/paxi/datapacks/modpack/data/plushables/recipe/heart_of_gold.json"
+hash = "de9ce71a482d45e2a40a7858f575ec86664360ec239bc3b30397f522eb4293c2"
 
 [[files]]
 file = "config/paxi/datapacks/modpack/data/rusticpancakes/recipe/syrup.json"
@@ -733,6 +1337,14 @@ file = "config/paxi/datapacks/modpack/data/supplementaries/recipe/crank.json"
 hash = "9a2ab57786becc6224759c3775083db4cb36a620c7421eb1abff56a7b1236e36"
 
 [[files]]
+file = "config/paxi/datapacks/modpack/data/supplementaries/recipe/integration/pancake_fd.json"
+hash = "da7a6865cecd935ad44513f7415cb1748f7c78447f267e5ea236e437e5df8c4c"
+
+[[files]]
+file = "config/paxi/datapacks/modpack/data/supplementaries/recipe/pancake.json"
+hash = "bf00a904a58d2778059f2ee7c8eb5286e84a11ff7ba0d18d4f71728bf0023c1d"
+
+[[files]]
 file = "config/paxi/datapacks/modpack/data/supplementaries/recipe/relayer.json"
 hash = "fced12ae91f3a803e39e42c82c92a506e12d8c46d83327d0724cd8f693098324"
 
@@ -766,7 +1378,11 @@ hash = "424ee7f7f70c8bdbef46d35c12827ad3c13c84f748081e2d205ae357483da72d"
 
 [[files]]
 file = "config/paxi/datapacks/modpack/data/supplementaries/tags/item/hourglass_dusts.json"
-hash = "25f597662548852dbd29ec0fd2d28709c49409c7a679c3ff43e18f9090bd1f25"
+hash = "8b9cbb79a749b16c4e41e2c644b1d5ce06d152462fa6ac29d587abecfba41dbc"
+
+[[files]]
+file = "config/paxi/datapacks/modpack/data/supplementaries/tags/item/wattle_and_daub.json"
+hash = "1eacc02571cd5797a5f2843a517a947c504f69ef7f79616fb61196c36ccb3b95"
 
 [[files]]
 file = "config/paxi/datapacks/modpack/data/suppsquared/recipe/metal_brace.json"
@@ -783,6 +1399,10 @@ hash = "025a9792f8d745af9cad9ff3e9b2f491abd849ed5a1f452c4e6e6041b00a8bcc"
 [[files]]
 file = "config/paxi/datapacks/modpack/data/suppsquared/recipe/sack_dye.json"
 hash = "366d87ad8ffa16e065740ace61be2d3887082a8e1f450277d66110bc81926a83"
+
+[[files]]
+file = "config/paxi/datapacks/modpack/data/tide/recipe/bobbers/amethyst.json"
+hash = "530a4addb57dfd5ba5b82eb2d2ac21dc4b75e939e2023ea417ffe6008bd7cfcc"
 
 [[files]]
 file = "config/paxi/datapacks/modpack/data/tide/recipe/bobbers/apple.json"
@@ -845,6 +1465,158 @@ hash = "ddd99b10a05f24e0c87349794470d66acc6b80c70eb206046983919ca28a32a3"
 [[files]]
 file = "config/paxi/resourcepacks/modpack/assets/antique_atlas/lang/en_us.json"
 hash = "af00c4bd82bb15ca2efba593b2fc34a60c169770f5a97b0602d155cb86937210"
+
+[[files]]
+file = "config/paxi/resourcepacks/modpack/assets/computercraft/blockstates/redstone_relay.json"
+hash = "2b3391fdb4ca4109ff7d4ea9fa7100f1536dd5ee8c610ec8470428a82e4b1e63"
+
+[[files]]
+file = "config/paxi/resourcepacks/modpack/assets/computercraft/models/block/redrouter_block.json"
+hash = "d22978c561ec5e8fbbf2bd8ca3f83d989eb6e03298550471cde8cc8dd0b67d7b"
+
+[[files]]
+file = "config/paxi/resourcepacks/modpack/assets/computercraft/models/block/redrouter_face/1.json"
+hash = "09e1a7616a6510014f67e2f1c166b91b6364446158e132ba9f650865fec697af"
+
+[[files]]
+file = "config/paxi/resourcepacks/modpack/assets/computercraft/models/block/redrouter_face/10.json"
+hash = "5f5385797e10f7f9f6026f12eb6c6e5c576e27bdc9c7482132fba7a038d1c286"
+
+[[files]]
+file = "config/paxi/resourcepacks/modpack/assets/computercraft/models/block/redrouter_face/11.json"
+hash = "496c7940f89d2f593026262c12986dd3a084667dcdb6fd9ce4feb216e59c924e"
+
+[[files]]
+file = "config/paxi/resourcepacks/modpack/assets/computercraft/models/block/redrouter_face/12.json"
+hash = "292c6ff69fc494014e9c2b271c4bedfe9298974f72e63b5b941e81358e8db21b"
+
+[[files]]
+file = "config/paxi/resourcepacks/modpack/assets/computercraft/models/block/redrouter_face/13.json"
+hash = "fa65aa21116a952f7b44b6bdc291f7b69624b011634c0dc1539aa91f77066570"
+
+[[files]]
+file = "config/paxi/resourcepacks/modpack/assets/computercraft/models/block/redrouter_face/14.json"
+hash = "b48a112001a7134553a80720062b50c07538ba53dae90e71de87b3c10b5db69b"
+
+[[files]]
+file = "config/paxi/resourcepacks/modpack/assets/computercraft/models/block/redrouter_face/15.json"
+hash = "6d2add4ab360273804ca8e1c095ba9948fb7aaf1736e2bd0fcfec61471e0b094"
+
+[[files]]
+file = "config/paxi/resourcepacks/modpack/assets/computercraft/models/block/redrouter_face/16.json"
+hash = "ef77040cad7f1450d43f2c4f62f541d0656f4f7f1e55c426f8cd4e3394cdd959"
+
+[[files]]
+file = "config/paxi/resourcepacks/modpack/assets/computercraft/models/block/redrouter_face/2.json"
+hash = "71a92f316e6b49c0b28f3b4367e6528fb996689cedc21adb9be82882da2dafec"
+
+[[files]]
+file = "config/paxi/resourcepacks/modpack/assets/computercraft/models/block/redrouter_face/3.json"
+hash = "adcfa9f067f9a6f8018e9ac7ff2eb041ade02b6e87a2ae04ae148974ccfc51b7"
+
+[[files]]
+file = "config/paxi/resourcepacks/modpack/assets/computercraft/models/block/redrouter_face/4.json"
+hash = "5744067477ace09a4a9d4f6166182c29bbf5c23c28f6490014837356a17f4ad5"
+
+[[files]]
+file = "config/paxi/resourcepacks/modpack/assets/computercraft/models/block/redrouter_face/5.json"
+hash = "50f0f4631db2989a988bd19f4571898cbc87653787bdd7b618eb5d456937e0eb"
+
+[[files]]
+file = "config/paxi/resourcepacks/modpack/assets/computercraft/models/block/redrouter_face/6.json"
+hash = "f3a8316ebacba97b11722376bc1ec77baf5d535d4f71d88a13b919b681528c5c"
+
+[[files]]
+file = "config/paxi/resourcepacks/modpack/assets/computercraft/models/block/redrouter_face/7.json"
+hash = "e5aa74995eff43f98ec6f63a4d710d38570a03fd5b4d1eb65f820c66b5f592c0"
+
+[[files]]
+file = "config/paxi/resourcepacks/modpack/assets/computercraft/models/block/redrouter_face/8.json"
+hash = "3986247bbf9a974d6d687eb2ce0a58a611d8b7159512f63cbca22b42e70001cf"
+
+[[files]]
+file = "config/paxi/resourcepacks/modpack/assets/computercraft/models/block/redrouter_face/9.json"
+hash = "7fb693248bf3ca08e9c42b820ca1c8dc0797f8b156199bd23133c012e5b15cae"
+
+[[files]]
+file = "config/paxi/resourcepacks/modpack/assets/computercraft/models/item/redstone_relay.json"
+hash = "d14a4cdab88d29ecba304c541440454878126294e9800b6fd5d7e9096ff432da"
+
+[[files]]
+file = "config/paxi/resourcepacks/modpack/assets/computercraft/textures/block/redrouter/demo_face.png"
+hash = "ee166c838f5038ecde7e7412991d87f958b0418b316e459cb227e385cb978804"
+
+[[files]]
+file = "config/paxi/resourcepacks/modpack/assets/computercraft/textures/block/redrouter/face/0.png"
+hash = "ee166c838f5038ecde7e7412991d87f958b0418b316e459cb227e385cb978804"
+
+[[files]]
+file = "config/paxi/resourcepacks/modpack/assets/computercraft/textures/block/redrouter/face/1.png"
+hash = "6e3d480a5e769ad9f531d8cf971338b674471859073621f93e4b4042c7d0447c"
+
+[[files]]
+file = "config/paxi/resourcepacks/modpack/assets/computercraft/textures/block/redrouter/face/10.png"
+hash = "96cbc7c741e71eddef23cb864accd87f0475fe9465eaa7f4a3e1e0599a691048"
+
+[[files]]
+file = "config/paxi/resourcepacks/modpack/assets/computercraft/textures/block/redrouter/face/11.png"
+hash = "e13f7a1208fc5f3be01b9a4b3ee0017dc7b8a513fb32cf9f7ed0ddf534d8c7d1"
+
+[[files]]
+file = "config/paxi/resourcepacks/modpack/assets/computercraft/textures/block/redrouter/face/12.png"
+hash = "d1ad8d1e91afc4ef0192ef3a5ccbe429f97b917b58d2c2dde6aab01e37535432"
+
+[[files]]
+file = "config/paxi/resourcepacks/modpack/assets/computercraft/textures/block/redrouter/face/13.png"
+hash = "03d805f4fb78b0589e6fb26427519a0da2ce9cf085c14d8ca196096ef27a3c49"
+
+[[files]]
+file = "config/paxi/resourcepacks/modpack/assets/computercraft/textures/block/redrouter/face/14.png"
+hash = "5c62a83c9b4a940caac25fd0c073458bfbe9de08abaf4ecfa465086208f57ec0"
+
+[[files]]
+file = "config/paxi/resourcepacks/modpack/assets/computercraft/textures/block/redrouter/face/15.png"
+hash = "de556937dad513b186d9fdd2923e1578dc677969b765ded1975925fdff8054b2"
+
+[[files]]
+file = "config/paxi/resourcepacks/modpack/assets/computercraft/textures/block/redrouter/face/2.png"
+hash = "e919de37d699e19d0d8f853c7c57baff5bb0a96c21b54729dab12c4a2112ae50"
+
+[[files]]
+file = "config/paxi/resourcepacks/modpack/assets/computercraft/textures/block/redrouter/face/3.png"
+hash = "ea8c3537dcbf52f63ecd011f565c1f23b75bd78ec3802851e1f6d8edc1a85e29"
+
+[[files]]
+file = "config/paxi/resourcepacks/modpack/assets/computercraft/textures/block/redrouter/face/4.png"
+hash = "307aeeece8018b3d28a33f8fba00d372dd123448b08e32684343b5a1e9e8ea96"
+
+[[files]]
+file = "config/paxi/resourcepacks/modpack/assets/computercraft/textures/block/redrouter/face/5.png"
+hash = "d7e0ef572c2e28e6d1fee9359566c894e16b1893bc5f24b8cea6c05e299ae314"
+
+[[files]]
+file = "config/paxi/resourcepacks/modpack/assets/computercraft/textures/block/redrouter/face/6.png"
+hash = "d6e2437d8a4328207dd20005214634f033119275b2297f5c9e58e0544e498708"
+
+[[files]]
+file = "config/paxi/resourcepacks/modpack/assets/computercraft/textures/block/redrouter/face/7.png"
+hash = "34de72a3a1adfad4967d2ee8336cad07cdee758ec72fa50c1c3bd590a530d4ba"
+
+[[files]]
+file = "config/paxi/resourcepacks/modpack/assets/computercraft/textures/block/redrouter/face/8.png"
+hash = "9588d471972f2d3bbf03b3e0ffba6b70c5eed3c9b4471fedea8b84f179fa3fa0"
+
+[[files]]
+file = "config/paxi/resourcepacks/modpack/assets/computercraft/textures/block/redrouter/face/9.png"
+hash = "aaaef9938eb56b890f756d3982b7aa1716cceeeac43493ef2a3994ad496cb8ee"
+
+[[files]]
+file = "config/paxi/resourcepacks/modpack/assets/computercraft/textures/block/redrouter/horizontal.png"
+hash = "9d715622d58a8ab4dea9094b1970f24c6626fc166aae40542a187e2018bd2955"
+
+[[files]]
+file = "config/paxi/resourcepacks/modpack/assets/computercraft/textures/block/redrouter/vertical.png"
+hash = "b89ce8a55022d1fe1c386f131ae4a93e95a16c1004dfc24304effb1d638cba63"
 
 [[files]]
 file = "config/paxi/resourcepacks/modpack/assets/expandeddelight/textures/block/salt_ore.png"
@@ -1160,103 +1932,103 @@ hash = "f7c1d7106064a28566bb378e5ec5aa1ed84aca75d769265637bf2e030ae21e51"
 
 [[files]]
 file = "config/paxi/resourcepacks/modpack/assets/minecraft/sounds/music/game/clark.ogg"
-hash = "0d0e188410c919ff0855e26f2dab5b669101fb6e248ef5beee90e91380cf9440"
+hash = "fa635071f7d345f92044934f818528adf254600ba19c13d2c12fc8669b6b7bf0"
 
 [[files]]
 file = "config/paxi/resourcepacks/modpack/assets/minecraft/sounds/music/game/creative/aria_math.ogg"
-hash = "0d0e188410c919ff0855e26f2dab5b669101fb6e248ef5beee90e91380cf9440"
+hash = "38475d9181f044890f199d6a09a3df5a7a77e1f7c1b92e64c21996f1667eefa2"
 
 [[files]]
 file = "config/paxi/resourcepacks/modpack/assets/minecraft/sounds/music/game/creative/biome_fest.ogg"
-hash = "0d0e188410c919ff0855e26f2dab5b669101fb6e248ef5beee90e91380cf9440"
+hash = "635df065f4976dff6ac241654fac92d832941cf7b91a16a392894d69bf8765bd"
 
 [[files]]
 file = "config/paxi/resourcepacks/modpack/assets/minecraft/sounds/music/game/creative/blind_spots.ogg"
-hash = "0d0e188410c919ff0855e26f2dab5b669101fb6e248ef5beee90e91380cf9440"
+hash = "f287dcf88e2c3a41952aae095f8046a150e0f1dcb15f085e1b2927610537613f"
 
 [[files]]
 file = "config/paxi/resourcepacks/modpack/assets/minecraft/sounds/music/game/creative/dreiton.ogg"
-hash = "0d0e188410c919ff0855e26f2dab5b669101fb6e248ef5beee90e91380cf9440"
+hash = "95b544f4b5b29a27eb01f444de383b78c60f0b6a515671781e0a5e97410e91aa"
 
 [[files]]
 file = "config/paxi/resourcepacks/modpack/assets/minecraft/sounds/music/game/creative/haunt_muskie.ogg"
-hash = "0d0e188410c919ff0855e26f2dab5b669101fb6e248ef5beee90e91380cf9440"
+hash = "bbf1d73398b59415892f0ba74dc25e110520b929f23e6b7e71f7917b8b2e4c1a"
 
 [[files]]
 file = "config/paxi/resourcepacks/modpack/assets/minecraft/sounds/music/game/creative/taswell.ogg"
-hash = "0d0e188410c919ff0855e26f2dab5b669101fb6e248ef5beee90e91380cf9440"
+hash = "d29a824a8ac4f5348877d0e72b68ecb99a63d0d006c3b184912887d9981162b6"
 
 [[files]]
 file = "config/paxi/resourcepacks/modpack/assets/minecraft/sounds/music/game/danny.ogg"
-hash = "0d0e188410c919ff0855e26f2dab5b669101fb6e248ef5beee90e91380cf9440"
+hash = "299e26e2e3f58d8735201c05a4e17521b2d0f0c5e9a34ecfb447fd0a83dd9bd2"
 
 [[files]]
 file = "config/paxi/resourcepacks/modpack/assets/minecraft/sounds/music/game/deeper.ogg"
-hash = "0d0e188410c919ff0855e26f2dab5b669101fb6e248ef5beee90e91380cf9440"
+hash = "6a513372fd854cf8a0e1561a6f1861ac89d90cdaec0cdfbf4f5f4a0b7b59333a"
 
 [[files]]
 file = "config/paxi/resourcepacks/modpack/assets/minecraft/sounds/music/game/dry_hands.ogg"
-hash = "0d0e188410c919ff0855e26f2dab5b669101fb6e248ef5beee90e91380cf9440"
+hash = "530db7a05165461f4eba2aea0fb762dfc9a94f7230f860ac1d7b76d833aa9eb8"
 
 [[files]]
 file = "config/paxi/resourcepacks/modpack/assets/minecraft/sounds/music/game/endless.ogg"
-hash = "0d0e188410c919ff0855e26f2dab5b669101fb6e248ef5beee90e91380cf9440"
+hash = "58fe8681157479401697842f2d35d0242d1da12166e8467e8fbf9ff483d4295d"
 
 [[files]]
 file = "config/paxi/resourcepacks/modpack/assets/minecraft/sounds/music/game/floating_trees.ogg"
-hash = "0d0e188410c919ff0855e26f2dab5b669101fb6e248ef5beee90e91380cf9440"
+hash = "126536c2d4760ea90b2567b13c392e71bf463821e97a116b3b3597a29b862f88"
 
 [[files]]
 file = "config/paxi/resourcepacks/modpack/assets/minecraft/sounds/music/game/haggstrom.ogg"
-hash = "0d0e188410c919ff0855e26f2dab5b669101fb6e248ef5beee90e91380cf9440"
+hash = "b1351b21259e60d5bb11285eb930d2d4bd05f176e858c27109283c7e1d2c1bb5"
 
 [[files]]
 file = "config/paxi/resourcepacks/modpack/assets/minecraft/sounds/music/game/key.ogg"
-hash = "0d0e188410c919ff0855e26f2dab5b669101fb6e248ef5beee90e91380cf9440"
+hash = "c23c4147c688294b1e5919a5c0f288c583cbbd29445800dd0f58d235899314f0"
 
 [[files]]
 file = "config/paxi/resourcepacks/modpack/assets/minecraft/sounds/music/game/komorebi.ogg"
-hash = "0d0e188410c919ff0855e26f2dab5b669101fb6e248ef5beee90e91380cf9440"
+hash = "c83112a89f30e40bc5d65b36b45e854ace3bd3d7e89e1d8c2605432902f574e1"
 
 [[files]]
 file = "config/paxi/resourcepacks/modpack/assets/minecraft/sounds/music/game/living_mice.ogg"
-hash = "0d0e188410c919ff0855e26f2dab5b669101fb6e248ef5beee90e91380cf9440"
+hash = "a4efdba862924320e9214be880099afdc615706547c8e7cc9baf948f60d630d4"
 
 [[files]]
 file = "config/paxi/resourcepacks/modpack/assets/minecraft/sounds/music/game/mice_on_venus.ogg"
-hash = "0d0e188410c919ff0855e26f2dab5b669101fb6e248ef5beee90e91380cf9440"
+hash = "c28cf8abd1c9b9fb32297558d7d1033eb78ba9b7ac5682a091e1981fd1511c56"
 
 [[files]]
 file = "config/paxi/resourcepacks/modpack/assets/minecraft/sounds/music/game/moog_city_2.ogg"
-hash = "0d0e188410c919ff0855e26f2dab5b669101fb6e248ef5beee90e91380cf9440"
+hash = "68689e957615bd3e2828429fdf5b05d5f27833f8580380b9be7e4cada4c98277"
 
 [[files]]
 file = "config/paxi/resourcepacks/modpack/assets/minecraft/sounds/music/game/pokopoko.ogg"
-hash = "0d0e188410c919ff0855e26f2dab5b669101fb6e248ef5beee90e91380cf9440"
+hash = "1153b61035a39aebf03f28b91aee3e6344789cdd921f01cd6d139cf337feb252"
 
 [[files]]
 file = "config/paxi/resourcepacks/modpack/assets/minecraft/sounds/music/game/puzzlebox.ogg"
-hash = "0d0e188410c919ff0855e26f2dab5b669101fb6e248ef5beee90e91380cf9440"
+hash = "2075a7feb4c2ce7c1ccc1f210d8c45d7beede865b16dd62d2ab2761daafe8698"
 
 [[files]]
 file = "config/paxi/resourcepacks/modpack/assets/minecraft/sounds/music/game/subwoofer_lullaby.ogg"
-hash = "0d0e188410c919ff0855e26f2dab5b669101fb6e248ef5beee90e91380cf9440"
+hash = "f26dbf79793dd2b78f7ca752d68ba34b77c714164acc526ee2a6b7ad008bc4bb"
 
 [[files]]
 file = "config/paxi/resourcepacks/modpack/assets/minecraft/sounds/music/game/sweden.ogg"
-hash = "0d0e188410c919ff0855e26f2dab5b669101fb6e248ef5beee90e91380cf9440"
+hash = "b96aca43d97cce2e1ceb12ddbe782ec40dee3b1c5a8de19b0c3e46c63111f4e1"
 
 [[files]]
 file = "config/paxi/resourcepacks/modpack/assets/minecraft/sounds/music/game/watcher.ogg"
-hash = "0d0e188410c919ff0855e26f2dab5b669101fb6e248ef5beee90e91380cf9440"
+hash = "6d89d6a03472a7f4153bbfa088ecd57e304213660672dd76c9f02cd7e37e4dc8"
 
 [[files]]
 file = "config/paxi/resourcepacks/modpack/assets/minecraft/sounds/music/game/wet_hands.ogg"
-hash = "0d0e188410c919ff0855e26f2dab5b669101fb6e248ef5beee90e91380cf9440"
+hash = "2df99b89a48a3b2c54a0d40392618733e3b69e596632861d53b0555ad90a6177"
 
 [[files]]
 file = "config/paxi/resourcepacks/modpack/assets/minecraft/sounds/music/game/yakusoku.ogg"
-hash = "0d0e188410c919ff0855e26f2dab5b669101fb6e248ef5beee90e91380cf9440"
+hash = "f57e77e479de31761af53ff46fa746325b7d67b11369668b76a7fc6198fe0816"
 
 [[files]]
 file = "config/paxi/resourcepacks/modpack/assets/minecraft/textures/block/coal_ore.png"
@@ -1606,7 +2378,7 @@ hash = "1e7c61df09c105e1eeca8cf3dcbdfeb976700e9904bcb3983fc7791adb7fad2e"
 
 [[files]]
 file = "config/presencefootsteps/userconfig.json"
-hash = "30e7b21e71bbb7d5ce752f483e05b8f171fd1b010fa42585a2e258b2b154d15c"
+hash = "912b5f678657f181b18363b5e6f26c2705fc20747ee82a1a38cabce992218d05"
 
 [[files]]
 file = "config/prettyrain-client.toml"
@@ -1618,15 +2390,15 @@ hash = "dcdb320e9fba8f8391c1b8e7765fb088038a74a8d2d8768912ad3945a253ba26"
 
 [[files]]
 file = "config/sodium-extra-options.json"
-hash = "7edc328c85d95b7e647838e6ce225c950a7e9e9fe04c422792682136b5217485"
+hash = "91880d26953e64d76522163bc0555ae0cd18f53246748eeecab29bca712ec015"
 
 [[files]]
 file = "config/sodium-options.json"
-hash = "364c7da2064c2c01a5e874b3d442bc643c2e24862eed87c5b3c4470faaa4f148"
+hash = "19ce7bebbcaedf709067b2ceb366aa21c38cb5ff66ea335c6aaa7ba6aad49a58"
 
 [[files]]
 file = "config/sparsestructures.json5"
-hash = "a9b0e20b5a8bf2fe8812d1880d6abc47d730da1a3928ea562928f4bbe7182817"
+hash = "89b91fd0b3c6832efbf7ef426810b4c366ef173814439ca35f6f03a79f0e390a"
 
 [[files]]
 file = "config/tide.toml"
@@ -1654,7 +2426,7 @@ hash = "2e5c453a2676a5eaed2e852382495e762a29b7f4e6da6456bbaa0c4508a79036"
 
 [[files]]
 file = "mods/0,5-hp.pw.toml"
-hash = "59fddeba59cd02e57131a3d4a505b6ff323d6fd528b632289e50e18aac880645"
+hash = "da8c82da907ee958303c6d62a4acd0bff729c3452af11187d081632c3939fee5"
 metafile = true
 
 [[files]]
@@ -1684,7 +2456,7 @@ metafile = true
 
 [[files]]
 file = "mods/amendments.pw.toml"
-hash = "a45b28afea3725cde8f7ad1267d84aee8d278e2c5fea3772c74cebcca9a3c6a7"
+hash = "1fa5075c1ebd310416d705674d6ae90975fa8971ce6cf04478f548a18c58d0da"
 metafile = true
 
 [[files]]
@@ -1749,7 +2521,12 @@ metafile = true
 
 [[files]]
 file = "mods/balm.pw.toml"
-hash = "99d1d50b9b78d59d02aaae4bbc345d2e2982ca967d18755b6d086b5f8fedd77a"
+hash = "1c42b7bd5624fbcba31466668bc4accf4b361c60151167488cbc9a041d7f577d"
+metafile = true
+
+[[files]]
+file = "mods/beeg-smol.pw.toml"
+hash = "03a39f2aae80c1dc579091a93e546c0b998fdfa3ea737770f370ee4a8e8eed76"
 metafile = true
 
 [[files]]
@@ -1780,6 +2557,11 @@ metafile = true
 [[files]]
 file = "mods/better-compatibility-checker.pw.toml"
 hash = "0e3824ac59c4607f2035560dbc9abbf9bb3801c93e4c87379b4f34eb9317cfe8"
+metafile = true
+
+[[files]]
+file = "mods/better-modlist.pw.toml"
+hash = "38c19417f3b7bd662da0c0f902308116789fe967aa1f50ebb5f7e95cfd122d24"
 metafile = true
 
 [[files]]
@@ -1849,7 +2631,7 @@ metafile = true
 
 [[files]]
 file = "mods/chatnotify.pw.toml"
-hash = "25e492ece2e802ff2341628ded336c21200c290de4efb259f497210266ace37d"
+hash = "f9bcdce878ff06c315b86cc85265a7ec89adf813908602713c499359b64a51cb"
 metafile = true
 
 [[files]]
@@ -1879,7 +2661,7 @@ metafile = true
 
 [[files]]
 file = "mods/coastal-waves.pw.toml"
-hash = "3ed84997b0e383a14793daef0809f3631ef9daa01a0837b80107e7f30d69d00c"
+hash = "bef8d516741fbf4644103d8e39d270fe6bd9a0b10a182cb8f9a063ca2347a390"
 metafile = true
 
 [[files]]
@@ -1900,6 +2682,11 @@ metafile = true
 [[files]]
 file = "mods/configuration.pw.toml"
 hash = "71fe5a1ce9b1c60a48fdca5f200b0d13d485a43a50efff7426cf3f6464c48398"
+metafile = true
+
+[[files]]
+file = "mods/connector-extras.pw.toml"
+hash = "52e2cb54ee2933bf00e9b7886f47938a2dce1bf998293be2b38552083ffa5f9a"
 metafile = true
 
 [[files]]
@@ -1944,7 +2731,7 @@ metafile = true
 
 [[files]]
 file = "mods/create-encased.pw.toml"
-hash = "8d65f66e5409268caa28eb47eba2c0e2741c0b180998e4c9b3ce947d51b7ea86"
+hash = "4ce8ca7b43b8cb5b27162f433110bdd66c54a5e8474a1628c6e1c17228e9cb81"
 metafile = true
 
 [[files]]
@@ -2093,6 +2880,11 @@ hash = "4798dbfcd4ee7bdd90de00bad546371627ef3d59eab77c11b0e5ea9056acc62f"
 metafile = true
 
 [[files]]
+file = "mods/fabric-language-kotlin.pw.toml"
+hash = "97e7fb0bf5c563366b7c6121fa2decb67597107e5594932c6a098cccc980629e"
+metafile = true
+
+[[files]]
 file = "mods/fallingleavesforge.pw.toml"
 hash = "e5125f8f2709fd20f8182fade3d7f9e7129872c63f042c5489c6eba4733b6b49"
 metafile = true
@@ -2125,6 +2917,11 @@ metafile = true
 [[files]]
 file = "mods/fishermens-trap.pw.toml"
 hash = "1956e4a0cabb264e2106cd16f7664e29d448b542f2e5f93e1312f5a471d23959"
+metafile = true
+
+[[files]]
+file = "mods/flyd.pw.toml"
+hash = "63488e0d85a5915a4b908c289bf221cde785601fbdd5eb7d66738d37efd5ecac"
 metafile = true
 
 [[files]]
@@ -2165,6 +2962,11 @@ metafile = true
 [[files]]
 file = "mods/immersivethunder.pw.toml"
 hash = "086d8b88627ca2b5eb4457a26a8894d1b0861e7b8e909e461a02b054814914da"
+metafile = true
+
+[[files]]
+file = "mods/infinite-music.pw.toml"
+hash = "6e7613d3b9726eaae758e8927e56c5be6bd53f09e8a370b20bc8df3dffab47a2"
 metafile = true
 
 [[files]]
@@ -2249,7 +3051,7 @@ metafile = true
 
 [[files]]
 file = "mods/lootr.pw.toml"
-hash = "54027603401c42860c29864e4e5e8639516743d2f3d17e51153fd841ffd58f5c"
+hash = "28cd260c71c34d01f59ea210af1031e94d98b4d6bd72d5a153955ce754c9a76f"
 metafile = true
 
 [[files]]
@@ -2310,6 +3112,11 @@ metafile = true
 [[files]]
 file = "mods/no-chat-reports.pw.toml"
 hash = "5da18814472be5dc93a21886983646da3a7236413800075ac75229be82d114fa"
+metafile = true
+
+[[files]]
+file = "mods/no-realms-button.pw.toml"
+hash = "f32de9c72847686fdb91cea47c7688eda0336b0f96ae11c234a30366d1ba5c42"
 metafile = true
 
 [[files]]
@@ -2379,7 +3186,7 @@ metafile = true
 
 [[files]]
 file = "mods/ping-wheel.pw.toml"
-hash = "a2d4031a1a3c3ea5fb5a35b0164a93a0c73955d87ad1223ac73e0a00a70c8bd1"
+hash = "90d5ebd43ae612e60dbfaad5232d5fdd905ac8af40bba5c420253d7d55043c1e"
 metafile = true
 
 [[files]]
@@ -2389,7 +3196,7 @@ metafile = true
 
 [[files]]
 file = "mods/plushables.pw.toml"
-hash = "d69cce2eb6f7a7302dd16c718ce8e44a16b8800f731c7a0ef999f64ab3ac34b2"
+hash = "31304da6bc75d8170748869a01703a14ee35ec3305768ac8eb8aa218e3c20f88"
 metafile = true
 
 [[files]]
@@ -2399,12 +3206,12 @@ metafile = true
 
 [[files]]
 file = "mods/presence-footsteps.pw.toml"
-hash = "eedefcefb935f2f4526f0f63d3a702a1594e747c34ded51df71bd64e76340e96"
+hash = "dee709ea8dbbb9e75de4d53b1b9e1fd0e535abc0809c1f5aaadf783178cccf21"
 metafile = true
 
 [[files]]
 file = "mods/pretty-rain.pw.toml"
-hash = "59a575831eaaaf600d5f04891d2e8c34d268eb47c16526dc2c6ba951370becff"
+hash = "8319748b7c1a39462d159ed94da5c972b99958628c776be8d7c1e4c48fdaa5eb"
 metafile = true
 
 [[files]]
@@ -2494,7 +3301,7 @@ metafile = true
 
 [[files]]
 file = "mods/sound-physics-remastered.pw.toml"
-hash = "1bfb26729d5a6e7a25a04c31df23529193e983fbaf730eb9011175d66b823325"
+hash = "c33de8f9f7dadb5f5bf3ea83ffc79cd993fc5561873cb3aa5a45928816e50ba7"
 metafile = true
 
 [[files]]
@@ -2588,13 +3395,13 @@ hash = "fcc69442d092874b5ab0aa76c31c8926eeccca901e213b169acde92c54f89954"
 metafile = true
 
 [[files]]
-file = "mods/tool-trims.pw.toml"
-hash = "79d04d954184defd602ce8e5258a1179b45664729d727d5d53e2c1693f05dd00"
+file = "mods/trade-cycling.pw.toml"
+hash = "d8feca2b5817cbbf11126562ab22f7b2804262b7f827f58a594b25067f23c362"
 metafile = true
 
 [[files]]
-file = "mods/trade-cycling.pw.toml"
-hash = "d8feca2b5817cbbf11126562ab22f7b2804262b7f827f58a594b25067f23c362"
+file = "mods/trimseffects.pw.toml"
+hash = "94a372a1cbe38680df0bdabe3d6e962397a95687c8816890d179ea30d5245747"
 metafile = true
 
 [[files]]
@@ -2624,7 +3431,7 @@ metafile = true
 
 [[files]]
 file = "mods/windchime-unofficial-continued.pw.toml"
-hash = "329f701f795a3207940559d1201890a584e6d43eceab95f69cd0cb75cf7f5674"
+hash = "40bd8e2c0ec2bb87fcbcbd615b7bb37dd93aac981e6264e07a98b3b31be8aa5c"
 metafile = true
 
 [[files]]
@@ -2634,7 +3441,7 @@ metafile = true
 
 [[files]]
 file = "mods/yacl.pw.toml"
-hash = "0bb29a73e5f83b72e1fa56677bde2745e30a984a4559e3fa7164ed7b845e11c6"
+hash = "e2ab678518f876a978414ec1b9c88896d78dcc49ee7bfefa0acc165d5388c7be"
 metafile = true
 
 [[files]]

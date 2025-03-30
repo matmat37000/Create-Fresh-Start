@@ -1,0 +1,17 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "key": {
+    "b": {
+      "item": "create:sweet_roll"
+    },
+    "c": {
+      "item": "minecraft:glow_berries"
+    }
+  },
+  "pattern": ["c", "b"],
+  "result": {
+    "count": 1,
+    "id": "expandeddelight:glow_berry_sweet_roll"
+  }
+}

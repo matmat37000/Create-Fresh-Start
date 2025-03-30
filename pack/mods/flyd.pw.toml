@@ -1,0 +1,15 @@
+name = "flyd"
+filename = "flyd-0.1.0.jar"
+side = "both"
+
+[download]
+url = "https://github.com/kleinbox/flyd/releases/download/0.1.0/flyd-0.1.0.jar"
+hash-format = "sha256"
+hash = "8d05018c78b225ce0586784f315c3642c589890fa96721bc3765cb7dac3768f6"
+
+[update]
+[update.github]
+branch = "main"
+regex = "^.+(?<!-api|-dev|-dev-preshadow|-sources)\\.jar$"
+slug = "kleinbox/flyd"
+tag = "0.1.0"

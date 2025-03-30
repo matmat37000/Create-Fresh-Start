@@ -1,0 +1,18 @@
+{
+  "type": "create:filling",
+  "ingredients": [
+    {
+      "item": "kawaiidishes:mug"
+    },
+    {
+      "type": "fluid_stack",
+      "amount": 250,
+      "fluid": "flyd:hot_cocoa"
+    }
+  ],
+  "results": [
+    {
+      "id": "kawaiidishes:hot_cocoa"
+    }
+  ]
+}

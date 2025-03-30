@@ -1,0 +1,17 @@
+{
+  "type": "create:emptying",
+  "ingredients": [
+    {
+      "item": "kawaiidishes:hot_cocoa"
+    }
+  ],
+  "results": [
+    {
+      "id": "kawaiidishes:mug"
+    },
+    {
+      "amount": 250,
+      "id": "flyd:hot_cocoa"
+    }
+  ]
+}

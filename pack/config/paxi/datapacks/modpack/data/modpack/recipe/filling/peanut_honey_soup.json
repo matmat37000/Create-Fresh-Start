@@ -1,0 +1,18 @@
+{
+  "type": "create:filling",
+  "ingredients": [
+    {
+      "item": "minecraft:bowl"
+    },
+    {
+      "type": "fluid_stack",
+      "amount": 250,
+      "fluid": "flyd:peanut_honey_soup"
+    }
+  ],
+  "results": [
+    {
+      "id": "expandeddelight:peanut_honey_soup"
+    }
+  ]
+}

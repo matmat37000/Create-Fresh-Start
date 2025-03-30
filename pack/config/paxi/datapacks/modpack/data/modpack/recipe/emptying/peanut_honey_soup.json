@@ -1,0 +1,17 @@
+{
+  "type": "create:emptying",
+  "ingredients": [
+    {
+      "item": "expandeddelight:peanut_honey_soup"
+    }
+  ],
+  "results": [
+    {
+      "id": "minecraft:bowl"
+    },
+    {
+      "amount": 250,
+      "id": "flyd:peanut_honey_soup"
+    }
+  ]
+}

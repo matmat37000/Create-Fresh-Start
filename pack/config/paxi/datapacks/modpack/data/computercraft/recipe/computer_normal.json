@@ -1,0 +1,19 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "category": "misc",
+  "ingredients": [
+    {
+      "item": "minecraft:redstone"
+    },
+    {
+      "item": "create:precision_mechanism"
+    },
+    {
+      "item": "computercraft:monitor_normal"
+    }
+  ],
+  "result": {
+    "count": 1,
+    "id": "computercraft:computer_normal"
+  }
+}

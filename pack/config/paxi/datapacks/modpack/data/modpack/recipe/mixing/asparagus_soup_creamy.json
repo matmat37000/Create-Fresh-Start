@@ -1,0 +1,23 @@
+{
+  "type": "create:mixing",
+  "heat_requirement": "heated",
+  "ingredients": [
+    {
+      "item": "expandeddelight:asparagus"
+    },
+    {
+      "tag": "c:foods/cabbage"
+    },
+    {
+      "type": "fluid_stack",
+      "amount": 250,
+      "fluid": "minecraft:milk"
+    }
+  ],
+  "results": [
+    {
+      "amount": 250,
+      "id": "flyd:asparagus_soup_creamy"
+    }
+  ]
+}

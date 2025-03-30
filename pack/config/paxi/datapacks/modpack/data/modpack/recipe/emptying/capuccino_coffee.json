@@ -1,0 +1,17 @@
+{
+  "type": "create:emptying",
+  "ingredients": [
+    {
+      "item": "kawaiidishes:capuccino_coffee"
+    }
+  ],
+  "results": [
+    {
+      "id": "kawaiidishes:mug"
+    },
+    {
+      "amount": 250,
+      "id": "flyd:capuccino_coffee"
+    }
+  ]
+}

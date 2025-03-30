@@ -1,0 +1,29 @@
+{
+  "type": "create:mixing",
+  "heat_requirement": "heated",
+  "ingredients": [
+    {
+      "tag": "c:foods/raw_chicken"
+    },
+    {
+      "item": "minecraft:carrot"
+    },
+    {
+      "tag": "c:foods/cabbage"
+    },
+    {
+      "tag": "c:foods/vegetable"
+    },
+    {
+      "type": "fluid_stack",
+      "amount": 250,
+      "fluid": "minecraft:water"
+    }
+  ],
+  "results": [
+    {
+      "amount": 250,
+      "id": "flyd:chicken_soup"
+    }
+  ]
+}

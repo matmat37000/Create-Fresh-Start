@@ -1,0 +1,13 @@
+name = 'pumpkin_soup'
+
+translucent = true
+custom = false
+tint = 0xfCA92D
+
+tick_delay = 5
+slope_find_distance = 4
+dropoff = 1
+
+[infinite]
+placement = false
+dripstone = false

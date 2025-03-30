@@ -1,0 +1,8 @@
+{
+  "replace": true,
+  "values": [
+    { "id": "expandeddelight:goat_milk_bucket", "required": false },
+    { "id": "farmersdelight:milk_bottle", "required": false },
+    { "id": "expandeddelight:goat_milk_bottle", "required": false }
+  ]
+}

@@ -1,0 +1,28 @@
+{
+  "type": "create:mixing",
+  "heat_requirement": "heated",
+  "ingredients": [
+    {
+      "item": "kawaiidishes:ground_coffee"
+    },
+    {
+      "item": "kawaiidishes:cocoa_powder"
+    },
+    {
+      "type": "fluid_stack",
+      "amount": 1000,
+      "fluid": "flyd:steamed_milk"
+    },
+    {
+      "type": "fluid_stack",
+      "amount": 250,
+      "fluid": "minecraft:water"
+    }
+  ],
+  "results": [
+    {
+      "amount": 250,
+      "id": "flyd:mocha_coffee"
+    }
+  ]
+}

@@ -5,6 +5,9 @@ Create Advancements:
 - Candy factory (Willy Wonka approved)
 - Gain All Plushables (see todo)
 - Create Frosch der Jeff Bezos heißt -> Uno Reverse Card Achievement
+- Pocket Computer (Everything in one thin device) Apple ad romage
+- Advancement for every plushables
+- Mixing all soups leads to an ugly soup that cannot be eaten (Zelda BotW reference) Name = 'Tour de frigo'
 
 Legendary Tooltips:
 1. Create
@@ -17,15 +20,13 @@ Warnings in modpack:
 - Arachnophobia warning: The Fresh Extras Resource Pack contains spiders that might trigger arachnophobia in some players. For these, disabling that resource pack is recommended.
 
 TODO:
-- Fix keybinds and set default fog intensity
-- End and Nether spawnrate
-- Cursive Font twice?
+- https://modrinth.com/mod/drink-beer-refill
 - Loot kisten nicht mitnehmen können (Carry On)
-- Make all chocholate compatible with create chockolate
 - Custom credits screen
 - All plushables automatable via create (and hard)
 - heart crystal recipe
 - netherite recipe
 - Automate most of farmers delight recipes
-- Make confee machine from kawaii dishes hard to craft and give an advancement
+- Chocolate compatible cross mods
 - Custom CC:T recipes
+- flagged

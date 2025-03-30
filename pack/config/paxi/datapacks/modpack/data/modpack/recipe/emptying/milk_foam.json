@@ -1,0 +1,17 @@
+{
+  "type": "create:emptying",
+  "ingredients": [
+    {
+      "item": "flyd:milk_foam_bucket"
+    }
+  ],
+  "results": [
+    {
+      "id": "minecraft:bucket"
+    },
+    {
+      "amount": 250,
+      "id": "flyd:milk_foam"
+    }
+  ]
+}

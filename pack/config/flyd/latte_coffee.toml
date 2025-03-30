@@ -1,0 +1,13 @@
+name = 'latte_coffee'
+
+translucent = false
+custom = false
+tint = 0xEFCFBA
+
+tick_delay = 5
+slope_find_distance = 4
+dropoff = 1
+
+[infinite]
+placement = false
+dripstone = false

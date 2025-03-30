@@ -1,0 +1,13 @@
+name = 'chicken_soup'
+
+translucent = true
+custom = false
+tint = 0xFCC44B
+
+tick_delay = 5
+slope_find_distance = 4
+dropoff = 1
+
+[infinite]
+placement = false
+dripstone = false

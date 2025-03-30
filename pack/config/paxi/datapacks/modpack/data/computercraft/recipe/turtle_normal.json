@@ -1,0 +1,20 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "key": {
+    "t": {
+      "item": "minecraft:turtle_helmet"
+    },
+    "a": {
+      "item": "create:andesite_alloy"
+    },
+    "p": {
+      "item": "computercraft:pocket_computer_normal"
+    }
+  },
+  "pattern": [" t ", "apa", " a "],
+  "result": {
+    "count": 1,
+    "id": "computercraft:turtle_normal"
+  }
+}

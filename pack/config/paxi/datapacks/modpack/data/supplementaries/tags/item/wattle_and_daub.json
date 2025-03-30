@@ -1,0 +1,8 @@
+{
+  "replace": true,
+  "values": [
+    { "id": "supplementaries:daub_frame", "required": false },
+    { "id": "supplementaries:daub_brace", "required": false },
+    { "id": "supplementaries:daub_cross_brace", "required": false }
+  ]
+}

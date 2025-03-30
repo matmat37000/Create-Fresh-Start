@@ -1,0 +1,30 @@
+{
+  "type": "create:mixing",
+  "ingredients": [
+    {
+      "item": "minecraft:snowball"
+    },
+    {
+      "item": "minecraft:sugar"
+    },
+    {
+      "item": "kawaiidishes:cocoa_powder"
+    },
+    {
+      "item": "minecraft:bowl"
+    },
+    {
+      "type": "fluid_stack",
+      "amount": 1000,
+      "fluid": "flyd:steamed_milk"
+    }
+  ],
+  "results": [
+    {
+      "count": 1,
+      "item": {
+        "id": "kawaiidishes:chocolate_ice_cream"
+      }
+    }
+  ]
+}

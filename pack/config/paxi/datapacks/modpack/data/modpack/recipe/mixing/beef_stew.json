@@ -1,0 +1,21 @@
+{
+  "type": "create:mixing",
+  "heat_requirement": "heated",
+  "ingredients": [
+    {
+      "item": "minecraft:potato"
+    },
+    {
+      "item": "minecraft:carrot"
+    },
+    {
+      "tag": "c:foods/raw_beef"
+    }
+  ],
+  "results": [
+    {
+      "amount": 250,
+      "id": "flyd:beef_stew"
+    }
+  ]
+}

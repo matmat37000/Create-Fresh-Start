@@ -1,0 +1,18 @@
+{
+  "type": "create:mixing",
+  "ingredients": [
+    {
+      "type": "fluid_stack",
+      "amount": 1000,
+      "fluid": "minecraft:milk"
+    }
+  ],
+  "results": [
+    {
+      "count": 1,
+      "item": {
+        "id": "kawaiidishes:cream_cheese_ball"
+      }
+    }
+  ]
+}

@@ -1,0 +1,4 @@
+{
+  "replace": true,
+  "values": [{ "id": "farmersdelight:wheat_dough", "required": false }]
+}

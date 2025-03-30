@@ -1,0 +1,19 @@
+{
+  "type": "create:compacting",
+  "ingredients": [
+    {
+      "item": "minecraft:golden_apple"
+    },
+    {
+      "item": "computercraft:computer_normal"
+    }
+  ],
+  "results": [
+    {
+      "count": 1,
+      "item": {
+        "id": "computercraft:pocket_computer_normal"
+      }
+    }
+  ]
+}

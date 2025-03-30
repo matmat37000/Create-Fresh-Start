@@ -1,0 +1,13 @@
+name = 'vegetable_soup'
+
+translucent = false
+custom = false
+tint = 0x888E29
+
+tick_delay = 5
+slope_find_distance = 4
+dropoff = 1
+
+[infinite]
+placement = false
+dripstone = false

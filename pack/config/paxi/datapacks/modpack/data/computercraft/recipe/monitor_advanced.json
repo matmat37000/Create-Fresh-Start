@@ -1,0 +1,17 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "key": {
+    "i": {
+      "item": "create:brass_ingot"
+    },
+    "t": {
+      "item": "minecraft:tinted_glass"
+    }
+  },
+  "pattern": ["iii", "iti", "iii"],
+  "result": {
+    "count": 1,
+    "id": "computercraft:monitor_advanced"
+  }
+}

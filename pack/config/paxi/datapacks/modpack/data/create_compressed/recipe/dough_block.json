@@ -1,0 +1,13 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": ["000", "000", "000"],
+  "key": {
+    "0": {
+      "item": "farmersdelight:wheat_dough"
+    }
+  },
+  "result": {
+    "id": "create_compressed:dough_block",
+    "count": 1
+  }
+}

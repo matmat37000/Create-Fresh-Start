@@ -1,0 +1,8 @@
+{
+  "parent": "minecraft:block/orientable",
+  "textures": {
+    "front": "computercraft:block/redrouter/front",
+    "side": "computercraft:block/redrouter/horizontal",
+    "top": "computercraft:block/redrouter/vertical"
+  }
+}

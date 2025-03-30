@@ -1,0 +1,16 @@
+{
+  "type": "create:mixing",
+  "ingredients": [
+    {
+      "type": "fluid_stack",
+      "amount": 1000,
+      "fluid": "flyd:steamed_milk"
+    }
+  ],
+  "results": [
+    {
+      "amount": 1000,
+      "id": "flyd:milk_foam"
+    }
+  ]
+}

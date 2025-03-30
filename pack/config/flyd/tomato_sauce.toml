@@ -1,0 +1,13 @@
+name = 'tomato_sauce'
+
+translucent = false
+custom = false
+tint = 0xC62411
+
+tick_delay = 5
+slope_find_distance = 4
+dropoff = 1
+
+[infinite]
+placement = false
+dripstone = false

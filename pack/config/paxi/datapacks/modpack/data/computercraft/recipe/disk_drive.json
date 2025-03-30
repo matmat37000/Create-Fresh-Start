@@ -1,0 +1,10 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "redstone",
+  "key": {
+    "f": { "item": "create:andesite_alloy" },
+    "r": { "tag": "c:dusts/redstone" }
+  },
+  "pattern": ["fff", "frf", "frf"],
+  "result": { "count": 1, "id": "computercraft:disk_drive" }
+}

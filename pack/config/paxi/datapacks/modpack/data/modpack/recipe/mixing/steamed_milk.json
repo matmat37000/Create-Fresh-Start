@@ -1,0 +1,15 @@
+{
+  "type": "create:mixing",
+  "heat_requirement": "heated",
+  "ingredients": [
+    {
+      "tag": "c:buckets/milk"
+    }
+  ],
+  "results": [
+    {
+      "amount": 250,
+      "id": "flyd:steamed_milk"
+    }
+  ]
+}

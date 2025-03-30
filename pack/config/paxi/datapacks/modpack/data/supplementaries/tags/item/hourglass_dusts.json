@@ -3,6 +3,6 @@
   "values": [
     { "id": "heart_crystals:heart_crystal_dust", "required": false },
     { "id": "kawaiidishes:cocoa_powder", "required": false },
-    { "id": "kawaiidishes:ground_coffee", "required": false },
+    { "id": "kawaiidishes:ground_coffee", "required": false }
   ]
 }

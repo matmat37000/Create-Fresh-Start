@@ -1,0 +1,11 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "redstone",
+  "key": {
+    "f": { "item": "create:andesite_alloy" },
+    "d": { "tag": "c:dyes" },
+    "r": { "tag": "c:dusts/redstone" }
+  },
+  "pattern": ["fff", "frf", "fdf"],
+  "result": { "count": 1, "id": "computercraft:printer" }
+}

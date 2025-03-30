@@ -14,7 +14,7 @@
       "item": "minecraft:sugar"
     },
     {
-      "item": "minecraft:apple"
+      "tag": "lmans_apples_plus:apple"
     },
     {
       "item": "minecraft:wheat"

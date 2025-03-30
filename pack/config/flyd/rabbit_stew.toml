@@ -1,0 +1,13 @@
+name = 'rabbit_stew'
+
+translucent = false
+custom = false
+tint = 0xFCC464
+
+tick_delay = 5
+slope_find_distance = 4
+dropoff = 1
+
+[infinite]
+placement = false
+dripstone = false

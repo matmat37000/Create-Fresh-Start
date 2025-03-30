@@ -1,0 +1,17 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "key": {
+    "b": {
+      "item": "kawaiidishes:cream_ice_cream"
+    },
+    "c": {
+      "item": "kawaiidishes:cocoa_powder"
+    }
+  },
+  "pattern": ["c", "b"],
+  "result": {
+    "count": 1,
+    "id": "kawaiidishes:mocha_ice_cream"
+  }
+}

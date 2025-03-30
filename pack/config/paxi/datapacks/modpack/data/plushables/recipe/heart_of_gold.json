@@ -1,0 +1,22 @@
+{
+  "type": "create:mixing",
+  "heat_requirement": "heated",
+  "ingredients": [
+    {
+      "item": "create_compressed:gold_sheet_block"
+    },
+    {
+      "type": "fluid_stack",
+      "amount": 1000,
+      "fluid": "supplementaries:lumisene"
+    }
+  ],
+  "results": [
+    {
+      "count": 1,
+      "item": {
+        "id": "plushables:heart_of_gold"
+      }
+    }
+  ]
+}
