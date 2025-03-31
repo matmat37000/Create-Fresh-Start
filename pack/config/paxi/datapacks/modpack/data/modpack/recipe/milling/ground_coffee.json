@@ -1,0 +1,17 @@
+{
+  "type": "create:milling",
+  "ingredients": [
+    {
+      "item": "kawaiidishes:roast_coffee_beans"
+    }
+  ],
+  "processing_time": 100,
+  "results": [
+    {
+      "count": 1,
+      "item": {
+        "id": "kawaiidishes:ground_coffee"
+      }
+    }
+  ]
+}

@@ -20,6 +20,8 @@ Warnings in modpack:
 - Arachnophobia warning: The Fresh Extras Resource Pack contains spiders that might trigger arachnophobia in some players. For these, disabling that resource pack is recommended.
 
 TODO:
+- Fluid water tag
+- Bee nest (carry on)
 - https://modrinth.com/mod/drink-beer-refill
 - Loot kisten nicht mitnehmen können (Carry On)
 - Custom credits screen
