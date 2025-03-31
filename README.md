@@ -8,7 +8,7 @@ Start a new adventure with **Create: Fresh Start**, a modpack running on `mc1.21
 
 ### Description
 
-This modpack adds **over 180 mods** and is all about an polished **Vanilla+ experience** with an **heavy dose of Create** and _even more_ stuff to automate for!
+This modpack adds **over 200 mods** and is all about an polished **Vanilla+ experience** with an **heavy dose of Create** and _even more_ stuff to automate for!
 
 Content-wise, a few highlights are…
 - **[Create: Ultimate Factory](https://modrinth.com/mod/create-ultimate-factory)** and **[Create Encased](https://modrinth.com/mod/hSSqdyU1)** for more depth in optimization
