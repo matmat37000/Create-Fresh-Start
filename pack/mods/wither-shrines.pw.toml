@@ -1,0 +1,13 @@
+name = "Wither Shrines"
+filename = "wither-shrines-2.0.0.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/JkKThp0v/versions/WTgz4e8m/wither-shrines-2.0.0.jar"
+hash-format = "sha512"
+hash = "ebce4942d0ecf42c20b240f048f0281446d06b1c1fa67e807c38a17e18fd19a8ae66718e50d5ebf68c43e0db4961f6fc1edc64b080b9b67c09854158ddc66c95"
+
+[update]
+[update.modrinth]
+mod-id = "JkKThp0v"
+version = "WTgz4e8m"

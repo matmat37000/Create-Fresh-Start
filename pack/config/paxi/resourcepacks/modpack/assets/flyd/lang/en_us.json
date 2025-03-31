@@ -1,0 +1,76 @@
+{
+  "item.flyd.asparagus_soup_bucket": "Bucket of Asparagus Soup",
+  "block.flyd.asparagus_soup": "Asparagus Soup",
+
+  "item.flyd.asparagus_soup_creamy_bucket": "Bucket of Creamy Asparagus Soup",
+  "block.flyd.asparagus_soup_creamy": "Creamy Asparagus Soup",
+
+  "item.flyd.baked_cod_stew_bucket": "Bucket of Baked Cod Stew",
+  "block.flyd.baked_cod_stew": "Baked Cod Stew",
+
+  "item.flyd.beef_stew_bucket": "Bucket of Beef Stew",
+  "block.flyd.beef_stew": "Beef Stew",
+
+  "item.flyd.beetroot_soup_bucket": "Bucket of Beetroot Soup",
+  "block.flyd.beetroot_soup": "Beetroot Soup",
+
+  "item.flyd.bone_broth_bucket": "Bucket of Bone Broth",
+  "block.flyd.bone_broth": "Bone Broth",
+
+  "item.flyd.capuccino_coffee_bucket": "Bucket of Capuccino Coffee",
+  "block.flyd.capuccino_coffee": "Capuccino Coffee",
+
+  "item.flyd.chicken_soup_bucket": "Bucket of Chicken Soup",
+  "block.flyd.chicken_soup": "Chicken Soup",
+
+  "item.flyd.dark_coffee_bucket": "Bucket of Dark Coffee",
+  "block.flyd.dark_coffee": "Dark Coffee",
+
+  "item.flyd.doppio_coffee_bucket": "Bucket of Doppio Coffee",
+  "block.flyd.doppio_coffee": "Doppio Coffee",
+
+  "item.flyd.espresso_coffee_bucket": "Bucket of Espresso Coffee",
+  "block.flyd.espresso_coffee": "Espresso Coffee",
+
+  "item.flyd.fish_stew_bucket": "Bucket of Fish Stew",
+  "block.flyd.fish_stew": "Fish Stew",
+
+  "item.flyd.hot_cocoa_bucket": "Bucket of Hot Cocoa",
+  "block.flyd.hot_cocoa": "Hot Cocoa",
+
+  "item.flyd.latte_coffee_bucket": "Bucket of Latte Coffee",
+  "block.flyd.latte_coffee": "Latte Coffee",
+
+  "item.flyd.macchiato_coffee_bucket": "Bucket of Macchiato Coffee",
+  "block.flyd.macchiato_coffee": "Macchiato Coffee",
+
+  "item.flyd.milk_foam_bucket": "Bucket of Milk Foam",
+  "block.flyd.milk_foam": "Milk Foam",
+
+  "item.flyd.mocha_coffee_bucket": "Bucket of Mocha Coffee",
+  "block.flyd.mocha_coffee": "Mocha Coffee",
+
+  "item.flyd.mushroom_stew_bucket": "Bucket of Mushroom Stew",
+  "block.flyd.mushroom_stew": "Mushroom Stew",
+
+  "item.flyd.noodle_soup_bucket": "Bucket of Noodle Soup",
+  "block.flyd.noodle_soup": "Noodle Soup",
+
+  "item.flyd.peanut_honey_soup_bucket": "Bucket of Honey Soup",
+  "block.flyd.peanut_honey_soup": "Honey Soup",
+
+  "item.flyd.pumpkin_soup_bucket": "Bucket of Pumpkin Soup",
+  "block.flyd.pumpkin_soup": "Pumpkin Soup",
+
+  "item.flyd.rabbit_stew_bucket": "Bucket of Rabbit Stew",
+  "block.flyd.rabbit_stew": "Rabbit Stew",
+
+  "item.flyd.steamed_milk_bucket": "Bucket of Steamed Milk",
+  "block.flyd.steamed_milk": "Steamed Milk",
+
+  "item.flyd.tomato_sauce_bucket": "Bucket of Tomato Sauce",
+  "block.flyd.tomato_sauce": "Tomato Sauce",
+
+  "item.flyd.vegetable_soup_bucket": "Bucket of Vegetable Soup",
+  "block.flyd.vegetable_soup": "Vegetable Soup"
+}

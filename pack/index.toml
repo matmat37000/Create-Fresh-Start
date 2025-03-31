@@ -1623,6 +1623,214 @@ file = "config/paxi/resourcepacks/modpack/assets/expandeddelight/textures/block/
 hash = "e5c7409d540dec0167610feedb97a36f0d52a26801d0fe09d5969aeb41387c9b"
 
 [[files]]
+file = "config/paxi/resourcepacks/modpack/assets/flyd/lang/en_us.json"
+hash = "991afb43362e8b3209aaf33d92fab610bcf05e1c070c2b4018dd9cf810dcf0ba"
+
+[[files]]
+file = "config/paxi/resourcepacks/modpack/assets/flyd/models/item/asparagus_soup_bucket.json"
+hash = "1a8983b97a34afdfff8b79262d3a808e0f043686da5d5ea4c16ae7b94816a607"
+
+[[files]]
+file = "config/paxi/resourcepacks/modpack/assets/flyd/models/item/asparagus_soup_creamy_bucket.json"
+hash = "8de355a18bb7acd8c26c0b994e7433c87c9343eb6324222a25003f825d038603"
+
+[[files]]
+file = "config/paxi/resourcepacks/modpack/assets/flyd/models/item/baked_cod_stew_bucket.json"
+hash = "9dd9bdb6eea39e260269a49a145e9f7329fcf06a4f6381fe5f2e0d6642ceac0b"
+
+[[files]]
+file = "config/paxi/resourcepacks/modpack/assets/flyd/models/item/beef_stew_bucket.json"
+hash = "d61b7edfeb60cab832853bbb96b98dc3e3494346ece23a2b57b51ec829392598"
+
+[[files]]
+file = "config/paxi/resourcepacks/modpack/assets/flyd/models/item/beetroot_soup_bucket.json"
+hash = "716cbfbb2e9322de0224429106beee30f39d855ff7f546f0526a7800fb172d4f"
+
+[[files]]
+file = "config/paxi/resourcepacks/modpack/assets/flyd/models/item/bone_broth_bucket.json"
+hash = "b91c845651733ac7a1be566ec3c11e928049cfa35a9a8b32e6a679cc70f67a21"
+
+[[files]]
+file = "config/paxi/resourcepacks/modpack/assets/flyd/models/item/capuccino_coffee_bucket.json"
+hash = "c8e2c539764e2a9af2d0e956832aa143da8199ca6c95dc8d9b3a7b047cf2c868"
+
+[[files]]
+file = "config/paxi/resourcepacks/modpack/assets/flyd/models/item/chicken_soup_bucket.json"
+hash = "b2099b58fe1123fe326cd1561ac953d7c6760e72150688b73b24b3f6bf13aec6"
+
+[[files]]
+file = "config/paxi/resourcepacks/modpack/assets/flyd/models/item/dark_coffee_bucket.json"
+hash = "95f2c952f0b7f299ddc620dade32df1799f0721a2634c04178517606ac404136"
+
+[[files]]
+file = "config/paxi/resourcepacks/modpack/assets/flyd/models/item/doppio_coffee_bucket.json"
+hash = "8ab9b6a37cd0567cb9d30eebd2bd3d7bf57fe91b3b5cbe4ab6c15b2dca3eb2b6"
+
+[[files]]
+file = "config/paxi/resourcepacks/modpack/assets/flyd/models/item/espresso_coffee_bucket.json"
+hash = "0626ecfce6fdf9c767a3cfe9644345284030a4101355bef493b8cd323ee515f0"
+
+[[files]]
+file = "config/paxi/resourcepacks/modpack/assets/flyd/models/item/fish_stew_bucket.json"
+hash = "6d88ed6fcfac73251e2335f6e6624a12f5f84e9cdfeaf0d9bef555dbeb8e6322"
+
+[[files]]
+file = "config/paxi/resourcepacks/modpack/assets/flyd/models/item/hot_cocoa_bucket.json"
+hash = "f96ce4fc359cf19925cb4a8d144945acc2cadc60062198380238ce549ab52a86"
+
+[[files]]
+file = "config/paxi/resourcepacks/modpack/assets/flyd/models/item/latte_coffee_bucket.json"
+hash = "f96ce4fc359cf19925cb4a8d144945acc2cadc60062198380238ce549ab52a86"
+
+[[files]]
+file = "config/paxi/resourcepacks/modpack/assets/flyd/models/item/macchiato_coffee_bucket.json"
+hash = "f5817ffb38f7876c4e845224a03011a5af17338dad86fd8e7605febccfeeec26"
+
+[[files]]
+file = "config/paxi/resourcepacks/modpack/assets/flyd/models/item/milk_foam_bucket.json"
+hash = "c16b38d75601ce6a815c69d2fc5880b1fc94886eed066c718512971e2334f6b0"
+
+[[files]]
+file = "config/paxi/resourcepacks/modpack/assets/flyd/models/item/mocha_coffee_bucket.json"
+hash = "243ee2223595fae718233c0ed4456f5c5c66302a05094043d004609c6bcfd548"
+
+[[files]]
+file = "config/paxi/resourcepacks/modpack/assets/flyd/models/item/mushroom_stew_bucket.json"
+hash = "8fd277b7a105d8ea506e7bd11786c8b4fcc57a85aa5e71c30bcd432a5f2d0e5c"
+
+[[files]]
+file = "config/paxi/resourcepacks/modpack/assets/flyd/models/item/noodle_soup_bucket.json"
+hash = "db708db06864f2a8188e4345dce114ef78e5c3f49bdb3ede69c9085d7874d918"
+
+[[files]]
+file = "config/paxi/resourcepacks/modpack/assets/flyd/models/item/peanut_honey_soup_bucket.json"
+hash = "a245b05dc1207dd4c294a2afc37646c169377694ceeb58b6d607b5ccfa1fd9df"
+
+[[files]]
+file = "config/paxi/resourcepacks/modpack/assets/flyd/models/item/pumpkin_soup_bucket.json"
+hash = "eb4f3891a94780094029093b6806f3215ee4bdc2c508241a0b3de98f52cf72cf"
+
+[[files]]
+file = "config/paxi/resourcepacks/modpack/assets/flyd/models/item/rabbit_stew_bucket.json"
+hash = "eb4f3891a94780094029093b6806f3215ee4bdc2c508241a0b3de98f52cf72cf"
+
+[[files]]
+file = "config/paxi/resourcepacks/modpack/assets/flyd/models/item/steamed_milk_bucket.json"
+hash = "1017ebd4364eebed2567a56824db6c65501eb9753e42a6e4dfb43b7ca578413d"
+
+[[files]]
+file = "config/paxi/resourcepacks/modpack/assets/flyd/models/item/tomato_sauce_bucket.json"
+hash = "aa534013e0be463c79c075e016cc77f8264182c19060f9b91839820690217a9f"
+
+[[files]]
+file = "config/paxi/resourcepacks/modpack/assets/flyd/models/item/vegetable_soup_bucket.json"
+hash = "b8e725cae2ffbcbd3b734c2d5cd2757302e58e69055bf941231782e3306359d0"
+
+[[files]]
+file = "config/paxi/resourcepacks/modpack/assets/flyd/textures/item/asparagus_soup_bucket.png"
+hash = "136eefe98f50efa743ccae51052d4cd88f0c033f5286277995b05873baa5ac42"
+
+[[files]]
+file = "config/paxi/resourcepacks/modpack/assets/flyd/textures/item/asparagus_soup_creamy_bucket.png"
+hash = "cc8ad1832f4c1b94b01785f61525fb7032710dc25a129fdaa311d27ae5eeacc1"
+
+[[files]]
+file = "config/paxi/resourcepacks/modpack/assets/flyd/textures/item/baked_cod_stew_bucket.png"
+hash = "f826e35eaafca6b01405ac1ba0862505c22ebbbd32d588d4b92522c4cb31ffd9"
+
+[[files]]
+file = "config/paxi/resourcepacks/modpack/assets/flyd/textures/item/beef_stew_bucket.png"
+hash = "265efd861fb6a19116fe5d1994a43bfca1d3c2d8e2baf8b95d3bb8a4f90c67c4"
+
+[[files]]
+file = "config/paxi/resourcepacks/modpack/assets/flyd/textures/item/beetroot_soup_bucket.png"
+hash = "df3782a3a0108e1d26d3b98d9ec2e13ab40e24e8c1ee378d95edc23fb8383cab"
+
+[[files]]
+file = "config/paxi/resourcepacks/modpack/assets/flyd/textures/item/bone_broth_bucket.png"
+hash = "de6007cf9149f746202da7472672f1e68bb4bfb5bcdfda9ef95b614e2f3ac1e8"
+
+[[files]]
+file = "config/paxi/resourcepacks/modpack/assets/flyd/textures/item/capuccino_coffee_bucket.png"
+hash = "d77fd426bbb20f8d0bbe74cf47d6d97142e4678f28fb4d9a5b9e6f8971e6d77b"
+
+[[files]]
+file = "config/paxi/resourcepacks/modpack/assets/flyd/textures/item/chicken_soup_bucket.png"
+hash = "358636ac095d0c2bb3275994d778d8aa977b50288208f7c5c5ebbf3aa942f52f"
+
+[[files]]
+file = "config/paxi/resourcepacks/modpack/assets/flyd/textures/item/dark_coffee_bucket.png"
+hash = "64c33f170fd68f86adc902eb539a01aaea2b62fd2bbeb84ffee3d73340b0e33e"
+
+[[files]]
+file = "config/paxi/resourcepacks/modpack/assets/flyd/textures/item/doppio_coffee_bucket.png"
+hash = "591940d78f197208d2d1bed38387d14cbfb680b1541947bcb5f9402867051ff8"
+
+[[files]]
+file = "config/paxi/resourcepacks/modpack/assets/flyd/textures/item/espresso_coffee_bucket.png"
+hash = "591940d78f197208d2d1bed38387d14cbfb680b1541947bcb5f9402867051ff8"
+
+[[files]]
+file = "config/paxi/resourcepacks/modpack/assets/flyd/textures/item/fish_stew_bucket.png"
+hash = "5dc591b8d515a02fb2f2b54a52d168db223d7398b782c719101712c539a156f6"
+
+[[files]]
+file = "config/paxi/resourcepacks/modpack/assets/flyd/textures/item/hot_cocoa_bucket.png"
+hash = "1c551a16c37378bd8572a0d4d9ae405e05ffae0c6dc0e7f5e0c06ac7f924ea7c"
+
+[[files]]
+file = "config/paxi/resourcepacks/modpack/assets/flyd/textures/item/latte_coffee_bucket.png"
+hash = "7b206d7890d4b79c5341516c36c71274c04f3261ac97b05d8f4ddb46faddefae"
+
+[[files]]
+file = "config/paxi/resourcepacks/modpack/assets/flyd/textures/item/macchiato_coffee_bucket.png"
+hash = "7b206d7890d4b79c5341516c36c71274c04f3261ac97b05d8f4ddb46faddefae"
+
+[[files]]
+file = "config/paxi/resourcepacks/modpack/assets/flyd/textures/item/milk_foam_bucket.png"
+hash = "4fe54fe49384a16fead5dec458363eb6656660cde88e53eb1c4adbee3c88a6a1"
+
+[[files]]
+file = "config/paxi/resourcepacks/modpack/assets/flyd/textures/item/mocha_coffee_bucket.png"
+hash = "11aa193cef59a2c0c878d007fe4ab20579766ab6e5380d925537993448f3fece"
+
+[[files]]
+file = "config/paxi/resourcepacks/modpack/assets/flyd/textures/item/mushroom_stew_bucket.png"
+hash = "55c3f8077c00dbf57203f6697edd58d0f16031257733456bd4e16e8055578867"
+
+[[files]]
+file = "config/paxi/resourcepacks/modpack/assets/flyd/textures/item/noodle_soup_bucket.png"
+hash = "4c1a488583f42627338585df10edf094e454497140847a9d15e4ed21f94feab7"
+
+[[files]]
+file = "config/paxi/resourcepacks/modpack/assets/flyd/textures/item/peanut_honey_soup_bucket.png"
+hash = "a2be43eac2b9d835c931a2bd417422b6121492f2a753ab32c5ac0e3f6ec5e914"
+
+[[files]]
+file = "config/paxi/resourcepacks/modpack/assets/flyd/textures/item/pumpkin_soup_bucket.png"
+hash = "651b4adc42788d0bf031a5152bcbcb798092baf8a9f949cbfb9ffdba582382e4"
+
+[[files]]
+file = "config/paxi/resourcepacks/modpack/assets/flyd/textures/item/rabbit_stew_bucket.png"
+hash = "5401e1235089028fbe2142ec3ea19bc90da709a448e706d78bf684f59ebdebfe"
+
+[[files]]
+file = "config/paxi/resourcepacks/modpack/assets/flyd/textures/item/steamed_milk_bucket (Kopie).png"
+hash = "4fe54fe49384a16fead5dec458363eb6656660cde88e53eb1c4adbee3c88a6a1"
+
+[[files]]
+file = "config/paxi/resourcepacks/modpack/assets/flyd/textures/item/steamed_milk_bucket.png"
+hash = "4fe54fe49384a16fead5dec458363eb6656660cde88e53eb1c4adbee3c88a6a1"
+
+[[files]]
+file = "config/paxi/resourcepacks/modpack/assets/flyd/textures/item/tomato_sauce_bucket.png"
+hash = "25945012537390507d649e8213f4dfacd0523aa798779abc004e02b429bb4d12"
+
+[[files]]
+file = "config/paxi/resourcepacks/modpack/assets/flyd/textures/item/vegetable_soup_bucket.png"
+hash = "a256b2e01a63a71ca96f8f2ae306434f3750251cde96dbbbf2f9ced963a7c89b"
+
+[[files]]
 file = "config/paxi/resourcepacks/modpack/assets/legendarytooltips/frame_definitions.json"
 hash = "19e231c6a98dfac730790afc1b7867694b91abef0cd5b03cc4673f2228053faa"
 
@@ -2525,6 +2733,11 @@ hash = "1c42b7bd5624fbcba31466668bc4accf4b361c60151167488cbc9a041d7f577d"
 metafile = true
 
 [[files]]
+file = "mods/be-style-wither.pw.toml"
+hash = "cdcee5e9dea8ae916d1c116c6c4ca7491285bb5649863bd1e76b4470429e7601"
+metafile = true
+
+[[files]]
 file = "mods/beeg-smol.pw.toml"
 hash = "03a39f2aae80c1dc579091a93e546c0b998fdfa3ea737770f370ee4a8e8eed76"
 metafile = true
@@ -2792,6 +3005,11 @@ metafile = true
 [[files]]
 file = "mods/draggable-lists.pw.toml"
 hash = "50de1919e6cc3104a4a2557b0644c15f5a56722cf76a19b194ec6ecf61bcae13"
+metafile = true
+
+[[files]]
+file = "mods/drink-beer-refill.pw.toml"
+hash = "7c73027a454377fc3120b432373bf513400ec6b88862b1c2b117d454f39b1a53"
 metafile = true
 
 [[files]]
@@ -3245,6 +3463,11 @@ hash = "c807ea002028531b058454b0a0f71d8f42afe0fcefa5e1651d425939c662c999"
 metafile = true
 
 [[files]]
+file = "mods/realm-rpg-fallen-adventurers.pw.toml"
+hash = "e3dc2d295b421fd9e51608c84c1172dd794c94fb03fdcc85aa173257e4535728"
+metafile = true
+
+[[files]]
 file = "mods/rebind-narrator.pw.toml"
 hash = "cb352779c4b9c669a926c8be84a78604910e89d2bb982782741fb1f5c635c17a"
 metafile = true
@@ -3432,6 +3655,11 @@ metafile = true
 [[files]]
 file = "mods/windchime-unofficial-continued.pw.toml"
 hash = "40bd8e2c0ec2bb87fcbcbd615b7bb37dd93aac981e6264e07a98b3b31be8aa5c"
+metafile = true
+
+[[files]]
+file = "mods/wither-shrines.pw.toml"
+hash = "00c70effdeaa68f5c375fcd8dc403e1e38304c7822b6cd5d878dbf21500efe19"
 metafile = true
 
 [[files]]

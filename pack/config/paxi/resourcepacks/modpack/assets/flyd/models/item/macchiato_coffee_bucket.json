@@ -1,0 +1,6 @@
+{
+  "parent": "minecraft:item/generated",
+  "textures": {
+    "layer0": "flyd:item/macchiato_coffee_bucket"
+  }
+}

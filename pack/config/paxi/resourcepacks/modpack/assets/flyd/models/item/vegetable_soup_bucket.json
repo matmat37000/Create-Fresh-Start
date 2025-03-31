@@ -1,0 +1,6 @@
+{
+  "parent": "minecraft:item/generated",
+  "textures": {
+    "layer0": "flyd:item/vegetable_soup_bucket"
+  }
+}
