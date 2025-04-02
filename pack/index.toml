@@ -30,7 +30,7 @@ hash = "42915f9f07c667dad055efc9961260fb7e0ae1daa05fa746e53be898ac653704"
 
 [[files]]
 file = "config/bcc-common.toml"
-hash = "fb54322915b21f608250364c3aec6f269c29ea140dcd0692455180f12217285e"
+hash = "b9498187c0888118c090f239ef794efcdb8f18ec6cb9588f5cfce1021c6c5cac"
 
 [[files]]
 file = "config/betterclouds-v1.json"
@@ -217,12 +217,16 @@ file = "config/flyd/vegetable_soup.toml"
 hash = "d46c97953ed1545ffc2026f8fb015c77eb0016a05b00529fd0ab607202aa5406"
 
 [[files]]
+file = "config/flywheel-client.toml"
+hash = "33c1eecbc4d769ab3d1de3c0b6b12c5b6d59ab329e5eab0014d903dce1de28a2"
+
+[[files]]
 file = "config/fog/config.json"
 hash = "eca78d5e8e7cacad1228f29bdd1d2e56152032a0a0cf97ba9b67323598e37b1b"
 
 [[files]]
 file = "config/icon.png"
-hash = "a4b96b98430a075d274a782bc989cf6d46908323f5bf0d186ed857a0da1512bd"
+hash = "41816fa723114489c5f1e0e9302f3ed7024acd7b50b1620f41aaee1ce807b5a8"
 
 [[files]]
 file = "config/infinite-music-options.json"
@@ -2348,7 +2352,7 @@ hash = "c1ce77c528cda05dc13d6335eafdd326b445763c9ce94525d69797a1433eea2c"
 
 [[files]]
 file = "config/paxi/resourcepacks/modpack/assets/minecraft/textures/gui/title/minecraft.png"
-hash = "ef5aae82aeb9c97377950d219bca726e36b611584ca96664276cade298f0b5b6"
+hash = "35a0230f016f925d15fb674ed3b270eee0bea98333f6d33f545f6dcd8807d310"
 
 [[files]]
 file = "config/paxi/resourcepacks/modpack/assets/minecraft/textures/gui/title/minecraft.png.mcmeta"
