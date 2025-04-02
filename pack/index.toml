@@ -2572,7 +2572,7 @@ hash = "a4b96b98430a075d274a782bc989cf6d46908323f5bf0d186ed857a0da1512bd"
 
 [[files]]
 file = "config/paxi/resourcepacks/simple-grass-flowers.pw.toml"
-hash = "2c4f4c1252a2ad62ac168bc529b9e04a8de3c74a2dd3038254224281557599ad"
+hash = "96d580c29f3c69c313e54a5e4219a08ee3ebd69f4ab73febf591681de5376464"
 metafile = true
 
 [[files]]
@@ -2639,11 +2639,6 @@ hash = "991e0e5e8eb00c6e8c7dae43103ba5d45e8a28b8d0915863b72594638bffce35"
 [[files]]
 file = "config/waves/waves.json"
 hash = "2e5c453a2676a5eaed2e852382495e762a29b7f4e6da6456bbaa0c4508a79036"
-
-[[files]]
-file = "mods/0,5-hp.pw.toml"
-hash = "da8c82da907ee958303c6d62a4acd0bff729c3452af11187d081632c3939fee5"
-metafile = true
 
 [[files]]
 file = "mods/accurate-block-placement-reborn.pw.toml"
@@ -2772,7 +2767,7 @@ metafile = true
 
 [[files]]
 file = "mods/better-clouds.pw.toml"
-hash = "ba120eba886b45b19c587d1b451f68a8e63cdd96e6ac41d1695ed6dfec026fe1"
+hash = "822bfc66a7dec6d513604164659bae7db965cd556c9b348bad7e700c74dede6c"
 metafile = true
 
 [[files]]
@@ -2782,7 +2777,7 @@ metafile = true
 
 [[files]]
 file = "mods/better-modlist.pw.toml"
-hash = "38c19417f3b7bd662da0c0f902308116789fe967aa1f50ebb5f7e95cfd122d24"
+hash = "a24adf7667c54507db9d61056a819a53f9e5436fdf02577a091b0eefdf1e8e4f"
 metafile = true
 
 [[files]]
@@ -2832,7 +2827,7 @@ metafile = true
 
 [[files]]
 file = "mods/c2me-neoforge.pw.toml"
-hash = "6789ad2958a2dc2ea1b45c3eae624f4535eac9475b03c3f496fde07debbcb178"
+hash = "3fa156604ef14ccb1e00b71fe7bbbbe1bae07ab9c0d702d78c111b077756b2c4"
 metafile = true
 
 [[files]]
@@ -3187,7 +3182,7 @@ metafile = true
 
 [[files]]
 file = "mods/iceberg.pw.toml"
-hash = "cf8b70a9aee53147acfa4f6dd545baf2a65a597dd456f04c65e8ce378afea11c"
+hash = "dc2d768733b08521e89ae338054c1ec7a436e459214415cf5703437f5f355a36"
 metafile = true
 
 [[files]]
@@ -3198,11 +3193,6 @@ metafile = true
 [[files]]
 file = "mods/infinite-music.pw.toml"
 hash = "6e7613d3b9726eaae758e8927e56c5be6bd53f09e8a370b20bc8df3dffab47a2"
-metafile = true
-
-[[files]]
-file = "mods/infinite-storage-bundle.pw.toml"
-hash = "c7f26ee62cb0bc21ce23720763f765c6633ac0467f9352c01a5a55765ea53ae3"
 metafile = true
 
 [[files]]
@@ -3257,7 +3247,7 @@ metafile = true
 
 [[files]]
 file = "mods/legendary-tooltips.pw.toml"
-hash = "7e2fd62bc37c92bd5a9fd7789f6b948d831945041d69ee6664c88fb9f9209897"
+hash = "409372c558d9f720f038b1e3402cb7001b6aae973d6564c7dea613dc5131d882"
 metafile = true
 
 [[files]]
@@ -3312,7 +3302,7 @@ metafile = true
 
 [[files]]
 file = "mods/moonlight.pw.toml"
-hash = "afb4373c63b5ef3ac5ad0651fbbb2db5cf322f2658597e3bad8a0302d124b41c"
+hash = "5f959c321827c877eeaa6061163c03545db446b9942996265e470d8df98ed2b1"
 metafile = true
 
 [[files]]
@@ -3332,7 +3322,7 @@ metafile = true
 
 [[files]]
 file = "mods/mru.pw.toml"
-hash = "2d82970956a15ded6c9edda34ec047ac9bb7655736da5d1beaa2e829d4c88d70"
+hash = "51e388758a3748e3d7a46f5cdeabd9ea1d0cefe070a7c8f7e2c7c300b026f2e2"
 metafile = true
 
 [[files]]
@@ -3452,7 +3442,7 @@ metafile = true
 
 [[files]]
 file = "mods/prism-lib.pw.toml"
-hash = "4a1505d9edf2836f0efd65329fc12be2bb5be8d3e14ad86a8486cff562574d53"
+hash = "d9b38ba42434eb436d036b1c8add839bee003240dc85cc54ec626aac58c59070"
 metafile = true
 
 [[files]]
@@ -3522,7 +3512,7 @@ metafile = true
 
 [[files]]
 file = "mods/simple-voice-chat.pw.toml"
-hash = "ef6992d15308d88e45074e082dc0552c61d494dc583a9b8520edba4bf1af94b6"
+hash = "3915b768d89ec43e7b4b250a361dd2c8326b0d56c7fe73656ee955653ee573f9"
 metafile = true
 
 [[files]]
@@ -3572,12 +3562,12 @@ metafile = true
 
 [[files]]
 file = "mods/supplementaries-squared.pw.toml"
-hash = "c7a2c6afb9624f0385777d83280298b2f9dd098032f4a13c316173c59f7270b9"
+hash = "a1447babc877ab29032895bc1412edc7fc0892fe5d2295073f5c3e1a3db237d2"
 metafile = true
 
 [[files]]
 file = "mods/supplementaries.pw.toml"
-hash = "16cd4f5afbf70ff2afaab0aaaa21345e04d0c8a3b6fa7bc1fe9da1ab77d3b81d"
+hash = "03261d68c5b0b05fa77ea0d2f3ac4a517d8aeedf77a925ad01825634b1e8d33f"
 metafile = true
 
 [[files]]
@@ -3638,11 +3628,6 @@ metafile = true
 [[files]]
 file = "mods/trimseffects.pw.toml"
 hash = "94a372a1cbe38680df0bdabe3d6e962397a95687c8816890d179ea30d5245747"
-metafile = true
-
-[[files]]
-file = "mods/vanilla-fireflies.pw.toml"
-hash = "95c1463e32bb43f828cfbacc5175021cca51e573bef39b33e2c9fc55351c417f"
 metafile = true
 
 [[files]]

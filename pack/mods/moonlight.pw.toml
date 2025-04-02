@@ -3,11 +3,11 @@ filename = "moonlight-1.21-2.18.2-neoforge.jar"
 side = "both"
 
 [download]
-url = "https://cdn.modrinth.com/data/twkfQtEc/versions/TF4TFUUT/moonlight-1.21-2.18.2-neoforge.jar"
+url = "https://cdn.modrinth.com/data/twkfQtEc/versions/Ywq4xsIa/moonlight-1.21-2.18.2-neoforge.jar"
 hash-format = "sha512"
-hash = "d9a17026aefd39d38a6adf50f16e9d3320ce77df40745f79a1bff2741eb1aba894012b6fbd2493bb1dba92062400862eebf92c0c5312a1e162d4b52747dfcd27"
+hash = "fcd9b4afc99071fa8c58a1392eaadedda01463e18d61541318defb9a380f668a864a6252f87641fcac752bce53899182dc8dc71063ce0e81d22470f3daf7f50e"
 
 [update]
 [update.modrinth]
 mod-id = "twkfQtEc"
-version = "TF4TFUUT"
+version = "Ywq4xsIa"
