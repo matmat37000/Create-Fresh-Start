@@ -21,7 +21,6 @@ Warnings in modpack:
 
 TODO:
 - Disable old normal to advanced computer recipe
-- Rarer maid constume appearing on mobs
 - Block of flour can be mixed to dough block just like with normal four and dough
 - Spyglass not working?
 - Fluid water tag
