@@ -24,6 +24,6 @@ TODO:
 - Block of flour can be mixed to dough block just like with normal four and dough
 - Spyglass not working?
 - Fluid water tag
-- Bee nest (carry on)
 - Loot kisten nicht mitnehmen können (Carry On)
 - Custom credits screen
+- make small mobs not too fast
