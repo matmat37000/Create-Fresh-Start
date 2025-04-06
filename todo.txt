@@ -20,8 +20,6 @@ Warnings in modpack:
 - Arachnophobia warning: The Fresh Extras Resource Pack contains spiders that might trigger arachnophobia in some players. For these, disabling that resource pack is recommended.
 
 TODO:
-- Disable old normal to advanced computer recipe
-- Block of flour can be mixed to dough block just like with normal four and dough
 - Spyglass not working?
 - Fluid water tag
 - Custom credits screen

@@ -353,6 +353,10 @@ file = "config/paxi/datapacks/modpack/data/create/recipe/crafting/tree_fertilize
 hash = "b2c1eab02d86391e86189c10558710412d90cf7d7aaacef50ef59cb503a1fd4d"
 
 [[files]]
+file = "config/paxi/datapacks/modpack/data/create/recipe/mixing/dough_block_by_mixing"
+hash = "aaaf5c7c45a276b71d9924c7c25996d336b0c91e1f59e0beb859e0e6e738310c"
+
+[[files]]
 file = "config/paxi/datapacks/modpack/data/create/recipe/mixing/dough_by_mixing.json"
 hash = "dcb92cb53bb7d4f2d5befaa14c302a3d39ceed635fc6d52548d3c1408d465408"
 
@@ -369,8 +373,16 @@ file = "config/paxi/datapacks/modpack/data/create/recipe/splashing/wheat_flour.j
 hash = "857c600dee32d6a1adcac45473c6985860879ef0c6ecab1e34fa33d95f3e8a0c"
 
 [[files]]
+file = "config/paxi/datapacks/modpack/data/create/recipe/splashing/wheat_flour_pile.json"
+hash = "803d20a2f342cf66aec451d6759c22ca03dee7bc54c924932c30b40caab28806"
+
+[[files]]
 file = "config/paxi/datapacks/modpack/data/create/tags/item/deployable_drink.json"
 hash = "bd38ef47e5350627c47854e0515cf88891c40ec9d50e90865739894446b0c073"
+
+[[files]]
+file = "config/paxi/datapacks/modpack/data/create_compressed/recipe/dough.json"
+hash = "907d7b3579079bf6f2cb2987b69ac98ca14cab7a5ac2d0e6b463324c5a481665"
 
 [[files]]
 file = "config/paxi/datapacks/modpack/data/create_compressed/recipe/dough_block.json"
