@@ -353,7 +353,7 @@ file = "config/paxi/datapacks/modpack/data/create/recipe/crafting/tree_fertilize
 hash = "b2c1eab02d86391e86189c10558710412d90cf7d7aaacef50ef59cb503a1fd4d"
 
 [[files]]
-file = "config/paxi/datapacks/modpack/data/create/recipe/mixing/dough_block_by_mixing"
+file = "config/paxi/datapacks/modpack/data/create/recipe/mixing/dough_block_by_mixing.json"
 hash = "aaaf5c7c45a276b71d9924c7c25996d336b0c91e1f59e0beb859e0e6e738310c"
 
 [[files]]
@@ -1191,6 +1191,10 @@ hash = "cb154a7c55f01c9d5de6f634af0be6403975786fbdb7d2e0c01163159559eaf0"
 [[files]]
 file = "config/paxi/datapacks/modpack/data/modpack/recipe/writable_book.json"
 hash = "4d6f01caaa9d852e7c8c6c73653c1b836829ed7ac69630f40f35e69ac7cb23ad"
+
+[[files]]
+file = "config/paxi/datapacks/modpack/data/modpack/tags/fluid/water.json"
+hash = "8c64845290535765e2819d8dc74de46c4112706a4139899d50a3e811561620a7"
 
 [[files]]
 file = "config/paxi/datapacks/modpack/data/modpack/tags/item/functioning_music_discs.json"
