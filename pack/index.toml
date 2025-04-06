@@ -269,6 +269,10 @@ file = "config/paxi/datapacks/modpack/data/computercraft/recipe/computer_advance
 hash = "5adb1ae20fdd4a56ca11d127f41b142e1f6e508caacaff739d3a1b7f60fb32f0"
 
 [[files]]
+file = "config/paxi/datapacks/modpack/data/computercraft/recipe/computer_advanced_upgrade.json"
+hash = "4bb039357de3fcc08ecf4df462d99da1dcad4630a9449900378f5d7bda39931d"
+
+[[files]]
 file = "config/paxi/datapacks/modpack/data/computercraft/recipe/computer_normal.json"
 hash = "e855ae34fd78ce927cc598a917568f53e45261890b45d0e7925aa66944506f25"
 
@@ -287,6 +291,10 @@ hash = "3c20ea4bdea073ff6095fd69e15b699a1963feadf06e51c62b3735f32ee2cbd3"
 [[files]]
 file = "config/paxi/datapacks/modpack/data/computercraft/recipe/pocket_computer_advanced.json"
 hash = "b02c216b81cf53db642378e8bd8ab31ac146ae9d8e739d387a5212601aa9e666"
+
+[[files]]
+file = "config/paxi/datapacks/modpack/data/computercraft/recipe/pocket_computer_advanced_upgrade.json"
+hash = "4bb039357de3fcc08ecf4df462d99da1dcad4630a9449900378f5d7bda39931d"
 
 [[files]]
 file = "config/paxi/datapacks/modpack/data/computercraft/recipe/pocket_computer_normal.json"
@@ -309,8 +317,20 @@ file = "config/paxi/datapacks/modpack/data/computercraft/recipe/turtle_advanced.
 hash = "ae3c05b4cb945b3a518f14b00eaea1a8d7d843a2d463e521e80cdf620d7bfdb1"
 
 [[files]]
+file = "config/paxi/datapacks/modpack/data/computercraft/recipe/turtle_advanced_upgrade.json"
+hash = "4bb039357de3fcc08ecf4df462d99da1dcad4630a9449900378f5d7bda39931d"
+
+[[files]]
 file = "config/paxi/datapacks/modpack/data/computercraft/recipe/turtle_normal.json"
 hash = "f7280a382da6908f455012017c2c9b76e27d59f315ea189d5ebb7ca9d0234d51"
+
+[[files]]
+file = "config/paxi/datapacks/modpack/data/computercraft/recipe/wireless_modem_advanced.json"
+hash = "975915361444f107dca9ecaa29ac2585fa17f675e1a24cf5284878c97b70c884"
+
+[[files]]
+file = "config/paxi/datapacks/modpack/data/computercraft/recipe/wireless_modem_normal.json"
+hash = "753b27f551f0b301429f74458a9c0066560d658e8f2620471537a36727122f9e"
 
 [[files]]
 file = "config/paxi/datapacks/modpack/data/create/recipe/campfire_cooking/bread.json"
@@ -1355,6 +1375,10 @@ hash = "bf00a904a58d2778059f2ee7c8eb5286e84a11ff7ba0d18d4f71728bf0023c1d"
 [[files]]
 file = "config/paxi/datapacks/modpack/data/supplementaries/recipe/relayer.json"
 hash = "fced12ae91f3a803e39e42c82c92a506e12d8c46d83327d0724cd8f693098324"
+
+[[files]]
+file = "config/paxi/datapacks/modpack/data/supplementaries/recipe/sack.json"
+hash = "e8db66fe93bcd0596113d7fb9c7775f8eac21182eb68cd17142ed2e243fad69c"
 
 [[files]]
 file = "config/paxi/datapacks/modpack/data/supplementaries/recipe/timber_brace.json"
