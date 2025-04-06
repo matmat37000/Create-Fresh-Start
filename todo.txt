@@ -25,4 +25,3 @@ TODO:
 - Spyglass not working?
 - Fluid water tag
 - Custom credits screen
-- make small mobs not too fast
