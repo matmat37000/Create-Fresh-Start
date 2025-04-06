@@ -4,13 +4,13 @@
 maxParticleAmount = 1500
 # Default: 100
 # Range: > 0
-particleDensity = 50
+particleDensity = 100
 # Default: 200
 # Range: > 0
-particleStormDensity = 100
+particleStormDensity = 200
 # Default: 25
 # Range: > 0
-particleRadius = 64
+particleRadius = 32
 doRainParticles = true
 doSplashParticles = true
 doSmokeParticles = true

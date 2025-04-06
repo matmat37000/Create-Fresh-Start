@@ -1433,10 +1433,6 @@ file = "config/paxi/datapacks/modpack/data/suppsquared/recipe/metal_frame.json"
 hash = "025a9792f8d745af9cad9ff3e9b2f491abd849ed5a1f452c4e6e6041b00a8bcc"
 
 [[files]]
-file = "config/paxi/datapacks/modpack/data/suppsquared/recipe/sack_dye.json"
-hash = "366d87ad8ffa16e065740ace61be2d3887082a8e1f450277d66110bc81926a83"
-
-[[files]]
 file = "config/paxi/datapacks/modpack/data/tide/recipe/bobbers/amethyst.json"
 hash = "530a4addb57dfd5ba5b82eb2d2ac21dc4b75e939e2023ea417ffe6008bd7cfcc"
 
