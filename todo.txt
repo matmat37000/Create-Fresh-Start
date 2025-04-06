@@ -21,5 +21,5 @@ Warnings in modpack:
 
 TODO:
 - Spyglass not working?
-- Fluid water tag
 - Custom credits screen
+- Soup tag
