@@ -22,7 +22,7 @@ hash = "c52b76ccad2bd1063a22c7f6bb9e7c5db6b00fb53a6fd605585972ee0e5fc01f"
 
 [[files]]
 file = "config/WSCommands.json"
-hash = "7397a3008c3ce27235ece6a1bd988d16f164d0eb4eae9ee3720e3f3c750051b6"
+hash = "8736fb9c637af2e859342e198cb0dfedde2f8e7599c10ebaad0dd2c07f847102"
 
 [[files]]
 file = "config/ambiance.json"
@@ -30,7 +30,7 @@ hash = "42915f9f07c667dad055efc9961260fb7e0ae1daa05fa746e53be898ac653704"
 
 [[files]]
 file = "config/bcc-common.toml"
-hash = "7565f3210d1dac7505feedf46c2885bb4dd8d832c5898ab4e3a0fb0979419b5c"
+hash = "6b8609c7b7e15a436f0ea7d2ff79d7036ad3801a995b6e832a6c18ba9437f584"
 
 [[files]]
 file = "config/betterclouds-v1.json"
@@ -555,6 +555,10 @@ hash = "f30ed41b7038af1cbd4cb7e29ff8715baeb4f00cf35c8e897529fdb4fb285222"
 [[files]]
 file = "config/paxi/datapacks/modpack/data/minecraft/recipe/tinted_glass.json"
 hash = "aa0f73810c8583a8f2561e9b0f700a57b0d21ec6fb7dfde27ec53e2f5dab96be"
+
+[[files]]
+file = "config/paxi/datapacks/modpack/data/modpack/function/prepare.mcfunction"
+hash = "32f2029380626f06827691b18ccb46f56c9a5c1f2019dc60af37d0438d5616f5"
 
 [[files]]
 file = "config/paxi/datapacks/modpack/data/modpack/recipe/atlas.json"
@@ -1194,7 +1198,11 @@ hash = "4d6f01caaa9d852e7c8c6c73653c1b836829ed7ac69630f40f35e69ac7cb23ad"
 
 [[files]]
 file = "config/paxi/datapacks/modpack/data/modpack/tags/fluid/water.json"
-hash = "8c64845290535765e2819d8dc74de46c4112706a4139899d50a3e811561620a7"
+hash = "15e693b8f5466aabaa7efebc785247b65aba4de9f10ff046478c70c8a43ff563"
+
+[[files]]
+file = "config/paxi/datapacks/modpack/data/modpack/tags/function/load.json"
+hash = "4976742d32ecbe41530e56cf6b4d4ff59454110502cf7c54d1da33dcbf87544c"
 
 [[files]]
 file = "config/paxi/datapacks/modpack/data/modpack/tags/item/functioning_music_discs.json"
@@ -3535,6 +3543,11 @@ hash = "e979182199e2fbb9f8a69b6ef988a4ba6dd7f30149f7f8ef8c56677f06043125"
 metafile = true
 
 [[files]]
+file = "mods/satin-free-wakes.pw.toml"
+hash = "da82584dc5c26adafb4df9b69fa2ed710ead914ce8384058665fcfa85950f5fa"
+metafile = true
+
+[[files]]
 file = "mods/scalablelux.pw.toml"
 hash = "8d634f8aec598bda3a07d3cb3071d31e6fa6e56915f0214a421956872feddc33"
 metafile = true
@@ -3753,6 +3766,18 @@ metafile = true
 file = "mods/yungs-better-witch-huts.pw.toml"
 hash = "9854b699d5a067c46ac99b1dedeeb529bff3fc18dd079e29b438c4cbf9725f68"
 metafile = true
+
+[[files]]
+file = "patchouli_books/cfs_guide_book/book.json"
+hash = "fc9d70fb6658b6b1056814b64d2efc9d995d1a59d81132b3c8e9e42b40ec3eb9"
+
+[[files]]
+file = "patchouli_books/cfs_guide_book/en_us/categories/preparation.json"
+hash = "a3ab581208abe01281eb6ed6422a87e0de551f29a79e517978d3c22cccd62045"
+
+[[files]]
+file = "patchouli_books/cfs_guide_book/en_us/entries/introduction.json"
+hash = "4cd028410c621307ede3b29a63083bd25259821994fa3494d7a0dc4fa35cd286"
 
 [[files]]
 file = "resourcepacks/create-lootr.pw.toml"
