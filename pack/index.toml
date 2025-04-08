@@ -3769,7 +3769,7 @@ metafile = true
 
 [[files]]
 file = "patchouli_books/cfs_guide_book/book.json"
-hash = "fc9d70fb6658b6b1056814b64d2efc9d995d1a59d81132b3c8e9e42b40ec3eb9"
+hash = "cc70ed1a446c901bc0b5543b6ebae7057330012c78023f9be9704c5404b0b5c2"
 
 [[files]]
 file = "patchouli_books/cfs_guide_book/en_us/categories/preparation.json"
