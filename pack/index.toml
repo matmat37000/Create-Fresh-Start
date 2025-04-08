@@ -222,7 +222,7 @@ hash = "33c1eecbc4d769ab3d1de3c0b6b12c5b6d59ab329e5eab0014d903dce1de28a2"
 
 [[files]]
 file = "config/fog/config.json"
-hash = "eca78d5e8e7cacad1228f29bdd1d2e56152032a0a0cf97ba9b67323598e37b1b"
+hash = "4dd8d5b23c600b9249b820208c6358d01fdf88d793354c3fb5946d78d1835358"
 
 [[files]]
 file = "config/icon.png"
@@ -1225,6 +1225,10 @@ file = "config/paxi/datapacks/modpack/data/supplementaries/hourglass_dusts/heart
 hash = "3600c05fe25fda6e302ea0e4bf89f27b2b950df78e238ec50188cf9bdfae14bf"
 
 [[files]]
+file = "config/paxi/datapacks/modpack/data/supplementaries/loot_table/blocks/sack.json"
+hash = "5419599d868f80c5ba534517352e3a6450cef47be60277ab902b0822f15506c2"
+
+[[files]]
 file = "config/paxi/datapacks/modpack/data/supplementaries/recipe/awnings/awning.json"
 hash = "a6d66fc5115e26e2e816776bd5fd431ab7f2a4a3bc11d8fc099e5bccdb9e1b43"
 
@@ -1394,7 +1398,15 @@ hash = "fced12ae91f3a803e39e42c82c92a506e12d8c46d83327d0724cd8f693098324"
 
 [[files]]
 file = "config/paxi/datapacks/modpack/data/supplementaries/recipe/sack.json"
-hash = "e8db66fe93bcd0596113d7fb9c7775f8eac21182eb68cd17142ed2e243fad69c"
+hash = "fc76c99b9d83fb1335a24f1be8ee7b533e52ae1bb44d7821fa3a4f2813765d90"
+
+[[files]]
+file = "config/paxi/datapacks/modpack/data/supplementaries/recipe/sack_2.json"
+hash = "f16e7754f3ebc382483fc8a95cbd3174b9f8f4b3468bd523c5876c34e38677ba"
+
+[[files]]
+file = "config/paxi/datapacks/modpack/data/supplementaries/recipe/sack_3.json"
+hash = "b366a586596555074f6fd2aaa8b0fee5305acf6617bb4aa45014fe68d7539b81"
 
 [[files]]
 file = "config/paxi/datapacks/modpack/data/supplementaries/recipe/timber_brace.json"
@@ -1431,6 +1443,10 @@ hash = "d5e7cbef998e2faaee18f58cd971c005f647125b8994b016ef0f3f41de66e679"
 [[files]]
 file = "config/paxi/datapacks/modpack/data/suppsquared/recipe/metal_frame.json"
 hash = "025a9792f8d745af9cad9ff3e9b2f491abd849ed5a1f452c4e6e6041b00a8bcc"
+
+[[files]]
+file = "config/paxi/datapacks/modpack/data/suppsquared/recipe/sack_dye.json"
+hash = "366d87ad8ffa16e065740ace61be2d3887082a8e1f450277d66110bc81926a83"
 
 [[files]]
 file = "config/paxi/datapacks/modpack/data/tide/recipe/bobbers/amethyst.json"
@@ -2622,7 +2638,7 @@ hash = "912b5f678657f181b18363b5e6f26c2705fc20747ee82a1a38cabce992218d05"
 
 [[files]]
 file = "config/prettyrain-client.toml"
-hash = "7bb11f2f6418fbcaf6e0060b2498fcb717ec2787f33b46a663401411c84533f2"
+hash = "91f140fa8a1f0ca4101c168772a4062b29c02826cffec5a3287c6bbaf5745899"
 
 [[files]]
 file = "config/random_mob_sizes.json"
@@ -2849,6 +2865,11 @@ hash = "aa36f13a66eefe87cbe72bb189199bca4963d50d49d7415d9033a5930f10d365"
 metafile = true
 
 [[files]]
+file = "mods/brewin-and-chewin.pw.toml"
+hash = "67132ef353ebc529bd08e08cbcc236672634df33f77873b1de21ee2ef043d38d"
+metafile = true
+
+[[files]]
 file = "mods/bundle-scroll.pw.toml"
 hash = "1b014c7b27bb339004d40e7050665e1762882ae01ee754557f47d7bcdcc12a7e"
 metafile = true
@@ -3036,11 +3057,6 @@ metafile = true
 [[files]]
 file = "mods/draggable-lists.pw.toml"
 hash = "50de1919e6cc3104a4a2557b0644c15f5a56722cf76a19b194ec6ecf61bcae13"
-metafile = true
-
-[[files]]
-file = "mods/drink-beer-refill.pw.toml"
-hash = "7c73027a454377fc3120b432373bf513400ec6b88862b1c2b117d454f39b1a53"
 metafile = true
 
 [[files]]
