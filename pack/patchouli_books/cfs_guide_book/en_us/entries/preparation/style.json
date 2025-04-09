@@ -1,0 +1,110 @@
+{
+  "name": "Stylistic Choices",
+  "icon": "computercraft:turtle_advanced",
+  "category": "patchouli:preparation",
+  "pages": [
+    {
+      "type": "patchouli:text",
+      "text": "This entry will go through all resource packs and optional mods which are enabled by default.$(br2)If you notice something missing here, please report it on the $(l:https://github.com/kleinbox/Create-Fresh-Start/issues)GitHub Issue Tracker$(/l)!"
+    },
+    {
+      "type": "patchouli:text",
+      "title": "Table of Contents",
+      "text": "$(bold)Resource Packs:$()$(br)$(li)$(l:preparation/style#outline)Outline Shader$(li)$(l:preparation/style#just)Just Expressions$(li)$(l:preparation/style#redstone)1.21.2 Redstone$(li)$(l:preparation/style#fresh)Fresh Animations$()$(br2)$(bold)Mods:$()$(br)$(li)$(l:preparation/style#better)Better Clouds$(li)$(l:preparation/style#fog)Fog"
+    },
+    {
+      "type": "patchouli:text",
+      "title": "Outline Shader",
+      "anchor": "outline",
+      "text": "$(bold)$(l:https://modrinth.com/resourcepack/outline-shader)Outline Shader$() is a resource pack that is making use of vanilla core shaders $(italic)(graphics settings must be set to $(bold)Fabolous$()$(italic) in order for this to work)$()$(br2)It basically adds the Minecraft YouTube thumbnail outlines. Some hate 'em, some love 'em.$(br2)This can be disabled under $(8)$(bold)Settings → Resource Packs$()."
+    },
+    {
+      "type": "patchouli:image",
+      "border": true,
+      "text": "Here are a few examples how they should look when enabled.",
+      "images": [
+        "modpack:textures/gui/entries/style/outline/tree.png",
+        "modpack:textures/gui/entries/style/outline/chicken.png",
+        "modpack:textures/gui/entries/style/outline/wheat.png",
+        "modpack:textures/gui/entries/style/outline/sugarcane.png"
+      ]
+    },
+    {
+      "type": "patchouli:text",
+      "title": "Just Expressions",
+      "anchor": "just",
+      "text": "$(bold)$(l:https://modrinth.com/resourcepack/just-expressions)Just Expressions$() applies the Fresh Animations eyes to players as well.$(br2)In order for a player to have these eyes, they need to prepare their skin. This does not affect how the skin is being seen outside of this resource pack.$(br2)Can be disabled under $(8)$(bold)Settings → Resource Packs$()."
+    },
+    {
+      "type": "patchouli:image",
+      "border": true,
+      "text": "Here is my skin with and without the resource pack.",
+      "images": [
+        "modpack:textures/gui/entries/style/eyes/enabled.png",
+        "modpack:textures/gui/entries/style/eyes/disabled.png"
+      ]
+    },
+    {
+      "type": "patchouli:text",
+      "title": "1.21.2 Redstone",
+      "anchor": "redstone",
+      "text": "This resource pack backports the Redstone Torch changes from 1.21.2 and newer.$(br2)This can be disabled under $(8)$(bold)Settings → Resource Packs$()."
+    },
+    {
+      "type": "patchouli:image",
+      "border": true,
+      "text": "Redstone with vs. without the 1.21.2 changes.",
+      "images": [
+        "modpack:textures/gui/entries/style/redstone/new.png",
+        "modpack:textures/gui/entries/style/redstone/old.png"
+      ]
+    },
+    {
+      "type": "patchouli:text",
+      "title": "Fresh Animations",
+      "anchor": "fresh",
+      "text": "$(bold)$(l:https://modrinth.com/resourcepack/fresh-animations)Fresh Animations$() $(italic)completely$() changes animations for almost all entities with $(bold)$(l:https://modrinth.com/resourcepack/fresh-animations-extensions)FA - Extensions$() adding more details to them.$(br2)Both can be disabled under $(8)$(bold)Settings → Resource Packs$()."
+    },
+    {
+      "type": "patchouli:image",
+      "border": true,
+      "text": "Here is my skin with and without the resource pack.",
+      "images": [
+        "modpack:textures/gui/entries/style/mobs/pig.png",
+        "modpack:textures/gui/entries/style/mobs/shulker.png",
+        "modpack:textures/gui/entries/style/mobs/skeleton.png",
+        "modpack:textures/gui/entries/style/mobs/chicken.png"
+      ]
+    },
+    {
+      "type": "patchouli:text",
+      "title": "Better Clouds",
+      "anchor": "better",
+      "text": "$(bold)$(l:https://modrinth.com/mod/better-clouds)Better Clouds$() is a mod that replaces the vanilla clouds, making them look less flat.$(br2)It can be disabled under $(8)$(bold)Mods → Better Clouds → Configure → Enabled$()."
+    },
+    {
+      "type": "patchouli:image",
+      "border": true,
+      "text": "Here is how the sky looks with and without the mod enabled.",
+      "images": [
+        "modpack:textures/gui/entries/style/clouds/enabled.png",
+        "modpack:textures/gui/entries/style/clouds/disabled.png"
+      ]
+    },
+    {
+      "type": "patchouli:text",
+      "title": "Fog",
+      "anchor": "fog",
+      "text": "$(bold)$(l:https://modrinth.com/mod/fog)Fog$() is a mod that replaces the vanilla fog behaviour.$(br2)Different to other fog mods, instead of just disabling the fog, it enhances it for a better mood!$(br2)It can be disabled under $(8)$(bold)Mods → Fog → Configure → General Settings → Disable Mod Entirely$()."
+    },
+    {
+      "type": "patchouli:image",
+      "border": true,
+      "text": "Here is how landscapes look with and without the mod enabled.",
+      "images": [
+        "modpack:textures/gui/entries/style/fog/enabled.png",
+        "modpack:textures/gui/entries/style/fog/disabled.png"
+      ]
+    }
+  ]
+}

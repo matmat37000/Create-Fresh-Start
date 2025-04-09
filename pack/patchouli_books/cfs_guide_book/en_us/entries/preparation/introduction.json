@@ -1,0 +1,16 @@
+{
+  "name": "Introduction",
+  "icon": "create:package_frogport",
+  "category": "patchouli:preparation",
+  "priority": true,
+  "pages": [
+    {
+      "type": "patchouli:text",
+      "text": "Welcome to this modpack!$(br2)Before you continue with your adventure, you might want to ponder through this category.$(br2)It will explain a few details that are different to your usual Minecraft experience."
+    },
+    {
+      "type": "patchouli:text",
+      "text": "Create: Fresh Start is at its core a Vanilla+ modpack with heavy opinions about how things should be.$(br2)Therefore, this category will explain neat features, items and stylistic choises one might want to know more about or how they can be disabled."
+    }
+  ]
+}

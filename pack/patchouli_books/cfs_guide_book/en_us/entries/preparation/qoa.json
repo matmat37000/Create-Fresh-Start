@@ -1,0 +1,19 @@
+{
+  "name": "Quality of life",
+  "icon": "minecraft:bundle",
+  "category": "patchouli:preparation",
+  "pages": [
+    {
+      "type": "patchouli:text",
+      "text": "Compared to other modpacks, instead of limiting the player in their habbits of, for example, pressing F3 to show them their current coordinates or adding $(italic)more$() stuff through keybinds, here, most of them are rather subtle changes and additions."
+    },
+    {
+      "type": "patchouli:text",
+      "text": "Some of them are bound to already existing items, others can be toggeled in the options or re-bind to a keybind, if wanted.$(br2)This entry will list most of them."
+    },
+    {
+      "type": "patchouli:crafting",
+      "recipe": "minecraft:bundle"
+    }
+  ]
+}

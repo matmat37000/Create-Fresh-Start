@@ -21,10 +21,6 @@ file = "config/NoChatReports/README.md"
 hash = "c52b76ccad2bd1063a22c7f6bb9e7c5db6b00fb53a6fd605585972ee0e5fc01f"
 
 [[files]]
-file = "config/WSCommands.json"
-hash = "8736fb9c637af2e859342e198cb0dfedde2f8e7599c10ebaad0dd2c07f847102"
-
-[[files]]
 file = "config/ambiance.json"
 hash = "42915f9f07c667dad055efc9961260fb7e0ae1daa05fa746e53be898ac653704"
 
@@ -557,8 +553,16 @@ file = "config/paxi/datapacks/modpack/data/minecraft/recipe/tinted_glass.json"
 hash = "aa0f73810c8583a8f2561e9b0f700a57b0d21ec6fb7dfde27ec53e2f5dab96be"
 
 [[files]]
+file = "config/paxi/datapacks/modpack/data/modpack/advancement/grant_book_on_first_join.json"
+hash = "84f44aa794d498e27a245518ef7195b13e645592795744682bffb7f40affe6e5"
+
+[[files]]
 file = "config/paxi/datapacks/modpack/data/modpack/function/prepare.mcfunction"
 hash = "32f2029380626f06827691b18ccb46f56c9a5c1f2019dc60af37d0438d5616f5"
+
+[[files]]
+file = "config/paxi/datapacks/modpack/data/modpack/loot_table/grant_book_on_first_join.json"
+hash = "98da2768a87ad79feea4259ed0691e0dfb324710fcf54dfc12b4e76a9a904dac"
 
 [[files]]
 file = "config/paxi/datapacks/modpack/data/modpack/recipe/atlas.json"
@@ -571,6 +575,10 @@ hash = "2708ee1d9e07c6c7ec3e75839c6702e510f341274527852f0faec040ec8311f3"
 [[files]]
 file = "config/paxi/datapacks/modpack/data/modpack/recipe/canvas_from_flux.json"
 hash = "687ae2924c29698e3124808066ad2ea62bb19266696a4f6e61053b86280550ac"
+
+[[files]]
+file = "config/paxi/datapacks/modpack/data/modpack/recipe/cfs_guide_book.json"
+hash = "41366af6d44a0c0740eee06c05291699fe933e8a7ede3d2982c86efeaebc18cd"
 
 [[files]]
 file = "config/paxi/datapacks/modpack/data/modpack/recipe/compacting/organic_compost_from_crops.json"
@@ -2607,6 +2615,70 @@ file = "config/paxi/resourcepacks/modpack/assets/modpack/textures/block/hourglas
 hash = "9d70eb4a5f1e858b3f7bfbe4fd827474ca979a0814f4e7a4acbdab2d0d9c1d6e"
 
 [[files]]
+file = "config/paxi/resourcepacks/modpack/assets/modpack/textures/gui/entries/style/clouds/disabled.png"
+hash = "f69697cb313b124fa91364d0e94f3b9f198b33861c413ac407236885f3b6fbb8"
+
+[[files]]
+file = "config/paxi/resourcepacks/modpack/assets/modpack/textures/gui/entries/style/clouds/enabled.png"
+hash = "aebd33d77e213824e88ccabb0f2861dac6524cb728276c38a2b4d6d65a21af21"
+
+[[files]]
+file = "config/paxi/resourcepacks/modpack/assets/modpack/textures/gui/entries/style/eyes/disabled.png"
+hash = "4ce03cb8927ef864a1ee2978bd0cf6eaf418c34024ee2e68db762474a0881a2f"
+
+[[files]]
+file = "config/paxi/resourcepacks/modpack/assets/modpack/textures/gui/entries/style/eyes/enabled.png"
+hash = "0bb52de6ea9852412cab2ba472e309360de2f7c6268ca9bc32711d96c1fd6283"
+
+[[files]]
+file = "config/paxi/resourcepacks/modpack/assets/modpack/textures/gui/entries/style/fog/disabled.png"
+hash = "f77fd37199fffd21d8b49fad9acaa02b4072ba53a3c736b8af88bf80720f3e52"
+
+[[files]]
+file = "config/paxi/resourcepacks/modpack/assets/modpack/textures/gui/entries/style/fog/enabled.png"
+hash = "7a0ccde128874fbd28703c418012451bfe3f3b38a2ea9ab3d9e8441e1138b0f4"
+
+[[files]]
+file = "config/paxi/resourcepacks/modpack/assets/modpack/textures/gui/entries/style/mobs/chicken.png"
+hash = "c74c56e3cabe6273f2a83e5c196d5ab12b6ff4757535a14148f787135dffbbf0"
+
+[[files]]
+file = "config/paxi/resourcepacks/modpack/assets/modpack/textures/gui/entries/style/mobs/pig.png"
+hash = "edab3244045131444365d787b5fab10c1e6ab737395e4f302489e886038f18b9"
+
+[[files]]
+file = "config/paxi/resourcepacks/modpack/assets/modpack/textures/gui/entries/style/mobs/shulker.png"
+hash = "96a6664802326e50d3cded0e36880e9dc8ac1165453264192b306c67b37f9c94"
+
+[[files]]
+file = "config/paxi/resourcepacks/modpack/assets/modpack/textures/gui/entries/style/mobs/skeleton.png"
+hash = "f9d760fcc37646dd554927c814251b72ee40fe3935c5d000e0df34a8cda4d89d"
+
+[[files]]
+file = "config/paxi/resourcepacks/modpack/assets/modpack/textures/gui/entries/style/outline/chicken.png"
+hash = "c74c56e3cabe6273f2a83e5c196d5ab12b6ff4757535a14148f787135dffbbf0"
+
+[[files]]
+file = "config/paxi/resourcepacks/modpack/assets/modpack/textures/gui/entries/style/outline/sugarcane.png"
+hash = "0de4762b00e14c780552f1226fb913d4ecba098e1fa6eba1dc954acc212b470a"
+
+[[files]]
+file = "config/paxi/resourcepacks/modpack/assets/modpack/textures/gui/entries/style/outline/tree.png"
+hash = "2cb33a863ef4c6c7a0c2a9e2758e38972d081556302d747211a5c0bd5869222b"
+
+[[files]]
+file = "config/paxi/resourcepacks/modpack/assets/modpack/textures/gui/entries/style/outline/wheat.png"
+hash = "231b71ac070bc577fc5e4951add894e35c784d5c89f63fcd517c28d8c5be0a43"
+
+[[files]]
+file = "config/paxi/resourcepacks/modpack/assets/modpack/textures/gui/entries/style/redstone/new.png"
+hash = "8262f1bdd75ce9995e1608d27ac9a9f9a9a2e44b93e271c8b324593356398286"
+
+[[files]]
+file = "config/paxi/resourcepacks/modpack/assets/modpack/textures/gui/entries/style/redstone/old.png"
+hash = "099be0039d4a5bf37f44593d4157b4d112f63d9c86be29db512f25d09e355318"
+
+[[files]]
 file = "config/paxi/resourcepacks/modpack/assets/vistas/panoramas.json"
 hash = "a81603baf69005059be3a8df9f25bfa9d4429f51f4a29715832765adc8224d21"
 
@@ -2617,6 +2689,11 @@ hash = "da69e222e5ee028155034bf6b3dd8de9b51ff00cfc9945e5a8c4e8c272d30469"
 [[files]]
 file = "config/paxi/resourcepacks/modpack/pack.png"
 hash = "a4b96b98430a075d274a782bc989cf6d46908323f5bf0d186ed857a0da1512bd"
+
+[[files]]
+file = "config/paxi/resourcepacks/rocks-dirt.pw.toml"
+hash = "6ecf5fe24fd4040e362e98d5847b87947b4b05c92183e52ba96e36dd10e77331"
+metafile = true
 
 [[files]]
 file = "config/paxi/resourcepacks/simple-grass-flowers.pw.toml"
@@ -3060,11 +3137,6 @@ metafile = true
 [[files]]
 file = "mods/default-options.pw.toml"
 hash = "1d99ac75f92996ec9673e39c012a51dc4b05c48ef7bf672ccaf5e7464a1a3d13"
-metafile = true
-
-[[files]]
-file = "mods/draggable-lists.pw.toml"
-hash = "50de1919e6cc3104a4a2557b0644c15f5a56722cf76a19b194ec6ecf61bcae13"
 metafile = true
 
 [[files]]
@@ -3718,11 +3790,6 @@ hash = "00c70effdeaa68f5c375fcd8dc403e1e38304c7822b6cd5d878dbf21500efe19"
 metafile = true
 
 [[files]]
-file = "mods/world-start-commands-and-global-gamerules.pw.toml"
-hash = "66790fe45f9a194d1c765937f1ecbcdeba3715a9ec5ce71efd89054367750bb5"
-metafile = true
-
-[[files]]
 file = "mods/yacl.pw.toml"
 hash = "e2ab678518f876a978414ec1b9c88896d78dcc49ee7bfefa0acc165d5388c7be"
 metafile = true
@@ -3769,15 +3836,23 @@ metafile = true
 
 [[files]]
 file = "patchouli_books/cfs_guide_book/book.json"
-hash = "cc70ed1a446c901bc0b5543b6ebae7057330012c78023f9be9704c5404b0b5c2"
+hash = "d9805f7ef3bae0c252c2972be7e056d560d29a24d5ee545bcfdc4a2197bea63a"
 
 [[files]]
 file = "patchouli_books/cfs_guide_book/en_us/categories/preparation.json"
-hash = "a3ab581208abe01281eb6ed6422a87e0de551f29a79e517978d3c22cccd62045"
+hash = "b654bc8fbd9c5f230cbc6f2d7082158520ab6aa8475c0b22d4a9ba490e95ce1d"
 
 [[files]]
-file = "patchouli_books/cfs_guide_book/en_us/entries/introduction.json"
-hash = "4cd028410c621307ede3b29a63083bd25259821994fa3494d7a0dc4fa35cd286"
+file = "patchouli_books/cfs_guide_book/en_us/entries/preparation/introduction.json"
+hash = "b528c4d4e33e9ba67a0092aa32aed09aae60f9a56b0283de837436d315a59511"
+
+[[files]]
+file = "patchouli_books/cfs_guide_book/en_us/entries/preparation/qoa.json"
+hash = "2507060d47e09916864323514c4f3b52a508809c6c33d2a03f62794173dfe3d5"
+
+[[files]]
+file = "patchouli_books/cfs_guide_book/en_us/entries/preparation/style.json"
+hash = "b4456177ed591eaddfd986b459c12757168c0a40d61423b8c22ed427254ad07d"
 
 [[files]]
 file = "resourcepacks/create-lootr.pw.toml"
