@@ -1,0 +1,11 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "tag": "modpack:ender_eyes"
+    }
+  ],
+  "result": {
+    "id": "heart_crystals:heart_crystal"
+  }
+}

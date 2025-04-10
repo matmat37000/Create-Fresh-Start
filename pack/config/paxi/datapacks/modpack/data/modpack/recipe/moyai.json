@@ -1,0 +1,16 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": ["###", "#O#", "###"],
+  "key": {
+    "#": {
+      "item": "minecraft:mossy_cobblestone"
+    },
+    "O": {
+      "item": "minecraft:observer"
+    }
+  },
+  "result": {
+    "id": "moyai:moyai",
+    "count": 1
+  }
+}
