@@ -90,7 +90,7 @@ hash = "48f8922e5392146685a42042e8833956d905b194c5421a577c4f4b18a3e48019"
 
 [[files]]
 file = "config/defaultoptions/options.txt"
-hash = "91757078ada8a1550ee0161c767a19648a4243266598a04e315a42bc6e59182d"
+hash = "69bb3f1853b42aee22f5a11762bf30d3a1a50b07df051544b6b5a57bef4ae3fc"
 
 [[files]]
 file = "config/easyanvils-client.toml"
@@ -539,6 +539,10 @@ hash = "7b793d219195460cbfc04d0f1fe7bed3a7f3895da683f86e62a5c3531a1685f9"
 [[files]]
 file = "config/paxi/datapacks/modpack/data/minecraft/recipe/bread.json"
 hash = "4bb039357de3fcc08ecf4df462d99da1dcad4630a9449900378f5d7bda39931d"
+
+[[files]]
+file = "config/paxi/datapacks/modpack/data/minecraft/recipe/bundle.json"
+hash = "bdf8a860f973df33be457d7c090bb7475126a3cf23c540c9f6d7d38fa5230f3c"
 
 [[files]]
 file = "config/paxi/datapacks/modpack/data/minecraft/recipe/cake.json"
@@ -1021,6 +1025,10 @@ file = "config/paxi/datapacks/modpack/data/modpack/recipe/gold_bars.json"
 hash = "df733ecd208f8a28de1df347e7f28ce58c9b21bb27dc2ba4f60382f5bc9be739"
 
 [[files]]
+file = "config/paxi/datapacks/modpack/data/modpack/recipe/heart.json"
+hash = "c3c837ca0a61bb4cf635ea162749cba412cfd0058e9926c37eaed61118572acd"
+
+[[files]]
 file = "config/paxi/datapacks/modpack/data/modpack/recipe/leather_from_smelting_rotten_flesh.json"
 hash = "70c0a4d76ab0dfeb31d735c4784091c129202e17c886e7f4a2e5e0bdaa92bea3"
 
@@ -1189,6 +1197,10 @@ file = "config/paxi/datapacks/modpack/data/modpack/recipe/mocha_ice_cream.json"
 hash = "41b1c4cf7cf421aa9e1fc3d3d8f571631b0581e3246d615c1539ee56fd3b22e5"
 
 [[files]]
+file = "config/paxi/datapacks/modpack/data/modpack/recipe/moyai.json"
+hash = "fa4fa64b57428988cad5843645fc5a5a6f03888b479f41bc6748a471d2efe45c"
+
+[[files]]
 file = "config/paxi/datapacks/modpack/data/modpack/recipe/rope_from_straws.json"
 hash = "6bdef983ccff363e62849a8cf9b714595f25cf0887e12ee20589c77174b427bb"
 
@@ -1211,6 +1223,10 @@ hash = "15e693b8f5466aabaa7efebc785247b65aba4de9f10ff046478c70c8a43ff563"
 [[files]]
 file = "config/paxi/datapacks/modpack/data/modpack/tags/function/load.json"
 hash = "4976742d32ecbe41530e56cf6b4d4ff59454110502cf7c54d1da33dcbf87544c"
+
+[[files]]
+file = "config/paxi/datapacks/modpack/data/modpack/tags/item/ender_eyes.json"
+hash = "1512885d129185d3675f24e3dd021d1aeec09cce2cb1957cf07db4f65e650e56"
 
 [[files]]
 file = "config/paxi/datapacks/modpack/data/modpack/tags/item/functioning_music_discs.json"
@@ -2655,6 +2671,10 @@ file = "config/paxi/resourcepacks/modpack/assets/modpack/textures/gui/entries/st
 hash = "f9d760fcc37646dd554927c814251b72ee40fe3935c5d000e0df34a8cda4d89d"
 
 [[files]]
+file = "config/paxi/resourcepacks/modpack/assets/modpack/textures/gui/entries/style/mobs/spider.png"
+hash = "2f9b1db10da111cbc706969d75f313d72834ca4af195d422263b627d0e744b6f"
+
+[[files]]
 file = "config/paxi/resourcepacks/modpack/assets/modpack/textures/gui/entries/style/outline/chicken.png"
 hash = "c74c56e3cabe6273f2a83e5c196d5ab12b6ff4757535a14148f787135dffbbf0"
 
@@ -2982,6 +3002,11 @@ metafile = true
 [[files]]
 file = "mods/chatnotify.pw.toml"
 hash = "f9bcdce878ff06c315b86cc85265a7ec89adf813908602713c499359b64a51cb"
+metafile = true
+
+[[files]]
+file = "mods/chunky.pw.toml"
+hash = "1d5cc2b6dcfd1fc3adba4566b1c29b57ff1175316678c1f22e63cbc3e28a5ba0"
 metafile = true
 
 [[files]]
@@ -3848,11 +3873,11 @@ hash = "b528c4d4e33e9ba67a0092aa32aed09aae60f9a56b0283de837436d315a59511"
 
 [[files]]
 file = "patchouli_books/cfs_guide_book/en_us/entries/preparation/qoa.json"
-hash = "2507060d47e09916864323514c4f3b52a508809c6c33d2a03f62794173dfe3d5"
+hash = "550b6e837a0c4a343ca026b0b649536094f9308d52b46763725d6f51d0d3386d"
 
 [[files]]
 file = "patchouli_books/cfs_guide_book/en_us/entries/preparation/style.json"
-hash = "b4456177ed591eaddfd986b459c12757168c0a40d61423b8c22ed427254ad07d"
+hash = "069b17db439d79423ab3b41b73e6041e649bc8970fb21d90b6c9a1b08d159ea4"
 
 [[files]]
 file = "resourcepacks/create-lootr.pw.toml"

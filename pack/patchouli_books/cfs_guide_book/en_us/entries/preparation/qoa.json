@@ -5,15 +5,75 @@
   "pages": [
     {
       "type": "patchouli:text",
-      "text": "Compared to other modpacks, instead of limiting the player in their habbits of, for example, pressing F3 to show them their current coordinates or adding $(italic)more$() stuff through keybinds, here, most of them are rather subtle changes and additions."
+      "text": "Compared to other modpacks, instead of limiting the player in their habbits of, say, pressing $(bold)[F3]$() to see their coordinates or by adding$(italic)more$() stuff through keybinds, here, most of them are subtle changes and additions.$(br2)They are either bound to existing items or opt-in through keybinds or configurations."
     },
     {
       "type": "patchouli:text",
-      "text": "Some of them are bound to already existing items, others can be toggeled in the options or re-bind to a keybind, if wanted.$(br2)This entry will list most of them."
+      "title": "Table of Contents",
+      "text": "$(l:preparation/qoa#1)$(li)Bundle; Antique Atlas$()$(l:preparation/qoa#2)$(li)Compass; Lodestone$()$(l:preparation/qoa#3)$(li)Spyglass; Heart Crystal$()$(l:preparation/qoa#4)$(li)Reworked Boats; Faster Minecarts$()$(l:preparation/qoa#5)$(li)Carry On; End Remastered$()$(l:preparation/qoa#6)$(li)Custom Sounds$()"
     },
     {
       "type": "patchouli:crafting",
-      "recipe": "minecraft:bundle"
+      "recipe": "minecraft:bundle",
+      "recipe2": "modpack:atlas",
+      "anchor": "1"
+    },
+    {
+      "type": "patchouli:text",
+      "text": "$(br)Bundles from pre 1.21.2 have been enabled and tweaked with mods on this version.$(br)They can be redyed like leather armor and are cheaper to craft, not with leather however.$(br2)$(br)The Anique Atlas is the replacement for the common (mini) map mods and keeps the player immersed. You are free to bring your preferred (mini) map mods however!"
+    },
+    {
+      "type": "patchouli:crafting",
+      "recipe": "minecraft:compass",
+      "recipe2": "minecraft:lodestone",
+      "anchor": "2"
+    },
+    {
+      "type": "patchouli:text",
+      "text": "$(br)A compass now always points to north, as it should. In addition to this, by pressing RMB when holding it, the current coordinates will be shown on screen.$(br2)$(br2)Lodestones have the same recipe as in newer Minecaft versions, making them a cheap and viable option.$(br)Ideal for sending a friend on a scavenger hunt!"
+    },
+    {
+      "type": "patchouli:crafting",
+      "recipe": "minecraft:spyglass",
+      "recipe2": "heart_crystals:shard_to_crystal",
+      "anchor": "3"
+    },
+    {
+      "type": "patchouli:text",
+      "text": "$(br)A Spyglass now can be used as a zoom mod replacement. The zoom key is unbound by default, can however be optionally enabled, if this is preferred for good reasons.$(br2)$(br2)Heart Crystals can be crafted out of Ender Eyes, Crystal Shards or Dust found in dungeons and then consumed for more constant health."
+    },
+    {
+      "type": "patchouli:spotlight",
+      "item": "tag:minecraft:boats",
+      "title": "Reworked Boats",
+      "text": "Boats have been reworked to be more ease and fun to use.$(br2)They now can jump over blocks while driving and also can jump out of the water. A player can also $(l:preparation/qoa#5)carry them$().$(br2)With $(l:preparation/style#fresh)Fresh Animations$() enabled, its animations got a bit tweaked.",
+      "anchor": "4"
+    },
+    {
+      "type": "patchouli:spotlight",
+      "item": "minecraft:minecart",
+      "title": "Faster Minecarts",
+      "text": "Minecarts usually are considered useless. $(italic)(And to be fair, with Create installed, they also are super useless here as well.)$()$(br2)To improve them at least a tiny bit, they are $(bold)twice as fast$(). Since the End is harder to reach as well, this might be a nice transportation option!"
+    },
+    {
+      "type": "patchouli:spotlight",
+      "item": "minecraft:chest",
+      "title": "Carry On",
+      "text": "The mod $(l:https://modrinth.com/mod/carry-on)Carry On$() lets you carry most of the blocks by pressing RMB while holding $(k:carry.desc).$(br2)If you are not sure by which logic blocks are pickable or not, the rule of thumb is: If it has an inventory, it very likely can be picked up.",
+      "anchor": "5"
+    },
+    {
+      "type": "patchouli:spotlight",
+      "item": "endrem:exotic_eye",
+      "title": "End Remastered",
+      "text": "Because one of the biggest issues on SMP's is players rushing to the end and not being motivated anymore, the mod $(l:https://modrinth.com/mod/endrem)End Remastered$() has been added.#(br2)In order to open the end portal, different Ender Eyes have to be discovered in different dungeons. Alternaively, they can also be crafted to $(l:preparation/qoa#3)hearts for consumption$()."
+    },
+    {
+      "type": "patchouli:spotlight",
+      "item": "minecraft:goat_horn",
+      "title": "Custom Sounds",
+      "text": "While holding a Goat Horn or Music Disc, the command $(8)$(bold)/audioplayer$() can be used to apply a custom audio file on it. Further instructions on what to do next are described in chat while using the command.",
+      "anchor": "6"
     }
   ]
 }

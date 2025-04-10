@@ -10,7 +10,7 @@
     {
       "type": "patchouli:text",
       "title": "Table of Contents",
-      "text": "$(bold)Resource Packs:$()$(br)$(li)$(l:preparation/style#outline)Outline Shader$(li)$(l:preparation/style#just)Just Expressions$(li)$(l:preparation/style#redstone)1.21.2 Redstone$(li)$(l:preparation/style#fresh)Fresh Animations$()$(br2)$(bold)Mods:$()$(br)$(li)$(l:preparation/style#better)Better Clouds$(li)$(l:preparation/style#fog)Fog"
+      "text": "$(bold)Resource Packs:$()$(br)$(li)$(l:preparation/style#outline)Outline Shader$(li)$(l:preparation/style#just)Just Expressions$(li)$(l:preparation/style#redstone)1.21.2 Redstone$(li)$(l:preparation/style#fresh)Fresh Animations$()$(br2)$(bold)Mods:$()$(br)$(li)$(l:preparation/style#better)Better Clouds$(li)$(l:preparation/style#fog)Fog$(li)$(l:preparation/style#sounds)ExtraSounds$(li)$(l:preparation/style#tiny)Tiny Item Animations"
     },
     {
       "type": "patchouli:text",
@@ -63,13 +63,14 @@
       "type": "patchouli:text",
       "title": "Fresh Animations",
       "anchor": "fresh",
-      "text": "$(bold)$(l:https://modrinth.com/resourcepack/fresh-animations)Fresh Animations$() $(italic)completely$() changes animations for almost all entities with $(bold)$(l:https://modrinth.com/resourcepack/fresh-animations-extensions)FA - Extensions$() adding more details to them.$(br2)Both can be disabled under $(8)$(bold)Settings → Resource Packs$()."
+      "text": "$(bold)$(l:https://modrinth.com/resourcepack/fresh-animations)Fresh Animations$() $(italic)completely$() changes animations for almost all entities with $(bold)$(l:https://modrinth.com/resourcepack/fresh-animations-extensions)FA - Extensions$() adding more details to them. The... $(italic)improved$()spider being part of the extensions pack.$(br2)Both can be disabled under $(8)$(bold)Settings → Resource Packs$()."
     },
     {
       "type": "patchouli:image",
       "border": true,
-      "text": "Here is my skin with and without the resource pack.",
+      "text": "These are some mobs with the resource packs applied. They look even better when moving however!.",
       "images": [
+        "modpack:textures/gui/entries/style/mobs/spider.png",
         "modpack:textures/gui/entries/style/mobs/pig.png",
         "modpack:textures/gui/entries/style/mobs/shulker.png",
         "modpack:textures/gui/entries/style/mobs/skeleton.png",
@@ -95,7 +96,7 @@
       "type": "patchouli:text",
       "title": "Fog",
       "anchor": "fog",
-      "text": "$(bold)$(l:https://modrinth.com/mod/fog)Fog$() is a mod that replaces the vanilla fog behaviour.$(br2)Different to other fog mods, instead of just disabling the fog, it enhances it for a better mood!$(br2)It can be disabled under $(8)$(bold)Mods → Fog → Configure → General Settings → Disable Mod Entirely$()."
+      "text": "$(bold)$(l:https://modrinth.com/mod/fog)Fog$() is a mod that replaces the vanilla fog behaviour.$(br2)Compared to other fog mods, instead of just disabling the fog, it enhances it for a better mood!$(br2)It can be disabled under $(8)$(bold)Mods → Fog → Configure → General Settings → Disable Mod Entirely$()."
     },
     {
       "type": "patchouli:image",
@@ -105,6 +106,18 @@
         "modpack:textures/gui/entries/style/fog/enabled.png",
         "modpack:textures/gui/entries/style/fog/disabled.png"
       ]
+    },
+    {
+      "type": "patchouli:text",
+      "title": "ExtraSounds",
+      "anchor": "sounds",
+      "text": "$(bold)$(l:https://modrinth.com/mod/extrasounds)ExtraSounds$() is a mod that adds many smaller clicks and bops to the UI, mainly noticable through the keyboard typing in chat.$(br2)The mod is client side and can be disabled in the launcher, if they are annoying to you."
+    },
+    {
+      "type": "patchouli:text",
+      "title": "Tiny Item Animations",
+      "anchor": "tiny",
+      "text": "$(bold)$(l:https://modrinth.com/mod/tiny-item-animations)Tiny Item Animations$() is a mod that makes items appear bigger in the inventory while holding them.$(br2)If you feel distracted by it, the mod can be disabled in the launcher as it is client side only."
     }
   ]
 }
