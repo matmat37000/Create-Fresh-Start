@@ -2865,11 +2865,6 @@ hash = "6bba42736ec89cf47af352b8759fbed389a2e9bd72a88320d85b5e48b62492ca"
 metafile = true
 
 [[files]]
-file = "mods/auroras.pw.toml"
-hash = "ed60e047a5a85492c3d761238524888dca729e923b6753e060fd3dc986a8e54c"
-metafile = true
-
-[[files]]
 file = "mods/auth-me.pw.toml"
 hash = "f3ab8f1de5571de21ab2247fcfedef8a2bf40dcf0b2ac9e90d39689a20b9e7b4"
 metafile = true
@@ -3422,11 +3417,6 @@ metafile = true
 [[files]]
 file = "mods/lootr.pw.toml"
 hash = "28cd260c71c34d01f59ea210af1031e94d98b4d6bd72d5a153955ce754c9a76f"
-metafile = true
-
-[[files]]
-file = "mods/lukis-crazy-chambers.pw.toml"
-hash = "ac4bb93adbc42cc41866d321c7b475369bb9bb8b73d100ce2043b4656b3b800b"
 metafile = true
 
 [[files]]
