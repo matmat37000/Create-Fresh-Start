@@ -23,3 +23,9 @@ TODO:
 - Spyglass not working?
 - Custom credits screen
 - Soup tag
+- Farmers Delight rope craftbar machen
+- Rope rezepte prüfen
+- Copper ore textures are random
+- Crops right clickable (Simply Harvesting)
+- Craftubg table carrying on
+- Search for control keys

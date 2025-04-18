@@ -529,6 +529,10 @@ file = "config/paxi/datapacks/modpack/data/lmans_apples_plus/recipe/apple_sauces
 hash = "d5489ebb23fcc5e04b75e1903fd3b17b42a4c4f4431e0305fdcf29e29c0ad76e"
 
 [[files]]
+file = "config/paxi/datapacks/modpack/data/minecraft/loot_table/archaeology/trail_ruins_rare.json"
+hash = "98d890367bb39a0ec22882bb17e50d3a71fd76657107c88dd8100dc066587c82"
+
+[[files]]
 file = "config/paxi/datapacks/modpack/data/minecraft/loot_table/blocks/budding_amethyst.json"
 hash = "ee86a6adadad09b0f021fe403f525f1c4e1d5dcc67ad3333d286824295002103"
 
@@ -3077,11 +3081,6 @@ metafile = true
 [[files]]
 file = "mods/coordinated-compass.pw.toml"
 hash = "41687cb0509f3601bfc6f40fc16196511a3b853cd6dadb520024ef9a07196a80"
-metafile = true
-
-[[files]]
-file = "mods/craftingxp.pw.toml"
-hash = "f81b7ce2c99e3880ae412b10787f39f3562a760026eb23d89b9c260285a23e76"
 metafile = true
 
 [[files]]
