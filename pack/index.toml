@@ -3270,6 +3270,11 @@ hash = "867a029a8bed75bea2fb02e5186730db46ec01f970d0bdb266c6897074c16177"
 metafile = true
 
 [[files]]
+file = "mods/fast-ip-ping.pw.toml"
+hash = "912e5da7129357f8bff2cb97ad8060ea533910ccf73e886ae3f5956a50463b5d"
+metafile = true
+
+[[files]]
 file = "mods/fast-minecart.pw.toml"
 hash = "09225d54a81b2a9bcaacd5d26a92af25f611d4c8660d9803c6f9353564b8b787"
 metafile = true
