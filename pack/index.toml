@@ -3070,6 +3070,11 @@ hash = "0a4d0034c5a1379d5aa57c0a104aaa2adbb98f1e2b89d4ec0b7ef68df2e16a1a"
 metafile = true
 
 [[files]]
+file = "mods/controlling.pw.toml"
+hash = "65c8086d2ec3d39acc7bd36c7a0306ccc43b602b38fa07d13291bc478ef7dfff"
+metafile = true
+
+[[files]]
 file = "mods/cook-your-food.pw.toml"
 hash = "a6b69909ab3e4805a259e32a6395b67c7aee11a195d688825a2be5d6948f628e"
 metafile = true
@@ -3162,6 +3167,11 @@ metafile = true
 [[files]]
 file = "mods/default-options.pw.toml"
 hash = "1d99ac75f92996ec9673e39c012a51dc4b05c48ef7bf672ccaf5e7464a1a3d13"
+metafile = true
+
+[[files]]
+file = "mods/distanthorizons.pw.toml"
+hash = "007ca3fb8a617776705f8f38eab60a286fed6426a0ee1d792af6814f1bc24174"
 metafile = true
 
 [[files]]
@@ -3350,6 +3360,11 @@ hash = "6e7613d3b9726eaae758e8927e56c5be6bd53f09e8a370b20bc8df3dffab47a2"
 metafile = true
 
 [[files]]
+file = "mods/iris.pw.toml"
+hash = "c3c06a4839ecfd4717686f7394396a4fc66b7a2e8eabbdd51f23ab2a1099cc1e"
+metafile = true
+
+[[files]]
 file = "mods/jade-addons-forge.pw.toml"
 hash = "8cd8400cb4e2c5ba60c8a359a7b6ff501078d2056eab0aba7f6b0ac77b7a0694"
 metafile = true
@@ -3362,6 +3377,11 @@ metafile = true
 [[files]]
 file = "mods/jei.pw.toml"
 hash = "77b86ca843207273549875640b1c16254c2486e67127c37344c186b503da96ed"
+metafile = true
+
+[[files]]
+file = "mods/journeymap.pw.toml"
+hash = "96fd114b925770640f00a5668a599ef9bffdff3d7f207f596e4215b720e8f588"
 metafile = true
 
 [[files]]
@@ -3635,6 +3655,11 @@ hash = "fe85eb7e13d32999eb376d154be220d82134c534a3f066fa263fb4af11535232"
 metafile = true
 
 [[files]]
+file = "mods/resourcify.pw.toml"
+hash = "d525f4f3a1bc9358a21159f335989da1d467dd75eccb9fdb14263aec6366ed53"
+metafile = true
+
+[[files]]
 file = "mods/rustic-pancakes.pw.toml"
 hash = "e979182199e2fbb9f8a69b6ef988a4ba6dd7f30149f7f8ef8c56677f06043125"
 metafile = true
@@ -3660,13 +3685,18 @@ hash = "68f035ae4bc3406765939fcb13fbcc087fc5094b96a565403e10fd402d239dfd"
 metafile = true
 
 [[files]]
+file = "mods/searchables.pw.toml"
+hash = "ce9ddada6ffd55a512149cc474c6a453281a997a5fdf1b7b4a2cc73f875e704a"
+metafile = true
+
+[[files]]
 file = "mods/separatedleaves.pw.toml"
 hash = "5a636f4c10ca7159a8c86515c46232b079acad919aba544623c25a4d644b850b"
 metafile = true
 
 [[files]]
 file = "mods/simple-voice-chat.pw.toml"
-hash = "8bcb00aa251131859e20973cc1b5e248c76defdbbe3dbdd3ecff913e80210f60"
+hash = "2237772650b4c2efc5b436a7468f92a548cee8d8f8fe648340a3a1d30544d903"
 metafile = true
 
 [[files]]
@@ -3680,8 +3710,18 @@ hash = "0281ed9713f3141bdac363056a791845510e14761ea65b4b2813cf96d664b20a"
 metafile = true
 
 [[files]]
+file = "mods/sophisticated-backpacks.pw.toml"
+hash = "d5aae4402ba9166ee78445ece08b9b4495da98f8a21bbb8583652989c9fc2646"
+metafile = true
+
+[[files]]
+file = "mods/sophisticated-core.pw.toml"
+hash = "d73b1e2c752ff749aa7da55917d8cafb3d6d5a57b72850ef7f3ddd2b28c113eb"
+metafile = true
+
+[[files]]
 file = "mods/sound-physics-remastered.pw.toml"
-hash = "c33de8f9f7dadb5f5bf3ea83ffc79cd993fc5561873cb3aa5a45928816e50ba7"
+hash = "3d003b30318f48a36bb710e8cde44d9287018d6f9c9a654c4f91e8a34b8f76b6"
 metafile = true
 
 [[files]]
