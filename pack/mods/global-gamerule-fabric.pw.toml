@@ -1,0 +1,13 @@
+name = "Global GameRule [Fabric]"
+filename = "GlobalGamerule-1.2-1.21.1.jar"
+side = "server"
+
+[download]
+url = "https://cdn.modrinth.com/data/226Q16YJ/versions/VjEwesyN/GlobalGamerule-1.2-1.21.1.jar"
+hash-format = "sha512"
+hash = "843380e98c63f91615314ccef293bb0e56f220eeadc4756616f38901d8176108b5f6d0fc94e5cdd81861cb7610d12aff41a542edcc4e948d46fdd33c35f14569"
+
+[update]
+[update.modrinth]
+mod-id = "226Q16YJ"
+version = "VjEwesyN"

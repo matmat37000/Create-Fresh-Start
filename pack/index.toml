@@ -225,12 +225,20 @@ file = "config/fog/config.json"
 hash = "4dd8d5b23c600b9249b820208c6358d01fdf88d793354c3fb5946d78d1835358"
 
 [[files]]
+file = "config/global_game_rule.json"
+hash = "7c744d79f8e56ef6cec06880945cbdb80199b4e637aee4486516e73ae8bad4c7"
+
+[[files]]
 file = "config/icon.png"
 hash = "41816fa723114489c5f1e0e9302f3ed7024acd7b50b1620f41aaee1ce807b5a8"
 
 [[files]]
 file = "config/infinite-music-options.json"
 hash = "e614d22a16d9142d80e377c12674b97edb0d491ea4e493a3826b4e8e0c1b62d4"
+
+[[files]]
+file = "config/initially/Initially.json"
+hash = "cd2bc169d5dd80e46873ee27344ecbfdb7be3bbd27de932f92c94b918dc443f6"
 
 [[files]]
 file = "config/jade.json"
@@ -559,18 +567,6 @@ hash = "f30ed41b7038af1cbd4cb7e29ff8715baeb4f00cf35c8e897529fdb4fb285222"
 [[files]]
 file = "config/paxi/datapacks/modpack/data/minecraft/recipe/tinted_glass.json"
 hash = "aa0f73810c8583a8f2561e9b0f700a57b0d21ec6fb7dfde27ec53e2f5dab96be"
-
-[[files]]
-file = "config/paxi/datapacks/modpack/data/modpack/advancement/grant_book_on_first_join.json"
-hash = "84f44aa794d498e27a245518ef7195b13e645592795744682bffb7f40affe6e5"
-
-[[files]]
-file = "config/paxi/datapacks/modpack/data/modpack/function/prepare.mcfunction"
-hash = "32f2029380626f06827691b18ccb46f56c9a5c1f2019dc60af37d0438d5616f5"
-
-[[files]]
-file = "config/paxi/datapacks/modpack/data/modpack/loot_table/grant_book_on_first_join.json"
-hash = "98da2768a87ad79feea4259ed0691e0dfb324710fcf54dfc12b4e76a9a904dac"
 
 [[files]]
 file = "config/paxi/datapacks/modpack/data/modpack/recipe/atlas.json"
@@ -1363,10 +1359,6 @@ hash = "4d6f01caaa9d852e7c8c6c73653c1b836829ed7ac69630f40f35e69ac7cb23ad"
 [[files]]
 file = "config/paxi/datapacks/modpack/data/modpack/tags/fluid/water.json"
 hash = "15e693b8f5466aabaa7efebc785247b65aba4de9f10ff046478c70c8a43ff563"
-
-[[files]]
-file = "config/paxi/datapacks/modpack/data/modpack/tags/function/load.json"
-hash = "4976742d32ecbe41530e56cf6b4d4ff59454110502cf7c54d1da33dcbf87544c"
 
 [[files]]
 file = "config/paxi/datapacks/modpack/data/modpack/tags/item/ender_eyes.json"
@@ -3472,6 +3464,11 @@ hash = "934e030bbe3fd43663094e75e43e8b49cecd149fb22d71316782e1bed22d1d29"
 metafile = true
 
 [[files]]
+file = "mods/global-gamerule-fabric.pw.toml"
+hash = "38d1cf3afc545f408a5b106e689c574a03496c972410d6131c137355b46ddf51"
+metafile = true
+
+[[files]]
 file = "mods/gravestone-mod.pw.toml"
 hash = "c34ad41e351235b1ca8e026e9fba9b3ee01c42e4933b060f0c870aac3014403a"
 metafile = true
@@ -3494,6 +3491,11 @@ metafile = true
 [[files]]
 file = "mods/infinite-music.pw.toml"
 hash = "6e7613d3b9726eaae758e8927e56c5be6bd53f09e8a370b20bc8df3dffab47a2"
+metafile = true
+
+[[files]]
+file = "mods/initially.pw.toml"
+hash = "6dcef66c21dea5a87f482f6642b3812a1d9d01c99cc6665ed918095bcf0ec6a6"
 metafile = true
 
 [[files]]
