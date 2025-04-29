@@ -1,0 +1,29 @@
+{
+  "type": "create:mixing",
+  "heat_requirement": "heated",
+  "ingredients": [
+    {
+      "item": "farmersdelight:raw_pasta"
+    },
+    {
+      "item": "expandeddelight:asparagus"
+    },
+    {
+      "item": "farmersdelight:onion"
+    },
+    {
+      "item": "minecraft:brown_mushroom"
+    },
+    {
+      "item": "minecraft:bowl"
+    }
+  ],
+  "results": [
+    {
+      "count": 1,
+      "item": {
+        "id": "expandeddelight:asparagus_mushroom_pasta"
+      }
+    }
+  ]
+}

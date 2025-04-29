@@ -1,0 +1,25 @@
+{
+  "type": "create:compacting",
+  "ingredients": [
+    {
+      "item": "minecraft:bread"
+    },
+    {
+      "item": "farmersdelight:cooked_bacon"
+    },
+    {
+      "tag": "c:foods/cabbage"
+    },
+    {
+      "item": "farmersdelight:tomato"
+    }
+  ],
+  "results": [
+    {
+      "count": 1,
+      "item": {
+        "id": "farmersdelight:bacon_sandwich"
+      }
+    }
+  ]
+}

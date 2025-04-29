@@ -1,0 +1,25 @@
+{
+  "type": "create:compacting",
+  "ingredients": [
+    {
+      "item": "minecraft:bread"
+    },
+    {
+      "tag": "c:foods/cooked_chicken"
+    },
+    {
+      "tag": "c:foods/cabbage"
+    },
+    {
+      "item": "minecraft:carrot"
+    }
+  ],
+  "results": [
+    {
+      "count": 1,
+      "item": {
+        "id": "farmersdelight:chicken_sandwich"
+      }
+    }
+  ]
+}

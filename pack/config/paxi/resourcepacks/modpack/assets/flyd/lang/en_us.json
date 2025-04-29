@@ -72,5 +72,8 @@
   "block.flyd.tomato_sauce": "Tomato Sauce",
 
   "item.flyd.vegetable_soup_bucket": "Bucket of Vegetable Soup",
-  "block.flyd.vegetable_soup": "Vegetable Soup"
+  "block.flyd.vegetable_soup": "Vegetable Soup",
+
+  "item.flyd.mac_and_cheese_bucket": "Bucket of Mac and Cheese",
+  "block.flyd.mac_and_cheese": "Mac and Cheese"
 }

@@ -1,0 +1,35 @@
+{
+  "type": "create:compacting",
+  "heat_requirement": "heated",
+  "ingredients": [
+    {
+      "item": "farmersdelight:rice"
+    },
+    {
+      "item": "farmersdelight:onion"
+    },
+    {
+      "item": "minecraft:brown_mushroom"
+    },
+    {
+      "item": "minecraft:potato"
+    },
+    {
+      "item": "minecraft:pumpkin"
+    },
+    {
+      "tag": "minecraft:fox_food"
+    },
+    {
+      "tag": "c:foods/vegetable"
+    }
+  ],
+  "results": [
+    {
+      "count": 1,
+      "item": {
+        "id": "farmersdelight:stuffed_pumpkin_block"
+      }
+    }
+  ]
+}

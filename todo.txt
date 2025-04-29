@@ -8,6 +8,10 @@ Create Advancements:
 - Pocket Computer (Everything in one thin device) Apple ad romage
 - Advancement for every plushables
 - Mixing all soups leads to an ugly soup that cannot be eaten (Zelda BotW reference) Name = 'Tour de frigo'
+- craft all soups once (name: Der rote touren guide, anlehnung an das französische buch mit restaurant empfehlungen, ka wie der nochmal hieß ist aber super bekannt)
+- Ratatouille
+- Lava Chicken
+- You are telling me a shrimp fried this rice?
 
 Legendary Tooltips:
 1. Create
@@ -29,3 +33,10 @@ TODO:
 - Crops right clickable (Simply Harvesting)
 - Craftubg table carrying on
 - Search for control keys
+- bark aus log automatisierbar machen
+- limestone automatisierbar machen
+- pettable friends mod
+- dancerizer
+- antique atlas create compat mod von sophie
+- opac x antique atlas compat mod machen?
+- https://modrinth.com/plugin/lmd

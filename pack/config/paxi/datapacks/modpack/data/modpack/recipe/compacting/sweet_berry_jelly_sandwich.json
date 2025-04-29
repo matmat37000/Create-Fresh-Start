@@ -1,0 +1,34 @@
+{
+  "type": "create:compacting",
+  "ingredients": [
+    {
+      "item": "minecraft:bread"
+    },
+    {
+      "item": "expandeddelight:peanut_butter"
+    },
+    {
+      "item": "expandeddelight:sweet_berry_jelly"
+    }
+  ],
+  "results": [
+    {
+      "count": 1,
+      "item": {
+        "id": "expandeddelight:sweet_berry_jelly_sandwich"
+      }
+    },
+    {
+      "count": 1,
+      "item": {
+        "id": "minecraft:bowl"
+      }
+    },
+    {
+      "count": 1,
+      "item": {
+        "id": "expandeddelight:glass_jar"
+      }
+    }
+  ]
+}

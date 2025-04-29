@@ -1,0 +1,22 @@
+{
+  "type": "create:compacting",
+  "ingredients": [
+    {
+      "item": "minecraft:bread"
+    },
+    {
+      "item": "farmersdelight:fried_egg"
+    },
+    {
+      "item": "farmersdelight:fried_egg"
+    }
+  ],
+  "results": [
+    {
+      "count": 1,
+      "item": {
+        "id": "farmersdelight:egg_sandwich"
+      }
+    }
+  ]
+}

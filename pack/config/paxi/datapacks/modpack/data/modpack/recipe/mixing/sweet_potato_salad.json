@@ -1,0 +1,28 @@
+{
+  "type": "create:mixing",
+  "ingredients": [
+    {
+      "tag": "c:crops/cabbage"
+    },
+    {
+      "item": "farmersdelight:onion"
+    },
+    {
+      "item": "expandeddelight:sweet_potato"
+    },
+    {
+      "item": "expandeddelight:cinnamon"
+    },
+    {
+      "item": "minecraft:bowl"
+    }
+  ],
+  "results": [
+    {
+      "count": 1,
+      "item": {
+        "id": "expandeddelight:sweet_potato_salad"
+      }
+    }
+  ]
+}

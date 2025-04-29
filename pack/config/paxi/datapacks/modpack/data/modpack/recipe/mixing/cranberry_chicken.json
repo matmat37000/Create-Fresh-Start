@@ -1,0 +1,26 @@
+{
+  "type": "create:mixing",
+  "heat_requirement": "heated",
+  "ingredients": [
+    {
+      "item": "expandeddelight:cranberries"
+    },
+    {
+      "tag": "c:foods/cooked_chicken"
+    },
+    {
+      "item": "farmersdelight:onion"
+    },
+    {
+      "item": "minecraft:bowl"
+    }
+  ],
+  "results": [
+    {
+      "count": 1,
+      "item": {
+        "id": "expandeddelight:cranberry_chicken"
+      }
+    }
+  ]
+}

@@ -1,0 +1,19 @@
+{
+  "type": "create:compacting",
+  "ingredients": [
+    {
+      "item": "minecraft:bread"
+    },
+    {
+      "tag": "c:foods/cheese"
+    }
+  ],
+  "results": [
+    {
+      "count": 1,
+      "item": {
+        "id": "expandeddelight:cheese_sandwich"
+      }
+    }
+  ]
+}
