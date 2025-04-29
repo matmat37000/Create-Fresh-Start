@@ -2983,6 +2983,11 @@ hash = "03ff831cb8084db62a0c1ce791091f4b119956b9f3bacfa140ba4689cfd978a8"
 metafile = true
 
 [[files]]
+file = "mods/antique-trains.pw.toml"
+hash = "350a9fbc10b1db289dd2cca703d183f9f7265e61626605de36e39a1d588d1b10"
+metafile = true
+
+[[files]]
 file = "mods/apples-plus.pw.toml"
 hash = "ad3a64910e797f1467a4d6d2a7f0a8f56b0decef9fab5125edba82e42ca91ca2"
 metafile = true
