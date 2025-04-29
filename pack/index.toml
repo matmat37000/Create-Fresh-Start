@@ -249,6 +249,10 @@ file = "config/ok_zoomer/config.toml"
 hash = "7deb026c0c67c736adb79c6f295f1787803a7de01ac9e6a7c700e054c0107d8e"
 
 [[files]]
+file = "config/openpartiesandclaims-server.toml"
+hash = "b8a8cc91e38cd7ca1559f84be32e7e82fdf1966cae792b17309f5e913c7a4b6b"
+
+[[files]]
 file = "config/overflowingbars-client.toml"
 hash = "550b76675329a61ab75e5a4a292d5eeb829ba6a59053d1c108be4cb10006b2af"
 
@@ -3295,6 +3299,11 @@ metafile = true
 [[files]]
 file = "mods/custom-window-title.pw.toml"
 hash = "09d3121e0f62df0f7543ec669a7d2465ccc257f8ece46eaa37c0d8597ec36c15"
+metafile = true
+
+[[files]]
+file = "mods/dancerizer.pw.toml"
+hash = "0b9f67f6c165f330e28ece62c9ed9e0e5d5acb55c951bcc08ac63f7865d411aa"
 metafile = true
 
 [[files]]
