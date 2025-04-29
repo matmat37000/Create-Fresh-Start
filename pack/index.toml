@@ -3298,11 +3298,6 @@ hash = "09d3121e0f62df0f7543ec669a7d2465ccc257f8ece46eaa37c0d8597ec36c15"
 metafile = true
 
 [[files]]
-file = "mods/death-coordinates.pw.toml"
-hash = "aac788c8cf76ea325e63a7c95ae387691083da25719f205dd44d4be504895a1a"
-metafile = true
-
-[[files]]
 file = "mods/default-options.pw.toml"
 hash = "1d99ac75f92996ec9673e39c012a51dc4b05c48ef7bf672ccaf5e7464a1a3d13"
 metafile = true
