@@ -3900,6 +3900,11 @@ hash = "9854b699d5a067c46ac99b1dedeeb529bff3fc18dd079e29b438c4cbf9725f68"
 metafile = true
 
 [[files]]
+file = "mods/zoomify.pw.toml"
+hash = "3c768bdd4ba36d8e871a740457f4d3deb387cd1fa7cdb4417626cec3e2c72706"
+metafile = true
+
+[[files]]
 file = "patchouli_books/cfs_guide_book/book.json"
 hash = "d9805f7ef3bae0c252c2972be7e056d560d29a24d5ee545bcfdc4a2197bea63a"
 
