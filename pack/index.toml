@@ -3170,11 +3170,6 @@ hash = "1d99ac75f92996ec9673e39c012a51dc4b05c48ef7bf672ccaf5e7464a1a3d13"
 metafile = true
 
 [[files]]
-file = "mods/distanthorizons.pw.toml"
-hash = "007ca3fb8a617776705f8f38eab60a286fed6426a0ee1d792af6814f1bc24174"
-metafile = true
-
-[[files]]
 file = "mods/dripsounds.pw.toml"
 hash = "f1e718665206f70e65da7439d3cfd181d44a78df33abef8fa7748e9c297fd43f"
 metafile = true
