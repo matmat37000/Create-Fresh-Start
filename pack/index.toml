@@ -3215,6 +3215,11 @@ hash = "7f22959445f6830022e0dd5e71fb60298648cbc208977061f332f39f468f6fd9"
 metafile = true
 
 [[files]]
+file = "mods/enchantment-descriptions.pw.toml"
+hash = "0b380e24e46e328c362bda7cff892c5b0e471789ca8c429fd2a588eaf63b8712"
+metafile = true
+
+[[files]]
 file = "mods/end-villager-trader.pw.toml"
 hash = "712741c29da5627204d618afc5d53e5d03e5df4330c09052430a01c990cd0580"
 metafile = true
