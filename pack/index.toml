@@ -2985,11 +2985,6 @@ hash = "3fa156604ef14ccb1e00b71fe7bbbbe1bae07ab9c0d702d78c111b077756b2c4"
 metafile = true
 
 [[files]]
-file = "mods/caelus.pw.toml"
-hash = "992b0dca9683f225fc774d779762d18a009f2d82b9d051e7c0b55a33a95d9238"
-metafile = true
-
-[[files]]
 file = "mods/carry-on.pw.toml"
 hash = "8fde54624913d86f1176cd1086fa485f1a872573dac144347c57cab76596b715"
 metafile = true
@@ -3202,11 +3197,6 @@ metafile = true
 [[files]]
 file = "mods/easy-anvils.pw.toml"
 hash = "9f511e824978b45d8d90244e921dafcbb9bc01d1e4aced66afac71740ffa5ff6"
-metafile = true
-
-[[files]]
-file = "mods/elytra-slot.pw.toml"
-hash = "9e2b351f3cabb1252259f5383e6f2fec3e3d90534dbecddef4ed183eba42f35a"
 metafile = true
 
 [[files]]
