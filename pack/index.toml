@@ -3005,6 +3005,11 @@ hash = "f9bcdce878ff06c315b86cc85265a7ec89adf813908602713c499359b64a51cb"
 metafile = true
 
 [[files]]
+file = "mods/chest-tracker.pw.toml"
+hash = "fee0250fe6953809dfc61bee342bdf8622e5d683125a917b348fd6812a9d1f18"
+metafile = true
+
+[[files]]
 file = "mods/chunky.pw.toml"
 hash = "1d5cc2b6dcfd1fc3adba4566b1c29b57ff1175316678c1f22e63cbc3e28a5ba0"
 metafile = true
