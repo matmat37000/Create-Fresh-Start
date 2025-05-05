@@ -3265,6 +3265,11 @@ hash = "d47a76a86c7198708a1e5b9ddda30c9c2454a246e619002ff4492d5a2f48b061"
 metafile = true
 
 [[files]]
+file = "mods/explorers-compass.pw.toml"
+hash = "de5ea0b6d6c303af3788a178996c39f46d260cd15a86121b1246b3591913d256"
+metafile = true
+
+[[files]]
 file = "mods/extra-dungeons.pw.toml"
 hash = "e3b9fcf2eaff2d25bbe3bdb516d2cedb5b649331f183a1a0c4b3641936ebc83d"
 metafile = true
@@ -3512,6 +3517,11 @@ metafile = true
 [[files]]
 file = "mods/musket-mod.pw.toml"
 hash = "359f98f5d3028b8f9383258479cd2852054ad3475e18621b63b50864ff5852eb"
+metafile = true
+
+[[files]]
+file = "mods/natures-compass.pw.toml"
+hash = "abfc8909de1c851ccf4ef296e05d1017332a21fef76fd1f938828fcff925115b"
 metafile = true
 
 [[files]]
