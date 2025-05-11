@@ -2980,7 +2980,7 @@ metafile = true
 
 [[files]]
 file = "mods/antique-trains.pw.toml"
-hash = "350a9fbc10b1db289dd2cca703d183f9f7265e61626605de36e39a1d588d1b10"
+hash = "b276977b96023a93ef82ee1f0911458b6aecfbe019e91c7d2822bcd4fd039c32"
 metafile = true
 
 [[files]]
@@ -3025,7 +3025,7 @@ metafile = true
 
 [[files]]
 file = "mods/balm.pw.toml"
-hash = "081fe633c2c73b0d5e37a81d3973502d563f5d545246fde0510a2004ece78f95"
+hash = "c0d18ec0bdd9b50d1982ea8b5191c15291eda08570c63a08c7792474e443a148"
 metafile = true
 
 [[files]]
@@ -3070,7 +3070,7 @@ metafile = true
 
 [[files]]
 file = "mods/better-modlist.pw.toml"
-hash = "a24adf7667c54507db9d61056a819a53f9e5436fdf02577a091b0eefdf1e8e4f"
+hash = "c60e10e144ccfda7c278e8d5c70439d74cf3275aa0b691b1dae4268bd758389d"
 metafile = true
 
 [[files]]
@@ -3110,7 +3110,7 @@ metafile = true
 
 [[files]]
 file = "mods/bookshelf-lib.pw.toml"
-hash = "e2ff387e98fe69721ae218afde8b9ccc5a659e26c107b9d71dd46f7d56fb9ce1"
+hash = "71434caad33d734bcafdb976be3f7c6e90cea1ac13c9ebb292d1b96562b2588b"
 metafile = true
 
 [[files]]
@@ -3140,12 +3140,12 @@ metafile = true
 
 [[files]]
 file = "mods/chat-heads.pw.toml"
-hash = "e806e6c5e09a74176fadf4d241ba5cb4915250011f29a47ce6a0039784e9de17"
+hash = "144ba9e7889fad8c466f9632a1a083246eab116b919549c8c2c374f59334f2ae"
 metafile = true
 
 [[files]]
 file = "mods/chatnotify.pw.toml"
-hash = "b7e0b24ab84e2d35c544163700772cd7bfe254bae88f8fb5492b8f6d37b6785f"
+hash = "e24e25c9d5e250997d45c21913e3d0172d9898f1c66e8ce546251d2efadf16d7"
 metafile = true
 
 [[files]]
@@ -3160,7 +3160,7 @@ metafile = true
 
 [[files]]
 file = "mods/client-tweaks.pw.toml"
-hash = "e78dcac07151083502f40045e6faee92255f2a4ca4896726bf8873223569906f"
+hash = "3391e66e3f3b771980f0914c3a03d6a8ac710bd93bcf5e08311922ba6586e4b1"
 metafile = true
 
 [[files]]
@@ -3210,7 +3210,7 @@ metafile = true
 
 [[files]]
 file = "mods/connector.pw.toml"
-hash = "0a4d0034c5a1379d5aa57c0a104aaa2adbb98f1e2b89d4ec0b7ef68df2e16a1a"
+hash = "9f920c5f1df2577cf374285e4aad4f2982a30ea2a3da1cf7ddaf25e04b3a2e31"
 metafile = true
 
 [[files]]
@@ -3250,7 +3250,7 @@ metafile = true
 
 [[files]]
 file = "mods/create-framed.pw.toml"
-hash = "8acd0b01430d2bd713976ddda8d7b963877350ab6930dc6da8c5168720dfe3ab"
+hash = "bed535a9a5636585ef25b31038ebdb6cad1967e4f1e1de8bcb773bc6c569ad2a"
 metafile = true
 
 [[files]]
@@ -3380,7 +3380,7 @@ metafile = true
 
 [[files]]
 file = "mods/explorations.pw.toml"
-hash = "d47a76a86c7198708a1e5b9ddda30c9c2454a246e619002ff4492d5a2f48b061"
+hash = "ef53b9e95213c1e0ad94b55c2124d1a2d15491ebe90dca36ff1b3e1b0dde2057"
 metafile = true
 
 [[files]]
@@ -3445,7 +3445,7 @@ metafile = true
 
 [[files]]
 file = "mods/forgified-fabric-api.pw.toml"
-hash = "c604862c7db098f8edcfa6aa1ebc4e235b3008fdbc61450c0da9c3c234513a54"
+hash = "cb56550a957dd44cab4f9102aa588cd22421cd6b4099a03ac7b1b167c23c0f13"
 metafile = true
 
 [[files]]
@@ -3465,7 +3465,7 @@ metafile = true
 
 [[files]]
 file = "mods/global-gamerule-fabric.pw.toml"
-hash = "38d1cf3afc545f408a5b106e689c574a03496c972410d6131c137355b46ddf51"
+hash = "41f582a17b5ef003792be2a51b5a2b6f8c4a9cf60dfa26db0d3af9b4bfe4388d"
 metafile = true
 
 [[files]]
@@ -3510,7 +3510,7 @@ metafile = true
 
 [[files]]
 file = "mods/jei.pw.toml"
-hash = "77b86ca843207273549875640b1c16254c2486e67127c37344c186b503da96ed"
+hash = "44634200be079994523f61e1a4b2878f4d2e1b59d52378391aa81192b1d15bf1"
 metafile = true
 
 [[files]]
@@ -3520,7 +3520,7 @@ metafile = true
 
 [[files]]
 file = "mods/kotlin-for-forge.pw.toml"
-hash = "0033c5a00c46d5d7b6cf77b19fa76ce5c78a613f3128dcadb3588fa5841ae489"
+hash = "0a983d1515e1713d1a0ae7738091909101c368be2726a446e4ca29c62fe555c2"
 metafile = true
 
 [[files]]
@@ -3620,7 +3620,7 @@ metafile = true
 
 [[files]]
 file = "mods/mru.pw.toml"
-hash = "34ee43795085471966b5aa3791a4475fbe537c4775c18742b50cc5a60bebacac"
+hash = "741334c0b04ce1321a30ac548b4dd663670c2e1daa53ecf0d6308541c65f0c98"
 metafile = true
 
 [[files]]
@@ -3635,7 +3635,7 @@ metafile = true
 
 [[files]]
 file = "mods/no-realms-button.pw.toml"
-hash = "f32de9c72847686fdb91cea47c7688eda0336b0f96ae11c234a30366d1ba5c42"
+hash = "73be9c623d8e1d2d0a76189ecc01a1e7af762fe6921ad697b89661b839d26617"
 metafile = true
 
 [[files]]
@@ -3695,7 +3695,7 @@ metafile = true
 
 [[files]]
 file = "mods/paxi.pw.toml"
-hash = "74d96b4361faf4457a439bcc2a1656625a22dfc656164091e89a3ba676880867"
+hash = "215d597764d5c5db89e700fc3495b72dc0a7f09c975de19dc8c580bde3469a5e"
 metafile = true
 
 [[files]]
@@ -3720,7 +3720,7 @@ metafile = true
 
 [[files]]
 file = "mods/polytone.pw.toml"
-hash = "ec54d328c441baa7600807e7f3dd3bcbac9ac6cb66acf8588398ff6b3b27b6f0"
+hash = "02cbae406a763c0e78cf12e039ee012dd8234713338457adf9d7f2461a4e2bbe"
 metafile = true
 
 [[files]]
@@ -3745,7 +3745,7 @@ metafile = true
 
 [[files]]
 file = "mods/puzzles-lib.pw.toml"
-hash = "9c454f3b26fea7aa3e04b6edecf5707a74927dcf63715ffa01b248bd9ffefc41"
+hash = "b27fedf73ce2b829db06bf18fea5afd33f0a001b75465301c7f5bafe7e3c04d8"
 metafile = true
 
 [[files]]
@@ -3890,7 +3890,7 @@ metafile = true
 
 [[files]]
 file = "mods/tide.pw.toml"
-hash = "7f8ff3c91f7306a62e65f8d9d431b5c40706cdb63697a39aa1aa54d909000d17"
+hash = "8d33f59739f7d7c38e30c7e18607fdd88303f083821b2b578c964f528ad7af21"
 metafile = true
 
 [[files]]
@@ -3925,7 +3925,7 @@ metafile = true
 
 [[files]]
 file = "mods/trade-cycling.pw.toml"
-hash = "d8feca2b5817cbbf11126562ab22f7b2804262b7f827f58a594b25067f23c362"
+hash = "1ce973c231d9d6a7e788f5a2eb0797a0f5b8beef318d70f97931309ff7ef9abe"
 metafile = true
 
 [[files]]
@@ -3975,7 +3975,7 @@ metafile = true
 
 [[files]]
 file = "mods/yungs-api.pw.toml"
-hash = "d987d3a1b3c54d02c10d69b80903ceb9082a8e120817fa3d36a29422edfa7e02"
+hash = "4bb587c09a53f82dec620482b3badeee9d6e865902efcfc39139f906cc0b108f"
 metafile = true
 
 [[files]]

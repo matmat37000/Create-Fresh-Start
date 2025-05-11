@@ -24,6 +24,8 @@ Warnings in modpack:
 - Arachnophobia warning: The Fresh Extras Resource Pack contains spiders that might trigger arachnophobia in some players. For these, disabling that resource pack is recommended.
 
 TODO:
+- fishermans trap x tide compat
+- pommes
 - Spyglass not working?
 - Custom credits screen
 - Soup tag
