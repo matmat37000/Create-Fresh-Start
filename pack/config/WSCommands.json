@@ -1,6 +1,0 @@
-{
-  "Repeat": true,
-  "DedicatedMode": false,
-  "1": "gamerule enderPearlsVanishOnDeath false",
-  "2": "gamerule playersSleepingPercentage 30"
-}
