@@ -3464,11 +3464,6 @@ hash = "934e030bbe3fd43663094e75e43e8b49cecd149fb22d71316782e1bed22d1d29"
 metafile = true
 
 [[files]]
-file = "mods/global-gamerule-fabric.pw.toml"
-hash = "41f582a17b5ef003792be2a51b5a2b6f8c4a9cf60dfa26db0d3af9b4bfe4388d"
-metafile = true
-
-[[files]]
 file = "mods/gravestone-mod.pw.toml"
 hash = "c34ad41e351235b1ca8e026e9fba9b3ee01c42e4933b060f0c870aac3014403a"
 metafile = true
@@ -3961,6 +3956,11 @@ metafile = true
 [[files]]
 file = "mods/wither-shrines.pw.toml"
 hash = "00c70effdeaa68f5c375fcd8dc403e1e38304c7822b6cd5d878dbf21500efe19"
+metafile = true
+
+[[files]]
+file = "mods/world-start-commands-and-global-gamerules.pw.toml"
+hash = "a063efd814db4bddeb0a118d4d87316dda265ee39ccb6a92dfbc6b9418bb66d4"
 metafile = true
 
 [[files]]
