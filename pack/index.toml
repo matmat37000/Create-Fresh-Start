@@ -30,7 +30,7 @@ hash = "42915f9f07c667dad055efc9961260fb7e0ae1daa05fa746e53be898ac653704"
 
 [[files]]
 file = "config/bcc-common.toml"
-hash = "76d00712bfa37e86701c69d3a9cecf598e9d4648c8fce36b599a9cf0d9a11f5e"
+hash = "7bf08cddee96923c40e943b71f4eab87802252f476ab101eb121c8e507b7443d"
 
 [[files]]
 file = "config/betterclouds-v1.json"
