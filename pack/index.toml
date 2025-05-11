@@ -21,6 +21,10 @@ file = "config/NoChatReports/README.md"
 hash = "c52b76ccad2bd1063a22c7f6bb9e7c5db6b00fb53a6fd605585972ee0e5fc01f"
 
 [[files]]
+file = "config/WSCommands.json"
+hash = "0c4e8d37fe002f10ccbe774d9ef15ab5746ea4e1a12fa529f9dd103c9ddbe831"
+
+[[files]]
 file = "config/ambiance.json"
 hash = "42915f9f07c667dad055efc9961260fb7e0ae1daa05fa746e53be898ac653704"
 
@@ -86,7 +90,7 @@ hash = "1d49f0055d9c0599ab68348cca05d80dd7e55d472d78ad38e4aee7f5a81b9874"
 
 [[files]]
 file = "config/defaultoptions/keybindings.txt"
-hash = "48f8922e5392146685a42042e8833956d905b194c5421a577c4f4b18a3e48019"
+hash = "92a34d78545b30275a70f74fb096b9e51389227c027ec4f6f7dc417855a9f64f"
 
 [[files]]
 file = "config/defaultoptions/options.txt"
@@ -223,10 +227,6 @@ hash = "33c1eecbc4d769ab3d1de3c0b6b12c5b6d59ab329e5eab0014d903dce1de28a2"
 [[files]]
 file = "config/fog/config.json"
 hash = "4dd8d5b23c600b9249b820208c6358d01fdf88d793354c3fb5946d78d1835358"
-
-[[files]]
-file = "config/global_game_rule.json"
-hash = "7c744d79f8e56ef6cec06880945cbdb80199b4e637aee4486516e73ae8bad4c7"
 
 [[files]]
 file = "config/icon.png"
@@ -485,6 +485,34 @@ file = "config/paxi/datapacks/modpack/data/farmersdelight/tags/item/wheat_dough.
 hash = "958d4e069642a635e2ea8257bab8127cd94a68adf091508a73834a10f58ec388"
 
 [[files]]
+file = "config/paxi/datapacks/modpack/data/fishermens_trap/tags/item/fish_baits.json"
+hash = "89d2af51f7bdc36dbc196ba0ee9328ee4065fbf0d2ae235f313a905163ac570e"
+
+[[files]]
+file = "config/paxi/datapacks/modpack/data/fishermens_trap/tags/jei_display_results/create_deep_dark/sculk_flour.json"
+hash = "6994c70d757b81d94b45ab7c541b45f681effe54f8a75fdca49b05fc99e16473"
+
+[[files]]
+file = "config/paxi/datapacks/modpack/data/fishermens_trap/tags/jei_display_results/expandeddelight/salt_rock.json"
+hash = "07fc19b6c3a5074d2a3e184e938f2d496a04704610a6ddcf6e21f917ca56805f"
+
+[[files]]
+file = "config/paxi/datapacks/modpack/data/fishermens_trap/tags/jei_display_results/minecraft/chorus_fruit.json"
+hash = "10e4be5f3b0ac4cf00fd9a1c124761d3f85618ba2996c966738d92a023ae0865"
+
+[[files]]
+file = "config/paxi/datapacks/modpack/data/fishermens_trap/tags/jei_display_results/minecraft/soul_sand.json"
+hash = "0ec1c94a8a95501ac823293822bea37a7eac5680ce74a471ba2f74468d543481"
+
+[[files]]
+file = "config/paxi/datapacks/modpack/data/fishermens_trap/tags/jei_display_results/minecraft/torch.json"
+hash = "a1882c7de79a4e2e40e6bc0989041a1d587c85570630a012cbb599034f4bd88e"
+
+[[files]]
+file = "config/paxi/datapacks/modpack/data/fishermens_trap/tags/jei_display_results/supplementaries/candy.json"
+hash = "d9a5c94d060230fde90547d7c55526c34e611c1d153b03eb0649a4fc3893b218"
+
+[[files]]
 file = "config/paxi/datapacks/modpack/data/kawaiidishes/recipe/apple_pie.json"
 hash = "1a6c3efc11d61bbc283ffdc5648444b56621edd1c8bfff3a33112edf21eca97c"
 
@@ -567,6 +595,30 @@ hash = "f30ed41b7038af1cbd4cb7e29ff8715baeb4f00cf35c8e897529fdb4fb285222"
 [[files]]
 file = "config/paxi/datapacks/modpack/data/minecraft/recipe/tinted_glass.json"
 hash = "aa0f73810c8583a8f2561e9b0f700a57b0d21ec6fb7dfde27ec53e2f5dab96be"
+
+[[files]]
+file = "config/paxi/datapacks/modpack/data/modpack/loot_table/gameplay/fishtrap_fishing/create_deep_dark/sculk_flour.json"
+hash = "9bfb58782d3a446f1bcd86c40c58780972d34b301b96d2d177f66ccc37c1bb95"
+
+[[files]]
+file = "config/paxi/datapacks/modpack/data/modpack/loot_table/gameplay/fishtrap_fishing/expandeddelight/salt_rock.json"
+hash = "3e1345e734a2a716e8ce7b75b36b2d0258cc11351690bfe69a6cc2be3ddba4fc"
+
+[[files]]
+file = "config/paxi/datapacks/modpack/data/modpack/loot_table/gameplay/fishtrap_fishing/minecraft/chorus_fruit.json"
+hash = "0fd8abe8bf16424d4f15a68f068264d50df235b6719e49fab57bae971d53b19c"
+
+[[files]]
+file = "config/paxi/datapacks/modpack/data/modpack/loot_table/gameplay/fishtrap_fishing/minecraft/soul_sand.json"
+hash = "c21c44fc8209f38b7be5432c6d5f28475d56d6a2ccc9271596a0b565b9b47654"
+
+[[files]]
+file = "config/paxi/datapacks/modpack/data/modpack/loot_table/gameplay/fishtrap_fishing/minecraft/torch.json"
+hash = "b2c313740edfff80c3feb7348dabb8e405a94e6620e25d685b04a587e656e97c"
+
+[[files]]
+file = "config/paxi/datapacks/modpack/data/modpack/loot_table/gameplay/fishtrap_fishing/supplementaries/candy.json"
+hash = "0d35388b72c447b5569eea2ce2bfe914a981f9af5a758943a526e134d507e160"
 
 [[files]]
 file = "config/paxi/datapacks/modpack/data/modpack/recipe/atlas.json"
@@ -1297,6 +1349,10 @@ file = "config/paxi/datapacks/modpack/data/modpack/recipe/mixing/ratatouille.jso
 hash = "e5d9c9d6509806234c1d8674d9f2cd25fe2eb041a5625b2e2d7cdddb1d4e0d7f"
 
 [[files]]
+file = "config/paxi/datapacks/modpack/data/modpack/recipe/mixing/salt_rock.json"
+hash = "5af4567cf9a1accb37e74d8b66431bef58e1d66829ae476fe656f98e9f25f8be"
+
+[[files]]
 file = "config/paxi/datapacks/modpack/data/modpack/recipe/mixing/squid_ink_pasta.json"
 hash = "e6b221ad66410fd21f1d1101840085fc88f8ff419cb0c678c6494c05d879c70c"
 
@@ -1363,6 +1419,22 @@ hash = "15e693b8f5466aabaa7efebc785247b65aba4de9f10ff046478c70c8a43ff563"
 [[files]]
 file = "config/paxi/datapacks/modpack/data/modpack/tags/item/ender_eyes.json"
 hash = "2517dddcfcdf9ec2049e210fca16a605cb71ac9c4019a40ad1d8867b869aecfd"
+
+[[files]]
+file = "config/paxi/datapacks/modpack/data/modpack/tags/item/foods/deep_fish.json"
+hash = "6994c70d757b81d94b45ab7c541b45f681effe54f8a75fdca49b05fc99e16473"
+
+[[files]]
+file = "config/paxi/datapacks/modpack/data/modpack/tags/item/foods/end_fish.json"
+hash = "10e4be5f3b0ac4cf00fd9a1c124761d3f85618ba2996c966738d92a023ae0865"
+
+[[files]]
+file = "config/paxi/datapacks/modpack/data/modpack/tags/item/foods/nether_fish.json"
+hash = "0ec1c94a8a95501ac823293822bea37a7eac5680ce74a471ba2f74468d543481"
+
+[[files]]
+file = "config/paxi/datapacks/modpack/data/modpack/tags/item/foods/underground_fish.json"
+hash = "a1882c7de79a4e2e40e6bc0989041a1d587c85570630a012cbb599034f4bd88e"
 
 [[files]]
 file = "config/paxi/datapacks/modpack/data/modpack/tags/item/functioning_music_discs.json"
@@ -2894,10 +2966,6 @@ file = "config/random_mob_sizes.json"
 hash = "4e79f3922c9b413dc1a2c0979640b044342f7efc4eca30d489dff6304671bbd4"
 
 [[files]]
-file = "config/reciperemover.json"
-hash = "dcdb320e9fba8f8391c1b8e7765fb088038a74a8d2d8768912ad3945a253ba26"
-
-[[files]]
 file = "config/sodium-extra-options.json"
 hash = "91880d26953e64d76522163bc0555ae0cd18f53246748eeecab29bca712ec015"
 
@@ -2907,7 +2975,7 @@ hash = "19ce7bebbcaedf709067b2ceb366aa21c38cb5ff66ea335c6aaa7ba6aad49a58"
 
 [[files]]
 file = "config/sparsestructures.json5"
-hash = "89b91fd0b3c6832efbf7ef426810b4c366ef173814439ca35f6f03a79f0e390a"
+hash = "02e1accb3b03542ba714b9d01cbd26c06325326860859dd2f14c298638dfbe8e"
 
 [[files]]
 file = "config/tide.toml"
@@ -3295,7 +3363,7 @@ metafile = true
 
 [[files]]
 file = "mods/dancerizer.pw.toml"
-hash = "0b9f67f6c165f330e28ece62c9ed9e0e5d5acb55c951bcc08ac63f7865d411aa"
+hash = "1602efacafcdea2020e9c89d3001eb72d7d6b309a981d1ad81d0e22805bd126c"
 metafile = true
 
 [[files]]

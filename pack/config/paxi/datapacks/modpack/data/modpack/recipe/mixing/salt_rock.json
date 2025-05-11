@@ -1,0 +1,28 @@
+{
+  "type": "create:mixing",
+  "ingredients": [
+    {
+      "item": "minecraft:calcite"
+    },
+    {
+      "type": "fluid_stack",
+      "amount": 1000,
+      "fluid": "minecraft:water"
+    }
+  ],
+  "results": [
+    {
+      "count": 3,
+      "item": {
+        "id": "expandeddelight:salt_rock"
+      }
+    },
+    {
+      "chance": 0.45,
+      "count": 2,
+      "item": {
+        "id": "expandeddelight:salt_rock"
+      }
+    }
+  ]
+}
