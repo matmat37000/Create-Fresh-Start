@@ -21,8 +21,8 @@ file = "config/NoChatReports/README.md"
 hash = "c52b76ccad2bd1063a22c7f6bb9e7c5db6b00fb53a6fd605585972ee0e5fc01f"
 
 [[files]]
-file = "config/WSCommands.json"
-hash = "0c4e8d37fe002f10ccbe774d9ef15ab5746ea4e1a12fa529f9dd103c9ddbe831"
+file = "config/WSCommands.toml"
+hash = "d4bf9ed302ca4347304ba868b87750f63fe053d27a16fb6eb1556e208cdd4dc4"
 
 [[files]]
 file = "config/ambiance.json"
@@ -30,7 +30,7 @@ hash = "42915f9f07c667dad055efc9961260fb7e0ae1daa05fa746e53be898ac653704"
 
 [[files]]
 file = "config/bcc-common.toml"
-hash = "7bf08cddee96923c40e943b71f4eab87802252f476ab101eb121c8e507b7443d"
+hash = "7b91c43e02269beb06882496987ff513b9789d836b1fadc715f045d51a51b135"
 
 [[files]]
 file = "config/betterclouds-v1.json"
@@ -4033,7 +4033,7 @@ metafile = true
 
 [[files]]
 file = "mods/world-start-commands-and-global-gamerules.pw.toml"
-hash = "a063efd814db4bddeb0a118d4d87316dda265ee39ccb6a92dfbc6b9418bb66d4"
+hash = "24d9252cf5eff4686f5f21c3ce06dc935c11212b0cee586eb00fdd62e809ccb7"
 metafile = true
 
 [[files]]
