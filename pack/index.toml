@@ -3937,6 +3937,11 @@ hash = "90956e69d35ea7658d5a674b68662f51b09ba11596877170e5c01b2aaa3dcd49"
 metafile = true
 
 [[files]]
+file = "mods/suppressopengl1280.pw.toml"
+hash = "d4243a1c81f30e320fdc18f2865d436aede7a46ef22b33b3bc67dc872949ece7"
+metafile = true
+
+[[files]]
 file = "mods/surveyor.pw.toml"
 hash = "a9c96b9fef877ea4501b772c104da6e52e01a09590ea434ff43824dbd23d9691"
 metafile = true
