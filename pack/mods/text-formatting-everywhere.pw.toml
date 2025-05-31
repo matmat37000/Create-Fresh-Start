@@ -4,8 +4,8 @@ side = "both"
 
 [download]
 url = "https://cdn.modrinth.com/data/1ury0R3s/versions/eo8HjAsx/textformattingeverywhere-neoforge-2.0.1.jar"
-hash-format = "sha512"
-hash = "9cfae15646d6ab2853e750b44816881f8c1ae5c1646a265c9d4783b23682fdcecb4e96ca4eb87923df0fec78c8a48aa513045aa471984253c08dc7658699d896"
+hash-format = "sha256"
+hash = "fe8c24395821159e0a138e04ed4502537afc575e0d570b158fea3a459c565aab"
 
 [update]
 [update.modrinth]

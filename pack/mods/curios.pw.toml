@@ -4,8 +4,8 @@ side = "both"
 
 [download]
 url = "https://cdn.modrinth.com/data/vvuO3ImH/versions/6PllU1Iq/curios-neoforge-9.4.2%2B1.21.1.jar"
-hash-format = "sha512"
-hash = "c86ea201196433f4c1cfae70b603e9e5660bd4a824dede37ddc99ff1bf8da64ee7cb05b195e0753d20d7f152beb9c76cd7dbe0383b4d819a26e0e7f62ba8fdd6"
+hash-format = "sha256"
+hash = "10e258e1c2020474aa0bfa2f176dfcae7e46852841a7d61bb360474eaac956b8"
 
 [update]
 [update.modrinth]

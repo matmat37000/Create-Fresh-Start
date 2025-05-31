@@ -4,8 +4,8 @@ side = "client"
 
 [download]
 url = "https://cdn.modrinth.com/data/ZJWIVNNR/versions/4zrm1Xp5/LegacyCopperContinued-1.2.zip"
-hash-format = "sha512"
-hash = "b9270f5123c8fb3a86c0c44d42d1e9415b811d3345cc23beef04c054ac0d594843eeb3539132eb53137c7afa7c66f94e59d365e3ac2d3bca63c1f75a06ff8a06"
+hash-format = "sha256"
+hash = "7c3961ee5ffe0b08ecd4ae8b5440d594b7b93cf9538a8c2c4c9a8448d21464be"
 
 [update]
 [update.modrinth]

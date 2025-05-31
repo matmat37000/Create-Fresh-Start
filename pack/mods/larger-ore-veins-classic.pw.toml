@@ -4,8 +4,8 @@ side = "both"
 
 [download]
 url = "https://cdn.modrinth.com/data/PAmpGEL2/versions/3exY5fXc/larger-ore-veins-classic-1.0.8.jar"
-hash-format = "sha512"
-hash = "29e2a964443f5d164b4c5766af993a3ba0e5f54984bac54043871bf3d8a7972cb2c42ef764cbedff3b1932571704f1b08ade4ac28db482b15e4264523ebd6b4a"
+hash-format = "sha256"
+hash = "749d13c1298f5b12442a35dce224b69b54af1156aefe636f1145056c67bf2324"
 
 [update]
 [update.modrinth]

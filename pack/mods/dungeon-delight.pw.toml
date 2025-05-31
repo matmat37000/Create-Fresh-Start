@@ -4,8 +4,8 @@ side = "both"
 
 [download]
 url = "https://cdn.modrinth.com/data/KgVofhTQ/versions/zPZlAIfw/dungeondelight-1.0.4-1.21.x.jar"
-hash-format = "sha512"
-hash = "2e0888e3ab8e0dbdff3c16dfb871993db0063ed855d9a003985a74e54b2b4e435f40b9c22fe15e2d77b28785c1bc6ae51d1e061e8ceec189aebb6e449e206136"
+hash-format = "sha256"
+hash = "e3686f5b7dd398e0ecf0fe730066146f31dbf095fae14407659376aec4f8d688"
 
 [update]
 [update.modrinth]

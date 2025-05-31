@@ -4,8 +4,8 @@ side = "client"
 
 [download]
 url = "https://cdn.modrinth.com/data/Tio7pobN/versions/63UKqbzG/colorfulsubtitles-1.5.1.jar"
-hash-format = "sha512"
-hash = "21b2f0166732b8c37afe901fc6030bdf18ef9330956b7d9b980b9f5b02a2ded9ee2111e8b7db4d4936a39db9d3079104205ce872121c0ab0fb225078974e3576"
+hash-format = "sha256"
+hash = "d73c1250ea187abf31a5599f94b4a09e1c75ddef84b5917eb1e2c2e2a5681363"
 
 [update]
 [update.modrinth]

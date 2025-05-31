@@ -4,8 +4,8 @@ side = "both"
 
 [download]
 url = "https://cdn.modrinth.com/data/T8Fpxcl7/versions/WdpHdODJ/toomanypaintings-24.7.27-1.21-neoforge.jar"
-hash-format = "sha512"
-hash = "c8d633c6293e5cd48344fb9a5b7f831f3310dccc6e93ec533c746f3f92314809182f2c1c893c9f8d0a1dc1e20afb49200bd73144695b0c76cc4f869cbbbbbc9c"
+hash-format = "sha256"
+hash = "fc523a93263335708f7ec9e76cd1663b19f959638e6c3b695ff9d2734af23a6d"
 
 [update]
 [update.modrinth]

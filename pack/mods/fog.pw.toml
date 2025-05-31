@@ -4,8 +4,8 @@ side = "client"
 
 [download]
 url = "https://cdn.modrinth.com/data/WuGVWUF2/versions/68jKAL4I/Fog-neoforge-1.8.0-1.21.1.jar"
-hash-format = "sha512"
-hash = "544346abdd9be4d8b150fcf6c1e888c003dafd21777d67112cf5e4f6a33e9e9ae6301604cfacae7db031b6ac8ec77670dc76799d8c53207d3b3ae4d9bcbeab9e"
+hash-format = "sha256"
+hash = "97ff8adb3121bfa0b8d5f35106dae06b2a91aae22ac3670f367f2f81c499c7db"
 
 [update]
 [update.modrinth]

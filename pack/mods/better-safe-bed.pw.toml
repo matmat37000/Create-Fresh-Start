@@ -4,8 +4,8 @@ side = "both"
 
 [download]
 url = "https://cdn.modrinth.com/data/aUp4r9hY/versions/Gnq7RyxX/bettersafebed-neoforge-1.21-16.jar"
-hash-format = "sha512"
-hash = "d2dede84bbf261851fdc7c35f65ecea45abef587ec0aeac2c5b1917e07dbff4cc0951dc66b8e5ce83ef7dc26f213857100a603b93f0107be30e1f0f3112b1682"
+hash-format = "sha256"
+hash = "652b5f99eece3f0bd46d2cf7cb71bfc4acad1b5541aa510a51379b4694123908"
 
 [update]
 [update.modrinth]

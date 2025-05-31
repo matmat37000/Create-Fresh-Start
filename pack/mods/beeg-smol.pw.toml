@@ -4,8 +4,8 @@ side = "both"
 
 [download]
 url = "https://cdn.modrinth.com/data/TtKxsI01/versions/DfVLjUqM/beeg-smol-1.1.0.jar"
-hash-format = "sha512"
-hash = "4f5b4ad1c3b00d59ac95555974ce68862d86551705a5cc42c9c7e4727d41624301d85c58526d90c955f9d7216362c5c307cee3d19c0efe76a2d77d183138223d"
+hash-format = "sha256"
+hash = "c3c84eafaf42df3039bca2dd7137223676dcb4970a0d323c1210ca77a678da21"
 
 [update]
 [update.modrinth]

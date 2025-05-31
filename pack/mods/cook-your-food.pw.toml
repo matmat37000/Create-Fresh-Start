@@ -4,8 +4,8 @@ side = "both"
 
 [download]
 url = "https://cdn.modrinth.com/data/5L9FxTN2/versions/Xt9g2dmz/cookyourfood--mc1.21--neoforge--1.12.jar"
-hash-format = "sha512"
-hash = "c649acfb1c65660e35134e3153551418b58c438b2573bed431c614d9fe59552895ee2d94298eb85318a68e56fc17f2006cbd78da120387ccd61d2ed0bf63451c"
+hash-format = "sha256"
+hash = "9ee7b5538e0b7901c334bce116348c2915fa0fa4a0995743232bda444712d56b"
 
 [update]
 [update.modrinth]

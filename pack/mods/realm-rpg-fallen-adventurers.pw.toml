@@ -4,8 +4,8 @@ side = "both"
 
 [download]
 url = "https://cdn.modrinth.com/data/tu54PMAb/versions/x1Blh0Gt/realmrpg_skeletons-1.1.0-neoforge-1.21.1.jar"
-hash-format = "sha512"
-hash = "92c1ae32f93102251503f223a7780636c84e142a0de52cbd5aa62eadf39d452b0270b57166d429e8f00f9693c45e3b81d42598d0b0a3859f88ae15324784c286"
+hash-format = "sha256"
+hash = "8a688c2dbd03abd51b48fd09e1ec29de3afe54511cef8046a58c3396c6227388"
 
 [update]
 [update.modrinth]
