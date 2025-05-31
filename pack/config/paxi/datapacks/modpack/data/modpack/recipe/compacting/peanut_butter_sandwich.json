@@ -1,0 +1,25 @@
+{
+  "type": "create:compacting",
+  "ingredients": [
+    {
+      "item": "minecraft:bread"
+    },
+    {
+      "item": "expandeddelight:peanut_butter"
+    }
+  ],
+  "results": [
+    {
+      "count": 1,
+      "item": {
+        "id": "expandeddelight:peanut_butter_sandwich"
+      }
+    },
+    {
+      "count": 1,
+      "item": {
+        "id": "minecraft:bowl"
+      }
+    }
+  ]
+}

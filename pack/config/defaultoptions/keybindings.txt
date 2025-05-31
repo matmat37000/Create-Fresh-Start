@@ -89,6 +89,8 @@ key_key.ok_zoomer.decrease_zoom:key.keyboard.unknown:
 key_key.ok_zoomer.increase_zoom:key.keyboard.unknown:
 key_key.ok_zoomer.reset_zoom:key.keyboard.unknown:
 key_key.fog.toggle:key.keyboard.unknown:
+key_dancerizer.keybind.dance:key.keyboard.y:
+key_dancerizer.keybind.taunt:key.keyboard.u:
 key_key.antique_atlas.open:key.keyboard.m:
 key_key.vistas.panoramic_screenshot:key.keyboard.h:
 key_auditory.sound_reload_key:key.keyboard.unknown:

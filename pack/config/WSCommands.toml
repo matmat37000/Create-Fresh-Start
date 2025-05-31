@@ -1,0 +1,12 @@
+[1]
+#If true, commands will run each time the world is joined instead of just once
+Repeat = true
+#If true, commands will run for each player instead of just for the first join
+DedicatedMode = false
+#If true, commands will only run if the game is fully restarted
+OnFullRestart = true
+#list of all the commands to run, in order
+Commands = [
+    "gamerule enderPearlsVanishOnDeath false",
+    "gamerule playersSleepingPercentage 30",
+]

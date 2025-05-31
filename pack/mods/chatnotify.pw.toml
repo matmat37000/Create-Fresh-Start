@@ -1,13 +1,13 @@
 name = "Chat Notify"
-filename = "chatnotify-neoforge-2.4.3+1.21.jar"
+filename = "chatnotify-neoforge-2.4.5+1.21.jar"
 side = "client"
 
 [download]
-url = "https://cdn.modrinth.com/data/Iudurxl8/versions/m4kdQVaP/chatnotify-neoforge-2.4.3%2B1.21.jar"
+url = "https://cdn.modrinth.com/data/Iudurxl8/versions/DNnxsuhW/chatnotify-neoforge-2.4.5%2B1.21.jar"
 hash-format = "sha512"
-hash = "0554ecd5d249178e899d0203a95d2cb8e666a88b10e902a4ce79fe667015a2a1d389de09cb3923dc304dd80104358baa30fa12705f35115f7d656ed38227db27"
+hash = "fe44f633ef0e5043524d599a4d29c0a0648e1b3b7d997f0df869e03aadf1fb9e3ab4c49ddaf60cc0b794cb00af82a0dc2d9c22cc193a7981ec78fabc073a14f0"
 
 [update]
 [update.modrinth]
 mod-id = "Iudurxl8"
-version = "m4kdQVaP"
+version = "DNnxsuhW"
