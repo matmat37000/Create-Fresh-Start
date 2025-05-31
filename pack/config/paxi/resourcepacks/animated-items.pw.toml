@@ -4,8 +4,8 @@ side = "client"
 
 [download]
 url = "https://cdn.modrinth.com/data/uBBepXuH/versions/DJYfk4Ya/animated-items-1_21-1%20-%201_4_2.zip"
-hash-format = "sha256"
-hash = "af4faca217fa1813760778b2f89f61552d7404f318e80693c1aaa4d3753eceaa"
+hash-format = "sha512"
+hash = "7d812dd338ebe8503d0fe911f52d9229bcf6e6bfeac98d5c6ca91a1ef46937f3dfb3779c1795884e036cb1dac5a180bfc552c7b6940bda82746c3e1c0383f5e0"
 
 [update]
 [update.modrinth]

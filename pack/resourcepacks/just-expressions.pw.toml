@@ -4,8 +4,8 @@ side = "client"
 
 [download]
 url = "https://cdn.modrinth.com/data/vPaHlT2U/versions/bBYe8h0H/JustExpressions_v1.1.zip"
-hash-format = "sha256"
-hash = "318547986e749a32c2f2e9425eb82100b11f8203fb562bbd4bc343733fd83eba"
+hash-format = "sha512"
+hash = "3c3e5b9632a000b1289d1f972bb1a7d22226b44a7e53797d135688e619484aace8a0bf9b5131119e9e51f813394b24dc36615b0e81b32dd47ff459ddbe6b6aa0"
 
 [update]
 [update.modrinth]

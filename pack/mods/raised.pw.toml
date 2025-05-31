@@ -4,8 +4,8 @@ side = "client"
 
 [download]
 url = "https://cdn.modrinth.com/data/nCQRBEiR/versions/Cr0vV65c/raised-neoforge-1.21.1-4.0.1.jar"
-hash-format = "sha256"
-hash = "89cfe24dc4bf1897c1c08ff9d73ec89e3de7f3d6fecb9b6da7949a1dbb28e78b"
+hash-format = "sha512"
+hash = "3cec14739dacad1c810091715fd2e0915f0ea7209bde52763e30203ff494ef3688d1790337a0f1f117ad40d8fcd43b7e6fac9f3b9f1f4b179f7dff66d9b12aa3"
 
 [update]
 [update.modrinth]

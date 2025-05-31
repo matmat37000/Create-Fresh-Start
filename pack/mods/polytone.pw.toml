@@ -4,8 +4,8 @@ side = "client"
 
 [download]
 url = "https://cdn.modrinth.com/data/3qAYkBMB/versions/hVWVPQhY/polytone-1.21-3.3.8.jar"
-hash-format = "sha256"
-hash = "1fbc8517c8886f3289b1314a75b408da4c66f3742b2a0f09ac80fe875a07ea9c"
+hash-format = "sha512"
+hash = "0c79e81e65a960945c0c8a6d07806d08568918829b4ec3fc511900317fdfb3915e112bccfeacdc3b7397fb9512a92a4d02c3ca5330ac810f43aa512638d2d9b9"
 
 [update]
 [update.modrinth]

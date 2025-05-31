@@ -4,8 +4,8 @@ side = "client"
 
 [download]
 url = "https://cdn.modrinth.com/data/KUZAAwdD/versions/Yqmy3U2b/BetterModsButton-v21.1.0-1.21.1-NeoForge.jar"
-hash-format = "sha256"
-hash = "e7360a9a94e85d9173b93cf672192ccecec71b4ee3145a79bb71cfe37f2cbfb5"
+hash-format = "sha512"
+hash = "215f32ea4cfe6a2a61ac0e3a2e86a72381986de13d56f2cbcd120b6ab21cbe99a4a359c9a4065f62d4180f8a89cddaffac9ea19a714987560140905921bb14f7"
 
 [update]
 [update.modrinth]

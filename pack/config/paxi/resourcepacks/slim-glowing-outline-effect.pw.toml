@@ -4,8 +4,8 @@ side = "client"
 
 [download]
 url = "https://cdn.modrinth.com/data/vcCG9qSu/versions/6GE1gqYm/%C2%A7f%C2%A7l%E2%97%8F%20Slim%20outline.zip"
-hash-format = "sha256"
-hash = "2e08ee1af3714336bebbeaf2ce2379cf4f240092a2b3cd301ee81af8a16f5200"
+hash-format = "sha512"
+hash = "6ab08c072e15de170593424d644f34401d065a784b835a31656c3c21e761bef3b9e70003fc21564d67c3292f1d1287d00e8e91fcc0e07a30df0ceb0869d82b6d"
 
 [update]
 [update.modrinth]

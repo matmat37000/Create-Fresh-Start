@@ -4,8 +4,8 @@ side = "both"
 
 [download]
 url = "https://cdn.modrinth.com/data/TfSq0uCz/versions/8Xp4NMJb/dyedbundles-1.0%2B1.21.jar"
-hash-format = "sha256"
-hash = "50983f7570bea72fa0a3b4f4c75cfd697b9bff69ed07fa5342db654347299361"
+hash-format = "sha512"
+hash = "2f95feb7a4ea7c1e6740d1e5357f05f0657c91509cde6be051d5509c5d31c3cd23f4dc1d31db42f82dbe1ef979ad251db1aefb8fddc2009dbd49fb688c6724dc"
 
 [update]
 [update.modrinth]

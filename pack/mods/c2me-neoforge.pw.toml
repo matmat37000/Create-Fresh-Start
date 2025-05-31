@@ -4,8 +4,8 @@ side = "both"
 
 [download]
 url = "https://cdn.modrinth.com/data/COlSi5iR/versions/nlEukRtE/c2me-neoforge-mc1.21.1-0.3.0%2Balpha.0.63.jar"
-hash-format = "sha256"
-hash = "54ef7dfedfdce42bb5451707132e19443ef3ee9acde7f5750cd358b4ccc508e8"
+hash-format = "sha512"
+hash = "132b540d6107dff80aa60c9f8430fa323739ebe9ac706024d9dd8506174c37563a91777635f47181276d67f8b705d3c5112e81e178cee94aa23c4265a78bcdf2"
 
 [update]
 [update.modrinth]

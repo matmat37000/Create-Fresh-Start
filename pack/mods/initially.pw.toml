@@ -4,8 +4,8 @@ side = "both"
 
 [download]
 url = "https://cdn.modrinth.com/data/ec8pCAs1/versions/1yeUpyLd/Initially-1.21-6.0.0.jar"
-hash-format = "sha256"
-hash = "8675dd2bad9a5460ccb79fc216e56f1991717865f15b78e664b51054c4581325"
+hash-format = "sha512"
+hash = "511a662a06c6babdf1447611ca09ba316908d2da624f611fd2c57492cf27ccdfc0a299e9b37f27ae3371bddb118f2041c824db112ee41ff53b5a27174e0a8c50"
 
 [update]
 [update.modrinth]

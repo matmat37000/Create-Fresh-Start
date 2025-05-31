@@ -4,8 +4,8 @@ side = "both"
 
 [download]
 url = "https://cdn.modrinth.com/data/wTfH1dkt/versions/irDDAjfS/better-boat-movement-2.2.6-1.21%2Bneoforge.jar"
-hash-format = "sha256"
-hash = "b1cb87a91e5f41bc26cca74cde10ed20a67f88fd4c1da21fe14c7dfa15856e36"
+hash-format = "sha512"
+hash = "b7c5feff3dd36545c0510046054562552d8eb45ed3c9a02278a7d262f93cea51805c5b10a2103d223c44a1ceba094018b51666cbdb677395942f19a5aba9a95e"
 
 [update]
 [update.modrinth]

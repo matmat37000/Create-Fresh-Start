@@ -4,8 +4,8 @@ side = "client"
 
 [download]
 url = "https://cdn.modrinth.com/data/sbpqhzIG/versions/brgIaAS3/better_modlist-1.1.18.jar"
-hash-format = "sha256"
-hash = "3759716bb49d45b3d6810692135f9a4479e4e9f02a595bdb89c9e96641e1aa58"
+hash-format = "sha512"
+hash = "1a42e9f09727ed565e41892165a5015bcd101191ab4133e35ed1e321fa9ba604a99994a93dea6dc5455c949ad4cff039045931a713caa8c6bb95f021fde806c7"
 
 [update]
 [update.modrinth]

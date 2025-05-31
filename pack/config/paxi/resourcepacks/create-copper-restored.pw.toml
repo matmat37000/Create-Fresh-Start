@@ -4,8 +4,8 @@ side = "client"
 
 [download]
 url = "https://cdn.modrinth.com/data/R5O4OTVj/versions/Oh4uZNp6/Create%20Copper%20Restored%201.1.zip"
-hash-format = "sha256"
-hash = "a0e69c1180ed3df319c43b1520fbe6722aa5fa4d27a19fb74514066054bea59b"
+hash-format = "sha512"
+hash = "90a37d2b03dd508d1611b45d39804a6359eb8223b00544dc647c232a559b4d234fbda8d2749356039a5e589f1aa88c89934b0e0951f2ad5ae8ef0b338d0d2fa2"
 
 [update]
 [update.modrinth]

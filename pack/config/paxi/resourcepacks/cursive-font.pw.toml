@@ -4,8 +4,8 @@ side = "client"
 
 [download]
 url = "https://cdn.modrinth.com/data/Jua9AM1l/versions/rQdachAg/Cursive%20Font.zip"
-hash-format = "sha256"
-hash = "99527836874c72eb6aa23e6dcbbcdc4920524e5690576074fefe5986df4c86fb"
+hash-format = "sha512"
+hash = "d1a3586ae91e7900d056f4dce84a62bdb423227d40229b9747ba6264d5eb3b4c950282e3fae57a8a4e215e31c348cdcad80ad980cf03f78ea9dfdb6198d25924"
 
 [update]
 [update.modrinth]
