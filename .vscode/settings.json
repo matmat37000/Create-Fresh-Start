@@ -1,0 +1,5 @@
+{
+    "yaml.schemas": {
+        "https://raw.githubusercontent.com/usecannon/cannon/main/packages/lsp/src/schema.json": "file:///run/user/1000/gvfs/sftp%3Ahost%3D192.168.1.69%2Cport%3D2022/config/create-server.toml"
+    }
+}
