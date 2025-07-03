@@ -3312,11 +3312,6 @@ hash = "41687cb0509f3601bfc6f40fc16196511a3b853cd6dadb520024ef9a07196a80"
 metafile = true
 
 [[files]]
-file = "mods/copycats.pw.toml"
-hash = "bf463928645c586cb57a4e02533ee300af3931cf9db9233dae7efc1826643d41"
-metafile = true
-
-[[files]]
 file = "mods/create-compressed.pw.toml"
 hash = "a946542ae4970e35a3f721b16872d2c66e62235778eb640c4102c1faaa008b3e"
 metafile = true
