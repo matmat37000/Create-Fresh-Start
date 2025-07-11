@@ -3,11 +3,11 @@ filename = "tide-neoforge-1.21-1.6.0.jar"
 side = "both"
 
 [download]
-url = "https://cdn.modrinth.com/data/die1AF7i/versions/EnuyW6h6/tide-neoforge-1.21-1.6.0.jar"
+url = "https://cdn.modrinth.com/data/die1AF7i/versions/kIDzypao/tide-neoforge-1.21-1.6.2.jar"
 hash-format = "sha512"
-hash = "b440f00587ec35d203a34e60b1657369a03660122ca7626222e29dc263e9d8527486b960a6afd24a18c7bec66ab3aefcdc96c88c3e59cc0d976d6441846696e1"
+hash = "fa8c37d97215d0470d031b550da5cde4e22d55000ad4c5ac6b9ba9fddb6d3d8cc923eabdcd8725ae9333a86e59480d65efc8385c851778da64cab8f7a82c6623"
 
 [update]
 [update.modrinth]
 mod-id = "die1AF7i"
-version = "EnuyW6h6"
+version = "kIDzypao"
