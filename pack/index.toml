@@ -34,7 +34,7 @@ hash = "42915f9f07c667dad055efc9961260fb7e0ae1daa05fa746e53be898ac653704"
 
 [[files]]
 file = "config/bcc-common.toml"
-hash = "a9991e3ae8924e0e22baa4b415707aebd53834547259ff5a9f757ffe94a30da7"
+hash = "d81f3209bfaa95e8bea6ff3348faa5a091713ea8bc6e80800d1c5e6a853bff3e"
 
 [[files]]
 file = "config/betterclouds-v1.json"
@@ -3123,11 +3123,6 @@ metafile = true
 [[files]]
 file = "mods/better-advancements.pw.toml"
 hash = "93c4acd165a291c6d1e69c27b05b2747afc926b38a414712263fbc95f42da323"
-metafile = true
-
-[[files]]
-file = "mods/better-boat-movement.pw.toml"
-hash = "621eb871eee3821acaa6b31f8eb79905660c92f94c065d86caf82446e682a80b"
 metafile = true
 
 [[files]]
