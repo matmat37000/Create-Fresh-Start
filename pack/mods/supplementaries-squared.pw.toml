@@ -4,8 +4,8 @@ side = "both"
 
 [download]
 url = "https://cdn.modrinth.com/data/dCCkNFwE/versions/EaRtlzLh/suppsquared-1.21-1.2.8-neoforge.jar"
-hash-format = "sha512"
-hash = "1d392837f7befaa31a0e61d45946865b25cc2777f85bc3dcaefe1c42c8a1b8b03ab9d8c3655d1b34aeb49bba191e584844ccd36c54de1e4a2d4e0d7056be5b84"
+hash-format = "sha256"
+hash = "accdb05cff866b4490471c6f4c96e141ba799c93e4aba94e8be7bb974c7100c9"
 
 [update]
 [update.modrinth]

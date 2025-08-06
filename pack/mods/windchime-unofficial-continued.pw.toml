@@ -4,8 +4,8 @@ side = "both"
 
 [download]
 url = "https://cdn.modrinth.com/data/WCrhl0ep/versions/gQyydkIf/windchimes-1.3.5-1.21.1.jar"
-hash-format = "sha512"
-hash = "e19652cf7bbb677604f9dbf4ea9e45c8739b169d310bdf96efefdcda5989209cd4e8d061480f4c9757d7da50469bbfe60668764cd69c7049bbbb205798ef6dd6"
+hash-format = "sha256"
+hash = "f1f265652df1980800b411f212ec384b0920e731a4e4295e3cdc530a447050f1"
 
 [update]
 [update.modrinth]

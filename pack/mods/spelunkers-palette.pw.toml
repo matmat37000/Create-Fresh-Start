@@ -4,8 +4,8 @@ side = "both"
 
 [download]
 url = "https://cdn.modrinth.com/data/OWNJpWZE/versions/6rvyVhS7/spelunkers_palette-1.0.1-neoforge-1.21.1.jar"
-hash-format = "sha512"
-hash = "c76241bdfedf3d07c6589b5d0d62b462dc3b9452fd11cc470c52a1a9e4800d2f3fe479d4cc88d71a749b5ab1d63078ffd085b6d6e1b4a792ee8997826aa83d45"
+hash-format = "sha256"
+hash = "0fea20b2534bc4b1b2a0632803dd88ab405d879f1e79dc4b2852ae6069970935"
 
 [update]
 [update.modrinth]

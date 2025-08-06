@@ -4,8 +4,8 @@ side = "client"
 
 [download]
 url = "https://cdn.modrinth.com/data/itzZXRxq/versions/4FkBKjVR/vistas-2.7.0.jar"
-hash-format = "sha512"
-hash = "f1db918de54a1b0731a3d39431f4008b1d2b9b611f42b91c8eb9574823598bb9a05a208e0ad9cecc2704290f75b5f99b4ca1800a1a7f5b0d9cf7cc9d5ac845a1"
+hash-format = "sha256"
+hash = "d17c35017e03ad1a90f7b25f2404123b0b52df02ed604a6f65b619daca245dfe"
 
 [update]
 [update.modrinth]

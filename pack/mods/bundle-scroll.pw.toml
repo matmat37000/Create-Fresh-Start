@@ -4,8 +4,8 @@ side = "client"
 
 [download]
 url = "https://cdn.modrinth.com/data/fJKsphvU/versions/kPuGLH88/bundlescroll-1.1%2B1.21.jar"
-hash-format = "sha512"
-hash = "5ab49752f2546fdc7133dc445dd5a19a6beee4b7ac2ac6ef5bd84b86f1817535c9e854c989422ac2d0bd22931694c83b4ee50ea9dba4190a3e88ec09088e93ea"
+hash-format = "sha256"
+hash = "5804916d511625b47bdc9284a4e1652187188903514e2092ab6109550669b2be"
 
 [update]
 [update.modrinth]

@@ -4,8 +4,8 @@ side = "both"
 
 [download]
 url = "https://cdn.modrinth.com/data/CHELG1WR/versions/BadNYiDK/extra_dungeons-1.0.5-neoforge-1.21.1.jar"
-hash-format = "sha512"
-hash = "ee1263a28fea73396f48266b8ec0aeffaa53c957d8f9ae28da22e15a3b2cd14bdc6001289c22b5262cbfd21e7cece87f2ded16d4092344024cf48da154d3991a"
+hash-format = "sha256"
+hash = "5d0be914daba4620549ea4734aedff2e23047250a55d1735160fd19fa461f3dc"
 
 [update]
 [update.modrinth]

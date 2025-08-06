@@ -4,8 +4,8 @@ side = "both"
 
 [download]
 url = "https://cdn.modrinth.com/data/die1AF7i/versions/kIDzypao/tide-neoforge-1.21-1.6.2.jar"
-hash-format = "sha512"
-hash = "fa8c37d97215d0470d031b550da5cde4e22d55000ad4c5ac6b9ba9fddb6d3d8cc923eabdcd8725ae9333a86e59480d65efc8385c851778da64cab8f7a82c6623"
+hash-format = "sha256"
+hash = "6129ec232af8a5e5efd2a9e63acafbbb72de6aa6139e8ffe0f498b4269a79302"
 
 [update]
 [update.modrinth]

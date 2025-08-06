@@ -4,8 +4,8 @@ side = "both"
 
 [download]
 url = "https://cdn.modrinth.com/data/66emo7X3/versions/rYPQY7K9/coordinatedcompass-1.2.1.jar"
-hash-format = "sha512"
-hash = "50422b8a88dacb149e188a6b0dfe5fc5fcc4e048e785bd338089a88a2d2978f9427879269ec036fb4887f41f0a841869c36c46633a6cb0fcb51b8dfe0de53326"
+hash-format = "sha256"
+hash = "4f008cb4253a380d45edfefd9c169ce52704def7d47ccbb10d19e35829d03fce"
 
 [update]
 [update.modrinth]

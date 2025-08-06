@@ -4,8 +4,8 @@ side = "client"
 
 [download]
 url = "https://cdn.modrinth.com/data/TM6bvxX6/versions/Ne7gzPhG/white%20outline%20shader.zip"
-hash-format = "sha512"
-hash = "b60e34552c15dbd3aa36aaed0be24ee4030855126e5f2b0c831fd5e95b4427caa8c2d0fdff1d072130e351290406c78468126803d3c3b3950a5a0c338561920f"
+hash-format = "sha256"
+hash = "6a06910debfdb9616466115f30102c12572ba3227696e3162527c8a57e2da6e4"
 
 [update]
 [update.modrinth]

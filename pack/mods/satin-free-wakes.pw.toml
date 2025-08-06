@@ -4,8 +4,8 @@ side = "client"
 
 [download]
 url = "https://cdn.modrinth.com/data/7y4lnTPk/versions/fEOpac97/wakes-0.2.2-1.21.jar"
-hash-format = "sha512"
-hash = "ee8ef11e457b5d9169d036fce4925734133bd23160f9ac4d4593bbbeb13c48563b1e1448e62994d08787a6fe77e5e5740108ccb5afbc59393a529a246fe6e720"
+hash-format = "sha256"
+hash = "d9a32b819d2052870b0ff091b93b9e79ab42cec96251d67935a3dca9bbbd9817"
 
 [update]
 [update.modrinth]

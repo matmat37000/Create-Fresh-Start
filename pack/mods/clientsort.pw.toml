@@ -4,8 +4,8 @@ side = "client"
 
 [download]
 url = "https://cdn.modrinth.com/data/K0AkAin6/versions/WJ9CypRq/clientsort-neoforge-2.0.0-beta.7%2B1.21.1.jar"
-hash-format = "sha512"
-hash = "3febadab62ac3f8203c59af58f92bad0c82c5d12b2c6ec7eed40b4e97a9c9b9d1920cb566d5cf4e0b328d616092dfd10c6f34124c3f23a77485f6ccb6386a2c3"
+hash-format = "sha256"
+hash = "8b66bfe3dfa5ae0ee039c4c57ac53eaf7a23b39e9205fc1093f70dd201f7d271"
 
 [update]
 [update.modrinth]

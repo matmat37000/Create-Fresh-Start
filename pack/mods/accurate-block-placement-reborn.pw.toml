@@ -4,8 +4,8 @@ side = "client"
 
 [download]
 url = "https://cdn.modrinth.com/data/kzwxhsjp/versions/KdkM4oOM/accurate-block-placement-1.3.6-mc1.20.5-1.21.1.jar"
-hash-format = "sha512"
-hash = "833ae90a5950824d10603e98eca51fc2f5d7b6d5a1309f5601960ca2d1a26fb7625dcab9a276ccd74ed82b6837097873bf110527d11da59c21116abc6bfa1727"
+hash-format = "sha256"
+hash = "a486bec604a4c952c00cb7dd12a30e8c30f82991f01982435e8392a55ede5e20"
 
 [update]
 [update.modrinth]

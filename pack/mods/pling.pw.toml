@@ -4,8 +4,8 @@ side = "client"
 
 [download]
 url = "https://cdn.modrinth.com/data/4bqq2uqn/versions/BOjivSpA/pling-1.8.1.jar"
-hash-format = "sha512"
-hash = "f008fa4b492d52bb5098dda1eb36281b436bcffa738b6f2e447900a9d7315aff01035860c4fb119b58a26a148b319d53978a096419203e2614ad88dd23dbf041"
+hash-format = "sha256"
+hash = "1ac22b4590962f651637ac49231821be343a9b43a287ceb3c232c1918eaa89f9"
 
 [update]
 [update.modrinth]

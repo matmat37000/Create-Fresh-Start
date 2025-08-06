@@ -4,8 +4,8 @@ side = "client"
 
 [download]
 url = "https://cdn.modrinth.com/data/IhZuHxkl/versions/CYizuwV6/Pretty%20Rain-1.21.1-NeoForge-1.1.4.jar"
-hash-format = "sha512"
-hash = "686d25d07f6ada4454d37a535d54a6f28efc252142d93e29b699ad7eb54f0499a7b8ba0fb7ee9e809445acd55abb937c646a24551c235b0689a9a4c131428140"
+hash-format = "sha256"
+hash = "389d32b1a214dbe9d215a0191c5bd78738c695492bb2e0be4c02a43c4aa8dd97"
 
 [update]
 [update.modrinth]

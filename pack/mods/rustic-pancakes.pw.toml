@@ -4,8 +4,8 @@ side = "both"
 
 [download]
 url = "https://cdn.modrinth.com/data/coJ1i4xo/versions/79ULcpbJ/rusticpancakes-neoforge-1.21-1.1.0.jar"
-hash-format = "sha512"
-hash = "2f12fadb1f1817e6c90e593c6bb2d1019646e770eb8275cf365f085e5edfed68c06ba0cf423cd110993d48814381f58568bbd8dc65033033b2d99f575341e60c"
+hash-format = "sha256"
+hash = "367a5f691d25240b6de0e7e3af6133ce75db6ca8daa998784a44eadddf94d8c7"
 
 [update]
 [update.modrinth]
