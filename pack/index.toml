@@ -3122,11 +3122,6 @@ hash = "93c4acd165a291c6d1e69c27b05b2747afc926b38a414712263fbc95f42da323"
 metafile = true
 
 [[files]]
-file = "mods/better-boat-movement.pw.toml"
-hash = "5d2de64e1107e3a8a8632574e603d3dad4a467f142b5e1ad06356a79f260a49a"
-metafile = true
-
-[[files]]
 file = "mods/better-climbing.pw.toml"
 hash = "edb72fd9bebbb8348d9a8e42a2ea5b505919b6a9a95db5e7d2e3493276083496"
 metafile = true
