@@ -4,8 +4,8 @@ side = "both"
 
 [download]
 url = "https://cdn.modrinth.com/data/28oSGRNC/versions/hlf37ej1/flyd-0.1.0.jar"
-hash-format = "sha256"
-hash = "8d05018c78b225ce0586784f315c3642c589890fa96721bc3765cb7dac3768f6"
+hash-format = "sha512"
+hash = "3de148eeefa37217e4f3f588daa768d7395a1c76d0b130f59d4c5de0f1ac2d2b6de59623922156301f84e4eda81fe263a2d62c77394aae11ce7621f73e33d0fe"
 
 [update]
 [update.modrinth]

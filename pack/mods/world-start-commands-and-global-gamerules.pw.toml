@@ -4,8 +4,8 @@ side = "both"
 
 [download]
 url = "https://cdn.modrinth.com/data/xShuFX3N/versions/WCEIwYmq/wscommands-2.0.0-neoforge-1.20.5%2B.jar"
-hash-format = "sha256"
-hash = "59f08f053bd9e33b353d2e753454523096c3b2107b856bce88b033a5b41846ae"
+hash-format = "sha512"
+hash = "ff1ced62bc2f34aac1dfff1127a2ad09880898b098b575769aa744e558a4684888a41bca2e9cfd7b9ca5519f88ae63eb7e78815971ead5efe640a6696972fe02"
 
 [update]
 [update.modrinth]

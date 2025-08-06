@@ -4,8 +4,8 @@ side = "both"
 
 [download]
 url = "https://cdn.modrinth.com/data/rmFH8I1v/versions/TFGMCLED/KryptonFoxified-0.1.0%2Bmc1.21.jar"
-hash-format = "sha256"
-hash = "0685ac93155dd1bbbffec077ab57cc7cbdb1d08c50e707fb0eb2c14633e85687"
+hash-format = "sha512"
+hash = "57f5252cdb730521fe2b28241b6250c73df3d8954af904661a35ca5ce6915425216e5db46519d0d2db6cd13c4a07bcf47c123b0746647e5173fdd322d681d5ab"
 
 [update]
 [update.modrinth]

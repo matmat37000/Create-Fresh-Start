@@ -4,8 +4,8 @@ side = "both"
 
 [download]
 url = "https://cdn.modrinth.com/data/3WjjSM5O/versions/5yOMqwTs/configuration-neoforge-1.21.1-3.1.0.jar"
-hash-format = "sha256"
-hash = "c5cde51eecd1741d22521c05f1f93fdc8b6ab7dfe19f0988d65e0e73d5044e34"
+hash-format = "sha512"
+hash = "f58234a0b14186454956853f73dcbc03ce04d66d16c5d450487223e5778fc6f938044facfcb7bcba66cab069d69b7d948f76b7340267cfdb8689deceda57fdaa"
 
 [update]
 [update.modrinth]

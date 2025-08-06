@@ -4,8 +4,8 @@ side = "both"
 
 [download]
 url = "https://cdn.modrinth.com/data/o9BYIzF3/versions/KGPEGWPa/more_paths-0.1.0%2B1.21.1.jar"
-hash-format = "sha256"
-hash = "729808f00b53f4316439cdf75b13d9d12efa91ced25992ab8b1c775f3d555f91"
+hash-format = "sha512"
+hash = "4212514313325fec47ca163e71dd264b01a11259fada9f62ab5833aa49087d436dffbbd34bb535a3d32cb4e2b665adc1ae7c1e211dd0ffcb23aa1e45b7ba6b4c"
 
 [update]
 [update.modrinth]

@@ -4,8 +4,8 @@ side = "both"
 
 [download]
 url = "https://cdn.modrinth.com/data/gF3BGWvG/versions/yCdwske8/open-parties-and-claims-neoforge-1.21.1-0.24.2.jar"
-hash-format = "sha256"
-hash = "f51494ee740c40cb93261b1fb013e85f647d7ac7d286fd709e572d91f5542cc6"
+hash-format = "sha512"
+hash = "360d6db57810ba10e40882595eeafed108d58398009e63c0f1d11006423b2f76478dc172d09bc0880f14d59b724ac67480c4b1f7c24952b961e95ee4d3ee366e"
 
 [update]
 [update.modrinth]

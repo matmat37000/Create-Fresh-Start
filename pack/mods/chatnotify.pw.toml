@@ -4,8 +4,8 @@ side = "client"
 
 [download]
 url = "https://cdn.modrinth.com/data/Iudurxl8/versions/LFBcZtsm/chatnotify-neoforge-2.4.9%2B1.21.1.jar"
-hash-format = "sha256"
-hash = "5c6f4b81aa66b9a577285965d5d6060bd8984e7f824f58d412215fec4d63b52b"
+hash-format = "sha512"
+hash = "620a017c7473ca14fd5a9d7b6e18c730c410b4dfb64f7c43604a3f0b62ca114732268fb61cfee4835e2441c4ad4e761adde45004e00de7fc3b4d68a4fbc9a3ac"
 
 [update]
 [update.modrinth]
