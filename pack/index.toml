@@ -3652,11 +3652,6 @@ hash = "37b396f46138061fe62f310fce2081594f057d50df9545e6bab6ee1840232011"
 metafile = true
 
 [[files]]
-file = "mods/kotlin-for-forge.pw.toml"
-hash = "0a983d1515e1713d1a0ae7738091909101c368be2726a446e4ca29c62fe555c2"
-metafile = true
-
-[[files]]
 file = "mods/kotlin-lang-forge.pw.toml"
 hash = "b3d0d36935abffa90a76df3cd812a5e6a1a1e41edaaec8d51daf15046948370d"
 metafile = true
