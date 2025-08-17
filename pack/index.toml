@@ -3081,6 +3081,16 @@ hash = "ea336d25c3e21ef168aec20e1ea470c96949ad29632646ee8e8ab0d74b4bbfc9"
 metafile = true
 
 [[files]]
+file = "mods/armor-of-the-ages.pw.toml"
+hash = "4d4b349f556ca34115b94e8c320b81396d07463fc49629c6456948a79460051e"
+metafile = true
+
+[[files]]
+file = "mods/artifacts.pw.toml"
+hash = "a22428140ae8ade420e9708a85cff2bc1a67d31d085f7521e3b0d440cc6b95a7"
+metafile = true
+
+[[files]]
 file = "mods/attributefix.pw.toml"
 hash = "586341de7078015cea16ffaf8e2e198a16c43b306d70bc439a15ea0298f9d3cb"
 metafile = true
@@ -3426,6 +3436,11 @@ hash = "1d99ac75f92996ec9673e39c012a51dc4b05c48ef7bf672ccaf5e7464a1a3d13"
 metafile = true
 
 [[files]]
+file = "mods/dis-enchanting-table.pw.toml"
+hash = "d71851407e388787d67281a0564f357bd6384316fa1e4c1984ac6c549acba68d"
+metafile = true
+
+[[files]]
 file = "mods/dripsounds.pw.toml"
 hash = "55d8b05d23120a823f9c25322722c47e6d30f18ecafce32c295cbf55b8d55ce0"
 metafile = true
@@ -3751,6 +3766,11 @@ hash = "238b4a0a76d7c739e757554d234c0df2388f30df31fcdf45a53c6006272b55be"
 metafile = true
 
 [[files]]
+file = "mods/monolib.pw.toml"
+hash = "4a40f089ec8944d5290ac5bb43037170603bda41de2d5af56a56a737f8341755"
+metafile = true
+
+[[files]]
 file = "mods/moonlight.pw.toml"
 hash = "2bd1220d157ebe5c3a15a222840bc05739de0c797e1847e6a82ed41960a9f203"
 metafile = true
@@ -3803,6 +3823,11 @@ metafile = true
 [[files]]
 file = "mods/no-telemetry.pw.toml"
 hash = "ebd48452773a4b6b4b7dcedbfb71c8986ec97780fcce040542c8e8fd67f22c56"
+metafile = true
+
+[[files]]
+file = "mods/no-too-expensive.pw.toml"
+hash = "e8cecb21185c39942f3ecbddba42d8428892c9cbd1d05ede5cd3d32dd6aa4b88"
 metafile = true
 
 [[files]]
@@ -3946,6 +3971,11 @@ hash = "fe85eb7e13d32999eb376d154be220d82134c534a3f066fa263fb4af11535232"
 metafile = true
 
 [[files]]
+file = "mods/resourceful-lib.pw.toml"
+hash = "c0b066684294c33972d562e0cb08ea17b2d31bcf86cd1d6c63b8e968f0eac7a2"
+metafile = true
+
+[[files]]
 file = "mods/rustic-pancakes.pw.toml"
 hash = "e979182199e2fbb9f8a69b6ef988a4ba6dd7f30149f7f8ef8c56677f06043125"
 metafile = true
@@ -4031,6 +4061,11 @@ hash = "43a6c7daa5bc03db44b9c514c3f92ae6e398802d2fb8a9e9bd5b63168b4e4807"
 metafile = true
 
 [[files]]
+file = "mods/straw-statues.pw.toml"
+hash = "8a7cca23996635e2171cfdf4bef21c7674a979225011e2243b3ff09f168e88f6"
+metafile = true
+
+[[files]]
 file = "mods/structory.pw.toml"
 hash = "9c5ef39a8ae37a70e5a9c689e5978b3bbdb22429056756ad7a25247fd6d95952"
 metafile = true
@@ -4068,6 +4103,11 @@ metafile = true
 [[files]]
 file = "mods/text-formatting-everywhere.pw.toml"
 hash = "eb1009159e25cf85e6fe612bcde76e689593277444c4b55ce9426a6b5dadeef9"
+metafile = true
+
+[[files]]
+file = "mods/the-bumblezone.pw.toml"
+hash = "7234e0fba5e7c17c3c018a1876fbd0f0df45a703ce946f13583071b0fcaab11f"
 metafile = true
 
 [[files]]
@@ -4133,6 +4173,11 @@ metafile = true
 [[files]]
 file = "mods/voidfog.pw.toml"
 hash = "1d05550c9de425389906173c195e8acd6b97c45abea51ecc88bcd20fce7e6178"
+metafile = true
+
+[[files]]
+file = "mods/waystones.pw.toml"
+hash = "d22f84a9928003c087d33012a9ac8f9d6b2fcf87b2178344e7680221f659db02"
 metafile = true
 
 [[files]]

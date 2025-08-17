@@ -1,0 +1,13 @@
+name = "NOT Too expensive"
+filename = "no-too-expensive-0.1.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/7khP9DTN/versions/Mxu5nzMW/no-too-expensive-0.1.jar"
+hash-format = "sha512"
+hash = "8aaba864deaf9aeeea0f9f558472c5b21708deae17ef9b6c9cdc93417de5c9d3cdce0c95efead2e45406af84f54daed2ee01f4a1fb18f56120d192d36c823e4a"
+
+[update]
+[update.modrinth]
+mod-id = "7khP9DTN"
+version = "Mxu5nzMW"
