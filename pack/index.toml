@@ -4171,6 +4171,11 @@ hash = "fcc4e00f37493f6292af7fbef7be6ea27e1a0cb4185d010e17db67e4ac61da15"
 metafile = true
 
 [[files]]
+file = "mods/voice-chat-interaction.pw.toml"
+hash = "388ad48f4bd97f7391bfcedd485fe5faa2c6ecffd3369dd7d3cbf031b7b04551"
+metafile = true
+
+[[files]]
 file = "mods/voidfog.pw.toml"
 hash = "1d05550c9de425389906173c195e8acd6b97c45abea51ecc88bcd20fce7e6178"
 metafile = true
