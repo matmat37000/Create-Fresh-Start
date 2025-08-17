@@ -3436,11 +3436,6 @@ hash = "1d99ac75f92996ec9673e39c012a51dc4b05c48ef7bf672ccaf5e7464a1a3d13"
 metafile = true
 
 [[files]]
-file = "mods/dis-enchanting-table.pw.toml"
-hash = "d71851407e388787d67281a0564f357bd6384316fa1e4c1984ac6c549acba68d"
-metafile = true
-
-[[files]]
 file = "mods/dripsounds.pw.toml"
 hash = "55d8b05d23120a823f9c25322722c47e6d30f18ecafce32c295cbf55b8d55ce0"
 metafile = true
