@@ -3026,11 +3026,6 @@ hash = "62611a2b798035390a280b158563cfa590ab6f3465b77be46949839809dbe77f"
 metafile = true
 
 [[files]]
-file = "mods/ambiance.pw.toml"
-hash = "e2e60dc87a9dc6011df8c7d32019718e0b599ef99b9a4fbf3759a231fa7ffd36"
-metafile = true
-
-[[files]]
 file = "mods/ambient-environment.pw.toml"
 hash = "92a2077fb3d27df20550d579d14c43b1feaa605796b217efb7a9d4bdd727f3bf"
 metafile = true
@@ -3433,6 +3428,11 @@ metafile = true
 [[files]]
 file = "mods/default-options.pw.toml"
 hash = "1d99ac75f92996ec9673e39c012a51dc4b05c48ef7bf672ccaf5e7464a1a3d13"
+metafile = true
+
+[[files]]
+file = "mods/dis-enchanting-table.pw.toml"
+hash = "d71851407e388787d67281a0564f357bd6384316fa1e4c1984ac6c549acba68d"
 metafile = true
 
 [[files]]
