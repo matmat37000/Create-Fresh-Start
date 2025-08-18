@@ -3496,11 +3496,6 @@ hash = "db22718a1efaf2c691cf3bdddc61b0b06bedff7cb0722aa8b1bdf4f095d116cc"
 metafile = true
 
 [[files]]
-file = "mods/enhancedvisuals.pw.toml"
-hash = "12714cff9272258b911eec886d3d8bae35af49060e7a07c45ed20d69cd4ef535"
-metafile = true
-
-[[files]]
 file = "mods/entity-model-features.pw.toml"
 hash = "3a4e194e945214cc457178f48e65b9ab6a8201b6d15b9736cd673324b70b6edd"
 metafile = true
