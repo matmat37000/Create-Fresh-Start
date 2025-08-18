@@ -3341,8 +3341,8 @@ hash = "bf463928645c586cb57a4e02533ee300af3931cf9db9233dae7efc1826643d41"
 metafile = true
 
 [[files]]
-file = "mods/cosmetic-armor-revitalized-fabric.pw.toml"
-hash = "31e7d3fe7b55ec8611950b888cfb60954514b5062ef3b88487bdbaaef5093df4"
+file = "mods/cosmetic-armor-reworked.pw.toml"
+hash = "b65ee01fec17228645121952de6dec75053b0b4c59a8c8036d6fa7829819f3f9"
 metafile = true
 
 [[files]]
@@ -3481,6 +3481,11 @@ hash = "d3c9b48d7caa2ed964e5d1a4dab1da5655c63f0a7e4a59231c4369be7ffc30e1"
 metafile = true
 
 [[files]]
+file = "mods/enchantment-descriptions.pw.toml"
+hash = "0b380e24e46e328c362bda7cff892c5b0e471789ca8c429fd2a588eaf63b8712"
+metafile = true
+
+[[files]]
 file = "mods/end-villager-trader.pw.toml"
 hash = "712741c29da5627204d618afc5d53e5d03e5df4330c09052430a01c990cd0580"
 metafile = true
@@ -3488,6 +3493,11 @@ metafile = true
 [[files]]
 file = "mods/endrem.pw.toml"
 hash = "db22718a1efaf2c691cf3bdddc61b0b06bedff7cb0722aa8b1bdf4f095d116cc"
+metafile = true
+
+[[files]]
+file = "mods/enhancedvisuals.pw.toml"
+hash = "12714cff9272258b911eec886d3d8bae35af49060e7a07c45ed20d69cd4ef535"
 metafile = true
 
 [[files]]
@@ -3936,11 +3946,6 @@ hash = "12dbd202d2280fd3c56965172ed6039f7fa612a34bdb5a995c52e9110e50a9d0"
 metafile = true
 
 [[files]]
-file = "mods/raised.pw.toml"
-hash = "b219ea3c59e95aeae3077835eae94c22aace7fc1f125752717ad23d3c2438cf1"
-metafile = true
-
-[[files]]
 file = "mods/random-mob-sizes.pw.toml"
 hash = "c807ea002028531b058454b0a0f71d8f42afe0fcefa5e1651d425939c662c999"
 metafile = true
@@ -4022,12 +4027,12 @@ metafile = true
 
 [[files]]
 file = "mods/sophisticated-backpacks.pw.toml"
-hash = "b3386a793d998047dfcabc29f9e4db8a385416f1d80afd811f3ffc3d969ad814"
+hash = "14660e16e1e6197d7a5e3c1d8461387dee689b6e39a6caa5797ed2aacd460771"
 metafile = true
 
 [[files]]
 file = "mods/sophisticated-core.pw.toml"
-hash = "03f37a9dec16fa1e4cf2d2bba8d5602701e39f2e8d9249e28715d49f8c60acd6"
+hash = "ed6e4600ff8e9f76816792ee47d92a9f1b35da732164baf4151902f8650a151d"
 metafile = true
 
 [[files]]
