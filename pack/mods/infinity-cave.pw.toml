@@ -1,0 +1,13 @@
+name = "Infinity Cave"
+filename = "infinity_cave-0.7-NeoForge-1.21.1.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/DEq97NAA/versions/6XJT5mi4/infinity_cave-0.7-NeoForge-1.21.1.jar"
+hash-format = "sha512"
+hash = "e96cb77cf8fb3ff1fa6af7bd08a57e5cad017be3917b91b3ecec781d5886f7c137d84a3e4f3bb90d2d7500e9ff2d678663dea3060fa803e024a439a26a4125a3"
+
+[update]
+[update.modrinth]
+mod-id = "DEq97NAA"
+version = "6XJT5mi4"

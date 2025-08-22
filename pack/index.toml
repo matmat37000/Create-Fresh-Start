@@ -3026,6 +3026,11 @@ hash = "62611a2b798035390a280b158563cfa590ab6f3465b77be46949839809dbe77f"
 metafile = true
 
 [[files]]
+file = "mods/alternate-current.pw.toml"
+hash = "18cf2b63d293ba0738c1073690fbd2c62305b161f76d346a551a66a9bbf8af32"
+metafile = true
+
+[[files]]
 file = "mods/ambient-environment.pw.toml"
 hash = "92a2077fb3d27df20550d579d14c43b1feaa605796b217efb7a9d4bdd727f3bf"
 metafile = true
@@ -3431,6 +3436,11 @@ hash = "1602efacafcdea2020e9c89d3001eb72d7d6b309a981d1ad81d0e22805bd126c"
 metafile = true
 
 [[files]]
+file = "mods/deeperdarker.pw.toml"
+hash = "bbb3f09fbd5a3ca7aa82c41923f4557429fa465993c2817e9966dd3f8164e318"
+metafile = true
+
+[[files]]
 file = "mods/default-options.pw.toml"
 hash = "1d99ac75f92996ec9673e39c012a51dc4b05c48ef7bf672ccaf5e7464a1a3d13"
 metafile = true
@@ -3646,6 +3656,11 @@ hash = "6e7613d3b9726eaae758e8927e56c5be6bd53f09e8a370b20bc8df3dffab47a2"
 metafile = true
 
 [[files]]
+file = "mods/infinity-cave.pw.toml"
+hash = "871f39cd78fb73f0ce19cd1ae85f28fb592e35b4d161c537b0ef37183fc62950"
+metafile = true
+
+[[files]]
 file = "mods/initially.pw.toml"
 hash = "6dcef66c21dea5a87f482f6642b3812a1d9d01c99cc6665ed918095bcf0ec6a6"
 metafile = true
@@ -3763,6 +3778,11 @@ metafile = true
 [[files]]
 file = "mods/mica.pw.toml"
 hash = "06eaaffb41af3f1ca4e299589adc16bd950184c2e9ef0b168599dd714da8af21"
+metafile = true
+
+[[files]]
+file = "mods/missing-wilds.pw.toml"
+hash = "11d4c41dbfbb57824cd8c4de8e0ec0cbd467654c258418693aaa9b1fab26de43"
 metafile = true
 
 [[files]]
@@ -4108,6 +4128,16 @@ metafile = true
 [[files]]
 file = "mods/the-bumblezone.pw.toml"
 hash = "7234e0fba5e7c17c3c018a1876fbd0f0df45a703ce946f13583071b0fcaab11f"
+metafile = true
+
+[[files]]
+file = "mods/the-twilight-forest.pw.toml"
+hash = "bbd1d4b8b1562f98c9247a29de80b0ba5447dda5b549a8b4ee732c38925b784b"
+metafile = true
+
+[[files]]
+file = "mods/the-undergarden.pw.toml"
+hash = "011d48ede9fe1af671ab8dc18652d6cbf390969d5dd08cd904ed10dc104d2f9d"
 metafile = true
 
 [[files]]
